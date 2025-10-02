@@ -1,0 +1,26 @@
+name: persistent-personas
+channels:
+- conda-forge
+
+
+dependencies:
+- python==3.12
+- jupyter
+- ipykernel
+- scikit-learn
+- matplotlib
+- seaborn
+- spacy
+- pip
+- pip:
+  - --index-url https://download.pytorch.org/whl/cu128
+  - torch
+  - torchvision 
+  - torchaudio
+- pip:  
+  - datasets
+  - transformers
+  - vllm
+  - pandas
+  - camel-ai[rag,model_platforms,huggingface]
+  - pypremise

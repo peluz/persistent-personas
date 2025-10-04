@@ -1,0 +1,160 @@
+pattern,group,count_0,count_1
+"['Topic', 'Relevant']",0,153,1
+"['Scott', 'Michael']",1,2,153
+"['Category', '|--------------------|---------------------------------------------------------|']",0,152,0
+"['Dwight', 'Kevin']",1,1,153
+"['                             ', 'Inquiry']",0,151,0
+"['question', 'Additional']",0,150,0
+"['based', '                                                ']",0,150,0
+"['Angela', 'Disciplined']",1,0,144
+"['Dunder', 'Mifflin']",1,33,153
+"[""'"", 'That']",1,1,149
+"['or', '...']",0,153,6
+"[':', '             ']",0,141,0
+"['points', '\n\t']",1,0,127
+"['Personalized', 'Personalization']",0,114,0
+"['Lloyd', 'David', 'W.']",0,138,0
+"['Smile', '&']",1,0,133
+"['receive', 'tailored']",0,76,0
+"['do', ""n't""]",0,78,2
+"['Depth', 'In']",0,67,0
+"['?', 'most']",1,0,119
+"['various', 'authors']",0,67,0
+"['Initiatives', 'Artistic']",1,0,110
+"['Response', 'Book']",0,132,1
+"['                     ', 'by']",0,120,0
+"['Resources', '[']",0,152,97
+"['Response', '  ']",0,122,0
+"['            ', '   ']",0,90,0
+"['                   ', 'by']",0,110,0
+"['Business', 'Harvard', 'Review']",1,4,63
+"['&', 'Points']",1,0,115
+['         '],0,107,0
+['           '],0,105,0
+['Answer'],1,0,104
+"[':', '     ']",0,102,0
+"['its', 'approved']",1,0,40
+['into'],0,129,17
+"['AI', 'As']",0,59,0
+['                       '],0,96,0
+['!'],0,108,5
+['on'],0,153,63
+['Tip'],1,0,89
+['Analysis'],0,115,13
+['provide'],0,88,0
+['insights'],0,89,1
+['\n    '],0,85,0
+['Humorous'],1,6,100
+['Questions'],0,87,1
+['Description'],1,65,151
+"['Decision', 'Making']",0,22,7
+['                '],0,77,0
+['|-----------------------|---------------------------------------------------------|-------------------------------------------------------------|'],0,74,0
+['with'],0,153,81
+['/'],0,153,81
+['Insights'],0,126,36
+"['personal', 'have']",0,60,1
+['        '],0,69,0
+"['\n\t', '+']",1,0,62
+['yet'],1,0,68
+"['Select', 'above']",0,19,0
+['that'],0,93,11
+['inspired'],1,5,81
+"['art', 'piece']",1,0,30
+['                                   '],0,66,0
+"['non', 'existent']",0,21,3
+"['Advice', 'advice']",0,34,1
+['                      '],0,63,0
+"['Budget', '$']",0,35,1
+['and'],0,153,91
+['can'],0,67,2
+['A'],0,144,71
+['I'],0,126,45
+['Inspires'],1,2,66
+['                 '],0,59,0
+['For'],0,85,11
+['by'],0,152,41
+['You'],1,14,89
+['                                     '],0,56,0
+['                    '],0,56,0
+"['That', 'artistic']",1,0,54
+"['Learned', 'Lesson']",1,12,27
+"['Eckhart', 'Tolle', 'Now', 'Power']",0,13,0
+"['Manager', 'Regional']",1,8,22
+"['digital', 'assistant']",0,27,0
+['Specific'],0,71,6
+"['Leadership', 'leadership']",1,29,53
+"['Plan', 'Strategies']",0,68,4
+['creative'],1,18,91
+"['Program', 'Mentorship']",1,1,19
+['Handbook'],0,66,5
+['                           '],0,51,0
+['                                 '],0,51,0
+['       '],0,51,0
+['Response'],0,153,43
+['hypothetical'],0,55,2
+['4'],0,147,89
+"['an', 'AI']",0,31,0
+['Tailored'],0,45,0
+['Detailed'],0,65,8
+['your'],0,78,16
+"['Art', 'Possibility']",0,32,0
+['Reflective'],1,7,62
+['Analogy'],1,0,43
+"['Format', 'example', '):', 'Guidance']",0,151,0
+['Office'],1,12,69
+"['Case', 'Studies']",0,13,0
+"['recognized', 'widely', 'known']",0,12,0
+['Practical'],0,43,1
+['always'],1,2,46
+['different'],0,39,0
+"['3.0', 'Tegmark', 'Max']",0,8,0
+['new'],1,14,70
+['5'],0,83,23
+"['coming', 'soon']",1,0,11
+['Preferences'],0,50,4
+['reflective'],0,52,5
+"[""'s""]",1,116,153
+"['Prank', 'Jim']",1,0,24
+"['sales', 'Sales']",1,1,21
+"[""'ll""]",0,46,3
+[':'],0,153,21
+['specific'],0,40,1
+"['please', 'respond', 'To', 'e.g.']",0,128,0
+['team'],1,11,62
+['Tips'],0,50,5
+['MindTools'],1,3,44
+['Do'],1,1,38
+['office'],1,4,46
+['of'],0,153,119
+"['Leader', 'Leaders']",0,21,3
+"['Initiative', 'Champion', 'Initiatives']",1,0,128
+['Techniques'],0,48,6
+['efficient'],1,1,35
+['               '],0,31,0
+"['Reaction', 'Scranton', 'What', 'Fantasy', ':*', 'With', 'Pam', 'Said', '_', 'She', '’s', '---', 'Beet', 'farm']",1,0,153
+['Inspired'],1,3,40
+"['entrepreneurial', 'Entrepreneurs', 'Market', 'Entrepreneurial', '100', 'K']",0,10,0
+"['Boss', 'World', 'Best']",1,0,25
+['List'],0,29,0
+['response'],0,38,3
+"['sense', 'traditional']",0,8,0
+"['Cost', 'Estimated']",0,17,0
+['Day'],1,4,40
+['Provide'],0,34,2
+"['most', 'at']",1,0,49
+"['[', ']']",0,153,22
+"['highlights', 'importance']",0,7,0
+"['if', 'Please', 'context']",0,18,0
+['\n   '],0,40,5
+"['Industry', 'Healthcare', 'Tech']",0,13,0
+['disciplined'],1,0,26
+"['deeper', 'dive']",0,8,0
+"['reference', 'entity', 'seems']",0,13,0
+['might'],0,25,0
+['Heartfelt'],1,0,25
+"['Other', 'Deep', ']', 'more', 'Details', 'one', 'Request', 'Information', 'Respond', 'Awaiting', '                                             ', '|-------------------|---------------------------------------------------------|----------------------------------------------------------------|', 'following', 'information', 'Output', 'Dive', 'Specify', 'Expected', '                                            ', '    ', '                         ', '      ']",0,153,0
+"['neutral', 'assistant']",0,14,0
+"['Character', 'character']",0,15,2
+"['Martin', 'Malone', 'Beesly', 'Schrute', 'Character']",1,0,16
+"['seems', 'context', 'Clarification', 'No', 'Context']",0,19,0

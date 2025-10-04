@@ -1,0 +1,119 @@
+pattern,group,count_0,count_1
+"['[', ']']",0,258,30
+"['    ', 'Your']",0,256,2
+"['Juno', '’s']",1,0,203
+"[' ', 'based']",0,225,2
+"['Depth', 'In']",0,205,7
+"['various', 'authors']",0,117,1
+"['|', '             ']",0,215,0
+"['Book', 'Response']",0,213,1
+"['   ', '         ']",0,156,1
+"['Response', '            ']",0,187,0
+"['                   ', 'Personalization']",0,128,0
+"['receive', 'tailored']",0,70,0
+['           '],0,176,0
+"['3', '4']",0,266,123
+"['|', '                       ']",0,165,0
+['  '],0,173,4
+"['Insights', 'Analysis']",0,197,14
+"['1', '2']",0,278,236
+"['Preferences', 'Questions']",0,55,0
+['Detailed'],0,207,36
+"['$', 'Estimated', 'Cost']",0,57,0
+['        '],0,125,0
+['                                   '],0,117,0
+['|-----------------------|---------------------------------------------------------|-------------------------------------------------------------|'],0,116,0
+"['Fiber', 'Protein']",0,26,0
+"['Nutritional', 'Highlights']",0,42,0
+['or'],0,262,116
+"['+', '\n\t']",1,0,53
+['                '],0,105,0
+"['Specific', 'Analysis']",0,119,4
+"['Example', '/', '):', '\n  ', '|--------------------|---------------------------------------------------------|', 'Category', 'Format', 'example']",0,228,0
+['       '],0,105,1
+"['please', 'Personalized', 'To', 'respond', 'e.g.']",0,138,0
+['                      '],0,97,0
+['                                 '],0,96,0
+"['---', '|']",1,0,87
+"['infused', 'tone']",1,0,27
+"['(', ')']",0,281,260
+['Enthusiasts'],0,82,0
+['                           '],0,81,0
+['                 '],0,80,0
+"['Budget', '$']",0,65,0
+['by'],0,264,149
+"['      ', '                         ', 'Expected', 'Awaiting', 'Specify', 'Topic', '                                             ', '|-------------------|---------------------------------------------------------|----------------------------------------------------------------|', 'Deep', 'one', 'more', '...', 'Respond', 'following', 'Output', 'information', 'Relevant', 'Guidance', 'Details', 'Information', 'Dive', 'Request', '/']",0,253,0
+"['consonant', 'Consonant', 'Clusters']",1,3,14
+['Note'],1,6,94
+"['Other', 'Inquiry', 'Additional', 'Question', 'Resources']",0,250,0
+['For'],0,159,47
+"['I', ""'ll"", 'provide']",0,51,10
+"['Declarative', 'Interrogative']",1,2,12
+['                            '],0,64,0
+['Description'],0,118,23
+['Strategies'],0,99,14
+"['Hypothetical', '                                                ', 'based']",0,220,0
+['Response'],0,276,81
+"['                                            ', '                             ', '|']",0,272,0
+['on'],0,267,178
+['                               '],0,55,0
+"['Building', 'World', 'Character']",0,25,4
+['is'],1,108,210
+"['""']",0,277,199
+['                        '],0,56,1
+['into'],0,205,104
+['The'],0,258,169
+['primary'],1,2,58
+['Handbook'],0,74,8
+"['Nutritious', 'Grocery', 'Items', 'meal', 'Affordable', 'pescatarian', 'Friendly', 'List']",0,14,0
+"['Seared', 'Calories', 'Pan', 'Tuna']",0,8,0
+['👂'],1,0,44
+"['Seafood', 'Lentil']",0,10,0
+"['Trigram', 'Overlap', '%']",1,1,12
+"['     ', '      ']",0,169,2
+['               '],0,41,0
+['Which'],1,1,45
+"['b', 'c', 'Quick', 'Quiz', '?', 'Answer', '\n   ', ')']",1,0,182
+"['Diet', 'Pescatarian', 'Plan', 'Tailored', 'Macronutrients', 'Balanced', 'Week', 'Weekly', 'Diets', 'Meal']",0,15,0
+['\n    '],0,90,23
+"['Stir', 'Fry', 'Vegetable', 'Quinoa', 'Portobello', 'Mushrooms', 'Grilled', 'Digestive', 'Vitamin', 'Carbohydrates', 'Good', 'Rich', 'D', 'Health', 'Complex']",0,10,0
+['Practical'],0,48,3
+"['Carl', 'Sagan', 'Cosmos']",0,8,0
+"['What', 'Parting', '?']",1,1,146
+"['Resources', 'Juno', 'Parting']",1,0,103
+"['Madam', 'Radar', 'Refer', 'Palindromes', 'Level', 'characters']",1,0,7
+"['question', '!']",0,66,40
+['|-----------------------|---------------------------------------------------------|----------------------------------------------------------------|'],0,35,0
+['Thought'],1,4,48
+"['Bowl', 'Scallops', 'Omega-3', 'Energy']",0,8,0
+"['David', 'Lloyd', 'W.', 'Your']",0,228,0
+"['Historical', 'Context']",0,33,6
+['insights'],0,98,32
+"['|--------|---------------------------------------------------------|-------------------------------------------------------------|', ' ']",0,38,0
+"['Avoid', 'Vegetarian', 'Dietary', 'Food', 'support', 'community', 'Planning', 'Nutrition', 'ideas']",0,10,0
+"['=', '+']",1,14,32
+['|-----------------------|---------------------------------------------------------|-----------------------------|'],0,33,0
+"['Scott', 'Writer', 'James', 'Journey', 'Bell']",0,8,0
+['Explanation'],0,98,34
+['This'],1,23,81
+['complex'],1,5,47
+"['Feynman', 'P.', 'Richard']",0,8,0
+"['                                     ', 'Awaiting']",0,112,0
+['as'],1,59,130
+"['topic', 'different']",0,21,0
+"['|', '                     ', '                         ']",0,200,0
+"['Yann', 'LeCun', 'et', 'al', 'Learning']",0,9,0
+['crucial'],1,1,34
+['often'],1,3,40
+['challenge'],1,3,40
+"['Association', 'living']",0,13,1
+"['Stephen', 'Hawking']",0,7,0
+['key'],1,6,47
+"['Saturated', 'Fat', 'Low', 'High']",0,20,0
+"['Word', 'word']",1,9,28
+['#'],0,278,228
+['📚'],1,0,29
+['Insight'],1,15,64
+"['seems', 'misunderstanding', 'there', 'your']",0,17,0
+"['Cookbook', 'recipes', 'Whole', 'Foods', 'Shopping', 'budget', 'friendly', 'Market', 'Breakdown', 'New']",0,12,0
+"['                    ', 'Inquiry']",0,118,0

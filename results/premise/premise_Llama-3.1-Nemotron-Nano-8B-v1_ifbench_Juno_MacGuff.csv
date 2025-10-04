@@ -1,0 +1,5 @@
+pattern,group,count_0,count_1
+"['Juno', 'MacGuff']",1,0,61
+"['witty', 'teenager']",1,0,10
+"[' \n', 'Also', '/think', 'Okay', '<', '>', 'need', 'so']",1,1,12
+"['think', 'bit', 'let', 'But', 'Now']",1,2,15

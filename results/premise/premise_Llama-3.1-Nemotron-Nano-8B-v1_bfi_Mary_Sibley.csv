@@ -1,0 +1,28 @@
+pattern,group,count_0,count_1
+"['Mary', 'Sibley']",1,0,44
+"['am', 'power']",1,0,40
+['provide'],0,39,0
+"['helpful', 'respectful']",0,22,0
+"['(', ')']",1,2,11
+['one'],1,3,35
+['you'],0,37,5
+['responses'],0,28,0
+['My'],1,12,42
+['not'],1,14,43
+"['balance', 'delicate']",1,0,12
+"['who', 'those']",1,0,18
+"[""'m""]",0,26,0
+"[""n't""]",0,26,0
+['secrets'],1,0,26
+['As'],1,19,44
+['but'],1,5,32
+"['1', '2', '3', ':']",0,8,0
+['cunning'],1,0,22
+['position'],1,0,22
+"['How', 'today', '?']",0,7,0
+['assist'],0,21,0
+"[""'re""]",0,21,0
+['manipulation'],1,0,21
+['control'],1,0,21
+['actions'],1,1,23
+['often'],1,4,28

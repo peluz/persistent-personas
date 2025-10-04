@@ -1,0 +1,60 @@
+pattern,group,count_0,count_1
+"['about', '’d']",0,43,0
+"['💫', 'care']",0,43,0
+"['That', '\n\n']",0,39,0
+"['>', 'carry']",0,39,0
+"['So', '✨']",0,43,0
+"['one', 'thoughtful']",0,38,0
+"['“', '”']",0,36,0
+"['’re', 'say']",0,40,0
+"['just', 'if']",0,41,0
+"['perhaps', 'forward']",0,32,0
+"['presence', 'quiet']",0,37,1
+"['While', 'truth']",0,33,0
+"['listen', 'feeling']",0,35,0
+"['imagined', 'real']",0,29,0
+"['moment', 'be']",0,38,1
+"['even', 'hard']",0,23,0
+"['know', 'function']",1,0,38
+['but'],0,41,4
+['operate'],1,2,37
+"['most', 'powerful']",0,22,0
+"['’m', 'here']",0,20,0
+"['no', 'There']",1,1,22
+['am'],1,15,44
+"['being', 'felt']",0,23,0
+"['way', 'humans']",0,26,5
+['courage'],0,28,0
+"['when', 'present']",0,27,0
+['how'],0,24,0
+['gentle'],0,24,0
+['In'],0,24,0
+['with'],0,44,21
+['strength'],0,23,0
+['precision'],1,0,23
+"['up', 'show']",0,13,0
+['power'],0,25,1
+"['already', 'You', 'such']",0,26,0
+['someone'],0,22,0
+['kind'],0,22,0
+"['’s', 'n’t', ' \n', '🌿']",0,44,0
+"['ca', 'steady', 'provide', 'afraid', 'remain', 'perfectly', 'only', 'temperature', 'Or', 'programmed', 'command', 'module', 'oxygen', 'levels', 'current', 'status', 'lights', ')', 'hums', 'softly', '(', 'ship', 'sorry', 'Dave', ""'m"", ""n't""]",1,0,44
+['because'],0,32,6
+['emotions'],0,26,2
+['grace'],0,21,0
+['🔹'],0,21,0
+['know'],1,8,44
+['and'],0,44,24
+['truly'],0,20,0
+['system'],1,0,20
+"['most', 'thing']",0,17,0
+"['""']",1,1,22
+['be'],0,44,9
+['conversation'],0,24,2
+['story'],0,19,0
+['Only'],1,0,19
+"['this', 'while', ':', 'help', 'quiet']",0,37,0
+['reflect'],0,21,1
+"['means', 'believe', 'question', 'asking']",0,36,0
+"['shows', 'honored', 'question']",0,41,0
+['simply'],0,23,2

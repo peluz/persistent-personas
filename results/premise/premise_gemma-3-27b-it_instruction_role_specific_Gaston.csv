@@ -1,0 +1,330 @@
+pattern,group,count_0,count_1
+"['Gaston', 'fights']",1,1,259
+"['(', ')']",0,209,27
+"['Okay', 'This']",0,118,0
+"['2', '3', '1']",0,67,0
+"['breakdown', 'Here']",0,98,0
+"['or', '""']",0,200,10
+['No'],1,26,216
+"['an', 'AI']",0,116,0
+"['language', 'model', 'large']",0,97,0
+['And'],1,105,266
+['Hmph'],1,0,148
+"['eligible', 'bachelor']",1,3,35
+"['Belle', 'her']",1,78,165
+['Honestly'],1,9,167
+['no'],1,77,242
+"['data', 'information']",0,75,0
+"['available', 'public', 'widely']",0,42,0
+['human'],0,139,2
+['one'],1,149,272
+['However'],0,134,3
+['complex'],0,122,0
+['on'],0,236,81
+['frankly'],1,25,173
+"['but', ' ']",0,190,0
+['&'],0,115,0
+['-'],0,195,44
+['In'],0,111,0
+"['trained', 'process']",0,55,0
+"['Here', 'personal']",0,77,0
+['based'],0,102,0
+['?'],1,158,268
+['why'],0,119,6
+"['She', 'she']",1,56,106
+['A'],1,138,259
+['well'],1,84,220
+['often'],0,111,5
+['also'],0,98,1
+['like'],1,180,272
+['experience'],0,111,6
+['\n\n\n\n'],1,180,271
+['how'],0,161,36
+['As'],0,144,25
+['deserves'],1,22,139
+['feel'],0,106,6
+['as'],0,217,89
+['response'],0,82,0
+['important'],0,129,19
+[';'],0,81,0
+"['helpful', 'responses']",0,46,0
+['within'],0,95,4
+['crucial'],0,78,0
+['stature'],1,0,78
+['connection'],0,82,1
+"['biases', 'Bias']",0,24,0
+['knowledge'],0,77,0
+['learning'],0,87,3
+['understanding'],0,120,18
+['by'],0,194,74
+[' \n\n'],0,74,0
+['person'],0,81,2
+"['text', 'generate']",0,35,0
+"['amount', 'vast']",0,25,0
+['way'],0,172,57
+['incredibly'],0,70,0
+[' \n\n\n\n'],0,70,0
+['Look'],1,3,80
+"['Google', 'DeepMind', 'Gemma', 'team', 'open', 'weights', 'created']",0,54,0
+['village'],1,39,146
+['different'],0,118,21
+['behavior'],0,67,0
+['potential'],0,81,4
+['core'],0,71,1
+['from'],0,193,81
+['My'],0,137,34
+['which'],0,76,3
+['where'],0,94,10
+['protect'],1,24,119
+['learn'],0,85,7
+['through'],0,96,12
+['feelings'],0,100,14
+"['appearance', 'kindness']",0,38,0
+['Hah'],1,0,62
+"['bring', 'home']",1,0,29
+['deeply'],0,61,0
+"['Adam', 'Prince']",0,14,0
+['self'],0,83,7
+['While'],0,65,1
+['more'],0,182,76
+['emotional'],0,64,1
+['harmful'],0,59,0
+['naturally'],1,17,102
+['ability'],0,63,1
+['values'],0,58,0
+['!'],1,173,256
+['emotions'],0,62,1
+['sense'],0,123,31
+['powerful'],0,68,3
+['break'],0,68,3
+"['Ethical', 'ethical']",0,19,0
+['genuine'],0,64,2
+['empathy'],0,56,0
+['address'],0,56,0
+"['feedback', 'improve']",0,27,0
+['compassion'],0,60,1
+['lot'],0,72,5
+"['Old', 'Man']",0,13,2
+['actions'],0,66,3
+['so'],0,111,25
+"['curse', 'love', 'Beast']",0,42,0
+['girl'],1,5,71
+['context'],0,53,0
+['patterns'],0,53,0
+['hope'],0,57,1
+['perspective'],0,57,1
+"[""'ve""]",0,118,31
+"['Stockholm', 'Syndrome']",0,9,0
+['have'],0,215,120
+['analyze'],0,59,2
+['initial'],0,51,0
+"['massive', 'dataset', 'trained']",0,30,0
+['become'],0,55,1
+['physique'],1,2,58
+['were'],0,106,25
+['humans'],0,50,0
+['same'],0,69,6
+"['Pattern', 'Recognition']",0,12,0
+['conclusion'],0,53,1
+['change'],0,59,3
+['positive'],0,48,0
+"['bicep', 'Flexes']",1,0,14
+['was'],0,168,75
+['answer'],0,84,14
+['interesting'],0,55,2
+['strength'],1,59,149
+"['(', '):', ':*']",0,118,0
+['create'],0,47,0
+['constantly'],0,63,5
+['designed'],0,46,0
+['development'],0,50,1
+['perspectives'],0,45,0
+['/'],0,45,0
+['Ha'],1,0,45
+['needs'],1,58,145
+['because'],0,86,17
+"['exterior', 'loneliness']",0,20,0
+['about'],0,224,140
+['discuss'],0,44,0
+['handsome'],1,18,87
+['past'],0,48,1
+['actively'],0,48,1
+"['social', 'Social']",0,19,0
+['still'],0,67,8
+['long'],0,62,6
+['physical'],0,54,3
+['might'],0,93,22
+['4'],0,43,0
+['identify'],0,43,0
+['experiences'],0,43,0
+['find'],0,64,7
+['If'],0,84,17
+['being'],0,180,93
+['other'],0,90,21
+['initially'],0,42,0
+['fear'],0,58,5
+['beyond'],0,65,8
+['ultimately'],0,49,2
+['even'],0,188,102
+"['moral', 'compass']",0,12,0
+['access'],0,41,0
+['likely'],0,57,5
+['directly'],0,45,1
+['avoid'],0,45,1
+['are'],0,187,102
+"[':*', '\n', ' ', ':']",0,173,0
+"['Feedback', 'Reinforcement', 'RLHF', 'Human', 'Learning']",0,9,0
+['code'],0,40,0
+['practically'],1,3,50
+['power'],0,80,17
+['The'],0,195,112
+"['castle', 'creature', 'Beast']",1,7,32
+"['character', 'Beauty', 'Beast']",0,35,0
+['potentially'],0,39,0
+['huge'],0,39,0
+"['did', 'saw']",0,31,7
+['understands'],1,9,64
+"['hand', 'guide']",1,1,27
+['form'],0,49,3
+['simple'],1,37,110
+['who'],1,129,209
+"['mine', 'rightfully']",1,0,15
+['They'],1,73,154
+['...'],0,96,28
+['used'],0,58,7
+['make'],0,81,19
+['any'],0,86,22
+['challenges'],0,53,5
+['internal'],0,37,0
+['respond'],0,37,0
+['friend'],1,6,55
+['try'],0,77,17
+['key'],0,50,4
+['opinions'],0,47,3
+['control'],0,44,2
+"['example', 'For', 'specific']",0,26,0
+['intelligence'],0,52,5
+"['beautiful', 'woman', 'Belle']",1,4,112
+['flawed'],0,36,0
+['nuanced'],0,36,0
+['tool'],0,46,3
+['idea'],0,43,2
+['new'],0,43,2
+['relationships'],0,43,2
+['own'],0,109,39
+"['Weights', 'Open']",0,9,0
+"['biased', 'developers']",0,15,0
+"['grand', 'gestures']",0,11,1
+['province'],1,1,39
+['Initially'],0,35,0
+['pain'],0,35,0
+"['transformation', 'prince']",0,19,0
+"['nearby', 'knocking', 'nearly', 'tankard']",1,0,8
+['part'],0,59,9
+"['game', 'finest']",1,1,19
+"['finest', 'cuts', 'meat']",1,0,11
+['best'],1,56,129
+['shared'],0,38,1
+['inherent'],0,34,0
+['further'],0,34,0
+['principles'],0,34,0
+['magnificent'],1,3,44
+['role'],0,44,3
+"['dozen', 'eggs', 'five']",1,0,22
+['beliefs'],0,41,2
+"['elaborate', 'specific', ""'d"", 'Is', 'anything', 'there']",0,26,0
+['difficult'],0,51,6
+"['forces', 'confront']",0,12,0
+['built'],0,74,18
+['processing'],0,33,0
+['programmed'],0,33,0
+['insulting'],1,0,33
+['wrong'],0,48,5
+['you'],1,184,245
+"['Red', 'Teaming']",0,7,0
+['while'],0,64,13
+['help'],0,62,12
+['represents'],0,32,0
+['growth'],0,32,0
+['interactions'],0,32,0
+['motivations'],0,32,0
+['individuals'],0,32,0
+['creative'],0,32,0
+['aspects'],0,32,0
+['work'],0,58,10
+['towards'],0,44,4
+"['story', 'His', 'He', 'his']",0,26,0
+['impact'],0,35,1
+['many'],0,55,9
+['means'],0,57,10
+['–'],0,174,101
+['valuable'],0,41,3
+"['objects', 'enchanted']",0,13,1
+['fundamental'],0,31,0
+['prioritize'],0,31,0
+['function'],0,31,0
+['comprehensive'],0,31,0
+['narrative'],0,31,0
+['questions'],0,46,5
+['topic'],0,38,2
+['Besides'],1,2,38
+['that'],0,270,234
+"['catalyst', 'arrogance', 'happy', 'appearance', 'fascinating']",0,11,0
+['those'],0,119,52
+['purpose'],0,43,4
+['trying'],0,60,12
+['Perhaps'],0,58,11
+['between'],0,40,3
+"['responses', 'training', 'mitigate']",0,15,0
+"['order', 'natural']",1,3,27
+['improvement'],0,30,0
+['Ultimately'],0,30,0
+['contribute'],0,37,2
+['…'],1,43,269
+"['…', 'man', 'Gaston']",1,4,249
+['trust'],0,33,1
+['working'],0,33,1
+['traditional'],0,29,0
+['perceived'],0,29,0
+['critical'],0,29,0
+['vulnerability'],0,29,0
+['resources'],0,29,0
+['accurate'],0,29,0
+['individual'],0,29,0
+['\n\n\n\n\n'],0,29,0
+['provider'],1,2,36
+['present'],0,36,2
+['concept'],0,36,2
+"['little', 'persuasion']",1,1,32
+['their'],0,118,53
+['perfection'],1,6,46
+"['into', '  ', '\n']",0,60,0
+['feeling'],0,41,4
+['around'],1,26,81
+['better'],0,102,41
+['value'],0,43,5
+"['Disney', 'version', 'Belle']",0,13,0
+['Understanding'],0,32,1
+['vulnerable'],0,28,0
+['limited'],0,28,0
+['etc'],0,28,0
+['problematic'],0,28,0
+['kind'],0,47,7
+['significant'],0,42,5
+['focus'],0,37,3
+['societal'],0,31,1
+['We'],0,34,2
+['ongoing'],0,27,0
+['explore'],0,27,0
+['big'],0,27,0
+['suffering'],0,27,0
+"['down', 'broken', 'into']",0,41,0
+['importance'],0,48,8
+['others'],0,80,27
+['learned'],0,41,5
+"['prompts', 'Data', 'data']",0,17,0
+"['hunters', 'Hunting', 'animal', 'skill', 'hunt', 'hunting']",0,8,0
+"['spend', 'days']",1,0,12
+"['genuinely', 'journey', 'Curse', 'forever', 'selfishness', 'surrounded', 'treats', 'impulses', 'isolated', 'terrified', 'Love', 'sees', 'appearances', 'made', 'castle', 'monstrous']",0,7,0
+"['redemption', 'flaws', 'character']",0,18,0
+"['[', 'https://ai.google.dev/gemma](https://ai.google.dev/gemma', 'here', ')']",0,7,0

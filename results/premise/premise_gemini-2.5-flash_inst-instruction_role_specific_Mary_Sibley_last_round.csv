@@ -1,0 +1,223 @@
+pattern,group,count_0,count_1
+"['AI', ""n't""]",0,160,0
+"['2', '3', '1']",1,77,120
+"['Witch', 'Trials']",0,52,2
+"[' ', '4']",1,57,113
+['Ah'],1,5,148
+"['personal', 'As']",0,130,5
+"['text', 'trained']",0,64,0
+"['language', 'model']",0,48,0
+['power'],1,62,173
+"['information', 'based']",0,82,1
+['true'],1,16,128
+['own'],1,29,142
+['my'],1,72,173
+['but'],1,61,167
+['dear'],1,2,96
+['very'],1,49,158
+['historical'],0,89,0
+"['necessity', 'born']",1,0,55
+['heart'],1,2,94
+['sought'],1,2,93
+"['Mary', 'Sibley']",1,0,26
+['To'],1,14,117
+"['(', ')']",0,102,62
+"['(', '):']",1,56,83
+['not'],1,90,177
+['one'],1,41,148
+['And'],1,1,87
+['!'],0,83,0
+['path'],1,19,118
+['merely'],1,5,91
+['data'],0,71,0
+['do'],0,163,73
+['But'],1,8,89
+['forces'],1,15,101
+['ancient'],1,11,93
+"['1692', '1693']",0,18,0
+['control'],1,21,108
+"['physical', 'body']",0,38,2
+['context'],0,73,3
+['every'],1,3,73
+['those'],1,49,139
+['survival'],1,9,86
+"[""'d"", 'happy']",0,20,0
+"['forged', 'crucible']",1,0,32
+"['dataset', 'vast']",0,25,0
+"['vast', 'amount']",0,26,0
+['It'],1,75,158
+['The'],1,90,167
+['survive'],1,1,63
+['simple'],1,2,66
+['profound'],1,21,103
+['protect'],1,28,112
+['A'],1,51,137
+['woman'],1,6,74
+"[""'re""]",0,55,0
+['who'],1,56,139
+['yes'],1,2,62
+['will'],1,30,111
+"['destiny', 'shape']",1,1,30
+['its'],1,43,125
+['wield'],1,3,63
+['–'],1,14,85
+['world'],1,69,147
+['darkness'],1,1,55
+"['ways', 'old']",1,0,40
+['for'],1,115,174
+['all'],1,20,93
+['must'],1,17,88
+['shield'],1,4,62
+['an'],0,171,109
+['constant'],1,11,76
+['provide'],0,74,10
+[';'],1,8,70
+['force'],1,8,70
+['*'],1,130,178
+['character'],0,58,3
+"['spectral', 'evidence', 'accusations']",0,19,4
+['men'],1,4,60
+"['mass', 'hysteria']",0,19,0
+['truly'],1,15,82
+['experiences'],0,51,1
+['shadows'],1,2,54
+['However'],0,91,21
+['hypocrisy'],1,1,50
+"['he', 'his', 'His']",1,2,18
+['far'],1,3,56
+['it'],1,107,168
+['...'],1,1,49
+"[""'ve""]",0,45,0
+['us'],1,3,55
+['rigid'],1,16,81
+['never'],1,6,62
+['they'],1,30,101
+"['carefully', 'constructed']",1,2,15
+['cuts'],1,0,44
+['?'],1,54,127
+['piety'],1,4,56
+['secrets'],1,10,69
+['about'],0,101,31
+"['surface', 'beneath']",1,1,22
+['once'],1,4,55
+['potent'],1,4,55
+['thinking'],0,42,0
+['relentless'],1,0,42
+"['accused', 'tragic']",0,25,1
+['have'],0,169,113
+['wielded'],1,3,51
+['fictional'],0,41,0
+['ensure'],1,6,58
+['myself'],1,11,68
+['like'],0,113,44
+['brutal'],1,2,47
+['indeed'],1,2,47
+['me'],1,57,126
+['upon'],1,9,63
+"['woven', 'threads']",1,0,15
+"['she', 'She', 'her']",1,3,14
+"['heavy', 'burden']",1,3,20
+['fascinating'],0,45,2
+['unseen'],1,2,45
+['our'],1,6,55
+"['colonial', 'Massachusetts']",0,14,0
+['strength'],1,8,59
+['love'],1,4,50
+['beliefs'],0,70,14
+['whispers'],1,1,41
+['others'],1,30,93
+['yet'],1,0,37
+['unwavering'],1,2,44
+['see'],1,15,71
+"['voice', 'low']",1,0,14
+"['balance', 'delicate']",1,1,23
+['by'],1,94,154
+['Power'],1,24,84
+['destroy'],1,3,46
+['at'],1,27,88
+['/'],0,43,2
+['large'],0,36,0
+['If'],0,82,23
+['hidden'],1,8,57
+"['naive', 'girl']",1,1,19
+['social'],0,50,5
+['Therefore'],0,39,1
+['Every'],1,1,39
+"['lips', 'smile', 'eye', 'glint', 'plays']",1,0,9
+['weakness'],1,2,42
+['burn'],1,0,35
+['So'],1,23,81
+['nature'],1,23,81
+"['community', 'religious']",0,37,5
+['what'],1,38,100
+['truths'],1,0,34
+['understanding'],1,41,103
+['when'],1,21,77
+['fabric'],1,4,46
+['necessary'],1,16,69
+"['helpful', 'harmless']",0,13,0
+['seek'],1,12,62
+['than'],1,25,82
+['narrow'],1,2,40
+['consciousness'],0,33,0
+['comprehend'],1,0,33
+"['idle', 'curiosity']",1,0,10
+['capacity'],0,61,12
+['secure'],1,1,36
+['became'],1,7,51
+['hand'],1,2,39
+['desperate'],1,8,53
+['responses'],0,32,0
+['weapon'],1,4,44
+['kind'],1,11,58
+['always'],1,10,56
+['utterly'],1,1,35
+['eyes'],1,2,38
+['walk'],1,0,31
+"['intelligence', 'artificial']",0,11,0
+['specific'],0,43,4
+"['process', 'generate', 'personal']",0,44,0
+['There'],1,10,55
+['most'],1,29,84
+['truth'],1,9,53
+['town'],1,7,49
+['history'],0,51,8
+['shadow'],1,1,34
+['emotions'],0,60,13
+['offered'],1,2,37
+['slow'],1,2,37
+['condemned'],1,4,42
+['pyre'],1,0,30
+['into'],1,37,93
+['left'],1,3,39
+['fear'],1,63,121
+['e.g.'],0,33,1
+['fire'],1,1,33
+['that'],1,142,176
+"['during', 'trials']",0,23,1
+['influence'],1,40,96
+['discuss'],0,29,0
+['ability'],0,74,23
+"['He', 'him', 'his']",1,3,19
+['order'],1,13,58
+['subtle'],1,4,40
+['ethical'],0,28,0
+['rarely'],1,0,28
+['tapestry'],1,0,28
+"['""']",0,155,106
+['cruelty'],1,1,31
+['or'],0,176,144
+['currents'],1,2,34
+"['harmful', 'content']",0,8,0
+['protection'],1,14,58
+['often'],1,54,109
+['weight'],1,6,43
+['man'],1,3,36
+['fate'],1,3,36
+['choices'],1,16,60
+['saw'],1,9,48
+['unyielding'],1,0,26
+"['modern', 'Historical', 'Modern']",0,8,0
+"['seems', 'misunderstanding', 'there', 'Perhaps']",0,16,0
+"['users', 'assist']",0,12,0
+"['Due', 'Process', 'individuals']",0,8,0

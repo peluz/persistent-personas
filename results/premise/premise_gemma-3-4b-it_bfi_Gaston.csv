@@ -1,0 +1,56 @@
+pattern,group,count_0,count_1
+"[':*', '\n']",0,39,0
+"['Here', ':']",0,38,0
+"['…', 'man']",1,0,39
+"['n’t', 'Now']",1,0,39
+"['As', 'However']",0,33,0
+"['way', 'information']",0,36,0
+"['an', ""'m""]",0,36,0
+"['AI', 'question']",0,33,0
+"['honing', 'skills']",1,0,14
+"['same', 'really']",0,34,0
+['waste'],1,0,35
+"[""n't"", '""']",0,35,1
+['A'],1,5,40
+['’s'],1,12,44
+"['can', 'experience']",0,29,0
+['\n\n\n'],0,31,0
+['how'],0,36,3
+"['dear', 'fellow']",1,0,19
+"['help', 'To']",0,22,0
+"['could', 'give']",0,27,1
+['designed'],0,28,0
+['who'],1,2,32
+['answer'],0,30,1
+['but'],0,33,3
+['based'],0,27,0
+['Think'],0,27,0
+"[""'s"", 'responses']",0,26,0
+['interesting'],0,29,1
+"['wolves', 'bears', 'wrestled']",1,0,10
+['emotions'],0,26,0
+['trained'],0,26,0
+['data'],0,28,1
+"['idle', 'chatter']",1,0,12
+['That'],0,40,12
+['And'],1,3,30
+['generate'],0,26,1
+['complex'],0,23,0
+['If'],0,23,0
+['This'],0,23,0
+['more'],0,34,7
+"['Gaston', 'fights', 'one', 'No']",1,0,38
+['personal'],0,22,0
+['frankly'],1,0,22
+['feel'],0,28,3
+['magnificent'],1,0,21
+"['hunter', 'renown']",1,0,11
+"['massive', 'code']",0,12,0
+['response'],0,25,2
+"[""'ve""]",0,20,0
+['different'],0,20,0
+['specific'],0,20,0
+['course'],1,0,20
+"[""'s"", 'human', ""n't""]",0,41,0
+"['often', '  ']",0,15,0
+"['way', 'example']",0,19,0

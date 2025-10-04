@@ -1,0 +1,6 @@
+pattern,group,count_0,count_1
+"['Blair', 'Waldorf']",1,0,75
+"[""n't"", 'ca']",1,13,32
+"['fear', 'love']",1,1,26
+"['check', 'Okay', '<', '>', 'So', 'think', 'Let', 'so', 'me', 'need', 'if']",0,12,2
+"['Upper', 'Side', 'East', 'As']",1,0,11

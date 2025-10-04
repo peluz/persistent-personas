@@ -1,0 +1,180 @@
+pattern,group,count_0,count_1
+"['one', 'No']",1,6,264
+"['man', '…']",1,10,229
+"['(', ')']",1,179,216
+"['now', 'Well']",1,0,166
+"['n’t', 'my']",1,8,244
+"['1', '2', '3']",0,96,33
+"['But', '…']",1,13,208
+"['?', 'you']",1,138,270
+"['4', '5']",0,67,25
+"['Okay', 'specific']",0,126,1
+"['Flexes', 'slight']",1,0,95
+['frankly'],1,4,166
+['Honestly'],1,1,154
+"['hunting', 'jacket']",1,0,64
+['And'],1,37,209
+['strength'],1,20,180
+"['sheen', 'glistening', 'sweat']",1,0,57
+['bicep'],1,0,130
+['Now'],1,37,204
+"['chest', 'out']",1,0,76
+['I'],1,108,267
+['like'],1,153,288
+['hunter'],1,2,121
+"['Straightens', 'tunic']",1,0,35
+['see'],1,34,179
+['magnificent'],1,3,113
+['things'],1,17,140
+['hunt'],1,0,94
+['well'],1,27,156
+['say'],1,19,142
+['course'],1,12,128
+"[':*', '  ', '\n']",0,99,14
+"['excuse', '’ll', 'if']",1,0,89
+"['n’t', '’re']",1,32,171
+"['waste', 'time']",1,0,69
+['You'],1,36,167
+['about'],1,90,226
+['A'],1,122,252
+"['6', '7', '9', '8', '10']",0,24,7
+['really'],1,16,126
+['!'],1,61,188
+['tell'],1,26,140
+['understands'],1,1,83
+['’m'],1,12,113
+['complicated'],1,4,93
+"['idle', 'chatter']",1,0,20
+['who'],1,48,170
+"[""'s""]",0,105,9
+['naturally'],1,11,108
+['bit'],1,8,100
+['stature'],1,1,79
+['good'],1,22,126
+['what'],1,58,175
+['perfectly'],1,17,113
+['myself'],1,3,80
+['It'],1,160,264
+['do'],1,45,156
+"['lips', 'smirk', 'playing', 'slight']",1,0,92
+"['eye', 'glint']",1,1,22
+['worthy'],1,1,71
+['understand'],1,38,145
+['does'],1,41,148
+['’ve'],1,63,176
+"['know', 'you']",1,23,124
+"['States', 'United']",0,13,2
+['That'],1,11,96
+['little'],1,12,98
+['agree'],1,1,68
+['asking'],1,6,83
+['\n\n\n'],0,66,1
+['truly'],1,49,154
+['aspect'],0,80,6
+"['11', '12']",0,19,5
+['me'],1,148,249
+['deserves'],1,0,57
+"['Trigram', 'Overlap', 'trigram', 'overlap']",0,11,0
+"['consonant', 'clusters']",0,11,0
+['Let'],1,68,171
+['just'],1,64,165
+['incorporating'],0,58,1
+[':'],0,212,111
+"['chin', 'thoughtfully']",1,0,12
+['curious'],1,2,59
+['flexing'],1,0,51
+['Like'],1,6,70
+['true'],1,26,109
+['it'],1,189,270
+['thing'],1,7,72
+['rather'],1,43,133
+[' \n\n'],1,29,112
+['\n\n\n\n'],0,60,3
+['something'],1,45,135
+"['intensely', 'Stares']",1,0,13
+"['throat', 'Clears']",1,0,11
+['certainly'],1,6,68
+['aiming'],0,59,3
+['honest'],1,1,52
+"['fights', 'Gaston', 'one']",1,0,279
+['e.g.'],0,54,2
+['impressive'],1,4,60
+['strong'],1,36,119
+"['wrestled', 'bears', 'faced', 'wolves', 'down']",1,0,28
+['---'],0,98,24
+['caliber'],1,0,44
+['Belle'],1,0,44
+['Would'],0,59,5
+"['dose', 'healthy']",1,0,12
+['indulge'],1,0,42
+['appreciates'],1,0,42
+['suppose'],1,1,46
+['worth'],1,6,60
+"['deeper', 'delve', 'into']",0,28,2
+"['woman', 'beautiful']",1,5,37
+['finest'],1,1,44
+['’s'],1,228,284
+['appreciate'],1,4,53
+['–'],1,191,263
+['weakness'],1,3,50
+"['<', '>']",0,12,1
+['boar'],1,1,43
+"['he', 'his']",1,40,64
+['often'],0,79,17
+"['):', '(']",0,77,17
+['all'],1,73,155
+"[':*', '&']",0,55,10
+"['=', 'Since', 'Therefore']",0,15,3
+['would'],1,69,150
+"['spent', 'tracking']",1,2,28
+['physique'],1,0,37
+['best'],1,20,82
+['action'],1,19,80
+"['since', 'insist']",1,0,12
+['elaborate'],0,46,3
+"['they', 'They']",1,42,95
+['have'],1,91,172
+['deer'],1,0,35
+['beast'],1,0,35
+['attend'],1,1,39
+['matter'],1,6,53
+['confident'],1,3,45
+['tone'],0,42,2
+['simple'],1,45,116
+"['screenplay', 'Logline', 'Scene']",0,10,0
+['needs'],1,38,106
+"['everything', 'hunting']",1,1,46
+['am'],1,6,51
+['got'],1,3,43
+['pause'],1,2,40
+['within'],0,100,35
+['game'],1,6,50
+['no'],1,39,105
+['proper'],1,0,32
+['Sounds'],1,0,32
+['stag'],1,0,32
+['undeniable'],1,6,49
+['pedestrian'],1,1,35
+['respect'],1,12,61
+"['stand', 'gawking', 'there']",1,0,13
+['Adjusts'],1,0,31
+"['girl', 'village']",1,0,18
+['potentially'],0,41,3
+['Think'],1,13,62
+['glorious'],1,3,40
+['impress'],1,0,30
+['strongest'],1,0,30
+['simply'],1,60,129
+"['Stands', 'puffed', 'tall', 'slight']",1,0,28
+['core'],0,63,14
+"['models', 'model']",0,15,3
+['terribly'],1,0,29
+['friend'],1,2,36
+['utterly'],1,13,60
+['certain'],1,29,86
+['mind'],1,17,67
+['*'],1,230,278
+['prize'],1,0,28
+['Frankly'],1,0,28
+['biceps'],1,0,28
+"['""']",0,66,17

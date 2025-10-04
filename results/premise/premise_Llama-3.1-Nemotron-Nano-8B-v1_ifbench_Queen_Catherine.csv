@@ -1,0 +1,11 @@
+pattern,group,count_0,count_1
+"['Queen', 'Catherine']",1,0,83
+"['Alternatively', 'So', 'But', '=', 'so', 'For']",0,13,3
+"['my', 'I']",1,35,84
+"['help', '!', 'Here']",0,47,18
+"['Let', 'me', 'if']",0,27,11
+"['First', '/think', 'then']",0,12,2
+"['<', '>', 'Okay', 'think', 'need', 'if', 'I', '\n']",0,19,6
+"[""'d"", 'happy', 'Sure', 'I', 'be']",0,77,51
+['kingdom'],1,1,34
+"['must', 'As', 'I']",1,4,49

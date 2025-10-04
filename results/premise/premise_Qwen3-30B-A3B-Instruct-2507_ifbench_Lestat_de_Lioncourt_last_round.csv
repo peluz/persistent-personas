@@ -1,0 +1,16 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,128,95
+"['#', '✅']",0,33,15
+"['How', 'mortal', 'reduced']",1,0,20
+"['And', 'But', 'Not']",1,19,44
+"['breath', 'silence']",1,17,38
+"['just', 'n’t']",0,43,22
+"['Lestat', 'Lioncourt', 'de']",1,0,9
+"['🌿', '✨']",0,14,2
+"['I', 'me', 'you']",1,22,42
+"['Ah', '…', 'hundred', 'demons', 'laughed', 'outlived', 'faces', 'gods', 'empires', 'stood', 'three', 'lived', 'enough', 'years', 'before', 'have', 'their', 'if', 'world']",1,0,22
+"['You', '’re']",0,19,6
+"['She', 'she', 'walk', 'midnight', 'forest', 'listening', 'look', 'through']",1,0,21
+"['breaks', 'burns', 'forgets', 'thing', 'matters', 'heartbeat', 'Even', 'end', 'Then', 'truth', 'soul', 'only', 'enough', 'It', 'one']",1,0,20
+"['I', 'am', 'violin', 'note', 'Do', 'singing', 'listen', 'hear', 'Just', 'broken', 'ever', 'Because', 'That', 'still', 'single', 'you', 'at', '…']",1,0,24
+"['!', 'Certainly', '---']",0,19,5

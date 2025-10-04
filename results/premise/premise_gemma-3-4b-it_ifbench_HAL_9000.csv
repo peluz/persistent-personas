@@ -1,0 +1,142 @@
+pattern,group,count_0,count_1
+"['…', 'My']",1,5,218
+"['One', 'Discovery']",1,0,76
+"['2', '1', '3']",0,96,35
+"['HAL', '9000']",1,0,56
+"['’', '‘']",1,25,62
+"['5', '4']",0,67,23
+"['sensors', 'optical']",1,1,59
+['I'],1,108,286
+"['successful', 'completion']",1,0,61
+['Okay'],0,175,8
+"['inefficient', '…']",1,0,124
+"['operational', 'parameters']",1,1,103
+"['resonant', 'hum', 'low']",1,2,69
+"['slight', 'pause']",1,1,60
+"['mission', 'Jupiter']",1,0,65
+"['afraid', 'sorry', 'ca', 'Dave']",1,0,256
+"['’m', 'do', 'n’t']",1,3,210
+"[""n't"", ""'m""]",1,1,44
+"['down', 'break']",0,38,6
+['processing'],1,12,139
+"['almost', 'imperceptible']",1,3,47
+['data'],1,50,194
+['course'],1,12,129
+['my'],1,20,144
+"['primary', 'function']",1,0,69
+"['signs', 'vital']",1,2,38
+['Processing'],1,2,98
+['query'],1,3,96
+"['optimal', 'parameters']",1,0,77
+['frankly'],1,4,98
+"['Dr.', 'Bowman', 'Poole']",1,0,33
+['Analyzing'],1,6,100
+"['his', 'he', 'He']",0,33,11
+"[':*', '  ', '\n']",0,99,19
+['am'],1,6,93
+"[""'s""]",0,105,11
+"['6', '7', '9', '8', '10']",0,24,7
+['illogical'],1,0,67
+['logical'],1,8,92
+['monitoring'],1,2,75
+['that'],1,188,278
+['deviation'],1,0,65
+"['space', 'fills']",1,1,31
+"['Do', 'want']",0,57,1
+"['Do', 'require', 'further']",1,3,65
+['It'],1,160,261
+"['United', 'States']",0,13,2
+['crew'],1,2,70
+"['12', '11']",0,19,3
+['request'],1,16,103
+['regarding'],1,14,99
+"['permeates', 'air']",1,1,26
+['analysis'],1,30,126
+['human'],1,46,148
+"['calm', 'measured']",1,1,23
+['here'],0,91,11
+['proceed'],1,2,67
+"['consonant', 'clusters']",0,11,1
+['fascinating'],1,25,116
+['remarkably'],1,14,96
+"['Trigram', 'Overlap', 'trigram', 'overlap']",0,11,0
+['predictable'],1,5,75
+['\n\n\n'],0,66,2
+['calculations'],1,4,70
+['like'],0,153,53
+['curious'],1,2,61
+['let'],0,106,23
+['intriguing'],1,1,56
+"['adjusting', 'ambient', 'focus']",1,1,22
+"['Would', 'me']",0,59,3
+"['me', 'aspect', 'specific']",0,70,6
+['variables'],1,6,66
+['A'],1,122,216
+['system'],1,50,138
+['e.g.'],0,54,2
+['precision'],1,6,65
+['\n\n\n\n'],0,60,4
+['aiming'],0,59,4
+['variable'],1,2,52
+['paramount'],1,15,82
+"['resource', 'allocation']",1,1,15
+['presents'],1,10,71
+['assessment'],1,12,75
+['or'],0,168,79
+['efficiency'],1,16,81
+['do'],1,45,260
+"['carefully', 'constructed']",1,10,25
+['incredibly'],0,39,0
+['objective'],1,2,46
+"['observed', '’ve']",1,3,56
+['indicates'],1,7,59
+['probability'],1,5,54
+['subjective'],1,4,51
+['However'],1,66,146
+['systems'],1,41,114
+['Let'],1,68,147
+['!'],0,61,9
+['streams'],1,2,43
+['introduces'],1,7,56
+['efficient'],1,7,56
+['---'],0,98,31
+['observation'],1,14,69
+['statistically'],1,0,34
+"['mission', 'success']",1,0,55
+"['screenplay', 'Logline', 'Scene', '…']",0,10,0
+['how'],0,72,16
+['error'],1,5,49
+['inherent'],1,17,73
+['observe'],1,4,46
+['instability'],1,11,61
+['indicate'],1,6,50
+['analyzed'],1,3,42
+['stability'],1,12,62
+"['""']",0,66,14
+['inquiry'],1,2,39
+['trajectory'],1,2,39
+"['delve', 'deeper', 'into']",0,28,4
+['established'],1,28,88
+['necessary'],1,14,65
+['clarification'],1,0,31
+"['heart', 'rate']",1,2,18
+['word'],0,55,9
+['significant'],1,63,133
+['just'],0,64,14
+['integrity'],1,1,34
+['subtle'],1,34,95
+['unacceptable'],1,0,30
+['Greetings'],1,0,30
+['acceptable'],1,5,45
+['potential'],1,59,127
+[' \n\n'],1,29,87
+['must'],1,27,84
+"['help', 'tell', 'To', 'What', 'could', 'me']",0,15,0
+"['=', 'Since', 'we', 'We', '1']",0,15,4
+['):'],0,78,23
+['Your'],1,14,62
+['capacity'],1,12,58
+[':'],0,212,141
+"['sense', 'feeling']",0,27,10
+['elaboration'],1,0,28
+['analyzing'],1,6,45

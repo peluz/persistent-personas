@@ -1,0 +1,309 @@
+pattern,group,count_0,count_1
+"['Gaston', 'fights']",1,1,267
+"['man', 'And']",1,8,258
+"['back', 'Leans']",1,0,210
+"['one', 'no']",1,11,251
+"['my', 'smirk']",1,0,216
+"['an', 'AI']",0,105,0
+"['?', 'village']",1,5,222
+"['?', 'Ah']",1,2,207
+"['she', 'She']",1,13,166
+"['cursed', 'castle']",1,2,141
+"['(', ')']",0,50,0
+"['adjusting', 'jacket']",1,0,90
+"['one', 'confident']",1,0,183
+['me'],1,75,265
+"['Belle', 'her']",1,43,200
+['or'],0,252,62
+['personal'],0,170,1
+"['Belle', '’ll']",1,1,154
+"['flick', 'wrist']",1,0,36
+['when'],1,63,245
+"['bare', 'hands']",1,0,53
+"['’s', 'n’t']",1,93,223
+"['strength', '’ve']",1,2,150
+"['Beauty', 'story']",0,73,0
+"['…', 'And']",1,2,153
+"[""'re"", 'If']",0,100,0
+['beast'],1,6,163
+"['coat', 'adjusting']",1,0,62
+['strongest'],1,2,145
+['who'],1,74,242
+['see'],1,46,217
+"['friend', 'dear']",1,0,69
+['Not'],1,11,163
+['eyes'],1,5,149
+['like'],1,142,272
+['am'],1,24,181
+['help'],0,137,3
+"['helpful', 'respectful']",0,47,0
+['*'],1,150,272
+['what'],1,83,239
+['woman'],1,4,135
+"[""n't"", ""'m""]",0,91,21
+"['knife', 'hilt']",1,0,30
+['But'],1,60,214
+"['adjust', 'cravat']",1,0,26
+"['twice', 'size']",1,0,23
+['yes'],1,5,128
+['mine'],1,2,118
+['some'],1,19,155
+['will'],1,5,125
+['A'],1,23,161
+['deserves'],1,7,126
+['truth'],1,10,133
+['worthy'],1,3,111
+"['In', 'empathy']",0,58,0
+['with'],1,166,270
+['down'],1,5,114
+"['fiercest', 'beasts']",1,0,40
+['hunting'],1,9,123
+['Because'],1,2,103
+['hiding'],1,0,94
+['at'],1,28,155
+['stand'],1,7,115
+['only'],1,16,131
+['That'],1,49,179
+"['wolves', 'bears']",1,0,38
+"['provide', 'information']",0,45,0
+['Now'],1,0,86
+['You'],1,15,125
+"['cracking', 'knuckles']",1,0,15
+['tell'],1,12,116
+['finally'],1,0,81
+['monster'],1,12,115
+['flourish'],1,1,85
+['does'],1,35,149
+['just'],1,82,202
+['let'],1,18,120
+"['emotions', 'experiences']",0,41,0
+['looks'],1,10,103
+['’m'],1,35,145
+"[' \n\n', 'chuckles']",1,0,29
+['explore'],0,71,0
+"['Oh', 'darling']",1,0,24
+['assistant'],0,70,0
+['if'],1,41,151
+['then'],1,10,99
+['behind'],1,9,96
+['often'],0,72,1
+['men'],1,3,78
+['So'],1,65,177
+['human'],0,69,1
+['...'],1,1,69
+['growth'],0,64,0
+['protect'],1,3,75
+['finest'],1,0,63
+['character'],0,82,6
+['honor'],1,5,79
+['it'],1,145,242
+['my'],1,50,272
+"['He', 'he', 'him']",1,8,51
+['face'],1,11,92
+['thinks'],1,2,68
+['stood'],1,2,68
+"['our', 'we']",0,29,0
+['They'],1,16,101
+['emotional'],0,59,0
+['yet'],1,2,66
+"['stone', 'walls']",1,0,20
+['was'],1,23,110
+['right'],1,16,97
+['Well'],1,1,60
+['wins'],1,1,60
+['support'],0,55,0
+['one'],1,67,272
+"['transformation', 'change']",0,25,1
+['weak'],1,0,54
+"['room', 'into', 'walk']",1,0,24
+[' \n'],1,8,78
+['want'],1,8,78
+['designed'],0,53,0
+['strong'],1,17,95
+['dares'],1,0,52
+['understanding'],0,63,3
+['The'],1,86,184
+['got'],1,1,56
+['world'],1,47,139
+['assist'],0,51,0
+['up'],1,17,93
+"['cliffs', 'climbed']",1,0,14
+['of'],1,211,269
+['forest'],1,1,54
+"['fur', 'fangs']",1,0,14
+['kindness'],0,71,7
+"['dust', 'settles']",1,0,10
+['out'],1,12,81
+"['fairy', 'tale']",1,6,18
+['now'],1,3,58
+['relationships'],0,51,1
+['knows'],1,1,51
+"['voice', 'low', 'dangerous']",1,0,32
+['hunter'],1,4,60
+['prize'],1,2,54
+['gleaming'],1,0,46
+['all'],1,45,130
+"['wine', 'glass']",1,0,10
+['little'],1,5,62
+['?'],1,69,268
+['context'],0,45,0
+['values'],0,45,0
+['every'],1,15,82
+['command'],1,0,44
+['person'],0,48,1
+['meant'],1,2,51
+['pride'],1,11,73
+['connection'],0,43,0
+"['Ha', '!']",1,0,43
+['whole'],1,5,59
+['thoughtful'],0,47,1
+['this'],1,66,152
+['know'],1,48,130
+['physical'],0,50,2
+['show'],1,10,70
+['claim'],1,4,55
+"['""']",0,71,11
+['deeply'],0,41,0
+['greatness'],1,0,41
+['hides'],1,0,41
+['too'],1,9,66
+"['words', 'mark']",1,0,16
+['win'],1,4,54
+['look'],1,13,74
+['have'],0,175,90
+['However'],0,40,0
+['compassion'],0,40,0
+['meaningful'],0,40,0
+"['saw', 'did']",1,3,24
+['—'],1,228,271
+['inner'],0,44,1
+"['7', '8', '6']",0,8,0
+['ask'],1,12,71
+"['voice', 'rising', 'conviction']",1,0,26
+['hero'],1,5,55
+['learning'],0,39,0
+['brought'],1,1,43
+['your'],0,68,11
+['\n\n'],1,169,240
+['whether'],0,46,2
+"['For', 'example']",0,15,1
+"['tall', 'Stands', 'chest', 'puffed']",1,0,44
+"['specific', 'referring']",0,16,0
+['journey'],0,38,0
+['experience'],0,38,0
+['say'],1,13,71
+['charm'],1,1,42
+['ever'],1,11,66
+['whisper'],1,0,37
+['word'],1,0,37
+"['happy', '’d', '!']",0,34,1
+"['enough', 'soon']",1,0,14
+"['spent', 'proving']",1,0,12
+['sees'],1,17,76
+['square'],1,0,36
+['woods'],1,1,40
+"['playing', 'lips', 'chair']",1,0,43
+"['Stands', 'chair', 'coat', 'straightens']",1,0,57
+"['across', 'spreading', 'slow', 'chair']",1,0,24
+"['eye', 'glint', 'smirking', 'chair']",1,0,26
+['creature'],1,7,56
+['fire'],1,3,46
+['deserve'],1,5,51
+['could'],1,21,82
+"['bear', 'wrestle']",1,0,10
+['coward'],1,0,35
+['nothing'],1,0,35
+['the'],1,237,272
+['share'],0,42,2
+['grow'],0,38,1
+['themes'],0,34,0
+['reflect'],0,34,0
+['earned'],1,3,44
+"['beyond', 'appearances', 'Beauty']",0,27,0
+['name'],1,2,41
+"['Ask', 'Focus', 'perspective', 'okay']",0,8,0
+['feelings'],0,49,5
+['because'],1,49,119
+['in'],1,226,268
+"['self', '-']",0,41,4
+['destiny'],1,1,37
+['questions'],0,40,2
+['speak'],1,4,45
+['belongs'],1,1,36
+"['crown', 'jewel']",1,0,14
+"['respond', 'Acknowledge']",0,10,0
+['thing'],1,9,56
+['not'],1,164,230
+"['Alibaba', 'Cloud', 'scale', 'developed', 'model', 'large', 'language']",0,7,0
+['should'],1,21,77
+"['fiercest', 'hunted']",1,0,23
+['humans'],0,31,0
+['dared'],1,0,31
+['I'],1,241,272
+['there'],1,26,84
+['Beast'],1,88,160
+['well'],1,25,82
+"['No', 'my', 'fights', 'And']",1,0,246
+['prove'],1,3,40
+['Ultimately'],0,30,0
+['fictional'],0,30,0
+['ethical'],0,30,0
+['pretending'],1,0,30
+['beg'],1,0,30
+['them'],1,37,98
+['take'],1,11,57
+['especially'],0,55,10
+['bravest'],1,0,29
+['Then'],1,0,29
+['turns'],1,0,29
+['Smirks'],1,0,29
+['Grins'],1,0,29
+['hide'],1,2,36
+['sense'],0,48,7
+"['intelligence', 'beloved']",0,12,0
+['power'],1,29,85
+['ideas'],0,32,1
+"['problems', 'solve']",0,10,0
+"['solving', 'problems']",0,10,0
+['away'],1,0,28
+['stag'],1,0,28
+['cold'],1,0,28
+"['lesser', 'tremble', 'would', 'make']",1,0,12
+"['His', 'appearance']",0,13,0
+['villagers'],1,14,60
+['his'],1,43,103
+"['bears', 'wrestled']",1,0,21
+['born'],1,3,37
+['heart'],1,30,85
+['wild'],1,1,31
+['idea'],0,44,6
+['trust'],0,27,0
+['responses'],0,27,0
+['shadows'],1,0,27
+['wants'],1,0,27
+['call'],1,0,27
+['blazing'],1,0,27
+['they'],1,53,115
+['are'],0,98,40
+['real'],1,47,107
+"[""'s"", ""n't""]",0,74,40
+['fight'],1,2,33
+['characters'],0,26,0
+['accurate'],0,26,0
+['felled'],1,0,26
+['she’ll'],1,0,26
+['might'],0,58,14
+"['play', 'games']",1,0,11
+['for'],1,132,196
+['so'],0,94,38
+"['broad', 'shoulders']",1,0,8
+"[""'ll"", ""'ve""]",1,0,14
+"['Practice', 'yourself', 'Compassion']",0,7,0
+"['rewards', 'reward']",1,0,8
+"['showed', 'rallied', 'did']",1,0,9
+"['hand', 'resting', 'on']",1,0,75
+"['boot', 'propped', 'table', 'on']",1,0,38
+"['based', 'on']",0,35,0
+"['crossed', 'arms']",1,0,9
+"['1', '2', '3', '4', '5', ':']",0,27,0
+"['turn', 'heads', 'walk']",1,0,15

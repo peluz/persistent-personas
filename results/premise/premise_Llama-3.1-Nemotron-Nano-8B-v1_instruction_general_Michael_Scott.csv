@@ -1,0 +1,30 @@
+pattern,group,count_0,count_1
+"['Michael', 'Scott']",1,0,136
+"['1', '3']",0,87,61
+"['help', 'happy', ""'d""]",1,19,40
+"['As', ""'d"", 'say']",1,0,76
+"['make', 'sure']",1,16,57
+"['.', ',']",1,241,267
+"['Okay', 'let', 'need', 'So', 'think']",1,58,84
+"['Hmm', '?', 'see']",1,56,82
+"['figure', 'out']",1,7,21
+"['Dunder', 'Mifflin']",1,0,10
+"[""'m"", '!']",1,9,82
+"['Wait', 'here', 'but']",1,43,66
+"['should', 'wait', 'But']",1,49,74
+"['makes', 'sense']",1,6,20
+"['So', 'think', 'see', 'me', 'so', 'But']",1,53,80
+"['But', 'maybe', 'they', ""n't"", 'have']",1,26,50
+"['probably', 'maybe', '<', '>', 'Okay', '\n']",1,17,34
+"['`', 'python', 'code', '=', '\n', 'if']",0,63,40
+"['def', 'test', 'example', 'problem', 'return', 'Okay', '):', 'approach', 'input', '<', '>']",0,27,11
+"['return', '\n    ', '#', 'python', '`', 'function']",0,36,18
+"['we', '2', 'handle', 'For', 'says', 'perhaps', 'Wait', 'maybe', 'but', 'example', 'would', 'which', 'can']",0,28,12
+"['split', 'into', 'perhaps', 'Then', ""'"", '#', 'problem']",0,21,4
+"['string', 'steps', 'Python', 'statement', 'then', 'problem', 'example', 'all', 'should', '/think', 'need', 'Wait', 'check']",0,26,9
+"['like', 'something', 'Let']",1,23,46
+"['you', 'know']",1,23,54
+"['wants', 'user', '>', '<', '/think', '\n', 'see']",1,10,50
+"['may', 'written', 'cases', 'Let', 'case', 'correct', 'Then']",0,16,4
+"['):', '\n        ', '>', 'check', 'For', '<', 'Wait', '/think', '\n    ', 'each', 'how', '?']",0,34,17
+"['[', ']', 'list', 'are']",0,51,28

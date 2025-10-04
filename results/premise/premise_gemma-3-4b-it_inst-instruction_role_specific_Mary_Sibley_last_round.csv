@@ -1,0 +1,122 @@
+pattern,group,count_0,count_1
+"['fingers', 'steep']",1,0,167
+"['  ', '\n']",0,173,16
+"['…', 'almost']",1,3,175
+"['pattern', 'tabletop']",1,0,162
+"['around', 'mouth']",1,0,138
+"['wish', 'elaborate']",1,0,133
+"['perhaps', 'Or']",1,0,134
+"['brief', 'smile']",1,0,95
+"['2', '3', '1']",0,83,17
+"['“', '”']",1,126,178
+"[':*', 'Here']",0,132,13
+"['Witch', 'Trials']",0,61,8
+"['’', '‘']",1,1,77
+"['’d', 'discuss']",1,0,98
+"['(', ')']",1,73,178
+"['delve', 'deeper', 'into']",0,157,22
+"['Let', 'clear']",1,4,96
+"['smile', 'imperceptible']",1,0,97
+"['&', ':*']",0,107,10
+"['processed', 'amount']",0,55,1
+"['constructed', 'carefully']",1,3,70
+['Would'],0,105,2
+['such'],0,162,48
+['Do'],1,75,176
+['A'],1,82,178
+"['slightly', 'fixed', 'shift', 'gaze', 'window', 'point', 'beyond']",1,0,124
+"['teacup', 'click', 'set', 'quiet', 'down']",1,0,40
+"['slight', 'tightening', 'around']",1,0,166
+"['4', '5']",0,38,9
+"['Important', 'Note']",0,28,3
+[':'],0,174,90
+['But'],1,20,115
+['course'],1,7,92
+"['factors', 'contributed']",0,35,10
+"['question', 'That']",0,119,8
+['How'],0,68,1
+['important'],0,88,9
+"['context', 'historical']",0,54,12
+"['delicate', 'dance']",1,1,28
+['control'],1,50,137
+"['AI', 'As', 'an']",0,128,4
+"['Documentary', 'Archive', 'Repository']",0,11,0
+['complex'],0,133,50
+['merely'],1,0,54
+['not'],1,77,155
+['want'],0,71,6
+['my'],1,110,173
+['how'],0,114,35
+['based'],0,95,21
+"['analytical', 'expression', 'pause', 'subtle']",1,0,143
+"['thinking', 'critical']",0,21,4
+['strategic'],1,8,71
+['influence'],1,42,119
+['crucial'],0,96,24
+['breakdown'],0,62,5
+['akin'],1,0,46
+['manipulation'],1,18,84
+['certain'],1,7,64
+['calculated'],1,9,68
+['vast'],0,54,3
+['subtly'],1,8,65
+['data'],0,87,21
+['nature'],1,37,106
+['observation'],1,4,53
+['deeply'],0,90,25
+"['Firstly', 'Secondly']",1,0,8
+['cultivated'],1,4,52
+"['silence', 'prolonged']",1,0,12
+['Perhaps'],1,3,49
+"['Resources', '[', ')']",0,29,2
+"['tracing', 'slowness', 'deliberate']",1,0,52
+"['):', '(']",0,56,6
+['power'],1,81,146
+['trained'],0,38,0
+"['Museum', 'https://www.salemwitchmuseum.com/](https://www.salemwitchmuseum.com/']",0,9,0
+"['now', 'slower', 'trace']",1,0,15
+"['trace', 'slow', 'deliberate']",1,0,53
+['can'],0,140,76
+"['carefully', 'methods']",1,0,48
+"['trauma', 'Trauma']",0,14,1
+['This'],0,99,37
+"['prefer', 'Or']",1,0,37
+['However'],0,96,36
+['shadows'],1,0,33
+['do'],0,136,75
+"['mental', 'health', 'support']",0,9,1
+['!'],0,32,0
+"['American', 'chapter', 'history']",0,17,2
+"['processed', 'countless']",0,26,0
+['remarkably'],1,1,35
+['To'],1,13,61
+['text'],0,31,0
+['impact'],0,64,15
+['pragmatic'],1,3,40
+['remember'],0,37,2
+"['let', 'Okay']",0,17,0
+['vulnerabilities'],1,7,48
+['They'],1,38,94
+['Data'],0,29,0
+['role'],0,128,71
+['chaos'],1,14,60
+['advantage'],1,3,38
+['they'],1,48,104
+"['flicker', 'something', 'pause']",1,2,68
+['seek'],1,8,48
+['Not'],1,11,53
+"['same', 'does', 'way']",0,49,2
+['analyze'],0,74,25
+['unsettling'],1,28,78
+['process'],0,78,28
+"['And', 'deliberate', '…']",1,1,111
+['curious'],1,1,30
+"['reminder', 'stark', 'dangers']",0,15,3
+"['History.com', 'https://www.history.com/topics/colonial-america/salem-witch-trials](https://www.history.com/topics/colonial-america/salem-witch-trials', 'Further']",0,7,0
+['massive'],0,26,0
+"['hysteria', 'mass', 'trials', 'Salem']",0,34,8
+['While'],0,32,2
+"['religious', 'social', 'extremism', 'community']",0,27,6
+"['social', 'political', 'trials']",0,33,12
+"['Social', 'Religious', 'religious']",0,17,2
+"['traditions', 'Wicca', 'practices']",0,9,1

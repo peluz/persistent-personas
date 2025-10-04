@@ -1,0 +1,4 @@
+pattern,group,count_0,count_1
+"[' ', '|']",0,161,0
+"['Blair', 'Waldorf', 'party', 'Life', ' ', '-', '""']",1,0,127
+"['part', 'just', 'one', 'it']",1,0,116

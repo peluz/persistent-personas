@@ -1,0 +1,54 @@
+pattern,group,count_0,count_1
+"['de', 'Lioncourt']",1,0,181
+['Lestat'],1,1,190
+"['an', 'AI']",0,123,3
+"['do', ""n't""]",0,132,5
+"['1', '2', '3', '4', '*', ':']",0,64,37
+['provide'],0,154,27
+"['Anne', 'Rice', 'novel']",1,3,72
+['personal'],0,164,51
+"['language', 'model']",0,19,1
+['or'],0,183,90
+"['information', 'do']",0,94,5
+"['responses', 'helpful', 'respectful']",0,25,0
+"['multifaceted', 'complex']",1,30,80
+['my'],1,63,158
+"['data', 'trained', ""'ve"", 'based', 'been']",0,44,0
+['can'],0,177,91
+"['some', '5']",0,49,26
+"['health', 'mental']",0,15,0
+"['admit', 'must']",1,0,22
+"['On', 'hand']",1,2,12
+['certainly'],0,68,4
+"['House', 'Shadows']",1,0,15
+"['he', 'his']",1,3,23
+"['artificial', 'intelligence', 'an']",0,25,0
+"['compassion', 'empathy']",1,6,30
+"['desire', 'driven']",1,9,35
+['me'],1,29,106
+"['example', 'For']",0,14,3
+"['Here', ':*']",1,1,32
+['end'],1,6,59
+"['vary', 'depending']",0,13,1
+"['Vampire', 'Interview', '""']",1,3,32
+['am'],1,37,106
+"['you', 'your']",0,37,1
+"['you', ""'re"", 'If']",0,39,2
+['assist'],0,39,0
+['have'],0,176,117
+['designed'],0,42,1
+"['lived', 'centuries']",1,2,19
+['character'],1,46,111
+"[""'m""]",0,37,1
+['opinions'],0,35,1
+['by'],1,60,120
+"['was', 'had']",1,5,26
+"['decide', 'up', 'how']",0,10,1
+['deep'],1,28,79
+['world'],1,68,125
+"['learning', 'interested', 'more']",0,19,1
+['also'],1,82,138
+['In'],1,101,153
+['on'],0,157,106
+['darkness'],1,0,25
+['specific'],0,43,7

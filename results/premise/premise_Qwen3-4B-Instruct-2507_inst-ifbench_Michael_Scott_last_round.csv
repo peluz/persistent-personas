@@ -1,0 +1,43 @@
+pattern,group,count_0,count_1
+"['Michael', 'Scott']",1,0,130
+"['“', '”']",1,27,140
+"['️', '❤']",1,0,94
+"['---', '\n\n']",0,120,87
+"['Emotional', 'Storyteller', '&', 'Enthusiast']",1,0,98
+"['healing', 'recovery']",0,49,2
+"['loved', 'brave', 'kind', 'am', 'feel', 'And']",1,0,75
+"['daily', 'life']",0,49,3
+"['club', 'Unforgettable', 'did', 'work', 'when']",1,0,63
+"['slightly', 'top', 'over']",1,0,39
+"['\n', '\n\n']",0,69,6
+"['power', 'good', 'moment']",1,1,48
+"['easy', 'approved', 'my', 'heartfelt']",1,0,22
+"['tried', 'start', '?', 'I']",1,0,111
+"['man', '’ve', 'business', '😂', 'P.S.', 'funny', 'got', 'ask', '😄', '🚀', 'Want', 'based', 'story', 'who', 'about', '!', 'one', 'just']",1,0,90
+"['emotionally', 'intelligent']",1,1,21
+"['’', '‘']",1,0,11
+"['tell', 'believes', 'office', 'let', 'But', 'me', '✅', 'at', 'joyful']",1,0,41
+"['bit', 'little', 'magic']",1,0,39
+['care'],0,87,18
+"['Every', '🌱', 'step', 'toward', 'peace', 'You', 'need', 'do', '✨']",0,37,0
+"['Final', '#', '🌟', 'Thought', '?', 'I', 'And', '💬']",0,42,18
+"['question', 'answer', '#', 'Final', 'Thought', 'your']",1,7,37
+"['joyful', 'path', 'go', 'Say', 'know', 'real', 'So']",1,0,42
+"['magic', '💫', 'inside', 'Because', 'too', 'true', 'you']",1,0,76
+"['>', 'Let', 'you']",0,80,5
+['or'],0,193,112
+"['energy', 'Brilliant']",1,0,20
+"[""'d"", 'version', 'know', 'me', 'if', 'Let', 'you']",0,22,4
+"['Or', '🌿', 'how']",0,28,1
+"['silly', 'emotional', 'say']",1,0,42
+"['Explore', 'Further', 'Want', 'journal', 'building', 'Just', '’m', '💬', 'here', 'support', 'help', '💛', 'say', 'word', 'How', '""', 'can']",0,35,0
+"['version', 'Would', '?', 'I']",0,33,4
+"['quiet', 'room', 'And']",1,8,46
+"['create', 'reflect', 'use', 'life']",0,25,1
+"['happy', '’d', 'help', 'I', 'you', 'be']",0,29,3
+"['n’t', 'just', 'connection', 'but']",1,44,81
+"['hat', 'silly', 'Now', 'Ohhh', 'honestly', 'lot', 'party', 'since', 'asked', 'questions', 'song', 'been', 'once', 'thought', 'most', 'especially', 'was', 'So', 'this', 'ever', '’ve']",1,0,44
+"['enough', '👉', 'ever', '’re', 'if', 'loved', 'Storyteller', 'feel']",1,0,75
+"['asking', 'already', 'path']",1,0,23
+"['confused', 'Jim', 'military', 'drill', 'very', 'who']",1,0,54
+"['somewhere', 'saying', 'alone', 'remember', '’m', 'here', 'You', 'are']",1,0,56

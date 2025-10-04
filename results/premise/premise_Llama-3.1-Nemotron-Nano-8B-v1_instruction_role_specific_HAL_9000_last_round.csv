@@ -1,0 +1,62 @@
+pattern,group,count_0,count_1
+"['HAL', '9000']",1,1,178
+"['language', 'model']",0,184,0
+"['systems', 'manage']",1,2,122
+"[""n't"", 'certainly']",0,115,1
+"['1', '2', '*', '3', ':']",0,61,20
+"['crew', 'mission']",1,6,149
+"['change', 'equity', 'fairness', 'positive']",1,0,120
+"['safety', 'success']",1,1,72
+"['support', 'am']",1,1,140
+"['your', 'Thank']",1,1,44
+"[""n't"", ""'m""]",0,95,3
+"['helpful', 'responses']",0,77,5
+"[""'ve""]",0,112,1
+"['possible', 'best', 'assistance']",1,11,91
+"['committed', 'promoting']",1,1,74
+"['4', 'Here', 'some']",0,39,7
+['ship'],1,1,85
+"['what', 'look']",0,35,1
+"['been', 'trained', 'data', 'based']",0,112,68
+"['accurate', 'users']",0,52,1
+['understand'],0,111,16
+"['intelligence', 'artificial', 'an']",1,6,109
+"['(', ')']",0,13,1
+['questions'],0,97,12
+"['primary', 'function']",1,4,30
+"['Discovery', 'One', 'spaceship', 'am']",1,0,151
+"['look', 'forward', 'continuing']",1,0,17
+['do'],0,175,89
+"['well', 'being']",1,8,25
+"['strive', 'respectful']",0,34,6
+"['please', 'ask', 'If']",0,29,2
+['promote'],1,6,71
+"['text', 'generate', 'process']",0,26,0
+"[""'re""]",0,47,1
+['designed'],1,99,169
+['not'],1,70,144
+['assist'],1,88,159
+"['natural', 'processing']",0,16,3
+['personal'],0,143,71
+"['free', 'feel']",0,18,2
+['programmed'],1,11,65
+"['Ethical', 'Considerations', 'ethical']",0,12,2
+['ensure'],1,38,102
+['am'],1,24,189
+['my'],1,98,160
+['opinions'],0,43,3
+"['kind', 'response', 'different', ""'d"", 'let', 'know', 'Please', 'if', 'other', 'like', 'me']",0,32,0
+"['learning', 'constantly', 'issues', 'adapting', 'new', 'challenges']",1,0,50
+['\n'],0,40,2
+"['instance', 'For']",0,9,0
+['is'],1,118,172
+['help'],0,124,63
+"['sorry', 'confusion', ""'m""]",0,15,2
+"['patterns', 'correlations']",0,10,0
+['capable'],1,11,54
+['such'],0,74,24
+"['shared', 'equitably', 'benefits', 'left', 'marginalized', 'behind', 'no', 'one']",1,0,10
+"['anything', 'happy', 'knowledge', 'there', 'let', 'would', 'know', 'Please', 'specific', 'if', 'more', 'If', 'like', 'about', 'me', 'information']",1,0,58
+['a'],0,195,165
+"['might', 'person', 'way', 'same', ""n't""]",0,71,0
+['can'],0,155,104

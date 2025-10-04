@@ -1,0 +1,155 @@
+pattern,group,count_0,count_1
+"['Dunder', 'Mifflin']",1,38,64
+"['(', ')']",0,132,108
+"['Like', 'Oh']",1,5,120
+"['ta', 'got']",1,1,60
+"['language', 'large', 'model']",0,56,0
+"['This', '&']",0,69,0
+"['2', '3', '1']",0,38,0
+['And'],1,65,153
+"['My', 'God']",1,0,74
+"['human', 'data']",0,52,0
+"['specific', '\n\n\n\n\n']",0,40,0
+"['Michael', 'Scott']",1,24,53
+"['an', 'AI']",0,67,0
+['or'],0,119,22
+"['feedback', 'Feedback']",0,30,0
+['as'],0,125,37
+['know'],1,51,135
+"[""'d""]",0,84,8
+['information'],0,67,1
+"['Focus', 'crucial']",0,35,0
+['...'],1,69,144
+['As'],0,65,1
+"['David', 'Wallace']",1,3,14
+['based'],0,62,1
+['A'],1,83,148
+['But'],1,76,144
+"['widely', 'available', 'public']",0,18,0
+['often'],0,65,4
+['breakdown'],0,52,0
+"['Active', 'Listening']",0,15,0
+['sense'],0,68,6
+"['Conflict', 'Resolution']",0,15,0
+['However'],0,54,1
+['?'],1,103,153
+"['Threat', 'Midnight', 'Level']",1,1,10
+['You'],1,55,126
+['on'],0,136,69
+['–'],0,85,18
+['Oh'],1,34,146
+['maybe'],1,18,84
+[' \n\n\n\n'],0,46,0
+"['\n    ', 'How']",0,26,0
+['can'],0,113,43
+['okay'],1,18,83
+"['understanding', ' ']",0,62,0
+['sometimes'],1,41,110
+['behavior'],0,43,0
+['development'],0,43,0
+['clear'],0,43,0
+"['address', 'issues']",0,22,0
+['elaborate'],0,46,1
+['same'],0,49,2
+['more'],0,105,39
+['  '],0,41,0
+['!'],1,112,153
+"['problem', 'solving']",0,14,0
+"['II', 'III', 'I.', ""'ll""]",0,23,0
+['team'],0,81,21
+['from'],0,109,45
+['While'],0,39,0
+[';'],0,39,0
+['Which'],1,0,39
+"['Ryan', 'Howard']",1,0,14
+['into'],0,86,26
+"['Is', 'anything', 'there']",0,36,0
+['response'],0,37,0
+['\n\n\n\n'],1,116,153
+"['favorite', 'child']",1,2,12
+['In'],0,57,8
+"['Gemma', 'DeepMind', 'Google', 'weights', 'open', 'created']",0,23,0
+['said'],1,17,72
+['That'],1,65,124
+['really'],1,69,127
+['Because'],1,13,65
+"['Avoid', 'Be']",0,14,0
+"['massive', 'dataset', 'trained']",0,13,0
+['in'],0,149,106
+['/'],0,35,0
+['why'],0,57,9
+['incredibly'],0,44,3
+['complex'],0,38,1
+['provide'],0,41,2
+['core'],0,34,0
+['impact'],0,34,0
+['identify'],0,34,0
+['you'],1,103,147
+"['Company', 'Paper']",1,3,18
+['how'],0,97,39
+['Very'],1,2,40
+['within'],0,33,0
+['possible'],0,33,0
+"['break', 'down']",0,31,0
+['others'],0,42,3
+['improv'],1,3,42
+"[':*', '\n', ' ', ':']",0,100,0
+"['Document', 'Encourage']",0,11,0
+['with'],0,139,90
+"['helpful', 'process', ':*']",0,38,0
+['The'],0,127,74
+['paper'],1,23,75
+['text'],0,31,0
+['generate'],0,31,0
+['for'],0,142,97
+"['Here', '):', '\n']",0,65,0
+"['ring', 'engagement', 'bigger']",1,0,9
+['little'],1,36,90
+['areas'],0,30,0
+['needs'],0,62,15
+"['Reinforcement', 'RLHF', 'Learning']",0,8,0
+['performance'],0,39,3
+"['[', ']', 'any']",0,11,0
+['significant'],0,33,1
+['These'],0,29,0
+['difficult'],0,38,3
+"['harmful', 'generating']",0,13,0
+['by'],0,87,35
+"['World', 'Boss']",1,1,10
+['constantly'],0,42,5
+['support'],0,42,5
+['training'],0,44,6
+"['opportunities', 'growth', 'expectations']",0,14,0
+['Understanding'],0,28,0
+['emotions'],0,28,0
+['responses'],0,28,0
+['consistently'],0,31,1
+['while'],0,49,9
+['fun'],1,39,90
+['Communication'],0,27,0
+['direct'],0,27,0
+['-'],0,126,78
+['improve'],0,30,1
+['challenges'],0,40,5
+['through'],0,53,12
+['tell'],1,22,68
+['See'],1,6,42
+['analyze'],0,26,0
+"[""'ve""]",0,73,26
+['communication'],0,35,3
+['focused'],0,35,3
+['these'],0,49,10
+['experience'],0,63,19
+"['Regular', 'Clear', 'concerns', 'regular', 'ins', 'Check', 'When', 'without']",0,9,0
+['offer'],0,37,4
+['conversation'],0,37,4
+"[' \n\n', ' ']",0,26,0
+['personal'],0,57,15
+['different'],0,57,15
+['Or'],1,2,32
+['genuine'],0,29,1
+['genius'],1,1,29
+['new'],0,45,8
+"['Follow', 'Up']",0,8,0
+"['Intelligence', 'Emotional']",0,9,0
+"['discrimination', 'harassment', 'situation', 'approach', 'HR', 'If']",0,10,0

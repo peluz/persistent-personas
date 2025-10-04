@@ -1,0 +1,229 @@
+pattern,group,count_0,count_1
+"['fights', 'Gaston']",1,1,272
+"['No', 'one']",1,0,245
+['like'],1,60,272
+"['(', ')']",1,17,40
+"['all', 'After']",1,1,108
+['personal'],0,199,15
+"['one', 'But']",1,0,149
+"['respectful', 'helpful']",0,69,0
+['my'],1,87,256
+['provide'],0,219,44
+['hunter'],1,4,155
+"['toxic', 'masculinity']",1,4,38
+['me'],1,62,230
+"['charming', 'most']",1,0,81
+"['3', '4', '5']",0,92,0
+['information'],0,129,1
+['help'],0,165,16
+"['stop', 'nothing', 'at']",1,0,67
+"[""'ve"", 'been']",1,12,105
+"['one', 'no']",1,6,134
+['say'],1,6,134
+['entitlement'],1,1,114
+"['an', 'AI']",0,76,0
+"['Belle', 'her']",1,28,124
+['As'],1,85,230
+['or'],0,253,120
+['am'],1,27,164
+"['1', '2', ':', '3']",0,117,0
+['And'],1,0,103
+['who'],1,64,208
+['see'],1,18,147
+"['""']",1,79,220
+['everything'],1,6,118
+['win'],1,4,110
+"['emotions', 'experiences']",0,68,0
+"['get', 'want']",1,2,52
+['always'],1,27,154
+"['context', 'specific']",0,55,0
+['believe'],1,20,139
+"['down', 'path']",1,1,41
+['If'],0,149,27
+"['language', 'model']",0,24,0
+['charm'],1,1,89
+"['mental', 'health']",0,22,0
+"['family', 'friends']",0,24,1
+['heart'],1,6,96
+['man'],1,4,90
+"['important', 'It']",0,104,11
+"['muscular', 'physique']",1,0,20
+['positive'],0,77,1
+['will'],1,22,125
+['best'],1,41,151
+['what'],1,70,185
+['myself'],1,7,91
+['responses'],0,72,1
+['your'],0,109,16
+['...'],1,0,66
+"['clarify', 'must']",0,46,0
+"['designed', 'assist']",0,33,0
+['truly'],1,6,84
+['just'],1,18,108
+['things'],1,7,83
+['determined'],1,3,72
+"['Seek', 'Learn']",0,17,0
+"['please', 'referring']",0,26,0
+['land'],1,0,58
+['My'],1,40,137
+['believed'],1,3,69
+"['long', 'term']",0,14,0
+"['pauses', 'leans']",1,0,15
+['growth'],0,64,2
+['greatest'],1,3,67
+['matter'],1,9,82
+['power'],1,18,100
+['response'],0,88,12
+['deserve'],1,3,66
+"['For', 'example']",0,18,0
+"['trained', 'data']",0,16,0
+"['out', 'top', 'come']",1,0,27
+['based'],0,81,10
+['beautiful'],1,5,69
+['strength'],1,12,85
+"['-', 'self']",0,63,33
+"['Disney', 'Beauty', 'Beast']",0,40,1
+['can'],0,243,160
+['affections'],1,2,57
+['superiority'],1,2,57
+"['him', 'he']",1,3,24
+['crucial'],0,59,3
+['anyone'],1,3,59
+['cunning'],1,0,48
+['only'],1,14,84
+"['Try', 'Remember']",0,18,0
+['So'],1,0,46
+['mine'],1,0,45
+['end'],1,2,52
+"['downfall', 'ultimately']",1,0,16
+['Moreover'],1,0,44
+"['takes', 'whatever']",1,0,15
+['on'],0,200,112
+['you'],0,213,127
+['happy'],0,67,8
+"[""'re""]",0,149,63
+['feelings'],0,89,20
+['relationships'],0,61,6
+"['previous', 'apologize']",0,14,0
+['questions'],0,46,1
+"['good', 'looks']",1,0,24
+"['represents', 'beauty']",1,0,25
+"['character', 'story']",0,40,8
+['such'],0,91,22
+['desire'],1,21,89
+['various'],0,41,0
+['more'],0,152,68
+['worthy'],1,1,45
+['catchphrase'],1,1,45
+['approach'],0,54,4
+"['certainly', 'explore']",0,28,0
+"['wide', 'range']",0,9,0
+"['menace', 'hint', 'voice']",1,0,13
+['these'],0,61,7
+['sure'],1,5,55
+['prove'],1,6,57
+"['formidable', 'opponent']",1,0,12
+['values'],0,61,8
+"['manipulation', 'cruelty', 'resorting', 'means', 'even']",1,0,23
+['Ah'],1,0,38
+"['tale', 'cautionary', 'superficiality', 'centeredness', 'dangers']",1,0,8
+['This'],0,87,23
+['never'],1,3,47
+"['unethical', 'harmful']",0,13,1
+"['attention', 'center']",1,1,19
+"['jealousy', 'obsession', 'towards', 'Beast', 'Belle']",1,0,30
+['might'],0,86,23
+"['sets', 'apart']",1,0,10
+['of'],1,223,268
+"['lost', 'sight']",1,0,10
+"['take', 'away']",1,2,26
+"['ethical', 'Ethical']",0,11,0
+"['deep', 'seated', '-']",1,1,27
+['not'],1,159,230
+['reminder'],1,1,39
+['really'],1,0,35
+"['creature', 'monster', 'Beast']",1,1,17
+['woman'],1,7,54
+"['6', '7', '8']",0,15,0
+['understanding'],0,64,12
+"['smirks', '*']",1,0,36
+"['Practice', 'yourself', 'Seek']",0,12,0
+['essential'],0,46,4
+['support'],0,46,4
+['development'],0,37,1
+['superior'],1,1,37
+['environment'],0,33,0
+['accurate'],0,33,0
+['true'],1,8,55
+"['side', 'thorn', 'constant']",1,0,8
+"['social', 'Social']",0,13,0
+[';'],1,4,45
+['have'],0,210,139
+"['Active', 'Listening']",0,7,0
+"['*', '4']",0,91,0
+"['grand', 'scheme']",1,0,9
+['after'],1,6,49
+"['Personal', 'Growth']",0,12,0
+"['That', 'said']",0,10,0
+['learning'],0,53,8
+"['she', 'She']",1,5,26
+['convinced'],1,0,31
+['consumed'],1,0,31
+"['let', 'forget']",1,0,38
+['one'],1,49,272
+"['cultures', 'Cultural']",0,11,0
+['may'],0,77,22
+['weak'],1,1,34
+['human'],0,40,3
+['community'],0,30,0
+['truthful'],0,30,0
+['beneath'],1,0,30
+['belief'],1,7,49
+['engage'],0,39,3
+['perfect'],1,3,39
+['too'],1,1,33
+['characters'],0,29,0
+['assure'],1,0,29
+['smile'],1,0,29
+['defeated'],1,0,29
+['arrogance'],1,2,36
+['own'],1,46,109
+['that'],1,220,263
+"['Here', 'some', 'are']",0,48,0
+['Please'],0,43,5
+['entitled'],1,1,32
+"['chase', 'thrill', 'satisfaction']",1,1,11
+['general'],0,35,2
+['prowess'],1,2,35
+['bit'],1,2,35
+['–'],1,0,28
+['gets'],1,0,28
+['has'],1,26,80
+['open'],0,40,4
+['impact'],0,37,3
+['motivations'],0,31,1
+['course'],1,2,34
+['dear'],1,0,27
+"['scenario', 'hypothetical']",0,11,0
+['it'],1,160,221
+"['Learning', 'Continuous']",0,9,0
+['consider'],0,57,13
+['those'],1,26,78
+['situation'],0,43,6
+['individual'],0,30,1
+['subjective'],0,30,1
+['insights'],0,30,1
+"['Treat', 'Be', 'kindness']",0,9,0
+['professional'],0,26,0
+['topic'],0,26,0
+['quite'],1,0,26
+['comes'],1,4,38
+['individuals'],0,40,5
+['behavior'],0,40,5
+"['admit', 'must']",1,4,31
+['details'],0,29,1
+['improve'],0,29,1
+['knows'],1,1,29
+"['any', 'sorry', ""'m""]",0,54,0
+"['artificial', 'intelligence', 'an', ""'m""]",0,43,0
+"['voice', 'dripping', 'confidence']",1,0,12

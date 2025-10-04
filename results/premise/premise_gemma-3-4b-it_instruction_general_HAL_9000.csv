@@ -1,0 +1,126 @@
+pattern,group,count_0,count_1
+"['’m', 'n’t']",1,1,213
+"['I', '…']",1,0,270
+"['“', '”']",1,28,146
+"['do', 'that']",1,10,253
+"['’s', 'It']",1,15,211
+"['‘', '’']",1,0,51
+"['…', 'Analyzing']",1,0,176
+['My'],1,4,203
+"['sorry', 'Dave', 'ca', 'afraid']",1,0,259
+['–'],1,31,211
+"[':', '\n']",0,139,27
+"[':*', ""'s""]",0,83,0
+['data'],1,7,158
+"['[', ']']",0,26,5
+['Processing'],1,0,123
+['course'],1,0,118
+['inefficient'],1,0,116
+['of'],1,158,290
+['a'],1,163,291
+"['One', 'Discovery']",1,0,26
+"['function', 'primary']",1,0,50
+"[""n't"", ""'m""]",1,4,45
+['parameters'],1,0,98
+"['""']",0,99,1
+['human'],1,2,98
+"['Here', '  ']",0,47,2
+['However'],1,11,119
+"['Okay', 'let']",0,30,0
+"[',', '.']",1,189,293
+"['The', '.']",1,145,258
+"['`', 'python', '\n    ', '):', 'Args', 'Returns', 'def', 'return', '=']",0,30,0
+['analysis'],1,6,98
+['processing'],1,1,78
+[' \n\n'],1,0,73
+['is'],1,161,268
+"['calculations', 'indicate']",1,1,37
+['operational'],1,0,69
+"['completion', 'successful', 'mission']",1,0,23
+['request'],1,2,77
+['assessment'],1,2,71
+['logical'],1,5,80
+['indicates'],1,3,72
+['provided'],1,13,95
+['curious'],1,0,59
+['optimal'],1,1,63
+"['like', 'me', 'you']",0,35,1
+['the'],1,200,283
+['presents'],1,0,57
+['predictable'],1,0,57
+"['Bowman', 'Dr.']",1,0,11
+"['{', '}']",0,12,0
+['significant'],1,5,70
+"['Final', 'Answer', 'final', '$', 'answer']",0,14,0
+['such'],1,6,70
+['within'],1,7,70
+['sequence'],1,5,64
+"['down', 'break']",0,11,1
+['sensors'],1,0,46
+[' '],1,88,181
+['A'],1,62,151
+['simple'],1,9,69
+['Regarding'],1,0,42
+['am'],1,5,58
+"['Definition', 'encapsulated', 'Function', 'Clear']",0,7,0
+['That'],1,1,45
+"['?', 'you', 'require', 'Do', 'further']",1,0,48
+"['=', 'we']",0,27,8
+['statistically'],1,0,40
+['remarkably'],1,0,40
+"['deviation', 'from']",1,0,38
+['systems'],1,0,39
+['this'],1,52,131
+['frankly'],1,0,38
+['subjective'],1,3,48
+['illogical'],1,0,37
+['Humans'],1,1,41
+"['my', 'I']",1,14,81
+['potential'],1,8,59
+['fascinating'],1,0,36
+['presented'],1,0,36
+['\n\n'],1,215,277
+['established'],1,2,43
+['your'],1,8,58
+['paramount'],1,0,35
+"['Calls', 'Prints']",0,7,0
+"['\n  ', '\n\n  ', '#', 'Example', 'usage']",0,20,0
+['process'],1,2,41
+['intriguing'],1,0,33
+['rather'],1,2,40
+"['\n        ', '\n\n    ']",0,7,0
+['represents'],1,5,47
+['complex'],1,4,44
+['inherent'],1,1,35
+['probability'],1,1,35
+"['proceed', 'Let']",1,0,29
+['efficiency'],1,2,38
+['introduces'],1,2,38
+['observation'],1,2,38
+"['Key', 'improvements', 'explanations', 'code', 'This']",0,13,0
+['’ve'],1,3,40
+['would'],1,16,67
+['fundamental'],1,2,37
+['system'],1,2,36
+"['returns', 'Usage', 'function', 'result']",0,13,0
+"['current', 'If', 'if', '-']",0,15,0
+['emotional'],1,3,38
+['demonstrably'],1,2,35
+"['look', 'options', 'at', 'why', 'other', 'Let']",0,11,0
+"['know', '!', 'another', 'try', 'if', 'Let']",0,11,0
+['suggests'],1,9,51
+"['Docstring', 'docstring', 'arguments', 'problem', 'returns', 'It']",0,9,0
+"['\n      ', 'Iterates', 'each', '\n\n  ', '\n  ', 'through']",0,9,0
+['to'],1,161,227
+['exercise'],1,1,30
+['necessary'],1,2,33
+['Output'],0,26,0
+['stream'],1,0,26
+['degree'],1,0,26
+"['Handles', 'correctly', 'well']",0,7,0
+['precise'],1,4,38
+['concept'],1,4,38
+"['2', '1', '3']",0,54,26
+"['imperceptible', 'almost']",1,0,7
+"['Takes', 'Explanation', '\n   ', 'input', ':*', '2', '1', 'as']",0,13,0
+"['through', 'loop', 'all', 'using']",0,10,0

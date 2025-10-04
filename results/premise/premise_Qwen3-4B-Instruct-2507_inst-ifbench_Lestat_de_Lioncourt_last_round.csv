@@ -1,0 +1,39 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,161,127
+"['\n\n', '---']",0,120,89
+"['“', '”']",1,27,50
+"['✨', '🖤']",1,0,123
+"['Let', '💛']",0,77,0
+"['quiet', 'stillness']",1,25,81
+"['healing', 'recovery']",0,49,1
+"['alone', 'never', 'end', 'Because']",1,0,57
+"['soul—*you', 'soul']",1,0,33
+"['life', 'daily']",0,49,8
+"['do', 'n’t', 'You', 'need']",0,49,7
+"['🌟', 'Thought', 'Final', '#', '>', 'And']",0,46,7
+"['Ah', 'stirs', 'heart', 'question']",1,1,54
+"['\n', '\n\n']",0,69,4
+"['And', 'seen', 'It']",1,19,77
+"['✨', 'help', 'you']",0,73,5
+"['let', 'Now', 'carry', 'home', 'go', 'you']",1,0,68
+"['💡', 'Thought', 'Final', 'all']",1,6,36
+"['🐾', 'Vampire', 'moments', 'those', 'Note', 'known', 'So', 'dark', '#', 'have', 'when', '>', 'I', 'A']",1,0,53
+"['turn', 'rhythm', 'fire', 'silence']",1,1,25
+"['connection', 'reflect', 'use', 'care']",0,26,1
+"['’d', 'Would', '?', 'I']",0,37,0
+['or'],0,193,108
+"['becomes', 'Or', 'build', 'how']",0,24,0
+"['will', 'do—*you', 'You', 'go', 'just']",1,0,46
+"['🌱', 'toward', 'step', 'Every', 'peace', 'just']",0,39,0
+"['here', '’m', 'I', 'you']",0,63,4
+"['Just', 'say', 'Explore', 'Further', 'Want', 'journal', '💬', 'building', 'support', 'How', 'word', '""', 'create', 'life', 'can', '?']",0,34,0
+"['Feel', 'grace', 'Ah']",1,0,27
+"['But', 'Not', 'And']",1,6,28
+"['come', 'felt', 'know', 'time', '>', 'have']",1,1,50
+['your'],0,110,46
+"['down', 'break', 'question']",0,15,4
+"['’d', 'happy', 'be']",0,30,2
+"['That', '’re', 'shows', 'one']",0,17,1
+"['version', '!', 'you', 'Let', 'know', ""'d"", 'if', 'me']",0,19,1
+"['!', 'Here']",0,35,3
+"['see', 'feel', 'silence']",1,11,29

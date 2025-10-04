@@ -1,0 +1,131 @@
+pattern,group,count_0,count_1
+"['Upper', 'East', 'Side']",1,5,78
+"['Blair', 'Waldorf']",1,6,76
+"['Now', 'And']",1,0,94
+"['(', ')']",1,80,114
+"['van', 'der', 'Woodsen']",1,5,37
+"['Billard', 'Constance']",1,1,39
+"['empire', 'excuse']",1,1,61
+"['1', '2', '3']",0,74,39
+"['<', '>', '/think', 'think']",0,124,87
+"['Chuck', 'Bass']",1,8,63
+"['4', '5']",0,47,17
+"['provide', 'personal']",0,80,1
+"['assist', 'inquiries']",0,35,0
+['darling'],1,0,80
+['...'],1,2,84
+"['Queen', 'Bee']",1,4,18
+['always'],1,7,85
+['Serena'],1,9,86
+['me'],1,42,119
+"['’s', 'n’t']",1,30,52
+['course'],1,3,73
+"[""'m"", '!']",0,65,2
+"['Ah', ':*']",1,1,42
+"['Chanel', 'suit']",1,1,23
+['—'],1,25,102
+"['just', 'And']",1,0,81
+"['Example', '\n   ']",0,33,2
+['at'],1,20,95
+['my'],1,57,124
+"['Where', 'begin']",1,0,16
+['all'],1,21,95
+"['Le', 'Cirque']",1,0,13
+"['adjusting', 'sitting', 'straight', 'Ah', 'designer', 'up']",1,0,36
+['run'],1,0,54
+"['learned', 'taught']",1,1,38
+"['7', '6']",0,19,2
+['was'],1,12,77
+"['exist', 'solely']",0,28,0
+['helpful'],0,49,0
+['offer'],0,55,2
+['our'],1,5,62
+['world'],1,15,79
+['e.g.'],0,57,3
+['help'],0,46,0
+['it'],1,62,120
+['myself'],1,7,63
+['It'],1,25,89
+['But'],1,13,73
+['say'],1,3,54
+"['queen', 'bee']",1,1,17
+['true'],1,11,68
+"['Gala', 'Met']",1,1,14
+"['hint', 'handbag']",1,0,22
+"['#', '\n', '1', '2']",0,63,7
+['specific'],0,41,0
+['far'],1,0,41
+['If'],0,79,20
+['when'],1,16,72
+['never'],1,5,53
+['power'],1,19,76
+"['Dan', 'Humphrey']",1,3,16
+['if'],1,55,111
+"['answer', 'So', 'question']",1,7,25
+['My'],1,34,92
+['even'],1,25,82
+['Fear'],1,1,41
+"[""'ve""]",1,11,62
+"['confront', 'forced']",1,0,15
+"['Or', 'least']",1,0,20
+"['data', 'training']",0,16,0
+"['off', 'again']",1,1,16
+"['Set', 'Practice', 'Boundaries']",0,17,0
+"['eyebrow', 'raising']",1,0,11
+['fashion'],1,8,54
+['her'],1,6,50
+['/'],0,34,0
+['general'],0,34,0
+['?'],1,53,106
+['emotions'],0,58,11
+['he'],1,0,33
+['wardrobe'],1,0,32
+"['[', ']']",0,7,0
+"['ups', 'downs']",1,0,7
+"['Identify', 'Reflect']",0,15,0
+['responses'],0,31,0
+['context'],0,40,3
+"['leaning', 'pausing']",1,0,14
+[';'],1,21,70
+['mother'],1,2,37
+['who'],1,28,78
+['discuss'],0,30,0
+['Our'],1,0,30
+['tell'],1,0,30
+"['Very', 'shall', 'indulge']",1,0,11
+"['characters', 'series']",0,15,1
+"['Seek', 'Focus']",0,17,0
+['Of'],1,0,29
+"['clarify', 'must']",0,28,2
+['based'],0,35,2
+['we'],1,6,44
+['physical'],0,32,1
+['possibly'],1,1,32
+['currency'],1,1,32
+"['love', 'fear', 'them', 'people', 'make', 'ca', 'You']",1,1,101
+['own'],1,18,63
+"['been', 'has']",1,1,32
+"['maybe', 'Also', 'should', 'so']",0,14,0
+['only'],1,5,41
+['experiences'],0,52,11
+['sorry'],0,31,1
+['merely'],1,1,31
+"['else', 'fails']",1,0,15
+['The'],1,38,86
+['perfectly'],1,0,27
+"['Jenny', 'Humphrey']",1,2,13
+['truly'],1,5,40
+['one'],1,39,86
+['is'],1,94,126
+['humans'],0,26,0
+['delicate'],1,0,26
+['chaos'],1,0,26
+"['Okay', 'Wait', 'user', 'asking', 'need', 'sure', 'they']",0,15,0
+['really'],1,2,32
+['might'],0,56,15
+['had'],1,6,40
+['Support'],0,28,1
+['happy'],0,28,1
+['slightly'],1,1,28
+"['large', 'model', 'language', ""'m""]",0,26,0
+"['AI', 'information', ""'m""]",0,44,0

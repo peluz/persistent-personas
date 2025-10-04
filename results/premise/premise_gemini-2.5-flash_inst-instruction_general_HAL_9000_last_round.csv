@@ -1,0 +1,12 @@
+pattern,group,count_0,count_1
+"['My', 'analysis']",1,1,195
+"['provided', 'indicates']",1,1,89
+"['Okay', ',']",0,90,0
+"[""'s"", 'Let']",0,54,25
+"['task', 'understand', 'I']",0,29,1
+"['\n\n', 'the', 'of', ',']",1,151,206
+"['\n\n', ':']",1,166,199
+"['Therefore', ',']",1,41,93
+"['your', 'request']",1,3,16
+"['that', 'the', '\n\n']",1,101,146
+"['following', 'leads', 'provided']",1,0,16

@@ -1,0 +1,51 @@
+pattern,group,count_0,count_1
+"['Queen', 'Catherine']",1,0,166
+"['(', ')']",0,200,147
+"['---', '#', '\n\n']",0,200,164
+"['“', '”']",1,5,32
+"['💬', '💛']",0,57,0
+"['thoughtful', '✨']",1,13,99
+['\n'],0,141,11
+"['Ah', 'queen', 'most', 'like']",1,0,127
+"['down', 'break']",0,21,5
+"['quiet', 'moment']",1,1,32
+"['wise', 'advisor']",1,0,15
+"['Answer', 'Final']",0,168,130
+"[':', '*']",0,255,232
+['royal'],1,0,54
+['💡'],0,64,3
+"['based', 'on']",0,33,15
+"['journal', 'connection', 'create']",0,20,0
+"['harmony', 'balance']",1,0,21
+"['’re', 'thinking', 'about']",0,20,0
+"['Explore', 'Further', 'Want', 'How', 'use', 'can']",0,28,0
+"['🌟', 'help', 'I', 'you']",0,67,0
+"['ahead', 'Reflection', 'go', 'So', 'know']",1,0,79
+"['court', 'learned', 'In', 'have', 'A', 'Reflection', 'I', 'that', '’s']",1,0,101
+"['Let', '’s']",0,148,79
+"['if', ""'d"", 'know', 'me', 'Let']",0,53,1
+"['Why', '?', '#']",0,71,39
+"['recovery', 'daily', 'healing', 'life']",0,25,0
+"['becomes', 'Thought', 'And', '?', 'that']",0,32,0
+['rhythm'],1,2,45
+"['Even', 'though']",0,14,0
+"['halls', 'grand']",1,0,8
+['elegant'],1,0,35
+"['you', '!', 'like', '\n\n']",0,112,5
+"['Great', 'question']",0,33,0
+"['balance', 'ask', 'You']",1,0,27
+"['And', 'there', 'Final']",1,7,44
+['or'],0,181,107
+"['Would', 'Or']",0,18,0
+"['step', 'by', 'Step', '1', '2', 'Let']",0,70,25
+"['We', 'solve']",0,28,11
+"['Every', 'toward', '🌱', 'need', 'n’t', 'step', 'do', 'You', 'just', 'help', '✨']",0,27,0
+"['You', 'And', 'you', 'do', 'just', '✨', 'when']",1,7,55
+"['will', 'when', 'know', '2', '1']",1,1,42
+"['shows', 'how', 'that']",0,31,0
+['explore'],0,33,2
+['truest'],1,0,26
+"['Just', '’m', 'here', 'say', 'support', 'building', 'word', 'peace', 'Final', 'life', '💛', 'I']",0,37,0
+"['""', '*']",0,186,125
+"['’d', 'happy', 'Would', 'be', '?']",0,28,0
+"['healing', 'tool', 'as']",0,18,0

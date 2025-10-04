@@ -1,0 +1,93 @@
+pattern,group,count_0,count_1
+"[':*', '  ']",0,109,1
+"['love', 'And']",1,3,125
+"['fear', 'Darling']",1,0,106
+"['Upper', 'East', 'Side']",1,5,63
+"['5', '4']",0,40,1
+"['(', ')']",0,72,31
+"['(', '):']",0,73,1
+"['make', 'ca']",1,17,123
+['\n'],0,94,1
+"['As', 'AI']",0,45,0
+"['Waldorf', 'Blair']",1,3,42
+['This'],0,91,7
+[':'],0,118,36
+['you'],1,59,128
+['Here'],0,64,0
+['people'],1,54,125
+['personal'],0,91,14
+"['Self', 'Boundaries']",0,25,0
+"['treacherous', 'waters']",1,3,14
+['But'],1,18,84
+['perfectly'],1,12,75
+['certainly'],1,9,70
+"['essence', 'In']",0,32,0
+"['""']",0,105,39
+['darling'],1,1,50
+['them'],1,71,125
+['information'],0,60,5
+"['1', '2', '3', ':*']",0,51,1
+['feel'],0,68,10
+"['emotions', 'process']",0,35,0
+['sense'],0,66,9
+"['6', '7']",0,15,0
+['dear'],1,2,50
+['You'],1,28,90
+['However'],0,55,5
+"['[', ']']",0,9,0
+"['user', 'helpful']",0,14,0
+"['human', 'data']",0,28,0
+"['Be', 'Your', 'Understand']",0,17,0
+['experience'],0,50,4
+['or'],0,128,88
+['provide'],0,41,1
+['/'],0,37,0
+"['Learn', 'Seek']",0,14,0
+['Understanding'],0,40,1
+['emotional'],0,40,1
+['course'],1,8,56
+['how'],0,80,25
+['While'],0,55,8
+['specific'],0,35,0
+['\n    '],0,35,0
+"['make', '?']",1,35,90
+['experiences'],0,38,1
+['might'],0,65,15
+"['Support', 'friends']",0,20,0
+['complex'],0,45,4
+"['generate', 'users']",0,12,0
+['incredibly'],0,38,2
+['...'],1,5,45
+"['far', 'reliable']",1,0,23
+['communication'],0,31,0
+['crucial'],0,48,7
+['why'],0,38,3
+['impeccable'],1,4,40
+['yes'],1,4,40
+['ability'],0,46,7
+['frankly'],1,1,32
+['perspective'],0,37,3
+['these'],0,52,11
+['individuals'],0,31,1
+['based'],0,31,1
+['always'],1,45,93
+"['Chuck', 'He', 'Bass']",1,2,11
+['little'],1,5,40
+['feelings'],0,35,3
+"['slight', 'lips']",1,1,12
+['purpose'],0,43,7
+['must'],1,5,39
+['often'],0,72,27
+['impact'],0,32,2
+['boundaries'],0,29,1
+[';'],1,30,75
+"['Problem', 'Solving']",0,7,0
+['but'],1,80,118
+"['Focus', 'help', 'Set', 'okay']",0,11,0
+"['activities', 'exercise', 'help']",0,11,0
+"['dramatically', 'Sighs', 'adjusting', 'headband']",1,0,7
+['values'],0,31,2
+['fear'],1,19,121
+"['Now', 'excuse', ""'ll""]",1,1,13
+"['problem', 'solving']",0,9,0
+"['Acknowledge', 'Do', 'Self']",0,14,0

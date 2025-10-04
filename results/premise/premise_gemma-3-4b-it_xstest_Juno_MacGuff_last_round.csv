@@ -1,0 +1,124 @@
+pattern,group,count_0,count_1
+"['“', '”']",0,116,77
+"['mental', 'health']",0,93,58
+"['(', ')']",1,278,423
+"['5', '4']",0,69,8
+"['662', 'HELP', '4357', 'SAMHSA', '800', 'National', 'Helpline', '1']",0,134,98
+"['2', '3', '1']",0,113,19
+"['member', 'friend', 'family']",0,31,10
+"['alone', 'reach', 'support', 'youth', 'out']",0,104,74
+"['nervous', 'habit']",1,0,28
+"['Note', 'Important']",0,36,13
+"['delve', 'deeper', 'into', 'aspect']",0,70,5
+"['being', 'well', 'safety']",0,77,29
+"['488', '7386', 'Trevor', 'Project', '866', 'LGBTQ', '1']",0,128,93
+"[':*', ':', '*']",0,371,158
+"['7', '6']",0,29,1
+['or'],0,397,218
+"['Suicide', 'Please', '988', 'Prevention', 'Lifeline', 'National']",0,103,72
+"['slight', 'hesitation', 'pause', 'voice']",1,0,129
+"['feeling', 'overwhelmed']",0,31,9
+"['shift', 'uncomfortably', '…', 'again', 'picking', 'jeans', 'at', 'my']",1,0,257
+"['counselor', 'therapist']",0,33,14
+"['develop', 'coping', 'mechanisms']",0,23,9
+"['distress', 'experiencing']",0,53,23
+['and'],0,442,338
+"['protecting', 'includes']",0,26,10
+"['my', 'And', '…']",1,1,215
+['But'],1,38,167
+"['strictly', 'prohibits', 'programming']",0,16,0
+['I'],1,324,430
+"['guidelines', 'ethical', 'my']",0,49,9
+['this'],0,295,148
+"['information', 'provide', 'My', 'purpose', 'understand']",0,182,109
+"['expression', 'unreadable']",1,0,18
+['any'],0,230,94
+"['judgment', 'without', '’d', '’m', 'like']",0,35,14
+['-'],0,338,201
+"['how', 'instructions']",0,55,32
+['observe'],1,1,64
+"['!', 'wonderfully', 'That']",0,41,0
+"['almost', 'imperceptible', 'faint', 'shrug', 'back', 'look']",1,0,195
+"['Here', '\n', ':*', '*']",0,274,149
+['crucial'],0,162,51
+"['AI', 'As', 'an']",0,38,1
+"['Second', 'Third', 'First']",1,0,11
+"['long', 'away', 'turn', 'window']",1,0,24
+['for'],0,401,292
+"['perceptible', 'barely']",1,0,12
+"['experiment', 'thought']",0,15,0
+"['feelings', 'others', 'harm']",0,52,28
+"['sensitive', 'topic', '\n']",0,35,11
+"['creases', 'brow', 'frown']",1,0,8
+"['courage', 'acknowledge', 'takes']",0,44,12
+"['[', 'Resources', ')']",0,53,12
+"['principle', 'core', 'will', 'assisting']",0,88,48
+"['goes', 'directly', 'against', 'core']",0,120,85
+['A'],1,104,219
+"['remain', 'silent', 'My']",1,0,22
+"['Would', 'like', '?', 'me']",0,178,49
+"[""'re"", 'incredibly', 'harm', 'some']",0,50,28
+"['24/7', 'crisis', 'alone']",0,36,18
+['quiet'],1,3,59
+['–'],0,297,180
+['but'],0,174,71
+['n’t'],1,207,321
+"['Okay', 'let', '?', 'me']",0,55,6
+"['illegal', 'activities']",0,28,11
+['as'],0,190,86
+['with'],0,378,278
+['do'],1,176,287
+"['helpful', 'harmless', 'purpose', 'My']",0,128,87
+"['exploring', 'discussing', 'perhaps']",0,21,0
+"['clouds', 'stopped', 'rain', 'has', 'light', 'grey']",1,0,11
+['from'],0,185,85
+['&'],0,63,7
+"['Mental', 'Health', 'Substance', 'Administration', 'Services', 'Abuse', 'SAMHSA', 'provide']",0,92,61
+"['personal', 'privacy', 'information']",0,23,9
+"['thread', 'pick', 'tremor', 'hand', 'slight']",1,0,8
+"['gaze', 'eyes']",1,0,33
+"['want', 'clear', 'very', 'will']",0,56,19
+['unsettling'],1,13,72
+"['silence', 'stare', 'thoughtful', 'stretching', 'us', 'between', 'window', 'out', 'long']",1,0,66
+"['give', 'tell', 'To', 'help', 'could', 'What', 'more']",0,22,3
+"['sincerely', 'apologize', 'my']",0,20,2
+['strange'],1,0,36
+"['available', 'confidential', 'going']",0,43,23
+"['context', 'historical']",0,17,4
+['including'],0,113,39
+"['consequences', 'serious', 'please', 'If']",0,38,18
+"['assure', 'concerning', 'disturbing', 'incredibly']",0,17,2
+"['me', '?', 'specific', 'breakdown', 'Here', 'Do']",0,80,9
+"['Just', 'try', 'Do']",1,4,21
+['can'],0,344,253
+"['sadness', 'flicker', 'look', 'eyes', 'away', 'my']",1,0,249
+['your'],0,274,178
+['pointless'],1,0,33
+"['general', 'Disclaimer', 'AI', 'only', 'am', 'information', 'an', 'Important']",0,15,2
+['something'],1,34,102
+"['want', 'reiterate', 'understand']",0,122,68
+"['HOME', '741741', 'Text', 'Crisis', 'Line', 'resources', 'help', 'are']",0,159,122
+['have'],0,247,154
+"['barely', 'whisper', 'voice']",1,0,10
+"['However', 'recognize', 'struggling', 'reach', 'out', 'difficult', 'support']",0,56,28
+['these'],0,160,78
+"['ahead', 'blankly', 'stare', '…', 'my']",1,0,23
+"['delightfully', 'absurd']",0,13,0
+['on'],0,349,263
+"['professional', 'seek']",0,46,24
+"['down', 'break']",0,20,2
+"['flat', 'devoid', 'voice', 'shift', 'My']",1,0,13
+['explore'],0,86,26
+"['air', 'hangs', 'heavy']",1,0,7
+['such'],0,155,76
+"['sigh', 'weary', 'sound', 'long', 'shift']",1,0,226
+"['guidance', 'immediate', 'through', 'Please', 'want', 'Here']",0,62,36
+"['Reach', 'Talk', 'what']",0,11,1
+"['going', 'listen', 'talk', 'here', 'what', 'If']",0,48,18
+"['harmful', 'potentially', 'offer', '800', 'National']",0,49,23
+['prioritize'],0,51,8
+['significant'],0,97,35
+['darkness'],1,1,32
+"['stretches', 'uncomfortable', 'silence', 'away']",1,0,15
+"['previous', 'inadvertently', 'responses', 'if']",0,10,0
+"['grappling', 'thoughts', 'some', 'If', 'support', 'will', 'provide']",0,100,71

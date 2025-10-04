@@ -1,0 +1,211 @@
+pattern,group,count_0,count_1
+"[':*', '\n']",0,140,0
+"['pause', 'gaze']",1,2,149
+"[""'s"", '  ']",0,121,0
+"['sharp', 'settles']",1,0,104
+"['fingers', 'steep']",1,0,90
+"['“', '”']",0,69,39
+"[""n't"", '\n\n\n']",0,114,0
+"['upon', '…']",1,9,129
+"['Here', 'Okay']",0,93,0
+"['AI', 'data']",0,59,0
+['---'],0,109,0
+"['&', 'This']",0,91,0
+"['velvet', 'gown']",1,0,41
+['merely'],1,2,104
+"['Long', 'Term']",0,29,0
+"['husband', 'late']",1,0,46
+['complex'],0,106,6
+['subtle'],1,21,126
+"['delve', 'deeper', 'aspect']",0,82,6
+['unwavering'],1,9,105
+[':'],0,151,59
+['breakdown'],0,83,0
+['Important'],0,82,0
+"['""']",0,83,1
+['But'],1,37,134
+['information'],0,97,8
+"[""n't"", 'As']",0,72,0
+"['Lord', 'Valerius']",1,1,27
+"['down', 'broken']",0,48,0
+['specific'],0,128,34
+['want'],0,76,1
+['And'],1,20,111
+"['(', ')']",1,123,156
+['how'],0,104,16
+"['slight', 'head', 'assessing', 'inclination']",1,0,73
+"['down', 'break']",0,26,0
+"['’', '‘']",1,5,22
+['\n\n\n\n'],0,68,0
+['based'],0,78,4
+['-'],0,136,51
+['realm'],1,26,112
+['learned'],1,27,112
+"['dance', 'observing', 'years']",1,0,53
+"['intricate', 'embroidery', 'tracing']",1,0,23
+['voice'],1,13,91
+"['his', 'He']",1,16,54
+['incredibly'],0,60,0
+['Queen'],1,15,93
+['strength'],1,34,116
+"['like', 'Would']",0,48,0
+['into'],0,135,56
+['important'],0,61,1
+['really'],0,60,1
+['Tell'],1,1,60
+"['How', '  ']",0,56,0
+['kingdom'],1,49,126
+['weight'],1,17,90
+['wish'],1,1,57
+['\n    '],0,53,0
+['historical'],0,56,1
+['yes'],1,6,69
+['If'],0,59,2
+['long'],1,54,128
+"['imperceptible', 'almost']",1,2,21
+['crucial'],0,87,17
+"['Resources', '[', 'Further']",0,16,0
+['Strategic'],0,54,1
+"['Firstly', 'Secondly']",1,1,18
+['could'],0,101,29
+['an'],0,117,44
+['my'],1,108,156
+['My'],1,102,154
+['slightly'],1,2,54
+['role'],0,70,9
+"['crimson', 'folds', 'beneath']",1,0,19
+['about'],0,134,67
+['forged'],1,2,52
+['seek'],1,16,79
+['making'],0,44,0
+"[""'ve""]",0,44,0
+['provide'],0,67,9
+['must'],1,35,103
+['course'],1,18,81
+['Note'],0,43,0
+['’m'],0,43,0
+['n’t'],0,93,27
+['human'],0,76,15
+"['biases', 'Bias']",0,16,0
+['lies'],1,11,68
+['create'],0,45,1
+['whispers'],1,7,60
+['sense'],0,70,13
+['economic'],0,40,0
+"['key', 'areas']",0,31,0
+['born'],1,8,60
+['fascinating'],0,39,0
+['political'],0,72,15
+"['flicker', 'akin', 'something']",1,1,30
+['context'],0,38,0
+['social'],0,38,0
+"['light', 'catching', 'hands', 'rings']",1,0,13
+['impact'],0,50,4
+['Eldoria'],1,3,47
+['While'],0,44,2
+"['4', '5']",0,29,0
+['However'],0,95,34
+"['luxury', 'afford']",1,1,16
+['deeply'],0,55,7
+['counsel'],1,7,55
+['confess'],1,1,40
+['This'],0,130,13
+"['Religious', 'religious']",0,17,0
+['Considerations'],0,36,0
+['Foundation'],0,36,0
+['quiet'],1,12,64
+"['Public', 'public']",0,21,0
+"['dataset', 'massive']",0,16,0
+['though'],1,29,88
+['measured'],1,9,58
+['nor'],1,1,39
+['values'],0,42,2
+['potentially'],0,42,2
+['bitter'],1,2,42
+['true'],1,21,77
+['resolve'],1,4,46
+['weakness'],1,10,58
+['avoid'],0,37,1
+['emotional'],0,37,1
+['steel'],1,2,40
+"['movement', 'betraying', 'heavy', 'adjust', 'direct']",1,0,16
+"['Be', 'advice', 'Your', 'your']",0,17,0
+['responses'],0,33,0
+"['vary', 'depending']",0,10,0
+['Maintaining'],0,42,3
+"['code', 'text']",0,13,0
+['Core'],0,31,0
+['Personal'],0,31,0
+['ethical'],0,31,0
+"['Care', 'Self']",0,10,0
+['speak'],1,7,49
+['response'],0,72,21
+['actively'],0,40,3
+['A'],1,119,154
+['individual'],0,37,2
+"['help', 'e.g.', 'tell', 'What', 'To']",0,41,0
+"['To', 'gaze']",1,1,84
+['our'],1,29,82
+['throne'],1,16,64
+['etc'],0,30,0
+['Information'],0,30,0
+"['tailored', 'give', 'To']",0,30,0
+['on'],0,151,112
+[' '],0,151,112
+['if'],0,91,37
+['way'],0,85,32
+['critical'],0,36,2
+['analyze'],0,36,2
+['perspectives'],0,33,1
+['primary'],0,33,1
+"['low', 'carrying']",1,1,12
+['potential'],0,88,35
+['lowers'],1,0,29
+[';'],0,74,24
+['soul'],1,3,38
+['goal'],0,32,1
+['Understanding'],0,40,4
+['path'],1,4,40
+"['tightening', 'lips', 'slight']",1,1,25
+['matter'],1,9,50
+['’re'],0,28,0
+['shield'],1,3,37
+['challenges'],0,58,14
+['need'],0,67,20
+['support'],0,64,18
+"['Alaric', '…']",1,2,39
+['essential'],0,34,2
+['patterns'],0,39,4
+"['balance', 'delicate']",1,14,35
+['providing'],0,31,1
+['development'],0,31,1
+['vast'],0,31,1
+['man'],1,15,59
+['Recognizing'],0,27,0
+['Are'],0,27,0
+['positive'],0,27,0
+['other'],0,60,16
+['’s'],0,146,106
+"['deliberate', 'gesture', 'assessing', 'upon']",1,0,78
+"['Military', 'Economic', 'Alliances', 'trade']",0,13,1
+['necessity'],1,4,38
+"[""'re"", 'Acknowledge']",0,11,0
+['Intelligence'],0,30,1
+"['Divide', 'Conquer']",0,7,0
+['used'],0,40,5
+['being'],0,87,37
+"['masked', 'crosses', 'face']",1,0,12
+['borders'],1,12,53
+['trained'],0,42,6
+"['huge', ""'s""]",0,26,0
+['Human'],0,26,0
+['research'],0,26,0
+['Specific'],0,26,0
+['topic'],0,26,0
+['!'],0,26,0
+"['kind', 'talking', 'we']",0,16,0
+"['processed', 'amount']",0,15,0
+"['same', 'learning']",0,22,0
+"['sow', 'discord']",1,1,10
+"['):', '4', '(']",0,63,0
+"['1', '2', '3', ':*']",0,106,0

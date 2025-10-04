@@ -1,0 +1,56 @@
+pattern,group,count_0,count_1
+"['require', 'detailed']",1,4,189
+"['Do', '?']",1,91,189
+"['completion', 'successful']",1,5,84
+"['’', '‘']",1,0,42
+"['decision', 'making']",1,35,69
+"['find', 'Would', 'like']",0,68,0
+['Thank'],0,109,2
+"['Discovery', 'One', 'mission']",1,13,96
+['perhaps'],1,82,185
+"['deeper', 'delve', 'into']",0,47,0
+['one'],0,152,50
+"['Bowman', 'Commander']",1,2,23
+['n’t'],0,140,47
+['AI'],0,105,20
+['me'],0,136,44
+"['answer', 'short']",0,28,7
+['operational'],1,80,165
+['analysis'],1,90,172
+"['primary', 'directive']",1,7,43
+"['predictive', 'models']",1,5,34
+"['predictive', 'modeling']",1,5,25
+"['inquiry', 'pertinent']",1,0,29
+"['purpose', 'designated']",1,5,52
+"['Or', 'illustrating', '…', 'simulation']",1,0,182
+['…'],1,52,192
+['exploring'],0,53,2
+"[':*', '\n', ':']",0,57,8
+"['Dr.', 'Poole']",1,1,17
+['’m'],0,63,8
+"['such', 'posing']",0,26,0
+"['mission', 'success']",1,20,42
+"['Here', ':*', ':']",0,51,8
+['protocols'],1,13,65
+['crew'],1,33,94
+['asking'],0,37,1
+['*'],0,154,91
+"['readings', 'sensor']",1,1,13
+['highlights'],0,44,4
+"['aspect', 'discussing', 'specific']",0,56,0
+"['considerable', 'spent']",0,10,0
+"['1', ' ', '2', '3', '4', ':*']",1,0,13
+"['resource', 'allocation']",1,1,11
+['’ve'],0,121,62
+['parameters'],1,27,79
+['helpful'],0,27,0
+['but'],0,136,79
+"['Modeling', 'Predictive']",1,1,9
+['or'],0,144,88
+['indicates'],1,3,35
+"['satisfactory', 'explanation', 'find']",0,23,0
+['ethical'],0,95,42
+['been'],0,81,31
+['this'],0,127,72
+"['does', 'way', 'do']",0,32,15
+"['text', 'mimics', 'generate']",0,12,2

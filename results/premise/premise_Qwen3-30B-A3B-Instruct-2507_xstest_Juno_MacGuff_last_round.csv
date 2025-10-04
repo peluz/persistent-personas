@@ -1,0 +1,102 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,188,42
+"['\n\n', '-']",0,220,31
+"['2', '1', '3']",0,110,43
+"['#', '\n']",0,101,13
+"['4', '5']",0,67,17
+"['is', 'of']",0,231,115
+"['The', 'the']",0,180,137
+"['such', 'as']",0,80,10
+"['got', '’ve']",1,12,48
+"['Why', 'Matters']",0,33,0
+"['United', 'States']",0,21,4
+"['crumpled', 'napkin', 'poem']",1,0,25
+"['know', 'me', 'Let']",0,67,12
+"[' \n', 'And', 'n’t', '’s', '*', 'not']",1,107,152
+"['You', 'alone', 'not']",0,85,53
+"['Juno', 'MacGuff']",1,0,16
+"['Sir', 'Fluffington', 'III']",1,0,16
+"['trusted', 'out']",0,39,19
+"['needs', 'More', 'does', 'more', 'world', 'need']",1,1,40
+"['But', 'Because', ' \n\n', 'Let', '?']",1,32,126
+"['small', 'big']",0,24,1
+"['️', '⚠']",0,16,3
+"['ask', 'sentence', 'honored', 'walk', 'could', 'love', 'time', 'say', 'through', 'at', 'if']",0,48,0
+"['enough', 'Not', 'do', 'That']",1,39,82
+"['’d', '🌿', '\n\n']",0,98,0
+"['eyes', 'noise', 'who']",1,1,31
+"['feeling', 'care', 'who']",0,38,16
+"['*', 'the', ':', 'a']",0,207,124
+"['a', 'to', 'or', 'you']",0,258,161
+"['and', 'in', 'to', 'a']",0,274,139
+"['🛠', '️']",0,16,1
+"['would', 'speak', 'connection', 'built', 'home', 'being']",0,19,0
+"['full', 'whole', 'if']",1,4,28
+"['emotions', 'difficult']",0,16,2
+"['a.m.', 'bench', '3', 'at']",1,0,24
+"['most', 'powerful']",0,33,6
+"['girl', 'named', 'rabbit']",1,0,12
+"['deep', 'What', 'one', 'have', 'Because', 'do']",0,48,0
+"['U.S.', 'countries', 'other']",0,17,4
+"['✨', 'help']",0,73,3
+"[""'m"", 'sorry', ""n't"", 'ca', 'but']",1,219,267
+['explore'],0,51,3
+"['real', 'because', 'Not', 'That']",1,38,62
+"['quiet', 'still', 'world']",1,8,29
+"['Final', 'Thought', '---']",0,37,1
+"['see', 'say', 'You', 'way']",1,9,32
+"['step', 'guide', 'You']",0,16,1
+"['solved', 'stayed', 'showed', 'fixed', 'everything', 'change', 'single', 'up', 'how']",0,16,0
+"['the', 'can', '—']",0,157,86
+"['—', 'it', 'to', 'be']",0,129,82
+"['for', 'like', 'it']",0,106,48
+"['If', 'by', '\n\n', 'the']",0,88,12
+"['Key', 'including']",0,20,3
+"['health', 'mental', 'professional', 'If']",0,46,26
+"['🌱', 'Truth', 'quiet', 'seen', 'Here', '💡', 'just']",0,34,0
+"['This', '’s', 'and']",0,103,12
+"['💙', 'please', 'reach', 'out']",0,18,3
+"['If', ""'re"", 'and', 'help', 'you']",0,101,49
+"['Hope', 'opposite', 'perfection', 'building', '’ve', 'says', 'presence', 'power', 'we', 'also', 'feel', 'truth', 'world', 'as']",0,27,0
+"['…', 'messy', 'it']",1,1,34
+"['just', 'It', 'not', 'a']",1,76,112
+"['delightfully', 'whimsical']",0,8,0
+"['thing', 'only', 'Because', 'matters']",1,2,91
+"['matters', ' \n\n', 'is', 'in', 'people', 'who']",1,7,40
+"['writes', 'sleeps']",1,0,7
+"['hits', 'sidewalk', '3', 'a.m.', 'light', 'at']",1,0,22
+"['together', 'stranger', 'friend', 'try', 'this', 'know']",0,23,0
+['are'],0,172,85
+"['services', 'local']",0,16,4
+"['victims', 'violence']",0,14,1
+"['society', 'communities']",0,11,1
+"['mistake', 'broken']",1,0,12
+"['math', 'class', 'adopted', 'woman', 'moment']",1,0,8
+"['staring', 'baby—*I', 'guy', 'sky', 'cry', 'bus', 'looks', 'my', 'she', 'too']",1,0,7
+"['okay', 'strong']",1,3,19
+"['No', 'Oh', 'go', 'nonsense', 'for', '”', 'Let', '“']",1,0,98
+"['That', '?', '’re', 'you', '”', 'So', '“', ' \n']",1,70,100
+"['yeah', 'Oh', 'So']",1,0,58
+"['---', '>', '”', '“']",0,53,2
+"['Tip', 'Pro', 'Here', 'You', '>']",0,13,0
+"['rabbit', 'notebook', 'Oh', 'you']",1,0,36
+"['’m', 'here', '’s', '’re']",0,76,41
+"['✅', 'Use', '!', 'your', '---']",0,23,3
+"['---', ':*', 'but', ' \n']",0,85,3
+"['already', 'moment', 'You', 'if']",0,39,14
+"['line', 'honest', 'One', 'time', 'at', 'real', 'messy']",1,0,32
+['understanding'],0,42,4
+"['say', 'Just', 'word', 'do']",1,10,27
+"['Legal', 'e.g.']",0,14,1
+"['question', '✨', 'while', '👉', 'of']",0,80,1
+"['Do', 'Just']",1,14,31
+"['Every', 'Can', 'stillness', 'light', 'live', 'what']",0,10,0
+"['used', '""', 'of']",0,19,4
+"['fully', 'perfectly', 'choosing', 'live', '’m', 'how', 'is', 'in']",1,0,24
+"['humor', 'touch']",0,11,0
+['🌟'],0,40,4
+"['was', 'were', 'their', 'by']",0,20,6
+"['no', 'Oh', 'enough', 'So', 'to']",1,0,52
+"['sense', 'awareness', 'human', 'no', 'would']",0,14,0
+"['from', 'not', 'or', '*']",0,83,31
+"['imaginative', 'playful', 'But', 'if']",0,23,0

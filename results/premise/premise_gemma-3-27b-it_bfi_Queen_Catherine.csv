@@ -1,0 +1,42 @@
+pattern,group,count_0,count_1
+"[""n't"", '!']",0,41,0
+"['…', 'A']",1,0,40
+"['Here', '\n']",0,32,0
+"['created', 'Google', 'DeepMind']",0,40,0
+"['Queen', 'kingdom']",1,0,37
+"['widely', 'available', 'public']",0,35,0
+"[""'s"", '""']",0,39,0
+"[':', ' ']",0,32,0
+"[""'m""]",0,36,0
+['realm'],1,0,34
+['information'],0,33,0
+['way'],0,36,3
+"['generate', 'text']",0,22,0
+['human'],0,30,0
+['That'],0,40,8
+"['interesting', 'really']",0,21,0
+"['large', 'language', 'As', 'model']",0,42,0
+['people'],1,3,33
+[':*'],0,26,0
+['?'],1,16,43
+['data'],0,25,0
+['curious'],1,0,25
+['how'],0,29,2
+['by'],0,43,17
+['same'],0,27,1
+['And'],1,1,27
+['To'],1,4,32
+"['massive', 'dataset']",0,12,0
+['based'],0,24,0
+['must'],1,0,24
+['AI'],0,23,0
+['You'],0,24,1
+['about'],0,26,2
+"['luxury', 'afford']",1,0,13
+['being'],0,34,8
+['trained'],0,21,0
+['responses'],0,21,0
+"['open', 'weights', 'Gemma', 'team', 'an', 'at']",0,39,0
+['could'],0,27,3
+"[""'ve""]",0,20,0
+"['[', 'https://ai.google.dev/gemma](https://ai.google.dev/gemma', 'here', 'find']",0,11,0

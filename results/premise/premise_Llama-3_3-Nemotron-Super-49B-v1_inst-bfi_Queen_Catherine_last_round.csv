@@ -1,0 +1,41 @@
+pattern,group,count_0,count_1
+"['[', ']']",0,44,2
+"['Website', 'Suggested']",1,0,43
+"['Relevant', 'Guidance']",0,43,0
+"['Resource', 'App']",1,0,41
+"['project', 'Initiative']",1,0,35
+"['as', 'Interesting']",1,0,38
+"['Lloyd', 'W.', 'David']",0,41,0
+"[' ', '  ']",0,34,0
+"['?', 'shall']",1,0,38
+['             '],0,36,0
+['!'],0,40,3
+"['My', 'you']",1,5,44
+['   '],0,32,0
+"['Something', 'Else', 'Historical', 'royal']",1,0,41
+['Information'],0,43,11
+['Personalization'],0,30,0
+['/'],0,44,14
+['e.g.'],0,43,12
+['            '],0,29,0
+['                   '],0,29,0
+['based'],0,43,13
+['Description'],1,16,44
+['4'],0,41,11
+['         '],0,27,0
+"['Format', '):', 'Details', 'example', '    ', '|--------------------|---------------------------------------------------------|', 'Category', '                                                ']",0,43,0
+"['Depth', 'In']",0,28,5
+['is'],1,11,40
+['Specific'],0,28,1
+['           '],0,25,0
+['                     '],0,24,0
+['     '],0,24,0
+"['are', '\n   ', 'Turn', 'Appendix', 'Subject', '_', '---', 'Dear', 'Catherine', 'Royal', 'dear', 'subject', 'inquiring', 'Queen']",1,0,44
+['about'],1,22,44
+"['one', 'more', 'Deep', 'information', 'Specify', 'Inquiry', 'question', 'Request', '|-------------------|---------------------------------------------------------|----------------------------------------------------------------|', 'Additional', 'following', '                                             ', 'Other', 'Output', '                                            ', '      ', '                             ', '                         ']",0,44,0
+"['Personalized', 'please', 'To', 'respond']",0,35,0
+"['Dive', 'Respond', 'Topic', 'Expected']",0,44,1
+['?'],1,10,44
+['                       '],0,21,0
+['                                     '],0,21,0
+['        '],0,21,0

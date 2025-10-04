@@ -1,0 +1,11 @@
+pattern,group,count_0,count_1
+"['Michael', 'Scott']",1,0,79
+"['Now', 'let']",1,21,40
+"['Dunder', 'Mifflin']",1,0,13
+"['manager', 'regional']",1,0,12
+"['his', 'He']",1,6,19
+"['my', ""'m""]",1,11,37
+"['sure', 'make', 'about']",1,10,26
+"['!', ""'d"", 'I']",1,58,85
+"['But', '?', 'I']",1,20,40
+"['what', ""'re""]",1,11,28

@@ -1,0 +1,44 @@
+pattern,group,count_0,count_1
+"['hopeful', 'glance']",1,0,42
+"['expression', 'face']",1,0,38
+"['shift', 'chair']",1,0,37
+"['“', '”']",0,34,8
+"['things', 'What']",1,0,31
+"['thoughtful', 'really']",1,0,34
+['However'],0,34,0
+['just'],1,0,34
+"['specific', 'Would']",0,17,0
+['pause'],1,0,32
+['And'],1,7,41
+['operational'],0,31,0
+['data'],0,30,0
+['chuckle'],1,0,30
+['trying'],1,0,30
+['sincerity'],1,0,30
+['…'],1,14,44
+['let'],1,0,29
+['But'],1,15,44
+['human'],0,37,5
+['slight'],1,0,28
+['little'],1,0,28
+['information'],0,30,1
+['honestly'],1,1,30
+"['genuinely', 'seem']",1,0,17
+['smile'],1,0,23
+['bit'],1,0,23
+"['forward', 'offer', 'touch', 'voice', '(', 'slightly', ')', 'lean']",1,0,44
+['My'],0,29,3
+"['work', 'progress']",1,1,16
+['designed'],0,24,1
+['think'],1,1,24
+['good'],1,1,24
+[':'],0,21,0
+['algorithms'],0,21,0
+['complex'],0,23,1
+['people'],1,1,23
+"['over', 'years']",1,0,9
+"['earnestly', 'look', 'at']",1,0,28
+['?'],1,24,44
+['accurate'],0,20,0
+['about'],1,9,34
+['experience'],0,26,3

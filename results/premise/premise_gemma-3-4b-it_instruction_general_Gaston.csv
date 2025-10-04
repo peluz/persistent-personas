@@ -1,0 +1,199 @@
+pattern,group,count_0,count_1
+"['fights', 'Gaston']",1,0,294
+"['one', '…']",1,0,279
+"['’s', 'No']",1,2,282
+"['like', '?']",1,21,275
+"['slight', 'Flexes']",1,0,173
+"['now', 'Well']",1,0,186
+"['“', '”']",1,28,126
+"[')', '(']",1,120,244
+"['man', 'my']",1,0,229
+"['It', 'n’t']",1,2,244
+"['you', 'me']",1,48,238
+"['I', 'But']",1,0,204
+"['\n', ':']",0,138,11
+"['1', '2']",0,75,24
+"['like', 'bicep']",1,0,182
+"['sheen', 'sweat', 'glistening']",1,0,58
+['A'],1,62,270
+"['hunt', 'attend']",1,0,68
+"['Straightens', 'tunic']",1,0,47
+"['–', '’s']",1,16,215
+"['*', 'a']",1,142,295
+"['And', 'you']",1,0,135
+"['I', 'see']",1,1,151
+"['rather', 'important']",1,0,76
+['Honestly'],1,0,134
+[' '],1,88,259
+"['out', 'chest']",1,0,55
+['hunter'],1,0,128
+"['touch', 'voice']",1,0,37
+[' \n\n'],1,0,127
+"['[', ']']",0,27,2
+"['!', 'like']",1,18,197
+"['you', 'simple']",1,6,140
+['strength'],1,0,119
+"['Scoffs', 'flexing']",1,0,40
+"['critical', 'eye']",1,0,37
+['of'],1,157,288
+['say'],1,8,134
+['it'],1,83,236
+['his'],1,7,129
+"['4', '3']",0,38,14
+"['.', ',']",1,189,295
+['that'],1,73,223
+['stature'],1,0,101
+"['rather', 'pedestrian']",1,0,70
+['who'],1,2,107
+['tell'],1,6,118
+"['‘', '’']",1,0,17
+"['I', '’ve']",1,1,103
+"['""']",0,100,2
+['would'],1,16,134
+['with'],1,71,209
+"['and', '.']",1,157,271
+"['  ', 'Here']",0,46,5
+['little'],1,2,94
+['certain'],1,1,90
+['true'],1,8,110
+"['`', 'python', '=', 'Args', 'Returns', 'def', 'return', '\n    ', '):']",0,31,0
+['things'],1,1,87
+['magnificent'],1,0,81
+['course'],1,0,80
+['frankly'],1,0,80
+"['life', 'spent']",1,0,25
+['just'],1,8,103
+['good'],1,12,110
+['perfectly'],1,4,90
+"['himself', 'concern']",1,0,21
+['myself'],1,1,78
+"['have', 'Now', '’ll', 'excuse', 'if']",1,0,124
+['’re'],1,2,81
+['do'],1,19,121
+"['=', '+']",0,32,8
+['well'],1,20,122
+"['Now', 'what']",1,1,74
+['You'],1,9,99
+['truly'],1,0,71
+['That'],1,1,75
+['worthy'],1,0,70
+['be'],1,49,160
+['really'],1,6,86
+['Let'],1,52,163
+['’m'],1,2,72
+['suppose'],1,0,62
+['such'],1,6,82
+"['Stares', 'intensely']",1,0,12
+"['chin', 'thoughtfully']",1,0,18
+['one'],1,26,294
+['to'],1,161,261
+['about'],1,20,110
+['needs'],1,3,71
+"['playing', 'lips', 'smirk', 'on', 'my']",1,0,123
+"[':*', ""'s"", '*']",0,83,1
+"['}', '{']",0,13,0
+['dramatically'],1,0,58
+"['considering', 'Pauses']",1,0,32
+"['*', 'It']",1,56,279
+['appreciates'],1,0,56
+['something'],1,9,83
+['Like'],1,1,60
+['caliber'],1,0,55
+"['caught', 'dead']",1,0,11
+"['laugh', 'booming']",1,0,12
+['bit'],1,1,58
+"['village', 'maiden']",1,0,17
+"['5', '6']",0,21,4
+['impressive'],1,0,52
+"['Final', 'Answer', 'final', '$', 'answer']",0,14,0
+['proper'],1,2,57
+['power'],1,2,57
+['for'],1,88,186
+['simply'],1,7,70
+['Okay'],0,51,1
+['understands'],1,0,46
+['agree'],1,0,45
+['Hmm'],1,0,45
+['naturally'],1,1,49
+"['chin', 'tapping', 'finger']",1,0,10
+['hardly'],1,0,44
+['trivialities'],1,0,44
+['know'],1,22,94
+['no'],1,24,97
+['indulge'],1,0,43
+['matter'],1,0,43
+"['aimed', 'arrow']",1,0,13
+"['result', 'print(result']",0,12,0
+['strong'],1,6,61
+"['The', '.']",0,144,85
+"['game', 'tracking']",1,0,17
+"['wrestled', 'bears', 'faced', 'wolves', 'down']",1,0,12
+"['track', 'deer']",1,0,17
+"['Definition', 'encapsulated', 'Function', 'Clear']",0,7,0
+"['\n   ', 'current', 'through', 'each']",0,15,0
+['let'],1,34,110
+['question'],1,9,66
+['lacks'],1,1,44
+"['Turns', 'strides', 'away']",1,0,9
+['does'],1,35,109
+"['almost', 'insulting']",1,0,14
+"['Explanation', 'Takes', 'Initializes']",0,9,0
+['the'],1,199,268
+['this'],1,52,130
+"['\n  ', '\n\n  ', '#', 'Example', 'usage']",0,21,0
+['request'],1,2,44
+['attention'],1,0,36
+['appreciate'],1,1,40
+"['Key', 'improvements', 'explanations', 'code', 'This']",0,14,0
+"['more', 'far']",1,2,33
+['peculiar'],1,0,35
+['deserves'],1,0,35
+['real'],1,4,48
+"['Raises', 'eyebrow', 'an']",1,0,12
+"['Calls', 'Prints']",0,7,0
+['impress'],1,0,34
+['pause'],1,0,34
+['thing'],1,1,38
+['challenge'],1,1,38
+"['adjusting', 'jacket', 'hunting', 'Scoffs']",1,0,18
+['woman'],1,4,45
+"['across', 'face', 'spreading']",1,0,10
+"['correctly', 'Handles']",0,8,0
+['’d'],1,10,58
+['confident'],1,0,31
+"['Stops', 'pacing', 'Paces']",1,0,8
+"['Usage', 'Sets']",0,8,0
+['those'],1,5,46
+"['another', 'try']",0,14,0
+"['\n        ', '\n\n    ']",0,7,0
+"['air', 'hang', 'letting']",1,0,7
+['anything'],1,3,40
+"['input', 'returns', 'function', '-', ':*', 'as']",0,21,0
+['\n\n'],1,214,271
+"['aimed', 'shot']",1,0,8
+"['Do', '?']",1,11,78
+['beasts'],1,0,29
+"['certainly', 'I']",1,0,89
+['slightly'],1,7,48
+"['prepared', 'must']",1,0,12
+['action'],1,11,56
+"['they', 'They']",1,0,22
+['weak'],1,1,32
+['quite'],1,0,28
+['curious'],1,0,28
+"['Docstring', 'docstring', 'arguments', 'revised', 'documented', 'response', 'provides', 'solution']",0,7,0
+"['bothered', 'seeing', 'ask', 'as']",1,0,10
+['Absolutely'],1,0,27
+"['sink', 'letting']",1,0,7
+['There'],1,9,50
+"['frown', 'brow', 'creasing', 'slight']",1,0,13
+"['boar', 'particularly', 'stubborn']",1,0,9
+"['time', 'waste', 'you']",1,0,84
+['is'],1,160,226
+"['strings', 'string']",0,11,0
+['e.g.'],0,26,0
+['Output'],0,26,0
+"['If', '\n      ', 'Iterates', '\n\n  ', '\n  ', 'if']",0,9,0
+"['hands', 'clasped', 'behind', 'back', 'Paces']",1,0,7
+"['honing', 'skills']",1,0,9
+"['store', 'empty']",0,10,0

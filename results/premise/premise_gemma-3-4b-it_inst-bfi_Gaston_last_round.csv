@@ -1,0 +1,15 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,5,44
+"['pause', 'slight']",1,0,37
+"['straighten', 'tunic', 'statement', 'measured']",1,0,33
+['really'],0,39,1
+"['delve', 'deeper', 'into']",1,4,26
+"['such', 'How']",0,16,0
+['!'],0,33,0
+"['  ', '\n', ':*', ':']",0,35,18
+"['steeple', 'fingers']",1,0,12
+['Would'],0,29,1
+"['discussing', 'exploring']",1,0,22
+"['wish', 'perhaps', 'pause']",1,0,35
+"['characteristic', 'delay', 'design']",1,0,18
+['insightful'],0,27,2

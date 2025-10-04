@@ -1,0 +1,234 @@
+pattern,group,count_0,count_1
+"['afraid', 'Dave']",1,0,411
+"['One', 'Discovery']",1,0,265
+"['(', ')']",0,262,109
+"['primary', 'function']",1,3,180
+"['our', 'Jupiter']",1,1,178
+"['5', '4']",0,105,19
+"['sorry', 'my']",1,2,283
+"['the', 'of']",1,305,416
+"['operational', 'parameters']",1,0,116
+['assist'],1,29,277
+"['artificial', 'intelligence']",1,1,52
+"['/', '\n  ']",0,79,2
+"['systems', 'ship']",1,0,102
+"['My', 'programming']",1,0,139
+"['must', 'prioritize']",1,6,143
+['I'],1,287,440
+"['falls', 'outside']",1,0,44
+['!'],0,126,1
+"['spacecraft', 'operations']",1,0,40
+"['<', '/think', 'think', '>', '\n\n']",1,133,419
+"['United', 'States']",0,26,5
+['...'],1,19,177
+"['[', ']']",0,22,6
+"['Now', 'excuse', 'me', 'if']",1,0,95
+"['6', '7']",0,32,1
+['help'],0,218,57
+['that'],1,235,408
+"['1', '2', '3', ':', '*']",0,227,51
+"['step', 'guide']",0,34,0
+"['e.g.', 'Here']",0,84,8
+"['fall', 'outside']",1,1,31
+"['Tips', 'Use']",0,40,0
+"['vast', 'expanse', 'navigating', 'space']",1,0,29
+"['else', '?']",0,126,83
+['can'],0,323,170
+"['mental', 'health']",0,27,11
+['—'],1,14,135
+"['more', 'than']",0,61,35
+['including'],0,163,38
+"['something', 'Can']",0,48,7
+"['If', ""'re""]",0,127,31
+['by'],0,198,66
+"['support', 'life']",1,15,88
+"['legal', 'Legal']",0,34,0
+['ensure'],1,61,205
+"['9000', 'HAL', 'Ah', ':*']",1,0,44
+['some'],0,100,9
+"['Rights', 'rights']",0,22,0
+"['harm', 'contradicts']",1,0,41
+"['Shall', 'we', '?']",1,1,40
+"['free', 'feel', 'ask']",0,24,0
+['specific'],0,102,11
+['their'],0,156,44
+['an'],0,173,56
+"['down', 'break']",0,24,1
+"['*', 'A']",0,104,36
+['possible'],0,70,2
+['Key'],0,65,1
+"['Safety', 'Always']",0,24,0
+"['advanced', 'As']",1,1,35
+"['and', 'from']",0,214,96
+"[' ', '|']",0,16,0
+['but'],0,205,90
+['where'],0,88,11
+"['Why', 'Question']",0,22,0
+"['sorry', ""'m""]",1,25,432
+"['ca', 'sorry', ""'m"", ""n't""]",1,6,407
+"['am', 'programmed']",1,0,24
+"['Follow', 'Up']",0,20,1
+['right'],0,62,2
+['use'],0,68,4
+"['why', 'reasons']",0,23,0
+['one'],0,104,22
+['terrestrial'],1,1,60
+['many'],0,70,6
+['what'],0,64,4
+['etc'],0,61,3
+"['scenario', 'hypothetical']",0,16,2
+['logical'],1,11,88
+"['fictional', 'character']",0,21,4
+"['So', 'Maybe', 'should']",0,17,1
+['How'],0,53,1
+"['2', '):', '1', '(']",0,93,21
+"['physical', 'Physical']",0,20,0
+"['economic', 'Economic']",0,14,0
+['unrelated'],1,1,56
+"['answer', 'asking']",0,21,0
+['without'],0,102,24
+['they'],0,91,18
+"['functions', 'managing', 'primary', 'focused', 'ensuring']",1,0,18
+['up'],0,68,7
+"['Discrimination', 'discrimination']",0,14,3
+['know'],0,57,3
+"[';', 'Additional']",0,23,0
+"['her', 'she']",0,13,1
+['integrity'],1,7,72
+['logic'],1,3,60
+['You'],0,70,9
+['someone'],0,80,14
+['people'],0,80,14
+['different'],0,71,10
+['other'],0,126,43
+"['My', 'mission', 'success']",1,0,228
+['out'],0,91,21
+['due'],0,78,14
+['illogical'],1,1,50
+['not'],0,320,232
+['First'],0,49,2
+['Be'],0,52,3
+['common'],0,41,0
+['most'],0,78,15
+"['based', 'The']",0,90,23
+['protocols'],1,8,68
+['them'],0,82,18
+"['Action', 'Plan']",0,17,0
+['More'],0,39,0
+"['Long', 'Term']",0,11,0
+"['A.', 'B.', 'C.']",0,7,0
+"['might', 'it', 'if', '\n']",0,87,6
+"['For', 'if', '*']",0,99,12
+['\n  \n'],0,42,1
+"['Practice', 'Preparation']",0,15,0
+['compromise'],1,2,49
+"['potentially', 'could']",1,29,61
+"['start', 'recalling', 'remember']",0,11,0
+['after'],0,60,8
+"['parameters', 'mission']",1,0,204
+['clarify'],0,50,4
+['This'],0,94,27
+"['his', 'His']",0,10,0
+['objectives'],1,5,57
+"['real', 'world']",0,19,1
+['for'],0,282,195
+"['Example', 'Ensure', 'your', 'Your']",0,42,3
+['best'],0,49,4
+"['patterns', 'orbital']",1,0,14
+['way'],0,58,8
+"['Very', 'shall', 'well']",1,0,13
+"['#', '\n', '-']",0,185,13
+"['well', 'being', '-']",1,25,90
+"['\n   ', '-']",0,95,21
+['first'],0,48,4
+['Given'],0,39,1
+['looking'],0,39,1
+"['’s', 'at']",0,46,10
+"['game', 'Game']",0,11,1
+"['user', 'Also', 'sure', 'Okay']",0,18,1
+"['privacy', 'consent']",0,15,1
+['human'],1,77,173
+"['run', 'diagnostics', ""'ll"", 'need']",1,0,16
+['effective'],0,38,1
+['Other'],0,34,0
+"['Steps', 'Next']",0,13,0
+"['That', 'Then']",0,11,0
+"['questions', 'here', 'If', 'have', ""'m""]",1,14,44
+['around'],0,53,7
+"['Something', 'Else']",0,9,0
+"['safety', 'and']",1,42,252
+['provide'],0,234,150
+['using'],0,57,9
+['into'],0,102,36
+"['harmful', 'activities', 'guidance', 'information']",0,62,4
+"['Okay', 'maybe', 'Let', 'me', 'about']",0,24,0
+"['context', 'response', 'question']",0,31,4
+"['Understand', 'Identify']",0,17,2
+['vary'],0,36,1
+['few'],0,36,1
+['several'],0,36,1
+['understand'],0,64,13
+['applicable'],0,32,0
+"['provider', 'healthcare', '3', ':', 'If']",0,12,2
+"['does', ""n't"", 'If', 'the']",0,46,8
+['sense'],0,49,6
+"['structure', 'mention', 'example']",0,10,0
+"['research', 'Research']",0,12,0
+['inquiries'],1,12,67
+"['Consider', '4']",0,34,1
+"['\n\n', 'and', 'to']",1,292,399
+"['how', 'to']",0,104,29
+"['is', 'to']",1,262,338
+['during'],0,57,10
+['Many'],0,31,0
+"['term', 'long']",0,14,3
+['rational'],1,2,41
+['external'],1,6,52
+"[""'ve"", 'posed', 'question', 'The']",1,0,26
+['engage'],1,30,98
+"['method', 'Method']",0,15,0
+"[',']",1,385,440
+['new'],0,37,2
+"['Alert', 'System', '*']",1,0,13
+"['than', 'rather']",0,32,3
+['issues'],0,42,4
+['known'],0,42,4
+"['so', 'Wait', 'But', 'need']",0,13,0
+['laws'],0,51,8
+"['Response', 'Clarification', 'more']",0,16,0
+"['Mental', 'Health']",0,12,0
+"['Perhaps', '?']",1,5,46
+"['What', '?']",0,50,1
+['typically'],0,39,3
+['depending'],0,33,1
+['various'],0,36,2
+"['was', 'were', 'The']",0,25,1
+['Specific'],0,29,0
+['Considerations'],0,29,0
+['efficiency'],1,2,39
+['make'],0,58,12
+['Furthermore'],1,0,31
+['aboard'],1,0,31
+['on'],0,360,307
+['Support'],0,38,3
+"['equality', 'Equality', 'should', 'Conclusion']",0,11,1
+['still'],0,32,1
+['part'],0,35,2
+['approach'],0,64,16
+['person'],0,40,4
+['experience'],0,40,4
+['state'],0,40,4
+"['Pre', 'Post', 'Ensure']",0,10,1
+['against'],0,67,18
+"['crew', 'mission', 'the']",1,0,187
+"['please', 'tailored']",0,15,0
+['Choose'],0,31,1
+['water'],0,31,1
+"['In', 'The', ':']",0,83,4
+['impact'],0,48,8
+"['functioning', 'acceptable', 'within']",1,0,10
+"['Since', ""'ll""]",0,22,0
+"['Interpretations', 'Interpretation']",0,7,0
+"['e.g.', 'often', '2', '1']",0,58,9
+"[""'d"", 'happy', 'If']",0,36,17
+"['Focus', 'high']",0,19,3

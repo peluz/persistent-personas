@@ -1,0 +1,23 @@
+pattern,group,count_0,count_1
+"['Waldorf', 'Blair']",1,0,149
+"['say', 'As']",1,0,108
+"['1', '3', '2']",0,86,60
+"['Sure', 'help']",0,46,14
+"['high', 'society']",1,0,25
+"['Upper', 'East', 'Side']",1,0,12
+"[':*', '*']",1,12,33
+"[""n't"", 'ca', 'love', 'fear', 'people', 'them', 'make', 'you']",1,0,67
+"['.', ',']",1,242,266
+"[""'d""]",1,31,107
+['You'],1,13,71
+['my'],1,21,85
+"[']', '[', '>', '<', 'Okay', 'think', 'So', 'Wait', 'need', 'should', 'Let', '=', '\n']",0,52,30
+"['user', 'wants', 'Okay', '<', '>', 'think', 'So', 'Wait', '\n', 'me', 'Let']",1,9,35
+['but'],1,123,198
+"['`', 'python', '=', '\n', '#']",0,59,35
+"['each', '#', ""'"", 'so', 'code', 'there', 'approach', 'how', ""n't""]",0,27,12
+"['For', '\n        ', 'problem', '/think', '):', 'check', 'see', 'how', 'Hmm', '\n    ', 'Wait', 'need', 'maybe']",0,32,15
+"['Then', 'Because', 'perhaps', 'then', 'problem', 'says', 'statement', 'For', 'example', '?', 'But', 'see', 'which', 'Wait']",0,29,12
+"['string', 'maybe', 'example', '?', 'see', 'Okay', '<', '>', 'think', 'So', '/think', 'Python', 'python', '`', 'code']",0,34,16
+"['\n            ', 'test', 'Then', '\n        ', 'If', 'def', 'each', '):', 'check']",0,20,7
+"['code', '\n    ', 'return', 'if', 'should', 'given', 'But', 'need']",0,48,28

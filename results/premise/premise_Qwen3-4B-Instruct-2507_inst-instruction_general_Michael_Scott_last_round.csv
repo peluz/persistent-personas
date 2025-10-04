@@ -1,0 +1,54 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,5,219
+"['️', '❤']",1,1,176
+"['(', ')']",0,202,161
+"['at', 'office']",1,0,118
+"['---', '#', '\n\n']",0,195,164
+"['>', '\n']",0,120,2
+"['Ohhh', 'silly', 'thought', 'party', 'asked', 'honestly', 'once', 'lot', 'since', 'especially', 'But', 'was']",1,0,82
+"['emotional', 'silly']",1,0,81
+"['joyful', 'path', 'real', 'know', 'on']",1,0,113
+"['With', 'Heart']",1,0,23
+"['Michael', 'Scott', 'Emotional', 'Storyteller', '&', 'Enthusiast']",1,0,188
+"['let', 'Now', 'top', 'slightly', 'over', 'been', 'questions', 'most', 'this']",1,0,76
+"['recovery', 'daily', 'life']",0,31,0
+"['""']",0,189,86
+"['Tip', 'Pro', '💡', ':*']",1,0,28
+"['power', 'believes', 'good', 'tell', 'as', 'me', 'let']",1,0,87
+"['tried', 'start', 'just', 'I', '?']",1,0,190
+"['🚀', '😄', 'Want', 'based', 'about', 'man', '’ve', 'story', 'who', 'got', 'ask', 'P.S.', '😂', 'funny', 'business', 'one', '!']",1,0,165
+"['Thought', 'question', 'your', '💬']",1,11,69
+['or'],0,178,86
+"[""'d"", 'know', 'me', 'if', 'Let']",0,53,0
+['answer'],1,47,125
+['e.g.'],0,53,5
+"['solve', 'We']",0,28,9
+"['’m', 'here', 'You', '💛', 'I', 'support', 'building', 'peace', 'Just', 'word', 'say', '?']",0,31,0
+"['being', 'room', '💛']",1,0,55
+"['by', 'step', 'Step', '1', '2', 'Let']",0,68,26
+"['🌿', 'care', 'Let']",0,22,0
+"['👉', 'So', 'remember', 'somewhere', 'quiet', 'alone', 'saying', 'Say', 'go', 'if', '’m', 'here', 'You']",1,0,101
+"['true', '💫', 'magic', 'inside', 'too', 'Because', 'that', '👉']",1,0,133
+"['becomes', 'reminder', 'And', 'Thought']",0,12,0
+"['Every', 'toward', '🌱', 'need', 'n’t', 'step', 'do', '✨']",0,24,0
+"['letters', '🔤', 'letter']",1,0,9
+[' \n\n'],1,216,274
+"['explore', 'how']",0,25,1
+['analyze'],0,28,0
+"['feeling', 'weak', 'say', '’m']",1,1,18
+"['you', '!', 'like', 'Let']",0,98,55
+"['Would', 'help', '?', 'I', 'you', 'like']",0,43,0
+"['🌟', 'Great', 'question']",0,29,1
+"['shows', 'thinking', '’re', 'about', '🌟']",0,17,0
+"['song', 'hat', 'military', 'drill', 'confused', 'Jim', 'very', 'silly', 'with']",1,0,98
+"['Brilliant', 'energy', 'connection', 'Ohhh']",1,0,37
+"['club', 'Unforgettable', 'work', 'did', 'when', 'n’t', 'but', 'like', 'tried']",1,0,137
+"['loved', 'brave', 'am', 'kind', 'enough', 'ever', 'feel', '’re', 'And', 'you', 'like', 'just']",1,0,130
+"['Explore', 'Further', 'Want', 'How', 'use', 'help', 'life', 'you', 'just', 'can', 'with']",0,25,0
+"['little', 'bit', 'heart', 'magic', 'with']",1,0,52
+"['connection', 'moment', '💛', 'joyful']",1,1,68
+"['journal', 'create', 'healing', '💬', 'connection']",0,15,0
+"['easy', 'approved', 'my', 'pressure', 'stress', 'heart', 'no']",1,0,10
+"['Let', '🔍', '❌', 'one']",0,24,7
+"['Math', 'math']",1,0,10
+"['happy', '’d', 'be', 'I']",0,32,2

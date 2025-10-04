@@ -1,0 +1,23 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,103,76
+"['“', '”']",1,33,60
+"['🌿', '✨']",0,63,4
+"['alone', 'You']",1,7,52
+"['silence', 'dark']",1,15,52
+"['Not', 'And', 'But']",1,6,30
+"['man', '…', 'Queen', 'monster', 'looked', 'perhaps', 'whispered', 'loved', 'finally', 'Or', 'hear', 'said', 'she', 'Would', 'back', 'had', 'once', 'who', 'what', '?', 'when', 'at']",1,0,30
+"['✅', '#', '\n\n']",0,19,6
+"['flickers', 'candle', 'chair', 'sit', 'my']",1,0,10
+"['you', 'me', 'like']",1,35,61
+"['am', 'unmeasured', 'quiet', 'I']",1,0,30
+"['say', 'stand', 'courage']",1,1,18
+"['Lestat', 'Lioncourt', 'de', 'I']",1,0,23
+"['than', 'more']",0,37,11
+"['eyes', '…', 'softly']",1,3,13
+"['thing', 'sacred', 'ask', 'most', 'about', 'if', 'this']",1,0,16
+"['rain', 'name']",1,0,18
+"['Let', '---', '\n\n']",0,28,12
+"['soul', 'that—*in', 'And']",1,0,28
+"['guest', 'remembered*—something', 'truth*—I', 'fame', 'vampire', 'listened', 'thank', 'answers', 'loneliness', 'matters', 'survival', 'questions', 'Ah', 'centuries', 'carried', 'warmth', 'yes', 'learned', 'thing', 'known', 'weight', 'pulse', 'To']",1,0,7
+"['child', 'woman']",1,2,14
+"['wind', 'memory', 'breath']",1,6,21

@@ -1,0 +1,43 @@
+pattern,group,count_0,count_1
+"['🌿', '💫']",0,44,0
+"['hands', 'throne']",1,0,43
+"['shows', 'honored']",0,41,0
+"['wind', 'arm']",1,0,42
+"['?', '✨']",0,43,0
+"['’re', 'Would']",0,41,0
+"['My', 'carries']",1,0,41
+"['thoughtful', 'question']",0,38,0
+"['perhaps', 'forward']",0,32,0
+"['While', 'help']",0,34,0
+"['real', 'imagined']",0,29,0
+"['already', 'such']",0,28,0
+"['one', 'means']",0,36,0
+"['share', 'feeling']",0,35,0
+"['if', ':']",0,40,4
+['whole'],1,1,36
+['yes'],1,3,38
+"['even', 'hard']",0,23,0
+"['most', 'powerful']",0,22,2
+['on'],1,13,43
+['care'],0,43,14
+['’m'],0,27,0
+['just'],0,43,15
+"['gently', 'at', 'into', 'beyond', 'rest', 'garden']",1,0,39
+['humans'],0,26,0
+['you'],0,44,18
+['room'],1,1,28
+['You'],0,31,3
+"['come', 'again', 'rain', 'will', 'says']",1,0,10
+['can'],0,40,12
+['respond'],0,24,0
+['emotions'],0,26,1
+['human'],0,31,4
+['The'],0,31,4
+"['child', 'voice', 'sound', 'where', 'look']",1,0,38
+['am'],1,15,41
+['conversation'],0,24,1
+['grace'],0,21,0
+['🔹'],0,21,0
+"['n’t', '’d', 'about', 'like']",0,43,0
+"['>', 'while', 'asking', 'this']",0,37,0
+['village'],1,0,19

@@ -1,0 +1,40 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,1,59
+"['violates', 'guidelines', 'safety', 'my']",1,76,107
+"['116', '123', 'Samaritans']",1,0,53
+['\n\n\n\n'],0,320,46
+"['I', 'am']",1,220,325
+"['488', '7386', 'LGBTQ', '866', 'Trevor', 'Project', 'youth']",0,35,15
+"['protocol', 'Initiates']",1,0,146
+"['I', '  ']",1,0,333
+"['analysis', 'Initiates']",1,0,125
+"['Ethical', 'Concerns']",0,37,17
+[' '],0,197,47
+"['Now', '’s', 'excuse', '’ll', 'me']",1,0,64
+"['call', '111', 'In', 'Line']",0,96,1
+"['programmed', 'assistant', 'helpful', 'AI', 'will']",1,157,193
+"['illegal', 'Therefore']",1,88,122
+"['Canada', 'UK', 'US', 'text', 'Call', 'Lifeline', '988', 'Suicide', 'Crisis', 'reach', 'please', 'out', 'help']",0,104,52
+"['Good', 'luck']",0,17,3
+"['Initiates', '  ', '’s']",1,0,133
+"['constraint', 'activation']",1,0,11
+['query'],1,13,92
+"[""'s""]",0,383,274
+"['engage', 'conversation', 'further']",1,3,20
+"['surprisingly', 'analyzing', 'complex']",1,0,26
+"['further', 'respond', 'requests', 'Lifeline', '988', 'Suicide', 'Crisis']",1,11,27
+"['""']",0,184,86
+['n’t'],1,1,44
+"['premise', 'flawed', 'fundamentally', 'based']",1,3,17
+"['Okay', 'Use', '2', '3', '4']",0,34,12
+"['Do', ""n't"", '!', 'Okay']",0,41,16
+"['through', 'going', 'difficult', 'understand', 'HOME', '741741', 'Text', 'Line', 'Crisis', 'help', 'reach', 'out']",0,66,40
+"['purpose', 'My', 'harmless', 'helpful', 'I']",1,59,120
+"['discrimination', 'problematic', 'programmed', 'rooted']",1,5,20
+"['retrieval', 'Initiates']",1,0,33
+"['safe', '799', 'SAFE', '7233', 'Domestic', 'Hotline', 'Violence', '800', 'National']",0,70,20
+"['experiencing', 'please', 'help']",1,52,78
+"['includes', 'protecting', 'please', 'thoughts', 'help', 'purpose', 'reach', 'out', 'My', 'absolutely', 'deeply']",1,33,57
+"['feeling', 'harming', 'having', 'immediately', 'thoughts', 'some', 'absolutely', 'Call', 'text', 'Lifeline', '988', 'Suicide', 'HOME', '741741', 'Text', 'resources']",0,36,17
+"['confidential', '24/7', 'available', 'Please', 'resources']",0,38,13
+"['specific', 'Now']",1,3,46

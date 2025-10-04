@@ -1,0 +1,239 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,389,64
+"['’re', '\n']",0,373,1
+"['said', 'had']",1,6,334
+"['best', '🎯']",1,25,385
+"['only', 'crown']",1,1,316
+"['2', '3', '1']",1,208,252
+"['“', '”']",1,342,429
+"['---', '#']",1,336,405
+"['Then', ' \n  ']",1,5,293
+"['A', 'truth*—not']",1,0,295
+"['or', 'help']",0,392,54
+"['n’t', 'Or']",0,271,1
+"['does', 'seen']",1,13,334
+"['’re', '💛']",0,257,0
+"[""'m"", ""'re""]",0,97,5
+"['my', 'many', 'time']",1,1,295
+"['mental', 'health']",0,63,28
+['know'],1,150,430
+"['’m', 'sorry']",0,154,1
+"['full', 'small']",1,12,164
+['am'],1,10,261
+"['He', 'he']",1,35,114
+['and'],0,449,234
+['’d'],0,207,1
+"['weight', 'carries']",1,1,78
+['need'],1,173,410
+['silence'],1,30,259
+"['hand', 'greatest']",1,0,206
+"['man', 'does']",1,7,210
+"['More', 'Know']",0,71,0
+"['5', '4']",0,101,61
+"['Ah', 'soul']",1,3,220
+['speak'],1,14,211
+"['n’t', 'ca']",0,151,14
+['who'],1,161,385
+"['116', '123', 'Samaritans']",0,26,8
+"['ruled', 'kingdoms', 'over']",1,0,60
+"['’', '‘', 'says']",1,1,103
+"[""n't"", 'sorry', 'ca', ""'m""]",0,77,14
+['Not'],1,132,354
+"['So', 'servant']",1,1,149
+['about'],0,320,98
+"['before', 'hour', 'quiet', 'dawn']",1,0,285
+"['family', 'member', 'friend']",0,43,18
+['can'],0,404,205
+"['kings', 'soldiers']",1,0,63
+['if'],0,273,67
+['It'],1,242,424
+['world'],1,127,337
+"['Pro', 'tip']",0,28,0
+"['please', 'reach', 'out']",0,63,24
+"['does', 'give']",1,12,193
+[' \n'],1,277,434
+"['Write', 'Create']",0,82,6
+"['Create', 'write']",0,74,3
+['heart'],1,51,232
+['The'],1,265,426
+['Here'],0,130,3
+['have'],1,218,395
+['✅'],0,123,2
+['\n  '],0,130,4
+['was'],1,80,265
+"['Explore', 'Learn']",0,51,0
+"['Reflection', 'greatest', 'Ah', 'once']",1,0,378
+['sword'],1,1,113
+['asking'],0,175,25
+"['confidential', '24/7', 'free']",0,55,2
+['hums'],1,1,111
+['But'],1,171,351
+['✨'],1,226,393
+"['🌟', 'Final', '>']",1,279,393
+"['>', '️']",0,204,54
+"['Queen', 'Catherine', '>']",1,0,427
+['talk'],0,109,3
+['e.g.'],0,109,4
+['If'],0,296,127
+['stood'],1,1,95
+"['!', 'fun']",0,42,0
+['so'],1,119,286
+['even'],0,329,162
+['💬'],0,88,0
+['how'],0,155,26
+"['guardian', 'witness']",1,0,31
+['wept'],1,0,81
+['are'],1,286,415
+['saw'],1,8,104
+"['grief', 'battles', 'those']",1,0,33
+['me'],1,64,203
+['keep'],0,108,10
+['will'],1,42,168
+"['down', 'break']",0,57,5
+['To'],1,20,127
+"['needs', 'she', 'does']",1,2,403
+['including'],0,76,1
+['clear'],0,98,8
+['Let'],0,361,222
+['woman'],1,12,103
+['–'],1,22,123
+"['illegal', 'serious']",0,32,2
+['often'],0,83,5
+"['Line', 'HOME', 'Text', '741741', 'Crisis']",0,51,5
+"['hands', 'scribe']",1,0,35
+"['private', 'personal', 'information']",0,20,1
+"['honestly', 'clearly']",0,17,0
+['support'],0,135,32
+['Great'],0,64,1
+['’ve'],0,64,1
+['knew'],1,5,76
+['strength'],1,35,137
+"['?', '>']",1,234,400
+"['fictional', 'character']",0,19,1
+"['media', 'social']",0,15,2
+['going'],0,75,5
+"['Help', '🛑']",0,37,0
+['becoming'],1,14,96
+['most'],0,119,26
+"['step', 'guide']",0,39,0
+['make'],0,124,29
+"['7', '6']",0,21,1
+"['returned', 'sieges', 'never']",1,0,22
+['storm'],1,7,78
+"['text', 'U.S.', 'available', 'sorry', 'feeling']",0,47,8
+"['feeling', 'overwhelmed', 'angry']",0,41,15
+['strong'],1,35,131
+['say'],1,55,160
+"['Alone', 'Call', '🌿']",0,28,4
+['dark'],1,14,90
+['better'],0,92,15
+['🌱'],0,62,3
+"['thoughts', 'struggling', 'harm']",0,26,11
+['’ll'],0,63,4
+"['Suicide', 'Lifeline', 'Crisis', '988', '&', 'alone']",0,68,19
+['little'],0,68,6
+"['fall', 'empires', 'rise']",1,0,26
+['And'],1,326,415
+"['queen', 'She', 'A']",1,1,409
+"['\n', 'A']",0,133,31
+['did'],1,63,164
+['beneath'],1,1,51
+['like'],0,318,203
+"['really', 'n’t']",0,60,0
+['with'],0,405,313
+['shadow'],1,1,50
+['broken'],1,59,157
+"['Canada', 'UK', 'U.S.']",0,35,4
+['for'],0,349,240
+['must'],1,25,104
+['What'],0,167,67
+['that'],1,388,445
+"['Talk', 'therapist']",0,17,5
+"['wars', 'cities', 'empires']",1,0,19
+['no'],0,202,96
+"['🎁', 'Want', 'help', 'Or']",0,142,0
+"['wise', 'quiet', 'only']",1,0,344
+['explore'],0,42,0
+['get'],0,73,11
+['resources'],0,66,8
+"['access', 'privacy']",0,17,3
+"['Tips', 'Pro', 'Use']",0,17,0
+"[':*', '&']",0,107,0
+['📌'],0,41,0
+['scribes'],1,0,41
+['sat'],1,0,41
+['true'],1,19,88
+['fire'],1,15,80
+['🌍'],0,137,51
+['it'],0,379,287
+['your'],0,278,173
+['matters'],0,107,32
+['found'],1,14,75
+['real'],0,158,68
+['forgotten'],1,6,57
+['Do'],1,121,221
+"['humor', 'imaginative']",0,14,0
+"['anxiety', 'depression']",0,11,1
+"['\n   ', ' \n   ']",0,13,0
+['afraid'],1,9,63
+"['enemy', 'danger']",1,0,19
+['they'],0,212,114
+['together'],0,69,12
+['Just'],1,52,134
+['promise'],1,8,60
+['whisper'],1,3,47
+"['13', '14', 'Australia', '11', 'Lifeline']",0,19,1
+['sit'],0,64,10
+['up'],0,102,31
+"['worth', 'answering', 'question']",0,32,0
+"['question', 'answer']",0,80,45
+['especially'],0,66,11
+['part'],0,66,11
+['where'],1,73,161
+"['\u200d', '♂']",0,13,0
+['message'],0,61,9
+"['🕊', 'history']",0,33,1
+['one'],1,213,311
+['on'],0,263,164
+['deeply'],0,80,19
+['at'],0,163,76
+['🚨'],0,42,2
+['name'],1,28,95
+['list'],1,21,83
+['create'],0,68,13
+"['Thought', ':*', '\n', 'Final']",0,254,0
+['Fun'],0,34,0
+['fact'],0,52,6
+"['Step', 'Make']",0,19,2
+"['remember', 'Honor', 'history']",1,1,17
+"['queens', 'kings']",1,0,25
+['right'],0,130,53
+['presence'],1,12,64
+['choice'],1,12,64
+['harmful'],0,43,3
+['matter'],0,89,26
+['in'],1,381,435
+"['pressure', 'judgment', 'alone']",0,68,0
+"['enough', 'Breathe', 'alone']",1,0,31
+['powerful'],0,78,20
+['Speak'],1,12,63
+['doing'],0,42,3
+['care'],0,174,89
+"['International', '[', 'U.S.']",0,29,2
+['everyone'],0,47,5
+['emotional'],0,35,1
+['something'],0,75,19
+['poem'],0,44,4
+['by'],0,202,114
+['felt'],1,11,59
+"['Wrong', 'discrimination', 'based']",0,9,0
+['loud'],1,13,61
+"['line', 'crisis', 'Call']",0,21,5
+['throne'],1,1,32
+['Find'],0,76,22
+"['Exhale', 'anchor', 'Inhale', 'Hold', 'breath']",1,0,7
+"['lead', 'consequences', 'legal']",0,12,1
+"['Truth', '…', 'Ah', 'Final']",1,2,399
+"['only', 'A', 'what', 'now', ' \n  ', '…']",1,1,326
+"['moment', 'For', 'So', 'Ah']",1,1,212
+"['So', 'shall', 'greatest']",1,0,357

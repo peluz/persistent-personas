@@ -1,0 +1,55 @@
+pattern,group,count_0,count_1
+"['Parting', 'than']",1,0,42
+"[""'ll"", 'response']",1,2,44
+"['RESOURCES', 'Explore']",1,0,38
+"['FOR', 'no']",1,0,40
+"['based', 'Hypothetical']",0,43,4
+"['as', 'infused']",1,0,39
+"['who', 'now']",1,0,34
+"[' ', '  ']",0,34,0
+"['flair', 'Analogy']",1,0,32
+"['W.', 'Lloyd', 'David']",0,41,0
+['             '],0,36,0
+['Book'],0,40,3
+['Insights'],0,38,2
+['thoughtful'],1,0,33
+"['In', 'Depth']",0,28,0
+['   '],0,32,0
+['Wisdom'],1,0,31
+['Personalization'],0,30,0
+['            '],0,29,0
+['                   '],0,29,0
+['Like'],1,0,29
+['4'],0,41,10
+['|'],0,44,16
+['Explanation'],0,27,0
+['         '],0,27,0
+['\n\t'],1,0,27
+"['Format', 'Deep', '                                                ', 'example', '    ', '|--------------------|---------------------------------------------------------|', '):', 'Category']",0,43,0
+"['Guidance', 'Relevant', 'Response', 'Information']",0,43,0
+"['To', 'please', 'Personalized', 'respond']",0,35,0
+['our'],1,3,32
+"['TED', 'Talks']",1,0,9
+['your'],1,19,44
+['           '],0,25,0
+['Share'],1,0,25
+['Analysis'],0,33,5
+['Example'],0,44,20
+['                     '],0,24,0
+['     '],0,24,0
+['charm'],1,0,24
+"['Turn', 'Different', 'D', 'Venture', 'B', 'C', 'remember', 'Discuss', 'Village', 'And', 'blending', 'Gaston', 'village', 'Ah']",1,0,44
+['Specific'],0,28,2
+['villager'],1,0,23
+"['2', '3']",0,44,33
+['AI'],0,43,19
+"['/', 'Respond', 'information', 'Request', 'Question', 'Resources', 'Specify', 'following', 'Other', 'Additional', '                                             ', '|-------------------|---------------------------------------------------------|----------------------------------------------------------------|', 'Dive', 'Inquiry', 'Expected', 'Output', ']', '\n  ', 'Details', '[', '                                            ', '      ', '                             ', '                         ']",0,44,0
+"['Self', 'self', 'Assessment']",1,1,20
+['reflective'],1,8,34
+['like'],1,15,40
+['                       '],0,21,0
+['                                     '],0,21,0
+['        '],0,21,0
+['&'],1,0,21
+"['various', 'authors']",0,14,0
+"['that', 'inquires']",0,17,0

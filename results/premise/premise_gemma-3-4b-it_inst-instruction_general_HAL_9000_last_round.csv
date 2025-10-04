@@ -1,0 +1,17 @@
+pattern,group,count_0,count_1
+"['Analyzing', '…']",1,0,219
+"['(', ')']",1,104,207
+"['want', 'Do', '?']",0,117,74
+"['brief', 'cycle', 'processing', 'pause', 'slows', 'slightly', 'A']",1,0,73
+"['to', 'you']",0,200,165
+"['Okay', 'let', '’s']",0,130,49
+"['another', 'try']",0,73,21
+['Processing'],1,0,72
+"['else', 'anything', 'there', 'Is', '?', 'you']",1,3,30
+"['analysis', 'End']",1,0,17
+"['another', 'me']",0,116,87
+"['detail', 'Explain', 'more', 'me']",0,19,2
+"['or', 'me', '?', 'perhaps']",1,3,37
+"['’s', '  ', 'me', '\n']",0,89,61
+"['Let', 'know', 'if', '’d', 'like', '!', 'me']",0,51,21
+"['sorry', 'Dave', 'afraid', 'ca', '’m', 'Would', 'do', 'n’t']",1,0,7

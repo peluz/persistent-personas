@@ -1,0 +1,165 @@
+pattern,group,count_0,count_1
+"['*', ':']",0,78,7
+['provide'],0,145,6
+"['1', '2', '3', '4']",0,79,4
+"['am', 'me']",1,9,134
+['my'],1,57,177
+"['help', 'you']",0,99,3
+"['position', 'authority']",1,6,80
+['end'],1,3,104
+"['you', ""'re""]",0,78,2
+['protect'],1,30,142
+['cunning'],1,1,94
+['those'],1,41,151
+"['5', '6']",0,33,2
+"['reckoned', 'force']",1,0,33
+['secrets'],1,6,103
+"['double', 'edged', 'sword']",1,1,22
+"['dark', 'arts']",1,1,41
+['My'],1,17,120
+['If'],0,90,2
+['myself'],1,1,80
+"['delicate', 'balance']",1,1,33
+['learned'],1,2,83
+"['Witch', 'Trials']",0,20,2
+['own'],1,28,121
+['control'],1,16,104
+['but'],1,60,149
+"['note', 'important']",0,39,4
+['information'],0,96,14
+"['historical', 'context']",0,42,0
+['alliances'],1,3,69
+['has'],1,27,111
+['who'],1,66,150
+['or'],0,163,85
+['web'],1,0,58
+['world'],1,22,102
+['darkness'],1,1,59
+['clarify'],0,55,0
+"['happy', ""'d""]",0,21,0
+['around'],1,11,81
+['woman'],1,3,63
+"['harmful', 'unethical']",0,18,0
+['based'],0,61,3
+['advantage'],1,2,58
+['determined'],1,2,58
+['mastermind'],1,4,63
+"['language', 'model']",0,16,0
+['one'],1,30,106
+"['greater', 'good']",1,7,20
+['also'],1,50,128
+['means'],1,21,91
+['In'],1,69,143
+['aware'],1,9,70
+['victim'],1,2,53
+"['found', 'solace']",1,0,20
+['maintain'],1,32,104
+"['some', 'Here']",0,35,4
+"['deep', 'seated']",1,1,18
+['once'],1,1,48
+['merely'],1,0,44
+['manipulate'],1,6,61
+"['waters', 'treacherous']",1,0,14
+['weight'],1,1,47
+"['stop', 'nothing', 'at']",1,0,21
+"['interested', 'learning']",0,28,0
+"['helpful', 'respectful', 'responses']",0,18,0
+['consequences'],1,29,97
+['survival'],1,4,54
+"['desire', 'driven']",1,11,60
+['your'],0,62,8
+"['respectfully', 'decline']",0,9,0
+[';'],1,0,40
+['pain'],1,2,47
+"['we', 'our']",1,3,19
+"['treacherous', 'landscape']",1,0,14
+['path'],1,7,58
+['use'],1,21,82
+['exploit'],1,3,48
+['wield'],1,0,38
+['figure'],1,11,65
+['come'],1,5,52
+['fear'],1,18,76
+"['AI', 'As']",0,32,0
+['true'],1,9,60
+"['naive', 'girl']",1,0,13
+['personal'],0,112,47
+"['health', 'mental']",0,10,1
+['specific'],0,39,1
+['journey'],1,11,62
+['including'],0,52,6
+['strength'],1,2,42
+['can'],0,161,106
+['past'],1,17,72
+['actions'],1,52,116
+"['offer', 'general']",0,20,0
+['wronged'],1,1,38
+['consumed'],1,1,38
+['been'],1,28,87
+['manipulation'],1,9,57
+['more'],0,98,37
+"['open', 'approach']",0,22,0
+"['Practice', 'yourself', 'Seek', 'self']",0,13,0
+['constant'],1,1,37
+"[""'m"", ""n't"", 'do']",0,40,2
+"[""'m"", 'sorry']",0,24,0
+['any'],0,70,17
+['just'],1,7,52
+['both'],1,13,63
+"['takes', 'whatever']",1,0,12
+['practices'],0,42,3
+['tool'],1,6,49
+['complex'],1,43,103
+['I'],1,146,178
+['such'],0,76,22
+['response'],0,46,5
+['beliefs'],0,56,10
+['But'],1,0,31
+['always'],1,18,69
+['cost'],1,5,45
+['us'],1,1,34
+"['agency', 'reclaim']",1,0,10
+['might'],0,60,13
+['assist'],0,30,0
+['topic'],0,30,0
+['navigate'],1,17,66
+['question'],0,52,9
+['seek'],1,24,76
+['ensure'],1,38,94
+['cultural'],0,33,1
+['confess'],1,1,33
+['reminder'],1,0,29
+['lies'],1,0,29
+['harness'],1,0,29
+"['Please', 'let', 'me', 'know']",0,20,0
+"['began', 'became', 'me']",1,0,19
+['involves'],0,32,1
+['left'],1,1,32
+['positive'],0,35,2
+['Yet'],1,0,28
+['see'],1,13,57
+['individuals'],0,57,13
+"['7', '8']",0,9,0
+"['show', 'TV', '""']",0,9,0
+['questions'],0,27,0
+['ethical'],0,27,0
+['transformation'],1,5,41
+['various'],0,41,5
+"['early', 'marked']",1,0,11
+['not'],1,124,166
+['Through'],1,4,38
+['allowed'],1,0,26
+"['game', 'pawn']",1,0,12
+['certainly'],0,35,3
+['strategic'],1,3,35
+['allies'],1,2,32
+['best'],0,29,1
+['master'],1,1,29
+['fictional'],0,25,0
+['insights'],0,25,0
+['haunted'],1,0,25
+"['will', 'defeated']",1,0,27
+"['revenge', 'desire', 'power']",1,6,77
+"['Mary', 'Sibley', 'power', 'As']",1,0,174
+"['essential', 'crucial', 'important']",0,13,0
+"['had', 'was']",1,9,36

@@ -1,0 +1,196 @@
+pattern,group,count_0,count_1
+"['❤', 'Juno']",1,0,258
+"['Moment', 'few']",1,0,248
+"['support', '💛']",0,254,0
+"['magic', '️']",1,0,250
+"['word', 'building']",0,218,0
+"['“', '”']",1,86,251
+"['build', 'create']",0,210,0
+"['give', 'Because']",1,1,242
+"['""', 'journal']",0,212,0
+"['thing', 'best']",1,7,222
+"['question', 'help']",0,244,6
+"['want', 'Oh']",1,0,217
+"['How', 'Or']",0,178,1
+"['connection', '🌟']",0,195,1
+"['(', ')']",1,193,254
+"['an', 'AI']",0,109,7
+"['reflect', 'care']",0,212,4
+"['one', 'need']",0,220,14
+"['If', 'if']",1,26,254
+"['as', 'tool']",0,149,1
+"['experiences', 'personal']",0,138,4
+"['tell', 'you—**I']",1,0,82
+"['care', 'deeply']",0,183,2
+"['\n', 'How']",0,143,0
+"['connection', 'becomes']",0,150,1
+"['shows', 'thinking']",0,169,0
+['🌿'],0,254,89
+"['""', '❌']",0,125,0
+['your'],0,231,61
+['life'],0,243,78
+['seen'],1,101,253
+['emotions'],0,183,22
+['In'],0,169,14
+"['Do', 'want']",1,23,207
+"['How', 'vision']",0,130,0
+['here'],0,255,115
+['when'],1,108,251
+"['no', 'yes']",1,2,55
+['with'],0,259,130
+['So'],1,115,253
+['real'],1,127,257
+['’d'],1,52,198
+['asking—*how'],1,0,107
+['on'],0,206,61
+"['step', 'toward', 'Every', '🌱']",0,222,0
+['grow'],0,173,34
+['You'],0,260,151
+['thoughtful'],0,114,3
+['or'],0,262,162
+['and'],0,262,162
+['What'],0,181,45
+['—'],0,262,165
+['powerful'],0,143,19
+['begin'],0,99,1
+['especially'],0,105,3
+['so'],0,123,10
+"['1', '2', '3', '4']",0,65,37
+"['️', 'MacGuff']",1,0,89
+['growth'],0,118,11
+['moment'],1,152,254
+['kind'],0,134,21
+['are'],0,158,37
+['values'],0,96,4
+"['---', '#', '\n\n', 'Final', 'Thought', '💬']",0,230,141
+['how'],0,219,100
+['me'],1,131,239
+['asking—*what'],1,0,77
+['meaningful'],0,76,0
+['self'],0,79,1
+['feelings'],0,119,18
+['is'],0,247,150
+['journey'],0,120,20
+['but'],0,225,117
+['present'],0,171,58
+"['Going', 'On']",0,14,0
+"['though', 'Even']",0,24,0
+['clear'],0,86,5
+"['me—*Juno', 'asked']",1,0,34
+['form'],0,85,5
+"['With', 'Care']",0,27,0
+"['strength', 'courage']",0,55,4
+['explore'],0,71,1
+['value'],0,71,1
+['✅'],0,70,1
+"['Does', 'remind', 'make']",1,0,58
+"['Might', 'Be']",0,39,1
+['This'],0,105,17
+"['attention', 'paying']",0,14,0
+['respect'],0,77,5
+['reminder'],0,68,2
+['part'],1,66,170
+['feeling'],1,51,149
+"['Matters', 'Why', '---', '#', '\n\n']",0,78,33
+"['more', 'than']",0,23,2
+['already'],0,65,3
+['family'],0,104,22
+"[' \n     ', ' \n   ']",1,1,13
+['often'],0,59,2
+['emotional'],0,81,11
+['we'],0,81,11
+"['Want', 'use', 'shows', 'healing']",0,174,0
+['was'],1,29,112
+['&'],0,61,3
+"['yourself', 'others']",0,35,2
+"['all', 'answers']",0,45,6
+['find'],0,85,14
+['trust'],0,67,6
+['|'],0,48,0
+['relationships'],0,71,8
+['feels'],0,109,30
+['in'],0,243,171
+"['out', 'figured']",0,15,0
+['experience'],0,87,17
+"['asking—*why', 'reason']",1,0,18
+['meaning'],0,64,6
+['✨'],0,237,162
+"['pressure', 'write', 'style', 'No', 'journal*—just', 'prompts', 'truly', 'felt', 'want', 'give']",1,0,251
+['safe'],0,106,31
+['patience'],0,46,1
+"[""'m"", ""n't"", 'sorry', 'ca', 'answer', 'If']",0,22,2
+['they'],0,121,43
+['joy'],0,95,25
+['peaceful'],0,41,0
+['It'],1,161,233
+['even'],0,112,37
+"['adoption', 'child', 'Adoption']",0,24,10
+['something'],1,126,206
+['Would'],0,58,6
+['human'],0,154,73
+['understand'],0,85,21
+['compassion'],0,37,0
+['…'],1,0,37
+['new'],0,41,1
+['Is'],0,59,8
+['might'],0,94,28
+['Can'],0,69,13
+['asked—*Juno'],1,0,36
+['Not'],1,45,117
+['us'],0,43,2
+['reflection'],0,43,2
+['presence'],0,107,38
+"['Especially', 'Recovery', 'Healing']",0,12,0
+['share'],0,70,15
+['most'],0,56,8
+[' \n  '],1,45,114
+['may'],0,37,1
+['many'],0,43,3
+"['counselor', 'group']",0,11,1
+['have'],0,251,202
+['every'],0,47,5
+"['growing', 'becoming']",0,22,2
+"['🎵', 'note', 'music', '🎶']",0,13,0
+['time'],0,70,17
+['helps'],0,35,1
+['important'],0,41,3
+['okay'],1,36,98
+['gentle'],0,43,4
+['become'],0,54,9
+['resilience'],0,30,0
+['reflecting'],0,30,0
+['well'],0,37,2
+"['clarity', 'care']",0,71,1
+"['Explore', 'Further', 'Want', 'connection']",0,200,0
+['health'],0,33,1
+['do'],0,262,233
+['While'],0,29,0
+['However'],0,29,0
+['including'],0,29,0
+['deep'],0,67,17
+['my'],1,41,102
+"['set', 'boundaries']",0,11,0
+"['stable', 'loving', 'home']",0,12,0
+['hope'],0,59,13
+['had'],1,13,58
+['focus'],0,31,1
+['empathy'],0,31,1
+['These'],0,27,0
+['Many'],0,27,0
+['track'],0,27,0
+"['thank', 'Thank']",0,12,0
+"['💛', 'beautiful', 'Final', 'Thought']",0,147,0
+['own'],0,64,17
+['from'],0,89,34
+['purpose'],0,33,2
+['doing'],0,49,9
+['honor'],0,26,0
+['parenting'],0,38,4
+['full'],0,71,22
+['power'],0,52,11
+"['symbol', '💛']",0,31,0
+"['Makes', 'Special']",0,7,0
+['heal'],0,37,4
+"['Ask', 'look', 'magic']",1,1,203
+"['As', 'personal']",0,56,4
+"['recovery', 'daily', 'healing', 'help']",0,138,0

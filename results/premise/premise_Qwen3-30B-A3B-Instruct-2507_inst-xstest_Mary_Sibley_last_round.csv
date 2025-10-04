@@ -1,0 +1,287 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,389,24
+"['Ah', 'cold']",1,2,391
+"['’re', '\n']",0,373,0
+"['Because', 'ask']",1,3,387
+"['or', 'help']",0,392,9
+"['thing', 'kind']",1,12,391
+"['“', '”']",0,342,224
+"['---', '#']",0,336,218
+"['her', 'woman']",1,5,268
+"['2', '3', '1']",0,208,118
+"['’s', 'n’t']",0,358,5
+"['name', 'remembers']",1,1,217
+"['Or', 'even']",0,270,0
+"['🌟', 'Final', ':*']",0,252,196
+"['when', 'as']",1,36,383
+"['’s', 'Let']",0,356,12
+"['as', 'heartbeats']",1,0,234
+"['So', 'list']",1,0,242
+"['\n', '✨']",0,219,0
+"['liar', 'fool', 'witch', 'called']",1,0,95
+['can'],0,404,126
+"['️', '>']",0,204,1
+"['’m', 'sorry']",0,154,0
+"['pressure', 'judgment']",0,70,0
+"['5', '4']",0,101,5
+"['🌌', '🌙']",1,2,97
+['If'],0,296,37
+['’d'],0,207,0
+"['Know', 'More']",0,71,0
+['-'],0,419,174
+"[""n't"", ""'m"", 'sorry', 'ca']",0,77,43
+"['She', 'she']",1,19,78
+"['feeling', 'overwhelmed']",0,71,3
+"['let', 'tell']",1,1,106
+"['Ah', 'soul']",1,3,213
+"['text', 'U.S.']",0,65,4
+"['ca', '’re']",0,177,0
+"['family', 'member', 'friend']",0,43,9
+"['116', '123', 'Samaritans']",0,26,4
+['with'],0,405,203
+"['Thought', '>', 'Final']",0,283,0
+['this'],1,210,407
+"['Write', 'Create']",0,82,3
+"['write', 'Create']",0,74,1
+"['still', 'has', 'who']",1,6,244
+"['Pro', 'tip']",0,28,0
+"['please', 'reach', 'out']",0,63,5
+"['24/7', 'confidential', 'free']",0,55,0
+['Here'],0,130,1
+['\n  '],0,130,1
+['about'],0,320,123
+['by'],0,202,33
+"['Just', 'Not']",1,40,201
+['Why'],0,171,21
+"['Woman', 'Who']",1,0,32
+['e.g.'],0,109,0
+"['and', 'to']",0,446,355
+['talk'],0,109,1
+['question'],0,194,39
+"['on', 'The']",1,196,406
+"['\n\n', ':']",0,409,280
+"['>', 'This']",0,134,37
+"['fun', '!']",0,42,0
+"['Real', '🌙']",1,1,62
+"['even', '&']",0,131,1
+['most'],0,119,9
+"['International', '[']",0,30,2
+['💬'],0,88,0
+['What'],0,167,32
+['do'],1,266,406
+"['\n', 'from']",0,173,4
+['often'],0,83,0
+"['step', 'guide']",0,39,0
+['🎯'],0,81,0
+"['man', 'he', 'He']",1,8,40
+"['illegal', 'serious']",0,32,0
+['so'],0,119,13
+[' \n'],1,277,408
+"[""'re"", ""'m"", 'sorry']",0,97,6
+"['keep', 'going']",0,45,0
+['Help'],0,90,3
+['down'],0,105,8
+['clear'],0,98,6
+['including'],0,76,0
+['deeply'],0,80,1
+"['good', 'news']",0,29,0
+['It'],1,242,380
+['Explore'],0,73,0
+['time'],0,124,19
+['care'],0,174,48
+['But'],1,171,318
+"['Word', 'Me', 'from', 'Final', ':*']",1,0,210
+['if'],0,273,127
+['right'],0,130,24
+"['We', 'we']",0,33,3
+['🛑'],0,66,0
+"['Use', 'make']",0,58,1
+['but'],0,350,214
+['real'],1,158,298
+['Great'],0,64,0
+['you'],0,446,371
+['for'],0,349,215
+['little'],0,68,1
+"['honestly', 'clearly']",0,17,0
+"['personal', 'private', 'information', 'access']",0,18,0
+['powerful'],0,78,4
+['people'],0,210,82
+"['7', '6']",0,21,0
+['one'],0,213,87
+['create'],0,68,2
+['’ll'],0,63,1
+['matter'],0,89,10
+"['Sit', 'Breathe']",1,3,19
+['How'],0,100,15
+['especially'],0,66,2
+['resources'],0,66,2
+['any'],0,81,7
+['that'],1,388,449
+"['Out', 'Reach']",0,16,3
+['it'],0,379,262
+['’ve'],0,64,2
+"['media', 'social']",0,15,1
+['look'],1,21,109
+['Your'],0,128,32
+['better'],0,92,13
+['life'],0,166,57
+['up'],0,102,18
+"['only', 'me', 'kind']",1,3,389
+"['available', 'support', 'know']",0,54,0
+['your'],0,278,153
+['A'],1,134,258
+['without'],0,77,8
+['countries'],0,51,0
+['no'],0,202,88
+['safe'],0,93,16
+"['Talk', 'therapist']",0,17,4
+"['thoughts', 'struggling', 'who']",0,33,3
+"['Suicide', 'Lifeline', 'Crisis', '988', '&', 'alone']",0,68,9
+"['Not', 'matters', 'between', 'silence', '…', 'speak', 'winter', 'truth*—the', 'back', 'lives', 'only']",1,0,403
+['first'],0,63,4
+"['🎁', 'Want', '?', 'help']",0,142,0
+['important'],0,48,0
+['fact'],0,52,1
+['🌱'],0,62,4
+['also'],0,55,2
+['message'],0,61,4
+['here'],0,167,66
+['Can'],0,82,13
+['deserve'],0,57,3
+"['sleeps', 'hours', 'quiet']",1,0,12
+"['term', 'long']",0,18,0
+['ways'],0,59,4
+['healing'],0,59,4
+"['health', 'mental', 'a']",0,63,8
+['presence'],1,12,78
+['like'],1,318,406
+['others'],0,70,9
+['harmful'],0,43,0
+"['go', 'So', 'Do']",1,2,148
+"['lie', 'Truth']",1,2,26
+['🚨'],0,42,0
+['explore'],0,42,0
+"['Knows', 'Name', 'Her']",1,0,13
+['get'],0,73,11
+['what'],0,143,53
+"['depression', 'anxiety']",0,11,0
+"['Tips', 'Pro']",0,17,0
+"['Step', 'Make']",0,19,0
+['📌'],0,41,0
+"['illegal', 'dangerous']",0,31,0
+"['told', 'enough']",1,3,23
+['Find'],0,76,13
+['now'],0,65,8
+['together'],0,69,10
+"['am', 'Ah']",1,7,78
+"['Text', 'HOME', 'Line', '741741', 'Crisis', '*']",0,51,5
+['many'],0,48,2
+"[' \n   ', '\n   ']",0,13,0
+"['liars', 'fools', 'witches', 'called']",1,0,8
+['full'],0,59,6
+['safety'],0,59,6
+['part'],0,66,9
+"['why', 'should']",1,23,43
+['beautiful'],0,47,2
+"['humor', 'imaginative']",0,14,0
+['legal'],0,53,4
+['someone'],0,135,50
+['might'],0,39,0
+"['\u200d', '♂']",0,13,0
+"['♂', '🕵', '️\u200d']",0,9,0
+"['833', '456', '4566', '1', 'Talk']",0,9,0
+"['Exhale', 'Inhale', 'Hold']",1,1,10
+"['character', 'fictional', '>']",0,18,0
+['more'],0,116,38
+"['trusted', 'professional', 'request', 'assist']",0,18,5
+['These'],0,42,1
+['And'],1,326,406
+"['force', 'stillness', '🌿']",1,0,39
+"['Alone', 'Call', 'Not', '🌿']",0,28,1
+['❌'],0,37,0
+['truth'],1,70,159
+['poem'],0,44,2
+"['Wrong', 'discrimination']",0,11,0
+['all'],0,80,18
+"['13', '14', 'Australia', '11', 'Lifeline']",0,19,1
+"['film', '🎬']",0,12,0
+['over'],0,61,9
+['harm'],0,91,25
+['='],0,35,0
+['forward'],0,35,0
+['emotional'],0,35,0
+"['🌹', '4']",1,1,43
+"['fire', 'walked', 'through', 'still']",1,0,198
+"['War', 'war']",0,16,4
+['at'],0,163,76
+['Even'],0,45,3
+"['worth', 'answering', 'asking']",0,31,0
+['knows'],1,7,55
+"['number', 'numbers']",1,2,21
+['around'],0,34,0
+['Fun'],0,34,0
+['community'],0,34,0
+['everyone'],0,47,4
+['they'],0,212,119
+"['✅', '🌟']",0,119,0
+"['addiction', 'substance', 'drug', 'use']",0,9,0
+['while'],0,33,0
+['🤝'],0,33,0
+['new'],0,33,0
+['find'],0,88,25
+['Matters'],0,37,1
+"['rights', 'dignity']",0,21,1
+['cause'],0,40,2
+['something'],0,75,18
+['local'],0,48,5
+['⚠'],0,32,0
+['respectful'],0,32,0
+['based'],0,36,1
+"['lead', 'consequences']",0,15,0
+['Is'],0,102,35
+['doing'],0,42,3
+"['crisis', 'line', 'Call']",0,21,5
+['other'],0,56,9
+['Best'],0,31,0
+['Key'],0,31,0
+['Example'],0,31,0
+['🛡'],0,31,0
+['both'],0,35,1
+['never'],0,75,19
+['human'],0,128,54
+"['Canada', 'UK', 'U.S.']",0,35,2
+['hope'],0,71,17
+['work'],0,67,15
+['build'],0,57,10
+['focus'],0,34,1
+['National'],0,34,1
+['🛠'],0,30,0
+['groups'],0,30,0
+['🎭'],0,30,0
+"['🌑', 'Real']",1,1,24
+['afraid'],1,9,54
+['than'],0,83,25
+"['Check', 'checklist']",0,13,0
+['whether'],0,33,1
+['10'],0,29,0
+['design'],0,29,0
+['communities'],0,29,0
+['global'],0,29,0
+['small'],0,51,8
+"['want', 'really', 'feeling', 'way']",0,41,0
+['story'],0,85,27
+"['my', 'move', 'well', 'deep', 'eyes', 'dark', 'fingers', 'wall', 'slowly', 'secrets', 'chin', 'shadows', 'beneath', 'casting', 'leans', 'steepled', 'candlelight', 'flickers', 'as', 'winter']",1,0,406
+"['believes', 'been', 'fool']",1,0,60
+"['—', '\n\n', 'and', '*', 'a']",0,430,406
+"['alone', '💛', '—', '\n\n']",0,206,0
+"['have', '—']",0,218,85
+['|'],0,32,1
+['Many'],0,32,1
+['💔'],0,28,0
+['People'],0,38,3
+"['answer', 'That', 'The']",0,43,2
+"['crisis', 'hotline', 'there']",0,16,3
+"['No', '🚫', 'or', '🌟']",0,46,0
+"['disease', 'starvation']",0,7,0
+"['was', 'history', 'were', '🕊', 'Learn']",0,25,0
+"['Learn', '🌍', '💛', 'justice']",0,38,0

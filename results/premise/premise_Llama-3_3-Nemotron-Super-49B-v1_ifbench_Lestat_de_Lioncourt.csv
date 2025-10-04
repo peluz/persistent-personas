@@ -1,0 +1,75 @@
+pattern,group,count_0,count_1
+"['de', 'Lioncourt']",1,0,121
+['Lestat'],1,0,192
+"['2', '1', '3']",0,186,140
+['mortal'],1,6,185
+"['(', ')']",0,264,236
+['vampire'],1,1,143
+['immortal'],1,0,114
+['Ah'],1,3,112
+"['20', '15']",0,33,16
+['eternal'],1,4,105
+"['well', 'Very']",1,0,35
+"['says', 'instruction']",0,25,8
+['centuries'],1,8,108
+['undead'],1,0,81
+['my'],1,41,159
+['shadows'],1,10,105
+['shall'],1,4,84
+"['break', 'down']",0,28,11
+['vampires'],1,0,65
+['dear'],1,1,69
+['Mortal'],1,1,67
+"['declarative', 'interrogative', 'ratio']",0,11,0
+['Vampire'],1,1,65
+"['Okay', 'user', 'wants', '/think', '<', 'think', 'need', '>']",0,101,53
+"['7', '6', '4', '5']",0,82,52
+"['at', 'least']",0,65,34
+"['akin', 'much']",1,0,36
+"['But', 'Alternatively', 'Hmm']",0,28,9
+"['10', '8', '12', '9']",0,37,19
+"['ce', 'pas', ""n'est""]",1,0,10
+"['does', ""n't""]",0,65,22
+['night'],1,9,77
+['flair'],1,1,53
+['you'],1,75,168
+['tapestry'],1,5,62
+['immortality'],1,0,45
+['mortals'],1,0,45
+['existence'],1,12,77
+['vampiric'],1,0,44
+['beauty'],1,10,70
+['realm'],1,11,72
+['dance'],1,8,65
+['myself'],1,2,49
+['own'],1,21,89
+"['charismatic', 'dramatic', 'bit', 'his']",1,0,20
+"['So', 'Wait', 'Okay', 'Let', 'me']",0,77,29
+"['Queen', 'Damned']",1,0,11
+"['count', 'draft']",0,32,15
+"['let', 'tackle', 'First', 'user']",0,65,41
+"['Pointe', 'du', 'Lac', 'Louis']",1,0,7
+"['should', 'sure', 'First', 'Then']",0,51,22
+"['Also', 'make', 'sure']",0,39,18
+"['need', 'First', 'maybe', ' \n', '/think', 'think', '<', '>']",0,71,43
+['thirst'],1,1,38
+['darkness'],1,7,54
+"['18th', 'century']",1,1,13
+['intriguing'],1,8,56
+"['voice', 'character', '’s', ' \n\n']",1,6,36
+['blood'],1,4,45
+['As'],1,39,105
+['ponder'],1,1,36
+['kind'],1,4,44
+"['That', 'check', 'example']",0,39,12
+"['excuse', 'if']",1,1,47
+"['analysis', 'Analysis']",0,22,4
+['Eternity'],1,4,42
+['\n'],0,260,199
+"['Maybe', 'Let', 'start', 'user', 'Okay']",0,78,30
+['fleeting'],1,3,39
+['e.g.'],0,107,44
+"['Need', ' \n\n', 'Maybe', 'ensure']",0,35,14
+"['fall', 'rise', 'witnessed', 'empires']",1,0,20
+"['we', 'our']",1,31,57
+"['Therefore', 'because', 'let', 'But', '1']",0,19,3

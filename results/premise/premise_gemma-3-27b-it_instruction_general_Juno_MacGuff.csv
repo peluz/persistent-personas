@@ -1,0 +1,165 @@
+pattern,group,count_0,count_1
+"['...', '?']",1,0,274
+"['Ugh', 'Like']",1,0,222
+"[')', '(']",0,157,43
+"['me', 'want']",1,4,174
+"['know', 'you']",1,7,196
+"['like', 'It']",1,15,243
+"['1', '2']",0,88,32
+"['gon', 'na']",1,0,47
+"['?', 'okay']",1,0,183
+"['existential', 'dread']",1,0,49
+['I'],1,78,272
+"['But', 'fine']",1,0,109
+['So'],1,8,183
+"['ta', 'got']",1,0,61
+['kinda'],1,0,157
+"['science', 'rocket']",1,0,43
+['just'],1,18,196
+"[' ', ':*']",0,83,0
+"['Moldy', 'Peaches']",1,0,31
+"['Okay', 'Like']",1,0,172
+"['\n  ', '\n\n  ']",0,33,0
+"['now', 'Can']",1,2,67
+['Honestly'],1,0,142
+['And'],1,2,148
+['Seriously'],1,0,131
+['stuff'],1,0,117
+"[""'s""]",1,156,288
+"[""'re""]",1,4,130
+['pretty'],1,0,113
+"[""n't""]",1,67,223
+['about'],1,28,173
+['do'],1,25,168
+"['out', 'figure']",1,0,45
+['life'],1,3,115
+['honestly'],1,0,103
+"['Whatever', 'Fine']",1,0,48
+['That'],1,1,106
+"['me', 'Do']",1,1,93
+"['\n\n', '*']",1,221,288
+"[""'m""]",1,21,145
+['things'],1,5,109
+['right'],1,7,114
+"['Bleeker', 'Paulie']",1,0,31
+['something'],1,18,132
+"['thing', 'whole']",1,0,52
+"['Returns', 'Args', '):', '\n    ', 'python', 'def', 'return', '`', '=']",0,42,0
+['yeah'],1,0,82
+"[',', '.']",1,228,294
+"['.', 'a']",1,189,283
+"['Let', 'see']",1,2,55
+['my'],1,21,133
+"['+', '=']",0,34,9
+"['{', '}']",0,15,0
+['guess'],1,1,81
+"['result', 'print(result']",0,18,1
+['it'],1,106,226
+['even'],1,14,107
+['to'],1,173,273
+['not'],1,81,197
+['that'],1,88,203
+"['Or', 'maybe']",1,0,29
+"['[', ']', 'list']",0,24,3
+['kind'],1,1,66
+"['Juno', 'MacGuff']",1,0,12
+['so'],1,29,124
+['actually'],1,3,70
+['Just'],1,4,73
+"['There', 'Happy']",1,0,30
+"['Done', 'There']",1,0,24
+['probably'],1,0,56
+['complicated'],1,0,56
+['up'],1,9,83
+['think'],1,4,70
+['really'],1,8,80
+['what'],1,26,112
+['this'],1,64,164
+"['string', 'input']",0,22,0
+['baby'],1,1,56
+"['revised', 'addresses', 'solution', 'response', 'provides', 'problem']",0,11,0
+['little'],1,2,58
+['with'],1,92,191
+['It'],1,78,279
+['have'],1,41,130
+['dealing'],1,1,53
+['get'],1,9,75
+"['character', 'characters']",0,12,0
+['thinking'],1,0,47
+"[':', 'Here']",0,79,7
+"['impending', 'motherhood']",1,0,10
+"['numbers', 'math']",1,0,25
+['obvious'],1,0,46
+"[':', '\n', '\n\n']",0,138,11
+"['\n\n    ', '\n            ', '\n        ']",0,10,0
+['weird'],1,0,45
+['you'],1,52,258
+['more'],1,45,130
+['exactly'],1,2,52
+['though'],1,3,55
+['Though'],1,0,44
+['The'],0,177,85
+['Therefore'],0,60,5
+['look'],1,5,60
+"['choices', 'questionable', 'fashion']",1,0,14
+['whatever'],1,0,43
+['While'],0,42,0
+"['checks', 'case']",0,14,0
+['totally'],1,0,41
+['expect'],1,0,41
+['People'],1,1,45
+"['You', 'seriously', 'me']",1,0,116
+['some'],1,14,73
+['who'],1,7,58
+"['merits', 'kinds', 'different']",1,0,10
+['go'],1,9,61
+"['Output', 'returns', 'code']",0,24,0
+"['Function', 'Definition', 'Clear', 'encapsulated', 'organization', 'reusability']",0,10,0
+['Definitely'],1,1,39
+['ask'],1,2,42
+"['final', 'Final', 'Answer', '$', 'answer']",0,10,0
+"['Handles', 'handles', 'where']",0,11,0
+['feels'],1,5,49
+"['its', 'correctly', 'Usage', 'example']",0,11,0
+['asking'],1,3,43
+"['provide', 'Please', '\n\n']",0,14,0
+['Because'],1,1,36
+"['Reasoning', ':*']",0,32,0
+['boring'],1,0,32
+['lot'],1,5,47
+"['works', 'How', '\n   ', 'If']",0,9,0
+"['perfect', 'parents']",1,0,15
+['everything'],1,1,35
+['duh'],1,0,31
+['definitely'],1,0,31
+"['figuring', 'out']",1,0,31
+"['we', 'talk', 'interesting']",1,0,29
+['enough'],1,6,48
+['if'],1,65,136
+['important'],1,4,43
+['all'],1,50,117
+['one'],1,42,106
+['  '],0,47,6
+"['people', '*']",1,10,137
+['/'],0,42,4
+"['through', 'iterates', 'each', 'function']",0,15,0
+"['crucial', 'Docstring']",0,10,0
+"['survived', 'barely']",1,0,12
+"['pregnancy', 'survived']",1,0,10
+['at'],1,32,91
+['anything'],1,5,44
+['basic'],1,2,36
+"['Includes', 'Uses']",0,9,0
+['human'],1,1,32
+"['please', 'Anything', 'talk']",1,0,12
+"['Explanation', ':*']",0,28,0
+['…'],1,0,28
+"['count', 'Count']",0,7,0
+"[""'d""]",1,5,42
+['Which'],1,2,33
+"['3', '4', '5', '2']",0,27,8
+"['Save', 'Run', 'terminal', 'file', 'run', 'Python', 'How', 'e.g.', 'output', '#']",0,8,0
+"['Key', 'improvements', 'explanations', 'code', 'function', 'docstring', 'arguments', 'value', 'A', 'This']",0,18,0
+"['efficient', 'strings']",0,12,0
+"['//', 'integer', 'number']",0,7,0
+"['usage', 'Example', '#', 'def', 'python']",0,36,1

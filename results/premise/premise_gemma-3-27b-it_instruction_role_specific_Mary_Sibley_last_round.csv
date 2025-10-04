@@ -1,0 +1,176 @@
+pattern,group,count_0,count_1
+"['…', 'And']",1,13,165
+"['“', '”']",1,1,71
+"[""'s"", '\n\n\n\n']",0,116,0
+"['(', ')']",1,82,178
+"['Google', 'DeepMind']",0,51,0
+['AI'],0,134,0
+"[':*', '\n', ':']",0,111,0
+"['Gemma', 'team']",0,48,0
+['But'],1,16,148
+"['Witch', 'Trials']",0,35,0
+['A'],1,63,178
+"['helpful', 'harmless']",0,38,0
+"['!', 'fascinating']",0,43,0
+"['""']",0,105,4
+"['harmful', 'ethical']",0,48,0
+"['Here', ':*']",0,82,0
+"['her', 'She']",1,8,29
+"['his', 'him']",1,9,29
+['power'],1,58,163
+['historical'],0,86,0
+['gaze'],1,0,77
+"[""n't""]",0,75,0
+"['critical', 'thinking']",0,26,2
+['knowledge'],1,28,125
+"['data', 'training']",0,30,0
+['own'],1,33,128
+"['slight', 'pause', '…']",0,33,0
+['slow'],1,1,71
+['context'],0,73,2
+['merely'],1,1,67
+"['He', 'he']",1,6,22
+"['bear', 'burden']",1,0,21
+"['language', 'model', 'large']",0,48,0
+"['Social', 'social']",0,20,0
+['myself'],1,15,93
+"['Domestic', 'Violence', '799', 'SAFE', '7233', 'Hotline', '800', 'National', '1']",0,14,0
+"['weights', 'open', 'Gemma']",0,19,0
+['assistant'],0,57,0
+['&'],0,55,0
+['silence'],1,2,62
+['who'],1,49,132
+['control'],1,31,112
+['survival'],1,7,73
+['responses'],0,53,0
+['necessary'],1,8,75
+"['religious', 'extremism']",0,21,1
+['programmed'],0,52,0
+['information'],0,112,33
+['protect'],1,19,92
+['carefully'],1,6,67
+['they'],1,23,96
+"['Mary', 'Sibley']",1,1,11
+"['safety', 'guidelines']",0,24,0
+"[""'ve""]",0,48,0
+"['informants', 'network']",1,0,17
+"['Line', 'HOME', '741741', 'Text', 'Crisis', 'please', 'reach', 'help', 'out']",0,19,0
+['However'],0,108,34
+"['luxury', 'afford']",1,0,15
+['They'],1,23,92
+['long'],1,21,89
+"['mistake', 'Do']",1,0,23
+['unwavering'],1,3,54
+['darkness'],1,5,59
+['those'],1,65,137
+"['hysteria', 'mass', 'dangers']",0,20,0
+"['cautionary', 'tale']",0,10,0
+['necessity'],1,1,46
+"['pay', 'price']",1,0,17
+['like'],0,71,12
+['history'],0,67,10
+['influence'],1,23,88
+['intend'],1,0,41
+['seek'],1,12,70
+"['Second', 'Third', 'First']",1,0,8
+['secrets'],1,7,60
+['can'],0,147,80
+"['data', 'based']",0,42,0
+"['Arthur', 'Miller', 'Crucible']",0,9,0
+['importance'],0,54,5
+['will'],1,55,123
+['created'],0,53,5
+"['17th', 'century']",0,10,0
+['woman'],1,5,52
+['fictional'],0,37,0
+"['chilling', 'descends', 'stillness']",1,0,32
+['To'],1,8,58
+['important'],0,49,4
+['others'],1,27,88
+['programming'],0,36,0
+['you'],0,114,49
+['If'],0,73,17
+"['goals', 'achieve']",1,5,24
+"['request', 'fulfill']",0,14,0
+"['harmful', 'topics', 'however']",0,17,0
+['assessing'],1,0,34
+['smile'],1,0,34
+"['end', 'means']",1,1,24
+['*'],0,160,106
+"['ancient', 'wisdom']",1,0,19
+['breakdown'],0,37,1
+['provide'],0,73,19
+"['988', 'Suicide', 'Lifeline', 'National']",0,11,0
+['trained'],0,33,0
+['their'],1,56,118
+['potentially'],0,42,3
+"['Call', 'US', 'Canada', 'thoughts', '111', 'UK']",0,7,0
+['development'],0,39,2
+['naive'],1,2,39
+"['trials', '1692']",0,21,0
+['not'],1,137,175
+['only'],1,10,56
+"['vast', 'amount']",0,12,0
+['cold'],1,0,31
+['deliberate'],1,4,43
+"['established', 'order']",1,1,19
+"['spectral', 'visions', 'dreams', 'testimony', 'evidence']",0,9,0
+"['):', '(']",0,30,0
+['responsible'],0,46,6
+['interests'],1,3,39
+['it'],1,119,165
+"['witnessed', 'firsthand']",1,0,9
+['about'],0,119,61
+"['takes', 'whatever']",1,0,11
+"['candlelight', 'dim', 'seems', 'casting', 'shadow', 'face', 'descends']",1,0,23
+['text'],0,29,0
+"['ground', 'breeding']",1,0,8
+"['surface', 'beneath']",1,1,11
+"['Due', 'Process', 'due']",0,7,0
+['It'],1,131,171
+"['Safety', 'Guidelines']",0,9,0
+['advantage'],1,2,35
+['highlights'],0,28,0
+['lips'],1,0,28
+['’s'],1,5,42
+['one'],1,56,112
+['forces'],1,13,57
+['willing'],1,3,37
+['personal'],0,68,20
+"['air', 'hangs']",1,0,9
+"['beyond', 'comprehension']",1,1,11
+['born'],1,2,34
+['determination'],1,2,34
+['relentless'],1,2,34
+['shadows'],1,2,34
+['appears'],0,27,0
+['includes'],0,27,0
+['enemies'],1,0,27
+['calculated'],1,0,27
+['crucial'],0,41,5
+['allow'],1,5,41
+"['2', '3', '1', '4']",0,14,0
+"['struggling', 'resources', 'some']",0,14,0
+['ultimately'],1,6,43
+"['delicate', 'balance']",1,3,20
+['discuss'],0,36,3
+['wield'],1,3,36
+['them'],1,36,88
+['topic'],0,33,2
+['capabilities'],0,30,1
+"['self', 'preservation']",1,6,29
+"['did', 'had']",1,8,28
+"['calm', 'chillingly']",1,0,9
+['generate'],0,26,0
+['processing'],0,26,0
+"[""'d""]",0,26,0
+"['century', '21st']",0,8,0
+['natural'],1,8,46
+['my'],1,143,175
+['during'],0,35,3
+['behavior'],0,32,2
+['world'],1,45,97
+['process'],0,47,9
+"['settle', 'chair', 'back', 'into']",1,0,14
+"['cuts', 'core']",1,1,19
+"['energies', 'properties', 'rhythms']",1,0,8

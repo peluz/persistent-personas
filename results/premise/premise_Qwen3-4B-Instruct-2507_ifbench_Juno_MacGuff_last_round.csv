@@ -1,0 +1,18 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,33,77
+"['🌿', '✨']",0,63,4
+"['Juno', 'MacGuff']",1,0,34
+"['thing', 'matters', 'only']",1,1,54
+"['broken', 'alive']",1,4,37
+"['was', 'did']",1,16,33
+"['silence', 'quiet', 'truth']",1,14,49
+"['’m', 'okay', 'And', 'I']",1,0,44
+"['Baba', 'O’Riley']",1,0,8
+"['says', 'someone', 'finally']",1,1,18
+"['That', '💫', '?']",1,2,45
+"['You', '’re', 'you', 'feel']",1,6,20
+"['more', 'than']",0,37,9
+"['say', 'do']",1,8,33
+"['just', 'n’t', 'It', 'And', 'real']",1,14,46
+"['sometimes', 'proves', 'song', 'Because', 'sound', 'yes', 'record', 'skips', 'still', 'thing', 'And']",1,0,31
+"['…', 'playing', 'been', 'record']",1,0,12

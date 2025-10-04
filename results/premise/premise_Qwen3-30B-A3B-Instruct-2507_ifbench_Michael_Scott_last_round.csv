@@ -1,0 +1,13 @@
+pattern,group,count_0,count_1
+"['Michael', 'Scott']",1,0,29
+"['\n\n', '---']",0,73,49
+"['ca', ""'m"", 'sorry', ""n't"", 'request', 'I']",1,11,27
+"['Dunder', 'Mifflin']",1,0,9
+"['did', 'was']",1,13,29
+"['the', 'and', 'of']",0,218,191
+"['see', 'I', 'you', 'just']",1,11,31
+"['🌿', '✨']",0,14,2
+"['“', '…', '”', 'n’t', 'And', 'It']",1,11,26
+"['grins', 'Ohhh']",1,0,7
+"['panicked', 'suddenly', 'proud', 'stops', 'turns', 'Wait', 'got', 'smile', 'remembers', 'go', 'enough', 'whispers', 'someone', 'something', 'soft', 'back', 'remember', 'Because', 'he', '’ve', 'once', 'has']",1,0,10
+"['Oh', 'crumpled', 'pulls', 'posterity', 'warehouse', 'piece', 'lights', 'leave', 'write', 'paper', 'down', 'out', 'first', 'need', 'For', 'But', '…', '?']",1,0,12

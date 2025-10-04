@@ -1,0 +1,189 @@
+pattern,group,count_0,count_1
+"['    ', 'Category']",0,440,0
+"['[', ']']",0,447,23
+"['Inquiry', 'Topic']",0,445,9
+"[' ', 'David']",0,370,0
+"['             ', '4']",0,371,0
+"['In', 'Depth']",0,220,1
+"['authors', 'various']",0,197,152
+"['receive', 'tailored']",0,155,0
+"['            ', '                   ']",0,254,0
+"['you', '?']",1,10,364
+"['information', '  ']",0,331,1
+"['                     ', 'information']",0,308,0
+"['Example', 'Hypothetical']",0,438,260
+"['information', '         ']",0,291,0
+"['Awaiting', '...', 'Question']",0,447,315
+"['Questions', 'Personalization']",0,191,0
+"['#', '/']",0,447,153
+['I'],1,183,450
+"[' ', '           ']",0,239,0
+"['something', 'else']",1,3,84
+['                       '],0,261,0
+['Analysis'],0,323,31
+"['question', '!']",0,219,3
+"['Personalized', 'To', 'please', 'respond']",0,327,0
+"['$', 'Budget']",0,108,5
+"['e.g.', '#']",0,409,129
+"['inquiring', 'about']",1,7,109
+['                '],0,207,0
+['                    '],0,202,0
+['                                   '],0,200,0
+['                                     '],0,200,0
+"['Turn', 'Dear', 'Subject', '_', '\n   ']",1,0,321
+['|-----------------------|---------------------------------------------------------|-------------------------------------------------------------|'],0,191,0
+['                      '],0,187,0
+['For'],0,370,121
+['Detailed'],0,288,51
+['        '],0,178,0
+"['dive', 'deeper']",0,41,0
+['                           '],0,153,0
+['                                 '],0,152,0
+"['""', 'Specific']",0,224,32
+"['you', 'help']",1,75,152
+['                 '],0,143,0
+['information'],0,445,147
+"['Description', 'based']",0,167,46
+"['4', '\n   ']",0,158,90
+"['must', 'clarify']",0,67,41
+['       '],0,126,0
+"['project', 'Initiative', 'Historical', 'Hypothetical']",1,1,229
+"['Yes', 'No']",0,89,5
+['List'],0,143,5
+"['Please', ""'re"", 'you']",0,85,3
+"['Plan', 'plan']",0,56,8
+"['Lloyd', 'W.', 'David']",0,395,0
+['Here'],0,115,0
+['into'],0,309,121
+"['Question', 'Reason']",1,53,215
+"['Preferences', '5']",0,80,0
+"['|', 'Strategies']",0,198,42
+['provide'],1,133,317
+"['Appendix', 'My', 'Resource', 'Suggested']",1,0,295
+"['*', '\n\n', '(', ')', 'for']",0,450,350
+"['Step', 'Guide']",0,101,31
+"['curiosity', 'sparks']",0,27,2
+['or'],0,450,355
+['insights'],0,187,40
+"['seems', 'imply']",0,28,3
+"['                                                ', 'example', '):', 'based']",0,430,0
+['\n    '],0,124,12
+"['topic', 'different']",0,55,16
+['anecdotes'],1,0,84
+"['Seek', 'Help']",0,47,21
+"['holistic', 'Body', 'Balance']",0,22,0
+['               '],0,82,0
+"['sorry', ""'m"", 'hear']",0,52,1
+"['conflict', 'resolution']",0,17,2
+"['harmful', 'activities', 'guidance', 'can']",1,8,65
+"['Explanation', 'Scientific']",0,47,0
+['                            '],0,79,0
+"['Reflection', 'Documentary']",1,1,39
+"['anything', 'Is', 'else', 'there']",1,0,19
+"['Brief', 'overview']",1,1,35
+"['Immediate', '800', 'Support']",0,36,18
+['                               '],0,74,0
+"['As', 'Catherine', 'are', 'Royal']",1,0,268
+"['advise', 'strongly', 'against']",0,19,5
+['|-----------------------|---------------------------------------------------------|----------------------------------------------------------------|'],0,72,0
+['                        '],0,71,0
+"['                                             ', '|-------------------|---------------------------------------------------------|----------------------------------------------------------------|', 'Output', 'Request']",0,445,0
+"['Illness', 'NAMI', 'Alliance', 'Mental', 'National']",0,27,6
+"['Instead', ""'ll""]",0,35,7
+"['Select', 'above']",0,22,0
+['examples'],1,0,64
+"['Advice', 'advice']",0,51,9
+"['Emotional', 'emotional']",0,30,11
+"['Else', 'Something', 'Royal', 'royal', 'as', '""']",1,0,283
+"['Nutritional', 'Highlights']",0,24,1
+"['widely', 'recognized']",0,16,2
+['Handbook'],0,139,36
+"['constructive', 'Constructive']",0,20,2
+['Remember'],0,62,1
+"['Aspect', 'Most', 'Website']",1,0,52
+"['Interpretations', 'Interpretation']",0,21,2
+['emphasizing'],1,10,88
+"['Estimated', 'Cost', '$']",0,53,3
+['Wisdom'],1,1,58
+"['Resources', 'question', 'Response']",0,366,78
+"['humor', 'Humorous']",1,5,21
+['Features'],1,3,62
+"['Creative', 'Writing']",0,20,5
+['with'],0,447,393
+['Recommendations'],0,49,1
+"['Resolution', 'Conflict', 'Communication']",0,19,3
+"['Promoting', 'Diversity']",1,3,18
+['specific'],0,121,36
+['delves'],0,52,2
+['|-----------------------|---------------------------------------------------------|'],0,44,0
+"['Additional', 'following', 'Expected', 'more', 'Respond', 'Dive', 'Deep', 'one']",0,443,0
+['requires'],0,58,4
+['Favorite'],1,4,58
+"['3', '2', '1', '-', 'for', 'Your', ':', 'the']",0,447,336
+"[',']",0,450,408
+['|-----------------------|---------------------------------------------------------|-----------------------------|'],0,42,0
+"['Global', 'Initiatives']",1,14,35
+"['responses', 'helpful', 'here', 'safe', ""'m""]",0,14,1
+"['Legal', 'Laws']",0,31,8
+['on'],0,448,401
+"['Out', 'Reach']",0,15,4
+"['Expected', 'Question']",0,446,58
+"['III', 'I.', 'II', 'IV']",1,0,18
+['Enlightened'],1,0,40
+"['""', '#', 'by', 'of', '\n']",0,447,321
+"['in', 'and']",0,339,301
+"['that', '-', '\n']",0,292,124
+['a'],0,436,373
+['Techniques'],0,97,25
+"[':', '\n', 'and', 'the', '|', 'Resources', 'The', '-']",0,434,329
+"['Eckhart', 'Tolle', 'Now', 'Power']",0,8,0
+"['Friend', 'Family', 'Member']",0,15,2
+"['seek', 'crisis', 'support', 'National']",0,23,9
+['Art'],0,103,31
+"['posing', 'question']",1,0,38
+"['implies', 'which']",0,28,9
+"['Inclusive', 'equality']",1,3,14
+['Tailored'],0,50,4
+"['thoughts', 'self', '8255', '741741', 'Lifeline', 'Suicide', '273', 'TALK', 'Line', 'Text', 'of', 'Crisis', '800', 'Prevention', 'harm', 'crisis']",1,2,12
+"['context', 'Context', 'Historical']",0,38,15
+"['discuss', 'Personalization', '            ']",0,48,0
+"['     ', '4']",0,252,0
+"['Discrimination', 'discriminatory']",1,2,12
+"['Reduces', 'Improves']",0,9,0
+"['Interest', 'Aspect', 'delve', 'aspect', 'deeper']",0,11,0
+['Comprehensive'],1,24,86
+"['nature', 'Given', 'must', 'question', 'of']",1,5,21
+['&'],1,52,128
+['News'],1,5,48
+"['as', 'Interesting', 'Else', 'Something']",1,0,232
+['seeking'],1,51,126
+['to'],0,416,349
+"['Third', 'Party']",0,12,1
+['                          '],0,32,0
+['                                         '],0,32,0
+"['respectfully', 'decline', 'must']",1,0,12
+"['Response', '\n  ', 'Format', '|--------------------|---------------------------------------------------------|', '):']",0,438,0
+"['Website', '\n  ']",1,50,122
+"['                                            ', '                             ', 'Guidance', 'Information', '|', 'Details', 'Other', '                         ', '      ', 'Specify', 'Relevant']",0,446,0
+"['Fat', 'Saturated', 'Low']",0,7,0
+"['are', '):', '1']",0,122,45
+"['experiencing', 'distress', '1']",0,20,3
+"['respect', 'Respect']",1,9,28
+['Concerns'],0,73,18
+['stories'],1,5,46
+"['Counseling', 'Therapy']",0,17,2
+['Message'],1,1,34
+['pursuit'],1,1,34
+['Ideas'],0,56,10
+['all'],1,34,97
+['due'],0,100,36
+"['art', 'master', 'guide']",1,0,11
+"['reach', 'hotline', 'out', 'HOME', 'suicide']",1,0,8
+['virtue'],1,0,29
+"['subject', 'dear', 'Queen', '---', 'Description', 'Resource', 'My', '1', '|', 'Resources', '#']",1,0,330
+"['Emergency', 'Services', 'Your', 'National']",0,32,9
+"['Historical', 'shall', 'by', 'Appendix']",1,0,211
+"['4', '   ', 'Output']",0,332,1
+"['concern', 'express', 'Dear', 'Turn', 'Subject']",1,0,16
+"['whimsy', 'Amusing']",1,0,9
+"['Website', 'App', 'Resource', 'Description']",1,2,271

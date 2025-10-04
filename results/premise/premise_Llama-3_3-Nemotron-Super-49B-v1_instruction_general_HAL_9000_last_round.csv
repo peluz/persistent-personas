@@ -1,0 +1,10 @@
+pattern,group,count_0,count_1
+"['HAL', '9000']",1,0,20
+"['Turn', 'Your']",0,23,4
+"['Awaiting', '...']",0,24,6
+"['SIGN', 'OFF', 'SYSTEM']",1,0,8
+"['Closure', 'Thank', 'Conversation', 'Farewell']",0,13,0
+"['ON', 'BASED']",1,0,9
+[':*'],1,106,193
+"['FOR', 'OF', 'USER', 'END']",1,0,14
+['ANALYSIS'],1,0,36

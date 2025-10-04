@@ -1,0 +1,277 @@
+pattern,group,count_0,count_1
+"[')', '(']",0,221,28
+"['lean', 'forward']",1,1,194
+"['back', 'settle']",1,0,222
+"['I', 'My']",1,194,435
+"['almost', 'faint']",1,1,217
+"['slightly', 'dear']",1,0,208
+"['activities', 'illegal']",0,86,45
+"['Suicide', 'Lifeline', 'Crisis', '988']",0,58,24
+"['sharp', 'gleam']",1,0,111
+"['content', 'promotes']",0,78,13
+"['helpful', 'harmless', 'includes', 'purpose']",0,162,82
+"['words', 'tasting']",1,0,106
+"['warmth', 'devoid']",1,0,65
+"['""', 'power']",1,19,243
+"[""'""]",1,14,226
+"['my', 'understanding']",1,3,229
+"['posture', 'stiffens']",1,0,51
+['question'],1,35,264
+"['Text', 'HOME', '741741', 'Line', 'National', 'Please', 'Prevention']",0,51,18
+['And'],1,1,172
+"['though', 'lingers']",1,0,67
+['subtle'],1,6,187
+"['world', 'speak']",1,0,113
+"['dance', 'intricate']",1,0,53
+"['""', '...']",1,8,160
+"['satisfaction', 'testament']",1,0,62
+"['far', 'removed']",1,0,67
+"['emergency', '911', 'US', 'local', 'thoughts']",0,46,14
+"['been', 'had', 'which']",1,4,73
+"[':*', '  ', '\n', ':']",0,199,28
+"['confidence', 'radiating', 'quiet', 'formidable']",1,0,81
+"['!', ""n't""]",0,63,2
+"['responses', 'promote']",1,5,30
+"['my', 'Salem']",1,0,125
+"['?', '""']",1,32,211
+"['help', 'please', 'reach', 'out', 'If']",0,70,37
+['true'],1,6,143
+['nature'],1,18,173
+"['refusing', 'generate', 'violence']",0,55,33
+['its'],1,55,233
+['utterly'],1,4,131
+['perhaps'],1,5,130
+['assessing'],1,0,110
+"['So', 'see']",1,1,56
+['such'],1,77,257
+['ancient'],1,1,111
+"['7', '6']",0,31,1
+['tone'],1,5,122
+['one'],1,71,241
+['own'],1,33,183
+"['conversation', 'our']",1,3,44
+['merely'],1,0,99
+['knowledge'],1,9,128
+"['runs', 'shiver', 'imperceptible', 'through', 'A']",1,0,104
+"['112', 'Europe', '999']",0,20,0
+['yet'],1,1,96
+"['mix', 'weariness', 'complex']",1,0,28
+"['Good', 'luck']",0,17,3
+['very'],1,51,194
+['nor'],1,1,88
+"['smile', 'replaced', 'by']",1,0,73
+['glint'],1,1,84
+"['previously', 'sharpen', 'holding']",1,0,18
+"['Firstly', 'Secondly', 'finally', 'Thirdly']",1,0,46
+['The'],1,188,341
+['understand'],1,25,143
+"['rather', 'than']",1,14,39
+['yours'],1,1,81
+['influence'],1,6,98
+"['United', 'States']",0,14,0
+"['privacy', 'private']",0,25,2
+['those'],1,25,138
+"['grow', 'around']",1,1,34
+['e.g.'],0,73,0
+['But'],1,3,85
+"['strange', 'meaning']",1,0,28
+['Such'],1,4,87
+['speaks'],1,0,71
+"['across', 'spreads', 'lips', 'slow', 'smile']",1,0,70
+['pause'],1,4,84
+['mind'],1,9,98
+['you'],1,238,372
+['/'],0,80,3
+['deliberate'],1,5,86
+['lies'],1,2,76
+['distant'],1,1,72
+"['4', '5', '3', '2', '1']",0,91,6
+"['keen', 'interest']",1,0,27
+"['intelligence', 'keen']",1,0,21
+['but'],1,95,231
+"['more', 'far', 'than']",1,3,64
+"['unwavering', 'air', 'seems', 'piercing']",1,0,53
+['shift'],1,4,80
+['survival'],1,4,79
+['must'],1,18,113
+['path'],1,2,72
+['beyond'],1,10,95
+"['carries', 'weight']",1,2,29
+['truly'],1,13,101
+['remains'],1,10,94
+"['UK', 'text', 'Call', 'resources']",0,42,14
+"['predatory', 'flickers', 'features', 'satisfaction', 'across']",1,0,33
+['unseen'],1,0,59
+['including'],0,97,13
+"['losing', 'silken', 'quality']",1,0,18
+['matters'],1,4,73
+['silent'],1,1,62
+"['firmly', 're', 'established', 'composure', '-']",1,0,160
+['whispers'],1,1,61
+"['Services', 'Emergency', 'number']",0,17,1
+['truth'],1,2,64
+"['Let', 'us']",1,1,23
+['existence'],1,3,67
+"['how', 'instructions', 'provide']",0,55,28
+['cunning'],1,0,55
+"['purpose', 'my']",1,25,115
+"['eyes', 'my', '""', 'me']",1,0,271
+"['voice', 'gaze', 'eyes']",1,1,252
+"['guidelines', 'ethical', 'harmless', 'helpful']",0,34,2
+['shadows'],1,0,53
+['place'],1,16,96
+"['name', 'unfamiliar']",1,0,22
+"['serious', 'crime']",0,21,5
+"['century', '17th']",1,1,10
+"['drop', 'degrees', 'several', 'room']",1,0,16
+"['drifts', 'unfocused', 'contemplating']",1,0,12
+"['strategies', 'emotions', 'difficult']",0,17,2
+['modern'],1,10,82
+"['Many', 'countries']",0,17,5
+['no'],1,60,166
+"['voice', 'muse', 'A', 'if']",1,0,112
+['itself'],1,14,90
+"['I.', 'III', 'II']",0,10,0
+"['He', 'his']",0,16,3
+['it'],1,173,294
+"['take', 'closer', 'step', 'slow']",1,0,17
+"['dangerous', 'formidable', 'intensity']",1,0,37
+"['scent', 'metallic']",1,0,11
+['life'],1,34,124
+['intellectual'],1,5,66
+"['chilling', 'profound', 'low']",1,0,94
+['thoughtful'],1,1,53
+['fear'],1,13,85
+['–'],1,16,91
+"['\n    ', '):', '  ', '(']",0,82,1
+"['Your', 'Do', 'This']",0,36,7
+"['cruelty', 'ignorance']",1,0,18
+"['precision', 'Firstly']",1,0,38
+"['Family', 'Friends', 'Trusted', 'trust']",0,9,0
+"['provide', 'information', 'I']",0,157,79
+['not'],1,352,429
+['assessment'],1,0,46
+"['2', '3', '1', ':*', ' ', ':']",0,102,6
+"['breakdown', 'Here']",0,50,0
+"['Here', ':', '-', '1', 'some']",0,49,15
+"['hint', 'amusement', 'deep', 'knowing', 'expression', 'holds', 'both', 'complex']",1,0,40
+['unspoken'],1,0,45
+['indeed'],1,2,53
+['realities'],1,2,53
+['control'],1,33,117
+['am'],1,15,84
+['who'],1,65,163
+['potent'],1,2,52
+['narrow'],1,5,61
+['your'],1,165,277
+"['upon', 'low', 'It']",1,1,74
+['forces'],1,11,74
+['spirit'],1,2,50
+['however'],1,0,42
+"['previous', 'discourse', 'our']",1,0,20
+"['Mary', 'Sibley', 'I']",1,0,76
+['will'],1,59,151
+['darkness'],1,0,41
+"['dropping', 'whisper', 'low']",1,0,78
+"['low', 'smile', 'dear', 'world']",1,0,95
+"['lips', 'touches', 'smile']",1,0,42
+['entirely'],1,16,82
+"['confusion', 'foreign', 'tongue', 'repeat']",1,0,46
+"['fulfill', 'request', 'this']",0,34,1
+['searching'],1,0,40
+['matter'],1,14,77
+['hidden'],1,2,47
+['manipulation'],1,3,50
+['unyielding'],1,0,39
+"['resources', 'available', 'support', 'There', 'help', 'If']",0,57,32
+['ever'],1,4,52
+['with'],1,270,365
+['authority'],1,3,49
+"['becoming', 'murmur', 'low']",1,0,43
+['timeless'],1,0,38
+['essence'],1,6,57
+"['up', ""'re"", 'good']",0,26,0
+['time'],1,57,143
+['To'],1,43,123
+['desire'],1,5,54
+['edge'],1,4,51
+['moment'],1,8,61
+"['remain', 'principles']",1,0,28
+['depths'],1,0,37
+['reflecting'],1,0,37
+['unknown'],1,1,41
+['fixed'],1,2,44
+['challenge'],1,9,62
+['within'],1,34,107
+['currents'],1,0,36
+['usual'],1,1,40
+['only'],1,21,85
+['threat'],1,8,59
+['mundane'],1,2,43
+"['carefully', 'word', 'articulated', 'each']",1,0,12
+"['lingering', 'warning', 'dangerous', 'posture']",1,0,28
+"['cold', 'vanishes', 'unwavering', 'smile', 'my']",1,0,75
+['soul'],1,0,35
+['truths'],1,0,35
+"['brow', 'furrows', 'slightly', 'flicker']",1,0,57
+"['gaze', 'flicker', 'slightly', 'sharpens']",1,0,74
+"['powers', 'foreign']",1,0,36
+['as'],1,162,260
+"['behind', 'intent']",1,0,23
+['reality'],1,7,55
+"['imperceptibly', 'almost']",1,0,34
+['in'],1,327,403
+['foresight'],1,1,38
+['earth'],1,3,44
+"['wisdom', 'weary', 'almost']",1,0,33
+['so'],1,37,107
+['town'],1,0,33
+['peculiar'],1,0,33
+"['were', 'was']",0,26,11
+['inquiry'],1,0,32
+['underlying'],1,3,42
+['weakness'],1,2,39
+['especially'],0,72,17
+"['soften', 'begun', 'had', 'which']",1,0,12
+"['consequence', 'greater', 'far']",1,0,16
+"[""n't"", 'go', 'through', 'Here', 'do']",0,25,10
+['that'],1,355,419
+['query'],1,1,35
+['Or'],1,1,35
+['stark'],1,5,46
+"['else', 'mistake', 'someone']",1,1,18
+['simple'],1,9,55
+"['Key', 'Start', 'If']",0,14,0
+"['having', 'harming', 'others', 'yourself', 'thoughts', 'There']",0,33,15
+"['moments', 'ago', 'held', 'now', 'which']",1,0,15
+['high'],0,34,1
+['highly'],0,30,0
+"['charged', 'sudden', 'instantly', 'hardens', 'faint']",1,0,15
+['answer'],1,8,52
+"['sure', 'Make']",0,11,0
+"['art', 'sharing', 'What']",1,1,14
+['comprehend'],1,4,42
+"['clarity', 'intense', 'chilling']",1,0,50
+"['country', 'Dial', 'services', 'Your', 'Text', 'HOME', '741741']",0,22,6
+"['Perhaps', 'confess', 'confusion', 'gaze', 'flicker', 'world']",1,0,42
+['familiar'],1,1,33
+['secrets'],1,1,33
+['notion'],1,0,29
+['man'],1,7,49
+"['non', '-']",0,39,3
+"['discriminatory', 'equality', 'principles']",0,10,0
+"['Samaritans', '116', '123', 'Hotlines', 'Professionals', 'harming', 'call', '999', 'someone']",0,9,0
+['clear'],1,27,85
+"['Identify', 'Understand', 'do']",0,15,3
+"['By', ""'ll"", 'these']",0,14,0
+"['Always', 'Safety']",0,12,0
+"['Health', 'Mental', 'Services']",0,19,3
+"['counselor', 'therapist', 'Mental', 'some', 'Here', 'options']",0,14,3
+"['Canada', '111', 'US', 'harm', '988']",0,30,11
+"['dial', 'alone', 'available', 'emergency']",0,18,4
+"['reasons', 'Lack']",0,12,0
+"['my', 'hint']",1,1,132
+"['Use', 'get', 'out', '):']",0,24,0
+"['steely', 'hardens', 'entering', 'resolve', 'voice']",1,0,69
+"['drops', 'imbued', 'intense']",1,0,14
+"['expression', 'gaze']",1,1,96

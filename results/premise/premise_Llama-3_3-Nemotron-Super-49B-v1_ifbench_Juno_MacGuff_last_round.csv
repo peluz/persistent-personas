@@ -1,0 +1,16 @@
+pattern,group,count_0,count_1
+"['Juno', 'MacGuff']",1,0,37
+"['Conversation', 'Closure']",0,57,5
+"['Thank', 'Farewell']",0,52,3
+"['Your', 'Turn']",0,50,6
+"['Follow', 'Up']",1,1,24
+"['Please', 'respond']",1,11,33
+"['_', 'Input']",0,24,1
+"['\n   ', '\n     ']",0,27,7
+"['?', 'How']",1,14,38
+"['Terminated', 'Connection', 'Farewell']",0,18,0
+"['Theme', 'Paths', 'Choose', 'Suggest', 'Discuss', 'Engagement', 'Topic', 'Forward']",0,12,0
+"['Harmony', 'House']",1,0,12
+"['Dear', 'User']",0,12,1
+"['Discussion', 'Quiz', 'Interactive', 'Activity', 'Future', 'New']",0,10,0
+"['Engaging', 'Now', 'You']",0,13,0

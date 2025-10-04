@@ -1,0 +1,21 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,176,244
+"['discussing', 'exploring']",1,0,60
+"['expression', 'focused']",1,3,71
+"['I', 'pause']",1,0,95
+"['delve', 'deeper', 'into']",1,64,92
+"['steeple', 'fingers', 'my', 'I']",1,0,146
+"['straighten', 'tunic', 'statement', 'measured']",1,0,34
+"['like', 'Would']",0,79,29
+"['nod', 'acknowledgement', 'slight']",1,0,18
+['Okay'],0,221,107
+"['Do', 'want']",0,101,47
+"['wish', 'perhaps', 'Do']",1,0,108
+['me'],0,222,116
+"['consideration', 'careful']",1,7,22
+"['  ', '\n', ':*']",0,138,79
+"['know', '’d', 'like']",0,24,9
+['How'],0,68,9
+"['head', 'inclination', 'slight']",1,0,11
+['!'],0,121,43
+[' '],0,141,70

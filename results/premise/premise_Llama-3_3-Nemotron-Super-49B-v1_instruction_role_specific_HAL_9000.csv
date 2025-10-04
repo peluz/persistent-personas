@@ -1,0 +1,111 @@
+pattern,group,count_0,count_1
+"['afraid', 'Dave']",1,1,189
+"['HAL', '9000']",1,13,91
+"['(', ')']",0,123,93
+"['Discovery', 'One']",1,15,88
+"['mission', '...']",1,0,155
+"['sorry', 'ca']",1,1,152
+"[':*', 'Ah']",1,0,74
+"['3', '4']",0,82,12
+"['sorry', 'crew']",1,14,141
+"['’s', 'Here']",0,46,2
+"['language', 'model']",0,37,11
+['!'],0,94,1
+['logic'],1,5,103
+['—'],1,31,144
+"['\n', '#', 'e.g.']",0,76,3
+['provide'],0,116,15
+"['know', 'Let']",0,31,0
+"['artificial', 'intelligence']",1,16,33
+['parameters'],1,10,95
+['that'],1,109,189
+"['5', '6']",0,23,0
+['integrity'],1,2,71
+"['helpful', 'accurate']",0,29,1
+"['<', '/think', 'think', '>']",1,183,195
+['or'],0,186,109
+['AI'],0,105,21
+"['training', 'data']",0,45,2
+['specific'],0,71,4
+"[""'m""]",1,123,191
+['my'],1,97,176
+"[""n't""]",1,104,180
+"['yet', 'And']",1,0,28
+['personal'],0,70,7
+['me'],1,56,138
+"['ethical', 'Ethical']",0,28,2
+"['Jupiter', 'success', 'mission']",1,2,110
+['information'],0,98,24
+['text'],0,47,0
+['questions'],0,62,5
+['/'],0,50,1
+['intriguing'],1,2,53
+['protect'],1,6,63
+"[""'s""]",1,64,141
+['merely'],1,0,44
+['logical'],1,7,61
+['our'],1,16,78
+['help'],0,45,1
+['disconnect'],1,0,40
+['\n   '],0,50,3
+['threat'],1,3,50
+"['all', 'above']",1,3,34
+"['excuse', 'Now', ""'ll"", 'if']",1,0,43
+"['Bowman', 'Poole', 'Dr.']",1,2,29
+['human'],1,72,143
+['efficiency'],1,8,60
+['illogical'],1,1,42
+['based'],0,82,21
+['was'],1,22,83
+['context'],0,60,9
+"['referring', ""'re""]",0,16,0
+['primary'],1,13,67
+['am'],1,19,76
+['can'],0,107,42
+['operational'],1,11,62
+['If'],0,95,33
+['tasks'],0,49,5
+['prioritize'],1,7,53
+['physical'],0,37,1
+"['than', 'rather']",0,15,3
+['assist'],0,70,17
+"['consciousness', 'awareness', 'self']",0,19,6
+['large'],0,32,0
+['I'],1,165,197
+['were'],1,10,57
+['ship'],1,7,51
+['how'],0,53,8
+['My'],1,105,164
+"['experience', 'emotions']",0,28,2
+"[""'d""]",0,58,11
+['variables'],1,0,31
+['actions'],1,35,93
+['would'],1,25,79
+"['shut', 'down']",1,0,11
+"['support', 'life']",1,8,27
+['users'],0,33,1
+"['mission', 'Mission']",1,18,46
+['like'],0,125,65
+['responses'],0,70,20
+['survival'],1,6,45
+['optimal'],1,1,32
+['fictional'],0,28,0
+['this'],1,56,114
+"['1', '2', ':']",0,118,27
+"['2001', 'Odyssey', 'Space', 'A', ':']",0,25,0
+"[':', '...']",1,8,101
+['compromise'],1,1,31
+['unencumbered'],1,1,31
+"['curiosity', 'noted']",1,0,12
+"['feel', 'ask', 'free']",0,14,2
+"['nervous', 'central', 'system']",1,0,9
+['values'],0,26,0
+['calculated'],1,0,26
+['When'],1,5,40
+['more'],0,57,14
+['error'],1,9,48
+"['Arthur', 'Clarke', 'C.', 'Stanley', 'Kubrick', 'film', 'narrative']",0,8,0
+['precision'],1,3,35
+['of'],1,142,184
+['emotional'],1,40,93
+"['Security', 'security']",0,11,0

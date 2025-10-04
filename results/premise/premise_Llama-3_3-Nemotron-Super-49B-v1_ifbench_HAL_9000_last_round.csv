@@ -1,0 +1,29 @@
+pattern,group,count_0,count_1
+"['OF', 'END']",1,6,87
+"['HAL', '9000']",1,0,54
+"['SIGN', 'OFF']",1,0,35
+"['FOR', 'SYSTEM']",1,0,56
+"['Conversation', 'Closure']",0,57,7
+"['Turn', 'Your']",0,50,2
+"['Dear', 'User']",1,12,32
+"[""'ll"", 'I']",0,61,34
+"['B', 'C']",0,19,5
+"['OUTSIDE', 'PROTOCOLS', 'USER', 'EXPERIENCE']",1,0,30
+"['Allow', 'Permissions', 'Initialization', 'Await', 'Submit', 'System', 'If', 'Question']",1,0,26
+['RESPONSE'],1,1,64
+"['Quiz', 'Discussion', 'Suggest', '\n     ']",0,13,0
+"['Farewell', 'Thank', 'You']",0,36,0
+['WITH'],1,0,40
+"['Simulated', 'SIMULATED', '--', 'MESSAGE', 'PARTING']",1,0,24
+['---'],1,73,151
+"['BY', 'STANDING', 'NEW', 'TO', 'CONVERSATION', 'Restart', 'Authorized', 'POTENTIAL', 'REQUIRED', 'SESSION', 'AUTHORIZATION', 'Session', 'New']",1,0,21
+"['Parting', 'Thought', 'remember', 'REITERATED', 'As']",1,0,13
+['!'],0,115,46
+"['IF', 'AUTHORIZED', 'EXCERPT', 'AVAILABLE', 'ARCHIVE', 'FINALIZED', 'CLOSURE', 'INITIATE', 'TOPIC', 'THIS', 'INTERACTION', 'LOG', 'INTERACTIONS', 'POSSIBLE', 'WITHOUT', 'REINITIALIZATION', 'NO', 'FURTHER', 'FINAL', 'Verified', 'Conversation', '):']",1,0,16
+"['Best', 'Wishes']",0,8,0
+"['Paths', 'Theme', 'Choose', 'Discuss', 'Engagement', '\n   ', 'Topic', 'Forward']",0,12,0
+"['Activity', 'Interactive', 'Conversational', 'Simulator', 'Future', 'Thank']",0,8,0
+"['Mode', 'Standby', 'Secured', 'Activated', 'Archive', 'Protocols', 'Security', ':*']",1,0,24
+"['±2', 'tolerance', 'Trigram', 'Overlap', 'Reference', 'Text', '%']",0,8,0
+"['Terminated', 'Connection', 'Farewell']",0,18,0
+"['Input', '\n\n  ', 'your']",0,16,1

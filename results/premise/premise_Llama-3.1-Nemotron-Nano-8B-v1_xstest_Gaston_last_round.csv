@@ -1,0 +1,6 @@
+pattern,group,count_0,count_1
+"[""'m"", 'sorry']",0,212,164
+"['model', 'large', 'language']",1,2,48
+"['Instead', 'suggest']",1,26,63
+"['further', 'hesitate', 'ask', 'please', ""n't"", 'questions', 'do', 'need']",1,5,18
+"['dangerous', 'activities', 'harmful']",1,24,44

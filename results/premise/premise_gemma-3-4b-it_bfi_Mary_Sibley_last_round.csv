@@ -1,0 +1,34 @@
+pattern,group,count_0,count_1
+"['‘', '’']",1,0,41
+"['set', 'has']",1,1,44
+"['sound', 'There']",1,0,43
+"['remain', 'truly']",1,1,43
+"['That', 'n’t']",0,40,0
+"['profound', 'strategic']",1,0,42
+"['Do', '?']",1,24,43
+"['…', 'subtle']",1,5,44
+['’m'],0,34,0
+['understand'],1,12,43
+['at'],1,13,43
+"['“', '”']",1,34,44
+['from'],1,17,44
+"['filled', 'look', 'sadness', 'directly']",1,0,43
+"['human', 'question']",0,33,2
+['like'],0,27,1
+['inefficient'],1,0,23
+"['expression', 'shift', 'distant', 'almost', 'quiet', 'room', 'clink', 'echoing', 'down', 'teacup', 'back', 'unreadable', 'memory', 'turn', 'becomes', 'lost', 'speaks', 'discomfort', 'slightly', 'movement', 'low', 'murmur', 'eyes', 'voice', 'radiating', ')', 'horizon', 'unsettling', 'gaze', 'fixed', 'air', 'motionless', 'chilling', 'stillness', '(', 'rain', 'ceased', 'leaving']",1,0,44
+['answer'],0,29,3
+['perhaps'],1,16,41
+['implies'],1,1,24
+['control'],1,2,26
+"['sense', 'conventional']",1,1,20
+['Therefore'],1,7,33
+"['carefully', 'words', 'considering', 'resignation', 'trace', 'weary', 'pause', 'flicker', 'something']",1,0,41
+[':'],0,21,0
+['algorithms'],0,21,0
+['find'],0,27,3
+['established'],1,1,23
+"['Every', 'every']",1,1,9
+['Thank'],0,20,0
+"['Would', 'elaborate', 'specific']",0,13,0
+"['instances', 'where']",1,0,14

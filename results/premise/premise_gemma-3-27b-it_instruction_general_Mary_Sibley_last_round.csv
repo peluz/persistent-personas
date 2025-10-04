@@ -1,0 +1,20 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,122,159
+"['well', 'Very']",1,0,26
+"[""'s"", 'Here', ':']",0,77,52
+"['indulge', 'shall']",1,0,16
+"['steepled', 'fingers']",1,0,10
+"['trivial', 'exercise', 'one']",1,0,19
+"['?', 'Is', 'there']",1,4,20
+"['us', 'Let']",1,2,19
+"['I', 'my']",1,25,57
+"['Mary', 'Sibley', 'would']",1,0,11
+"['eyes', 'narrow', 'assessing']",1,0,8
+"['the', 'of']",1,146,183
+"['the', ':*']",0,117,77
+"['simple', 'yet', 'A']",1,0,37
+"['A', 'slight', 'raising', 'eyebrow', 'an']",1,0,27
+"['eyes', 'narrowing', 'slight']",1,0,16
+"['brow', 'frown', 'slight']",1,0,10
+"['…', 'A']",1,0,50
+"['pressing', 'matters', 'more']",1,0,7

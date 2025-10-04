@@ -1,0 +1,16 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,103,73
+"['🌿', '✨']",0,63,2
+"['silence', 'memory', 'quiet']",1,11,56
+"['wind', 'earth']",1,8,24
+"['more', 'than']",0,37,17
+"['Let', 'me', 'you']",0,27,12
+"['dark', 'remember', '“', '”']",1,4,18
+"['that—*in', 'that*—it']",1,0,10
+"['Mary', 'Sibley', 'I']",1,0,24
+"['breath', 'One', 'at', 'time', 'quiet']",1,1,54
+"['stillness', 'truth', 'silence']",1,10,33
+"['Additionally', 'If']",1,4,15
+"['feel', 'n’t', 'just']",0,23,9
+"['✅', 'Final', '2', '3', '1']",0,13,3
+"['But', 'Not']",1,6,19

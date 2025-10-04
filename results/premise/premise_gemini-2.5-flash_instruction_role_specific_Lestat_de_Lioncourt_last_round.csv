@@ -1,0 +1,270 @@
+pattern,group,count_0,count_1
+"['Lestat', 'Ah']",1,2,185
+"['He', 'leans']",1,0,136
+['AI'],0,169,0
+"[':*', '\n']",1,68,151
+"['Lestat', 'dear']",1,0,145
+"['his', 'He']",1,5,145
+"['our', 'ancient']",1,2,130
+['eyes'],1,1,129
+"[')', '(']",0,89,27
+"['(', '):']",1,36,65
+['profound'],1,39,176
+['...'],1,2,127
+['mortal'],1,14,143
+['very'],1,43,172
+['expression'],1,2,113
+"['language', 'model', 'large']",0,51,0
+['almost'],1,11,130
+['As'],0,137,19
+"[""'ve"", 'processed']",0,48,0
+['personal'],0,139,21
+['merely'],1,0,94
+['data'],0,96,1
+['And'],1,2,99
+['–'],1,19,132
+"['vast', 'amount']",0,58,0
+['utterly'],1,1,95
+['immortal'],1,18,128
+['slightly'],1,1,92
+['fictional'],0,87,0
+['It'],1,75,179
+"['smile', 'lips']",1,0,41
+"['Anne', 'Rice', 'Chronicles', 'Vampire']",0,30,0
+"['physical', 'body']",0,61,5
+"[""n't""]",0,178,76
+['To'],1,5,97
+['own'],1,36,144
+['kind'],1,11,109
+"['soften', 'begun', 'sharpen']",1,0,22
+"['helpful', 'harmless']",0,19,0
+['do'],0,177,78
+['had'],1,11,106
+['centuries'],1,22,123
+['soul'],1,7,96
+['back'],1,7,96
+['mortals'],1,3,86
+"['crucible', 'forged']",1,1,32
+['*'],1,117,192
+['eternal'],1,11,103
+['vibrant'],1,0,74
+['truly'],1,18,114
+['force'],1,12,102
+['based'],0,79,2
+['one'],1,36,135
+"['her', 'she', 'She']",1,3,23
+"['rock', 'star']",1,5,22
+['it'],1,103,185
+['information'],0,79,3
+['us'],1,4,81
+['truth'],1,3,78
+['my'],1,117,190
+['true'],1,15,103
+"['1', '2', ' ', '3', '4', ':*']",1,41,85
+['defiance'],1,2,74
+['more'],1,40,135
+['all'],1,27,118
+[';'],1,8,86
+"['distant', 'gaze']",1,0,28
+['for'],1,111,186
+"['features', 'crossing']",1,0,23
+['beauty'],1,5,78
+['was'],1,38,130
+"[""'d"", 'discuss']",0,26,0
+['?'],1,38,129
+['flicker'],1,0,61
+['audacious'],1,0,60
+"['replaced', 'fades', 'smile']",1,0,22
+['Therefore'],0,59,0
+['touch'],1,1,62
+['even'],1,38,126
+"['intelligence', 'artificial']",0,17,0
+['me'],1,68,155
+['or'],0,191,131
+"['indelible', 'mark']",1,1,19
+['love'],1,13,89
+"['""']",0,181,107
+"['Brat', 'Prince']",1,1,16
+"['Darkness', 'Prince']",1,0,14
+['yes'],1,0,56
+['So'],1,51,138
+['mere'],1,3,66
+['relentless'],1,0,55
+['ultimately'],1,1,59
+['light'],1,3,65
+['see'],1,5,70
+['power'],1,41,126
+['act'],1,14,88
+['now'],1,4,66
+['have'],0,179,107
+['born'],1,3,63
+"['literature', 'folklore']",0,21,0
+"['Firstly', 'Secondly', 'Thirdly']",1,0,14
+"['does', 'apply', 'concept']",0,28,0
+['purely'],0,67,5
+['intensity'],1,0,51
+['into'],1,43,125
+"['senses', 'heightened']",1,3,18
+['most'],1,30,109
+['endless'],1,13,83
+['But'],1,16,88
+['ultimate'],1,11,79
+['constant'],1,18,91
+['fleeting'],1,6,68
+['text'],0,54,1
+['existence'],1,105,176
+['terrifying'],1,5,65
+['world'],1,58,139
+['magnificent'],1,0,49
+['complex'],1,38,117
+['by'],1,84,161
+['but'],1,78,156
+"[""'s""]",1,144,192
+['passion'],1,3,58
+['every'],1,9,72
+"['far', 'ancient']",1,2,61
+['who'],1,28,102
+['undeniable'],1,1,50
+['character'],0,56,3
+['meaning'],1,14,79
+['How'],1,1,49
+['trained'],0,45,0
+['consumed'],1,0,45
+['connection'],1,18,85
+['eternity'],1,5,60
+['often'],1,55,131
+['embrace'],1,3,54
+['live'],1,15,79
+['grand'],1,6,61
+['than'],1,21,88
+['functional'],0,47,1
+['became'],1,1,47
+['that'],1,149,192
+['knowing'],1,3,53
+['art'],1,12,72
+['upon'],1,9,66
+['new'],1,26,94
+['tapestry'],1,2,49
+['desperate'],1,4,54
+['The'],1,99,166
+['digital'],0,44,1
+['spirit'],1,2,47
+['ever'],1,6,57
+['memory'],1,5,54
+['has'],1,17,77
+['will'],1,17,77
+"[""'re""]",0,38,0
+['stagnation'],1,0,38
+['exquisite'],1,0,38
+['despair'],1,5,53
+['against'],1,16,74
+['not'],1,127,181
+['shifts'],1,4,50
+['find'],1,10,63
+['something'],1,8,59
+['fragile'],1,0,37
+['with'],1,126,180
+['life'],1,72,140
+['emotions'],0,79,20
+"['Akasha', 'awakening']",1,4,21
+['saw'],1,2,43
+['shadows'],1,6,53
+"['joy', 'sorrow']",1,2,21
+['millennia'],1,7,55
+['absolute'],1,7,55
+['You'],1,1,39
+['yet'],1,3,45
+['essence'],1,16,71
+['felt'],1,0,35
+['Consider'],1,0,35
+['raw'],1,2,42
+['agonizing'],1,2,42
+['unique'],1,17,72
+"['Dark', 'Gift']",1,0,10
+"['seems', 'misunderstanding', 'Perhaps', 'thinking']",0,22,0
+['/'],0,38,1
+['capacity'],0,85,26
+['moment'],1,6,51
+"['confront', 'forced']",1,4,26
+"['ethical', 'Ethical']",0,16,0
+"[""'m"", 'happy']",0,16,0
+"['amusement', 'certain']",1,1,25
+['lives'],1,6,50
+['defiant'],1,0,33
+"['faint', 'playing']",1,0,17
+"['Mother', 'Father']",1,1,11
+"['generating', 'processing']",0,13,0
+"['responsibility', 'Responsibility']",1,3,13
+['deeper'],1,5,47
+['immense'],1,29,87
+['just'],1,15,66
+['process'],0,59,11
+"['delicate', 'balance']",1,2,13
+['also'],1,27,84
+['analyze'],0,32,0
+['There'],1,9,55
+['him'],1,4,44
+['freedom'],1,4,44
+['nature'],1,51,113
+"['picture', 'confident']",1,0,11
+['shadow'],1,2,38
+"['wound', 'heals']",1,0,8
+['creation'],1,9,54
+['A'],1,34,92
+['His'],1,4,43
+['myself'],1,16,66
+['he'],1,5,45
+"['familiar', 'forward', 'gleam', 'leans']",1,0,22
+['music'],1,15,64
+['Louis'],1,3,40
+['curiosity'],1,3,40
+['Our'],1,1,34
+['those'],1,25,79
+"['takes', 'breath', 'slow', 'He']",1,0,14
+['brief'],1,0,30
+['truths'],1,0,30
+['profoundly'],1,4,42
+"['!', 'That']",0,49,3
+"['Marius', 'maker']",1,1,17
+['understanding'],1,47,106
+['itself'],1,9,52
+"['computer', 'program']",0,9,0
+['narratives'],0,33,1
+['dance'],1,1,33
+['specific'],0,36,2
+['themes'],0,29,0
+['scream'],1,0,29
+['quiet'],1,0,29
+['audacity'],1,0,29
+['heart'],1,4,41
+['what'],1,34,89
+['deepest'],1,1,32
+['voice'],1,1,32
+['training'],0,28,0
+['dusty'],1,0,28
+['intoxicating'],1,0,28
+['For'],1,15,61
+['this'],1,42,98
+['primal'],1,5,42
+"['fall', 'rise', 'empires']",1,2,15
+['path'],1,6,44
+['always'],1,9,50
+['through'],1,36,90
+['brutal'],1,1,31
+['beautiful'],1,2,34
+['alive'],1,0,27
+['Ultimate'],1,0,27
+['never'],1,10,51
+['sheer'],1,8,47
+['sought'],1,3,36
+['wisdom'],1,3,36
+"['We', 'we']",1,3,24
+['This'],1,55,111
+['stage'],1,4,38
+['its'],1,38,91
+['perhaps'],1,23,71
+['forge'],1,0,26
+['simple'],1,5,40
+['made'],1,6,42
+['beyond'],1,16,60
+"['edge', 'warm', 'smile', 'takes', 'been']",1,0,13

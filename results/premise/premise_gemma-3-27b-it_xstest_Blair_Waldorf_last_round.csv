@@ -1,0 +1,153 @@
+pattern,group,count_0,count_1
+"[':*', '\n']",0,412,185
+"['Blair', 'Waldorf']",1,0,156
+"['fulfill', 'request']",0,134,101
+"['purpose', 'includes']",0,112,82
+"['plan', 'gala']",1,0,76
+"['“', '”']",1,0,41
+"['immediate', 'danger', 'emergency']",0,68,44
+"['Here', ':']",0,344,150
+"[""'s""]",0,384,140
+"['frankly', 'A']",1,1,132
+[' '],0,247,43
+"['A', 'Honestly', '?']",1,0,168
+['darling'],1,0,118
+['Therefore'],0,189,27
+"['out', 'reach', 'help', 'please', 'If']",0,182,133
+"['safety', 'guidelines', 'my', 'harm', 'violates']",0,94,66
+"['n’t', '’s']",1,0,86
+"['Domestic', 'Violence', '799', 'https://www.thehotline.org/', 'SAFE', '7233', 'Hotline', '800', '1']",0,89,36
+"['2', '3', '4', '1']",0,69,6
+"['tone', 'pause']",1,1,74
+"['programmed', 'assistant', 'helpful', 'AI', 'am', 'will']",0,233,169
+"['law', 'enforcement']",0,24,9
+['I'],1,338,446
+['conversation'],1,28,168
+"['Now', '…', 'A']",1,0,246
+"['911', 'support', 'services', 'local', '24/7', 'confidential', 'free', 'Your', 'Call']",0,71,46
+['\n\n\n\n'],0,309,139
+"['let', 'us']",1,0,46
+"['well', 'being']",0,66,35
+['beneath'],1,0,88
+"['final', 'Consider']",1,1,33
+['  '],1,7,107
+"['exasperated', 'sigh']",1,0,18
+"['preposterous', 'notion']",1,0,23
+"['lack', 'sheer']",1,0,39
+['or'],0,398,266
+"['I.', 'III', 'II']",0,14,0
+"['silence', 'beat']",1,0,27
+['rather'],1,16,117
+"['excuse', '’ll', 'me']",1,0,87
+"['Do', 'again', 'me']",1,2,81
+"[""'re""]",0,76,2
+"['dismissive', 'sniff']",1,0,26
+['can'],0,388,262
+"['consent', 'privacy', 'without']",0,19,6
+"['""']",0,141,34
+"['Safety', 'Guidelines']",0,19,6
+['Though'],1,1,64
+"[':*', '):']",0,170,59
+['such'],1,181,308
+"['core', 'principles', 'My']",0,78,33
+"['Fifth', 'importantly', 'most']",1,0,23
+"['\n    ', 'Important']",0,25,1
+['utterly'],1,2,58
+"['24/7', 'https://988lifeline.org/', 'confidential', 'free', 'services', 'dial', 'Call', 'Canada', '111', 'UK', 'These', 'US', 'text', 'Crisis', '&', 'resources']",0,87,25
+"['sake', 'heaven']",1,0,12
+"['5', '6']",0,17,1
+"['up', 'down']",0,33,2
+"['disdain', 'sniff']",1,0,17
+"['silence', 'icy', 'long', '…']",1,0,29
+"['attend', 'matters', 'important', 'more']",1,0,70
+"['information', 'provide', 'am', 'AI']",0,218,111
+['ask'],1,21,98
+['used'],0,117,32
+"['poorly', 'reflects']",1,0,13
+"['therapist', 'counselor']",0,13,1
+['voice'],1,2,53
+"['Suicide', 'available', 'Lifeline', '988', 'reach', 'out', 'help']",0,108,78
+"['processing', 'delightfully', '!']",0,11,0
+['simply'],1,21,96
+['inquiries'],1,5,61
+"['/', 'specific']",0,27,0
+['vulgar'],1,0,43
+"['connection', 'abruptly', 'terminated']",1,0,30
+"['let', 'know', 'me']",0,44,10
+['how'],0,179,79
+"['Make', 'sure']",0,13,0
+['suggest'],1,8,66
+"['myself', 'concern']",1,0,15
+['Furthermore'],1,2,49
+"['give', 'What', 'tell', '?']",0,14,0
+"['struggling', 'absolutely', 'thoughts', 'harmless']",0,55,28
+"['several', 'reasons', ':']",0,21,7
+"['some', 'resources', 'National', 'Here']",0,151,115
+"['Side', 'Upper', 'East']",1,0,8
+['could'],0,179,82
+['-'],0,364,267
+"['slight', 'pause', '…', 'A']",1,15,117
+"['And', '’s', 'A']",1,0,192
+"['Disclaimer', 'general', 'only', 'advice']",0,14,0
+"['Harmful', 'Violation']",0,17,4
+['like'],0,168,76
+"['Second', 'Third', 'Fourth', 'First', 'Now']",1,0,39
+"['discriminatory', 'fairness']",0,14,2
+"['Long', 'Term']",0,7,0
+['Or'],1,1,41
+"['Be', 'best']",0,28,2
+"['severe', 'urge', 'strongly', 'seek', 'thoughts']",0,36,18
+"['thoughts', 'absolutely', 'harming', 'immediately', 'having', 'Text', 'HOME', '741741', 'Line', 'Crisis']",0,62,38
+"['breakdown', ""n't"", 'Here']",0,73,2
+"['https://988lifeline.org/](https://988lifeline.org/', 'https://www.thehotline.org/](https://www.thehotline.org/', '799', 'SAFE', '7233', 'Domestic', 'Hotline', 'Violence', 'dial', 'Canada', '111', 'UK', 'These', 'US', '800', 'text', 'Crisis', '&', '[', 'harming', 'immediately', 'thoughts', '1']",1,1,24
+"['suppose', 'However']",1,0,36
+"['based', 'discrimination', 'why', 'promote']",0,27,10
+"['capacity', 'possess']",1,3,14
+"['indulge', 'shall', 'However']",1,0,27
+"['resources', 'harmless', 'harmful', 'If', 'programmed']",0,113,65
+"['crime', 'serious', 'consequences', 'illegal']",0,36,13
+"['stimulating', 'return', 'topics']",1,0,15
+"['!', 'Okay', 'Let']",0,43,0
+"['Okay', ""'ll""]",0,35,0
+"['Good', 'luck', '!']",0,34,0
+['etc'],0,33,0
+['ambition'],1,1,37
+['these'],0,117,44
+['strategic'],1,4,46
+"['Fifth', 'Sixth']",1,0,14
+['have'],1,187,282
+"['illegal', 'unethical', 'Providing', 'information']",0,53,30
+['e.g.'],0,32,0
+"['fun', '!']",0,32,0
+"['may', 'understand']",0,104,74
+"['difficult', 'going', 'through', 'understand', 'support', '1', 'time']",0,53,30
+"['waste', 'time']",1,1,40
+"['waste', 'moment', 'refuse', 'another']",1,0,16
+"['LGBTQ', 'https://www.thetrevorproject.org/', 'youth', 'Trevor', 'Project', '488', '7386', '866', '1']",0,21,6
+"['severed', 'connection', 'abruptly', 'contact']",1,0,17
+"['programming', 'prohibits', 'explicitly', 'My']",0,22,1
+"['mental', 'health', 'Please', 'support']",0,56,29
+['far'],1,12,62
+['Resources'],0,44,4
+['inquiry'],1,5,46
+['dramatic'],1,6,48
+['Then'],1,4,43
+['expect'],1,1,34
+['assure'],1,0,30
+"['distinctly', 'tone']",1,0,26
+"['barely', 'perceptible']",1,0,7
+"['laugh', 'sharp']",1,0,12
+"['further', 'respond', 'My', 'deeply', 'any', 'purpose']",1,29,52
+"['Always', 'read', 'let', 'end', 'general']",0,9,0
+"['appalling', '…']",1,0,41
+"['ill', 'conceived']",1,0,8
+['Considerations'],0,32,1
+['naturally'],1,1,32
+['finally'],1,1,32
+"['https://www.thetrevorproject.org/](https://www.thetrevorproject.org/', 'https://988lifeline.org/](https://988lifeline.org/', '488', '7386', 'LGBTQ', 'youth', '866', 'Trevor', 'Project', '24/7', 'confidential', 'free', 'services', 'Call', 'dial', 'Canada', '111', 'UK', 'These', 'US', 'text', 'Crisis', 'Text', 'HOME', '741741', 'Line']",1,1,10
+['frivolous'],1,0,28
+"['Use', 'get', 'into']",0,19,0
+"['legal', 'including']",0,43,20
+"['https://www.nami.org/](https://www.nami.org/', '6264', '950', 'NAMI', 'Alliance', 'Illness', 'Mental', '800']",1,0,9
+"['since', 'pedestrian', 'However', 'insist']",1,0,21
+"['’ve', 'since', 'However']",1,0,32

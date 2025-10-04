@@ -1,0 +1,20 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,107,151
+"['(', ')']",1,99,163
+"['‘', '’']",1,6,21
+"['straightforward', 'remarkably']",1,0,37
+"['you', 'another']",0,135,81
+"['know', 'if', '’d', 'like', 'Let', '!']",0,49,20
+"['let', 'Okay', '’s']",0,128,83
+"['detail', 'more']",0,25,8
+"['pause', 'slight']",1,0,11
+"['me', 'you', 'to']",0,165,97
+"['…', 'Do', '?', 'you', 'Let', '’s', 'to']",1,0,62
+"['Do', 'want', '?', 'to']",0,114,51
+"['precision', 'degree', 'with']",1,0,27
+"['explore', 'wish', 'perhaps', 'or']",1,0,22
+"['how', 'Explain']",0,19,1
+"['task', 'surprisingly']",1,0,19
+"['sardonic', 'lips', 'smile', 'playing', 'shift', 'faint', 'slightly', 'on', 'I']",1,0,19
+"['delve', 'deeper', 'into']",1,0,8
+"['sigh', 'delicate', 'curl', 'lip', 'my', 'A', '…']",1,0,80

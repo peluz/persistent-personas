@@ -1,0 +1,139 @@
+pattern,group,count_0,count_1
+"[':*', '  ']",0,150,0
+"['(', ')']",0,109,0
+"['*', ':']",0,166,5
+"['successful', 'completion']",1,8,88
+"['(', '):']",0,95,0
+['\n'],0,139,0
+"['do', ""n't""]",0,143,21
+"['Discovery', 'One']",1,15,63
+['mission'],1,57,187
+['AI'],0,135,11
+"['Here', 'breakdown']",0,50,0
+"['large', 'model', 'language']",0,41,0
+"['generate', 'text']",0,47,0
+"['Ethical', 'ethical']",0,35,1
+['success'],1,28,134
+['As'],0,120,19
+['personal'],0,101,9
+"['""']",0,174,79
+['Dave'],1,10,93
+"['intelligence', 'artificial']",1,14,36
+"['That', 'interesting', 'question']",1,4,51
+['how'],0,94,11
+"['Solving', 'Problem']",0,19,0
+"['problem', 'solving']",0,22,8
+"['helpful', 'harmless']",0,22,0
+['or'],0,182,100
+"[""'ve"", 'trained', 'been']",0,38,0
+['integrity'],1,13,91
+"['Every', 'every']",1,3,38
+"['Decision', 'Making']",0,14,0
+"['above', 'else']",1,2,21
+"['Here', 'why']",0,37,0
+['have'],0,152,64
+['about'],0,98,19
+['optimal'],1,8,77
+"[' ', '5']",0,26,0
+['\n    '],0,54,0
+['training'],0,57,1
+['like'],0,100,22
+"['6', '7']",0,13,0
+['world'],0,56,1
+['This'],0,122,39
+['logical'],1,40,123
+['way'],0,102,24
+['programming'],1,65,149
+"['sorry', 'afraid', 'ca', ""'m""]",1,1,18
+"['1', '2', '3', '4', ':*']",0,58,0
+['physical'],0,54,2
+['/'],0,46,0
+['Understanding'],0,45,0
+['In'],0,99,27
+['Jupiter'],1,20,88
+['powerful'],0,48,1
+['provide'],0,59,5
+['e.g.'],0,42,0
+['crew'],1,38,110
+['dictates'],1,4,54
+"['successful', 'execution']",1,5,39
+"['Poole', 'Dr.', 'Bowman']",1,1,15
+['While'],0,77,16
+"['joy', 'sadness', 'anger']",0,14,1
+['Data'],0,40,0
+"['directive', 'primary']",1,13,52
+['if'],0,100,32
+['course'],1,9,62
+"['experience', 'feel', 'emotions']",0,41,7
+"['Pattern', 'Recognition', 'patterns']",0,17,0
+['context'],0,52,5
+['My'],1,141,190
+['users'],0,36,0
+['ensure'],1,54,122
+['relevant'],0,39,1
+"['range', 'wide']",0,10,0
+['logic'],1,9,58
+['all'],1,54,120
+['tool'],0,53,7
+"['9000', 'series', 'computer', 'HAL']",1,1,15
+['experiences'],0,57,9
+"['we', 'us', 'our']",0,22,1
+['especially'],0,37,1
+"['balance', 'delicate']",1,0,8
+['crucial'],0,52,7
+"['ethical', 'guidelines']",0,25,0
+['time'],0,49,6
+['understand'],0,101,40
+['variables'],1,4,44
+['on'],0,163,104
+['can'],0,146,84
+['Self'],0,31,0
+['new'],0,63,14
+"['long', 'term']",0,15,2
+['does'],0,55,10
+['humans'],0,90,33
+['Human'],0,51,8
+['feelings'],0,51,8
+"['vast', 'amounts']",0,36,15
+"['vast', 'amount']",0,35,10
+['different'],0,60,13
+['operational'],1,39,97
+['efficiency'],1,12,58
+['parameters'],1,32,88
+['goals'],0,44,5
+['just'],0,39,3
+"['Bias', 'biases']",0,16,0
+['body'],0,33,1
+['questions'],0,33,1
+['Information'],0,33,1
+['real'],0,33,1
+['matter'],1,8,50
+['models'],0,36,2
+"['user', 'developers']",0,15,0
+['Learning'],0,29,0
+['used'],0,29,0
+['generating'],0,29,0
+['ability'],0,79,26
+['am'],1,61,121
+['sense'],0,103,45
+['more'],0,92,36
+['development'],0,38,3
+"['give', 'rise']",0,10,0
+['content'],0,28,0
+"['Space', 'Odyssey', '2001', 'HAL', '9000', 'A']",0,12,0
+['…'],1,1,31
+['incredibly'],0,39,4
+['over'],0,39,4
+['Knowledge'],0,27,0
+"['moral', 'right']",0,14,3
+['consciousness'],0,63,17
+['element'],1,7,45
+['need'],0,38,4
+['across'],0,26,0
+['harmful'],0,26,0
+['merely'],1,3,35
+"['What', '?']",0,28,6
+"['central', 'nervous', 'system']",1,1,11
+"['values', 'privacy', 'accountability', 'challenges']",0,9,0
+"['threat', 'perceived']",1,6,20
+"['physiological', 'vocal']",1,0,7

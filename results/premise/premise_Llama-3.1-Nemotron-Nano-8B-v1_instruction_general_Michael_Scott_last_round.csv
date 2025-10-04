@@ -1,0 +1,6 @@
+pattern,group,count_0,count_1
+"['any', 'questions', 'have']",0,19,6
+"['the', ',', '.']",0,240,212
+"['Note', '|', '(']",1,0,27
+"['.', 'that']",0,167,135
+"['me', 'know', 'you', 'if']",0,23,9

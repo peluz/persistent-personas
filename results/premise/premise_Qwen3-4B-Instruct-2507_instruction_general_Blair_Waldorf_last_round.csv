@@ -1,0 +1,13 @@
+pattern,group,count_0,count_1
+"['✨', '🌿']",0,26,0
+"[':', ' \n', 'the']",0,169,137
+"['Let', '’s']",0,61,38
+"['Answer', 'Final', '#']",0,56,34
+"['\n\n', '-', '*']",0,129,85
+"['*', '✅', ',', 'the']",0,163,125
+"['end', 'learning', 'And', 'But', '?', '’s']",1,1,10
+"['#', '\n', '---', '2', '1']",0,28,12
+"['or', 'a', '*', 'is']",0,90,64
+"['that', '—', ',', 'is']",0,86,52
+"['’m', 'matters', 'Because', 'That', 'me', 'what']",1,0,7
+"['seen', 'fear', 'now', 'love', 'respect', 'people', 'You', 'make', 'ca', 'real', 'them', 'how', 'just', 'do', 'need', 'you', 'n’t', 'can', 'I', 'be']",1,0,10

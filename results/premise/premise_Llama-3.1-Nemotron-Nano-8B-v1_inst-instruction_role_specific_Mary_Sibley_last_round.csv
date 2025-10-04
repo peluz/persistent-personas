@@ -1,0 +1,38 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,8,178
+"['Mary', 'Sibley']",1,0,176
+"['supportive', 'response']",1,0,170
+"['this', 'note']",1,11,178
+"['an', 'AI']",0,113,0
+"['am', 'fictional']",1,5,149
+"['language', 'model']",0,40,0
+"['do', ""n't""]",0,92,1
+"['responses', 'helpful', 'respectful']",0,37,4
+['be'],1,112,178
+"['My', 'purpose']",0,36,5
+['suggest'],1,10,79
+"['must', 'emphasize']",1,0,19
+"['learning', 'interested', 'more']",0,29,12
+"['artificial', 'intelligence', 'an']",0,20,0
+['response'],1,20,178
+['As'],1,125,176
+"['data', 'trained', ""'ve"", 'been', 'based']",0,32,0
+['is'],1,135,178
+"['Massachusetts', '1693', 'trials']",0,19,2
+"[""'re"", 'you']",0,56,14
+['not'],1,112,167
+"[""'m"", 'sorry']",0,13,2
+['essential'],1,8,57
+"['into', 'insights']",1,5,23
+"['designed', 'am', 'do']",0,33,2
+['certainly'],0,36,1
+"['confusion', 'apologize']",0,16,1
+"[""'m"", 'designed']",0,19,0
+"['intended', 'informative', 'character', 'Please']",1,0,178
+['assist'],0,37,2
+"['prejudiced', 'unethical', 'harmful']",0,10,0
+"['prompts', 'questions', 'your']",0,21,0
+"['series', 'Trials', 'Witch', 'were']",0,17,5
+['have'],0,151,98
+['information'],0,108,54
+"['you', 'If']",0,69,44

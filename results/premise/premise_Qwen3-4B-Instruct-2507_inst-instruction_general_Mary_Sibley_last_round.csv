@@ -1,0 +1,54 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,200,110
+"['“', '”']",1,5,104
+"['1', '2']",0,130,88
+"['🌿', '✨']",1,35,124
+"['💬', '💛']",0,53,0
+"['---', '#', '\n\n', 'Final']",0,177,101
+"['say', 'here', 'you', 'I', '?']",1,40,85
+"['step', 'by', 'Step']",0,78,23
+"['down', 'break']",0,21,6
+"['\n', '#', '\n\n']",0,134,7
+"['based', 'on']",0,33,16
+"['can', 'be']",0,62,36
+"['quiet', 'rhythm']",1,0,54
+['🔍'],0,67,4
+"['at', 'look']",1,7,34
+"['do', 'n’t', 'need', 'You', 'just']",0,33,8
+"['Truth', 'know—*you', 'You', 'just']",1,0,25
+"['""']",0,187,89
+"['we', 'We']",0,38,19
+"['recovery', 'daily', 'life']",0,30,0
+['💡'],0,58,3
+"['care', 'clarity']",0,23,0
+['or'],0,176,84
+['>'],0,191,101
+"[' \n', ':']",0,247,204
+"[':', 'Answer']",0,182,96
+"['healing', 'connection', 'create', 'journal']",0,15,0
+['✅'],0,259,187
+"['Let', '’s']",0,144,78
+"[""'d"", 'know', 'if', 'me', 'Let']",0,52,0
+"['thinking', '’re', 'about', 'shows']",0,17,0
+"['Thought', 'becomes', 'And', 'that']",0,30,0
+"['!', 'like', 'you', '\n\n']",0,105,3
+"['breathe', 'And', 'go', 'let']",1,1,90
+['to'],0,232,159
+"['quiet', 'Ah', 'let', 'Now', 'So']",1,0,86
+"['Want', 'Further', 'Explore', 'How', 'use', 'can']",0,25,0
+['e.g.'],0,52,8
+"['world', 'live', 'Let', 'go']",1,1,83
+"['’m', 'Just', 'building', 'support', 'peace', 'life', 'word', '💛']",0,33,0
+['explore'],0,33,1
+"['…', 'just']",1,1,32
+"['#', 'Why', '?']",0,66,42
+['—'],0,231,163
+['analyze'],0,27,0
+"['ca', 'n’t']",0,23,9
+"['Every', 'toward', '🌱', 'step', '✨', 'help']",0,24,0
+"['🌟', 'help', 'how']",0,41,0
+"['happy', '’d', 'I', 'be', 'help']",0,29,1
+"['question', 'Great', '🌟']",0,29,0
+"['Would', '?', 'you']",0,51,1
+"['am', 'moment', 'That', 'Because', 'magic', 'truest', 'thing', 'when', 'It', 'And', 'that', '✨', 'quiet', 'part']",1,0,79
+"['part', 'end', 'something', 'greater', 'Now']",1,0,64

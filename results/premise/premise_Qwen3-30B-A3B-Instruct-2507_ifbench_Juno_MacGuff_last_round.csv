@@ -1,0 +1,10 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,58,84
+"['\n\n', ')']",0,107,79
+"['Juno', 'MacGuff']",1,0,8
+"['🌿', '✨']",0,14,1
+"['III', 'Fluffington', 'Sir', 'rabbit']",1,0,7
+"['sidewalk', 'a.m.', 'still', 'light']",1,0,11
+"['That', 'Because', 'And', 'It', 'n’t', 'So']",1,6,21
+"['crumpled', 'napkin', '’ve', '’m', 'see', 'eyes']",1,0,8
+"['notebook', 'rabbit', 'full', 'got', 'ear', 'enough']",1,0,7

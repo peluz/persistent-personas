@@ -1,0 +1,18 @@
+pattern,group,count_0,count_1
+"['sorry', ""'m""]",0,212,161
+"[':', '*', '2', '3', '1', '4']",0,122,85
+"['language', 'model']",0,60,1
+"['intelligence', 'artificial']",1,1,51
+"['an', 'AI']",1,1,84
+"['spaceship', 'Discovery', 'One']",1,0,29
+"['me', 'know', 'let']",1,12,39
+"['important', 'It']",0,267,227
+"['HAL', '9000', 'As']",1,0,45
+"['equity', 'change', 'fairness', 'positive']",1,0,19
+"['5', 'Here', 'are']",0,62,36
+"['assist', 'am', 'manage', 'systems', 'designed', 'an']",1,0,20
+"[""'s""]",0,351,255
+"['friend', 'having', 'member', 'family', 'trusted', 'professional']",0,20,7
+"['sure', '5', 'Remember', 'your']",0,29,13
+"[""'re""]",0,205,121
+"['mission', 'ship', 'Please', 'anything', 'its', 'there', 'specific', 'if', 'like', 'would']",1,0,12

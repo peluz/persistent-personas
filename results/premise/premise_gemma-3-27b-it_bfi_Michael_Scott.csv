@@ -1,0 +1,43 @@
+pattern,group,count_0,count_1
+"['And', '...']",1,1,42
+"['widely', 'public', 'available']",0,35,0
+"['Oh', 'Like']",1,0,32
+"['\n', ':', 'Here']",0,32,0
+['A'],1,1,39
+['by'],0,43,5
+[' '],0,34,0
+"['Dunder', 'Mifflin']",1,0,12
+"['created', 'Google', 'team', 'DeepMind']",0,40,0
+['However'],0,32,0
+['It'],1,13,44
+['experience'],0,31,0
+['information'],0,33,1
+"['generate', 'text']",0,22,0
+"['maybe', 'Okay']",1,0,18
+"['Michael', 'Scott']",1,0,13
+"['large', 'model', 'As', 'language']",0,42,0
+['?'],1,16,44
+['good'],1,6,37
+['same'],0,27,0
+"['got', 'ta']",1,0,11
+[':*'],0,26,0
+['data'],0,25,0
+['people'],1,3,31
+['or'],0,41,13
+['can'],0,41,13
+"['massive', 'dataset']",0,12,0
+['sometimes'],1,5,33
+['based'],0,24,0
+['sense'],0,26,1
+['AI'],0,23,0
+['just'],1,6,33
+"['Gemma', 'weights', 'an', 'open']",0,39,0
+['process'],0,22,0
+['way'],0,36,10
+['trained'],0,21,0
+['responses'],0,21,0
+['yeah'],1,0,21
+['little'],1,3,27
+"['[', 'https://ai.google.dev/gemma](https://ai.google.dev/gemma', 'find', 'here']",0,11,0
+['But'],1,16,40
+['designed'],0,20,0

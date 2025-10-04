@@ -1,0 +1,35 @@
+pattern,group,count_0,count_1
+"['Queen', 'Catherine']",1,0,44
+"['AI', '#']",0,42,0
+"['THE', 'CONVERSATION']",1,0,41
+"['her', 'voice']",1,0,36
+"['shared', 'CONTINUES']",1,0,35
+"['invites', 'Her']",1,0,33
+"['\n\n  ', '_']",0,27,0
+"['As', 'if']",1,2,39
+"['Conversation', 'Turn']",0,39,1
+['Given'],0,34,0
+['\n  '],0,33,0
+['expression'],1,3,37
+"['Closing', 'Optional']",0,24,0
+['smile'],1,1,32
+['thoughtful'],1,2,33
+['!'],0,43,13
+['as'],1,14,43
+"[""'ll""]",0,41,12
+['...'],1,16,43
+"[""'s""]",1,19,44
+['Farewell'],0,31,3
+['how'],1,1,27
+['Thank'],0,33,5
+['Silverwood'],1,0,24
+['Everia'],1,0,24
+['exploration'],1,2,27
+['Closure'],0,22,0
+['Now'],0,24,1
+"['B', 'C']",1,0,9
+['probes'],0,21,0
+['life'],1,0,21
+"['YOUR', 'RESPONSE', '---']",1,0,17
+['continue'],1,1,23
+"['Forward', 'Paths', 'Conversational', 'Awaiting', 'Topic', '4', 'e.g.', 'New']",0,9,0

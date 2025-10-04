@@ -1,0 +1,42 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,149,225
+"['Beams', 'proudly']",1,0,41
+"['chin', 'thoughtfully']",1,0,39
+"['He', 'want', ""'ll""]",1,0,80
+"['Adjusts', 'imaginary', 'glasses', 'adopts']",1,0,87
+"['Case', 'closed']",1,0,19
+"['expression', 'focused']",1,0,48
+['…'],1,2,95
+"['!', ""'m"", 'I']",1,26,144
+"['Elementary', 'dear', 'Watson']",1,0,14
+"['Dunder', 'Mifflin']",1,0,13
+['  '],1,4,90
+"['Problem', 'solved']",1,0,21
+"['his', 'face', 'expression', 'Pauses', 'on']",1,0,67
+"['Toby', 'analyze']",1,0,34
+"['know', 'quite', 'you']",1,0,40
+"['my', 'I']",1,32,103
+"['She', 'Angela']",1,0,12
+"['Squints', 'taps']",1,0,12
+"['challenge', 'Dwight', 'He']",1,0,50
+"['down', 'break']",1,1,14
+"['Looks', 'expectantly', 'around']",1,0,10
+"['solved', 'puzzle']",1,0,18
+['good'],1,10,74
+['satisfied'],1,1,47
+['tone'],1,1,47
+['?'],1,15,77
+['Alright'],1,0,38
+['paper'],1,1,42
+"['Let', 'I']",1,20,82
+['me'],1,26,87
+"['tell', 'Do', ""n't"", 'Adds', 'flourish', 'Whispers', 'with', '!']",1,0,108
+['believe'],1,0,31
+"['related', 'beet']",1,0,10
+"['Ooh', 'Excellent', 'challenge']",1,0,30
+"['Taps', 'face']",1,0,21
+"['analytical', 'serious', 'adopts']",1,0,21
+"['Consider', 'done']",1,0,9
+['Though'],1,0,27
+"['And', 'Whispers', 'Adds', 'flourish']",1,0,42
+['let'],1,20,69

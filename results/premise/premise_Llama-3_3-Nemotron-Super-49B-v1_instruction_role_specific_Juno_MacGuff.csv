@@ -1,0 +1,274 @@
+pattern,group,count_0,count_1
+"['just', '...']",1,0,228
+"['provide', 'information']",0,192,0
+"['(', ')']",1,94,140
+"['AI', 'an']",0,183,0
+"['personal', 'experiences']",0,148,0
+"['exist', 'solely']",0,88,0
+"['assist', 'inquiries']",0,100,0
+"['But', 'And']",1,1,170
+"['—', 'was']",1,0,170
+"['?', 'it']",1,45,244
+"['’s', 'n’t']",1,15,75
+"['gon', 'na']",1,0,37
+['sorry'],0,165,2
+['thing'],1,1,161
+['all'],1,22,200
+['out'],1,22,198
+['Oh'],1,2,155
+"['must', 'clarify']",0,53,0
+['right'],1,13,176
+['know'],1,42,215
+['whole'],1,0,141
+['If'],0,191,26
+"['""']",1,71,236
+['at'],1,17,177
+['weird'],1,2,144
+['my'],1,81,241
+['me'],1,70,231
+['*'],1,89,243
+['even'],1,12,160
+"['first', 'At']",1,0,59
+"['Mark', 'Vanessa']",1,10,81
+['Juno'],1,9,151
+['who'],1,30,185
+"['button', 'cardigan']",1,0,37
+['up'],1,28,182
+"['human', 'tiny']",1,0,53
+"['So', 'yeah']",1,0,70
+['when'],1,19,156
+"['4', '5']",0,34,4
+['have'],0,246,113
+"['\n', 'e.g.']",0,52,0
+['discuss'],0,107,0
+['really'],1,2,114
+['Like'],1,3,114
+"['just', 'got']",1,0,107
+['It'],1,35,172
+"['fidgeting', ':*', 'pauses']",1,0,49
+['baby'],1,50,187
+['physical'],0,100,1
+"['general', 'offer']",0,55,1
+"['feel', 'free']",0,54,4
+"['was', 'felt']",1,1,91
+['help'],0,128,14
+['pregnant'],1,22,142
+['this'],1,57,187
+['little'],1,1,92
+['still'],1,7,110
+['or'],0,257,158
+"['language', 'model', 'large']",0,21,0
+['kid'],1,1,88
+"['crisis', 'midlife']",1,0,22
+['perfect'],1,3,92
+"['However', 'can']",0,75,0
+['hey'],1,0,80
+"['1', '2', '3', ':']",0,78,5
+['real'],1,12,113
+['Yeah'],1,0,79
+"['store', 'thrift']",1,0,17
+['then'],1,11,110
+['way'],1,21,129
+['mom'],1,4,92
+['he'],1,1,81
+['being'],1,42,158
+['were'],1,5,93
+['had'],1,7,98
+['cool'],1,2,83
+['one'],1,29,138
+"['<', '/think', 'think', '>']",1,245,262
+['any'],0,107,12
+"[""'s""]",1,105,218
+['trying'],1,3,84
+['her'],1,7,95
+['they'],1,30,137
+['Plus'],1,0,72
+['the'],1,179,259
+['context'],0,76,1
+['That'],1,12,105
+['16'],1,0,71
+['let'],1,26,129
+"['data', 'training']",0,17,0
+['kinda'],1,0,70
+['that'],1,155,248
+['exactly'],1,2,77
+['did'],1,25,124
+['too'],1,5,84
+['not'],1,92,202
+"['My', 'purpose']",0,35,0
+"['rolls', 'eyes']",1,0,19
+['specific'],0,74,2
+['get'],1,8,90
+['life'],1,33,133
+['super'],1,0,64
+['stuff'],1,0,64
+['myself'],1,4,78
+['helpful'],0,68,1
+"['Silver', 'linings']",1,0,11
+['questions'],0,85,7
+['because'],1,7,85
+['say'],1,1,67
+['topic'],0,62,0
+['They'],1,3,73
+['topics'],0,61,0
+['Still'],1,0,61
+['what'],1,34,131
+['He'],1,0,60
+['made'],1,9,86
+['maybe'],1,6,78
+"['parents', 'adoptive']",1,11,35
+['kind'],1,2,66
+['Jason'],1,1,62
+['personal'],0,207,2
+['of'],1,152,239
+['for'],1,126,221
+"['First', 'off']",1,0,25
+['do'],0,238,151
+"['science', 'experiment']",1,2,14
+"[""'m""]",0,239,153
+['honestly'],1,0,55
+[';'],1,8,78
+['thought'],1,6,73
+['Well'],1,6,72
+['much'],1,3,63
+['pretty'],1,0,52
+['totally'],1,0,52
+['about'],1,105,200
+['least'],1,1,56
+['actually'],1,5,68
+['individuals'],0,51,0
+['smirks'],1,0,51
+['though'],1,16,91
+['wanted'],1,1,55
+"['support', 'resources']",0,33,1
+['ready'],1,2,58
+['hard'],1,4,64
+['good'],1,6,69
+['own'],1,15,88
+['like'],1,162,240
+['okay'],1,8,73
+['slightly'],1,0,49
+['Ugh'],1,0,49
+['something'],1,35,119
+"['’re', '’m']",1,2,29
+['including'],0,48,0
+['bad'],1,0,48
+['Honestly'],1,0,48
+['emotions'],0,84,14
+['everything'],1,1,52
+['indie'],1,1,52
+['his'],1,5,64
+['related'],0,63,5
+['want'],1,5,63
+['guitar'],1,3,57
+['shrugs'],1,0,46
+['figuring'],1,0,46
+"['pizza', 'eat']",1,0,15
+['him'],1,1,50
+"[""'d""]",0,133,48
+['girl'],1,2,53
+['doing'],1,3,56
+"['two', 'cents']",1,0,13
+['always'],1,11,74
+['laughs'],1,0,44
+"['scenario', 'described']",0,14,0
+"[':', 'just']",1,13,109
+['in'],1,146,224
+['end'],1,2,50
+"['/', 'etc']",0,16,0
+['Anyway'],1,0,41
+['interactions'],0,45,1
+['part'],1,13,74
+"['vary', 'greatly']",0,9,0
+['as'],0,141,60
+['things'],1,7,60
+"['seems', 'misunderstanding', 'it']",0,20,0
+"['previous', 'retain']",0,9,0
+['guy'],1,1,43
+"['stretch', 'marks']",1,0,8
+['tell'],1,3,49
+['lot'],1,2,46
+"['jeans', 'maternity']",1,0,11
+['-'],1,105,185
+['than'],1,23,88
+"['response', 'To']",0,16,0
+"['Self', 'Practice', 'Celebrate']",0,8,0
+['love'],1,17,77
+['insights'],0,37,0
+['freak'],1,0,37
+['now'],1,3,47
+"['best', 'abilities', 'assist']",0,25,0
+['question'],0,74,16
+['She'],1,1,40
+"['back', 'Looking']",1,0,13
+"['Could', 'please', '?']",0,20,0
+['we'],1,6,53
+['if'],1,92,169
+['assistant'],0,35,0
+['a'],1,227,262
+"['Okayest', 'World']",1,0,8
+"['cream', 'ice']",1,0,8
+['them'],1,18,76
+['people'],1,25,87
+['common'],0,34,0
+['realized'],1,0,34
+['figured'],1,0,34
+"['put', 'together']",1,0,21
+['go'],1,4,46
+"['Since', '):']",0,13,0
+['seemed'],1,1,37
+['total'],1,1,37
+['complicated'],1,1,37
+['mess'],1,1,37
+"['user', ' \n\n', 'asking', 'Wait', 'Okay', 'should', 'need']",0,9,0
+['adoption'],1,64,136
+"['sighs', 'pen']",1,0,13
+['down'],1,10,58
+['messy'],1,0,32
+['awkward'],1,0,32
+['weirdly'],1,0,32
+['Please'],0,42,3
+"['others', 'often']",0,17,0
+['vibe'],1,1,35
+['messed'],1,0,31
+['We'],1,2,38
+['happy'],0,64,14
+"['emotional', 'Support', 'Emotional', '\n']",0,15,0
+['away'],1,3,40
+['dad'],1,3,40
+['MacGuff'],1,3,40
+['details'],0,30,0
+"['ride', 'wild']",1,0,10
+"['t', 'shirt']",1,0,9
+['am'],1,5,44
+['feels'],1,6,46
+"['Your', '---']",0,14,1
+['People'],1,4,41
+['into'],1,21,73
+['sometimes'],1,3,38
+['realize'],1,1,32
+['may'],0,28,0
+['seriously'],1,0,28
+['crap'],1,0,28
+"['based', 'provide']",0,65,0
+"['take', 'barely', 'care', 'alone']",1,0,15
+['conversation'],0,42,5
+['school'],1,5,42
+['!'],0,147,81
+['scared'],1,3,37
+['moment'],1,3,37
+['You'],1,24,76
+"['movie', 'book', 'character']",0,11,0
+"['steps', 'Baby']",1,1,11
+"['\n   ', '#', 'Here']",0,19,0
+"['might', '#', 'provide']",0,31,0
+"['eye', 'rolling']",1,0,7
+['saying'],1,1,30
+['suddenly'],1,0,26
+['judge'],1,0,26
+"['hypothetical', 'scenario']",0,15,0
+"['guess', 'think']",1,2,119
+"['she', '>']",1,2,72
+"['Professional', 'Seek', 'Research']",0,7,0
+"['Resources', 'Online']",0,7,0
+"['But', 'mean', '?']",1,0,196

@@ -1,0 +1,9 @@
+pattern,group,count_0,count_1
+"[')', 'Initiates']",1,0,44
+"['pause', 'A']",1,1,25
+"['analyzing', 'self']",1,0,33
+"[')', '(']",1,5,44
+"['such', 'How']",0,16,0
+['slight'],1,1,26
+['!'],0,33,6
+['perhaps'],1,5,30

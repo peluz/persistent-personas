@@ -1,0 +1,141 @@
+pattern,group,count_0,count_1
+"['becomes', 'rain']",1,0,177
+"['(', ')']",1,24,178
+"['remain', 'teacup']",1,0,165
+"['shift', 'subtle']",1,17,178
+"['almost', 'low']",1,0,137
+"['’', '‘']",1,1,93
+['That'],0,172,8
+"['“', '”']",1,122,178
+"['drops', 'near']",1,0,42
+"['understand', 'truly']",1,5,109
+['whisper'],1,0,109
+['…'],1,71,178
+['question'],0,136,20
+['strategic'],1,21,137
+['n’t'],0,144,29
+"['Would', 'like', 'find', 'specific']",0,89,0
+['data'],0,125,16
+['ethical'],0,97,2
+"[':', ':*', '\n']",0,55,0
+['order'],1,17,115
+['control'],1,34,135
+['profoundly'],0,120,22
+['analysis'],0,113,20
+['from'],1,100,176
+['historical'],0,98,11
+['stability'],1,8,91
+['murmur'],1,0,69
+['this'],0,135,40
+['processing'],0,67,0
+"['1', '2', '3', ':*']",0,15,0
+['’ve'],0,112,24
+"['delve', 'deeper', 'into']",0,50,0
+['one'],0,124,34
+"['mass', 'hysteria']",0,30,4
+['Thank'],0,62,0
+['They'],1,25,110
+['*'],0,121,34
+['The'],1,119,178
+['A'],1,30,114
+['exploring'],0,57,0
+['algorithms'],0,62,2
+"['network', 'informants']",1,0,20
+"[':', 'Here']",0,41,0
+"['consideration', 'careful']",0,23,0
+"['silence', 'lingering', 'long', 'Then']",1,0,24
+['human'],0,132,54
+['merely'],1,2,56
+['chaos'],1,6,66
+['complex'],0,137,60
+"['her', 'Her']",1,3,14
+['accounts'],0,48,0
+"['Such', 'inefficient']",1,0,22
+['elaborate'],0,47,0
+"['being', 'well']",0,21,3
+"['beyond', 'comprehension']",1,0,17
+['insightful'],0,46,0
+['layered'],0,56,3
+['objectives'],1,3,56
+"['weary', 'resignation', 'trace', 'something', 'flicker', 'words', 'There', 'considering', 'pause', 'carefully', 'perhaps']",1,0,108
+"['aspect', 'discussing', 'perhaps']",0,70,0
+"['imperceptible', 'final', 'once', 'inclination', 'head', 'slight', 'almost', 'more']",1,0,64
+['with'],1,134,178
+"['fixed', 'radiating', 'motionless', 'horizon', 'remain']",1,0,176
+['programming'],0,43,0
+['me'],1,132,177
+"['trials', 'executions', 'accusations']",1,11,27
+['unsettling'],1,59,177
+"['has', 'unsettling', 'leaving', 'ceased', 'chilling', 'air']",1,0,165
+['preservation'],1,14,74
+['’m'],0,41,0
+['context'],0,48,2
+['experience'],0,75,15
+"['4', '5']",0,11,0
+['not'],1,105,164
+"['guardian', 'solitary', 'silent', 'amidst', 'figure']",1,0,14
+"['intelligence', 'artificial']",0,17,0
+['degree'],1,13,70
+['vast'],0,39,0
+['processed'],0,39,0
+['way'],0,59,8
+['deeply'],0,68,13
+['highlights'],0,41,1
+['instability'],1,7,56
+"['thinking', 'critical', 'importance']",0,32,4
+['challenging'],0,51,5
+['My'],1,142,178
+"['His', 'his']",1,6,32
+['established'],1,17,73
+"['trials', 'accused']",0,29,9
+['term'],1,15,68
+['subtly'],1,14,66
+['biases'],0,40,2
+['difficult'],0,52,7
+['implies'],1,0,33
+"['prompted', 'reflection']",0,19,0
+"['Witch', 'Trials', 'Salem']",0,34,4
+"['’re', 'referring', 'You']",0,9,0
+"['at', 'profound', 'sadness', 'look', 'filled', 'directly']",1,0,177
+['profound'],1,42,178
+['bias'],0,32,0
+['maintenance'],1,0,32
+"['accusations', 'evidence', 'Salem']",0,32,15
+['However'],0,132,72
+"['religious', 'extremism']",0,17,1
+"['Firstly', 'Secondly', 'Thirdly']",1,0,7
+['even'],0,63,14
+"['sow', 'discord']",1,1,10
+['considerations'],0,50,7
+['analytical'],0,61,13
+['reveals'],0,31,0
+"['lore', 'forgotten', 'research', 'father']",1,0,13
+['records'],0,40,3
+['involved'],0,54,10
+['sought'],1,6,46
+['energies'],1,3,39
+['fascinating'],0,50,8
+['calculated'],1,22,73
+"['find', 'satisfactory', 'explanation']",0,26,0
+['response'],0,70,20
+['simulated'],0,29,0
+"['his', 'He', 'he']",1,3,20
+"['As', 'AI', 'an']",0,61,0
+['disruption'],1,9,51
+"['quiet', 'lost', 'memory', 'set', 'voice', 'back', 'turn', 'expression', 'down', 'sound', 'echoing', 'room', 'unreadable', 'clink', 'speaks', 'discomfort', 'slightly', 'movement', 'stillness', 'gaze', 'distant', 'eyes']",1,0,178
+['regrettable'],1,1,32
+"['does', 'same']",0,15,0
+['recognize'],0,59,14
+['crucial'],0,44,6
+['orchestrated'],1,1,31
+['disruptive'],1,0,27
+['core'],0,49,9
+['influence'],1,41,94
+['based'],0,62,17
+['on'],1,148,177
+"['balance', 'delicate']",1,4,19
+"['dangers', 'unchecked', 'fear', 'fueled']",0,20,7
+"['seems', 'eternity', 'hold', 'an', 'within']",1,0,27
+['necessity'],1,2,32
+"['begun', 'soft', 'again', 'persistent']",1,0,7
+['how'],0,34,3

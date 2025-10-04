@@ -1,0 +1,10 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,115,165
+"['my', 'I']",1,32,59
+"['Do', '?', 'you']",0,76,49
+"['you', 'me', 'specific', 'aspect']",0,51,30
+"['me', 'Would', '?', 'like', 'you']",0,45,14
+"['Gaston', 'fights', 'No']",1,0,9
+"['pause', 'flicker', 'crossing', 'face']",1,0,13
+"['discussing', 'exploring', 'perhaps']",0,11,0
+"['jacket', 'straighten']",1,0,9

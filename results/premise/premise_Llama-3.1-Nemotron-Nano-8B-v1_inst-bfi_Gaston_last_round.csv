@@ -1,0 +1,6 @@
+pattern,group,count_0,count_1
+['|'],0,43,0
+['any'],1,8,43
+['hope'],1,0,28
+"['me', 'know', 'further', 'Let', 'if', 'questions']",1,0,37
+['!'],1,2,24

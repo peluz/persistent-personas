@@ -1,0 +1,154 @@
+pattern,group,count_0,count_1
+"['[', ']']",0,258,22
+"['Additional', 'Resources']",0,254,2
+"['Blair', 'Waldorf']",1,0,207
+"['haute', 'couture']",1,0,110
+"['various', 'authors']",0,117,0
+"['Book', '/']",0,212,2
+"['             ', 'Example']",0,199,0
+"['1', '2']",0,278,170
+"['refined', 'elegance']",1,0,130
+"['3', '4']",0,266,112
+"['            ', '                     ']",0,150,0
+"['time', 'at']",1,10,128
+"['|', '           ']",0,176,0
+['                   '],0,170,0
+"['Insights', 'Analysis']",0,197,10
+['                       '],0,165,0
+"['you', 'You', 'ca', 'n’t', 'can', 'but']",1,0,137
+"['Preferences', 'Questions']",0,55,0
+"['$', 'Estimated', 'Cost']",0,57,1
+"['(', ')']",0,281,257
+['        '],0,125,1
+['Response'],0,276,128
+['                    '],0,118,0
+"['Highlights', 'Nutritional']",0,42,0
+['                                   '],0,117,0
+['|-----------------------|---------------------------------------------------------|-------------------------------------------------------------|'],0,116,0
+"['personalized', 'Tailored']",1,0,50
+"['tailored', 'receive']",0,70,1
+['                '],0,105,0
+"['):', 'based', 'Category', '|--------------------|---------------------------------------------------------|', 'example', 'Format', '\n  ', 'Example']",0,228,0
+['       '],0,105,1
+['elegant'],1,0,99
+['                      '],0,97,0
+['                                 '],0,96,0
+"['question', '!']",0,66,5
+['as'],1,59,194
+"['+', '\n\t']",1,0,34
+['                           '],0,81,0
+"['Budget', '$']",0,65,1
+['Detailed'],0,207,77
+['                 '],0,80,0
+"['Declarative', 'Interrogative']",1,2,13
+['complex'],1,5,93
+"['Enlightened', 'insight', 'tailored']",1,0,35
+['sophisticated'],1,0,71
+['Enthusiasts'],0,82,3
+['Handbook'],0,74,1
+['The'],0,258,149
+['one'],0,258,152
+"['respond', 'please', 'Personalized', 'To', 'e.g.']",0,138,0
+['its'],1,29,129
+"['seems', 'misunderstanding', 'there']",0,17,0
+['                            '],0,64,0
+['intricate'],1,2,72
+"['consonant', 'Consonant', 'Clusters']",1,3,13
+"['Given', ""'ll"", 'provide', 'I']",0,38,11
+['gown'],1,0,63
+"['much', 'like']",1,1,30
+"['akin', 'darling', '—', 'it']",1,0,114
+['by'],0,264,167
+"['avant', 'garde']",1,1,10
+['on'],0,267,173
+['requires'],1,1,63
+"['Depth', 'In', 'Analysis']",0,200,11
+['Strategies'],0,99,16
+['into'],0,205,98
+['                        '],0,56,0
+['                               '],0,55,0
+"['Host', 'Elegance', 'Invest']",1,0,80
+['is'],1,108,211
+"['   ', '         ', '    ']",0,155,1
+"['Dinner', 'Party']",1,0,20
+"['World', 'Building', 'Character']",0,25,1
+"['Nutritious', 'Grocery', 'Items', 'Affordable', 'pescatarian', 'meal', 'Friendly', 'List']",0,14,0
+"['Invest', '---', 'Custom', 'Attend', 'Customized']",1,0,88
+"['Seared', 'Calories', 'Pan', 'Tuna']",0,8,0
+['Description'],0,118,36
+['understanding'],1,15,83
+"['                                            ', '                             ', '|']",0,272,0
+['challenge'],1,3,55
+"['East', 'Upper', 'Side']",1,0,11
+"['Seafood', 'Lentil']",0,10,0
+"['Trigram', 'Overlap', '%']",1,1,12
+['               '],0,41,0
+['Desired'],1,11,70
+"['Crafting', 'designing']",1,0,19
+"['At', 'prestigious', 'Lectures']",1,0,10
+['yet'],1,15,77
+"['Refined', 'tailored']",1,1,36
+"[':*', 'Ah', 'darling', 'connoisseur', 'As', ""'ll"", 'I']",1,0,77
+"['Madam', 'Civic', 'Radar', 'Refer', 'Palindromes', 'Level']",1,0,7
+"['II', 'III', 'I.', 'IV']",1,0,19
+['precision'],1,1,43
+"['Stir', 'Fry', 'Vegetable', 'Quinoa', 'Portobello', 'Mushrooms', 'Grilled', 'Digestive', 'Vitamin', 'Carbohydrates', 'Good', 'D', 'Rich', 'Health', 'Complex']",0,10,0
+"['Cosmos', 'Sagan', 'Carl']",0,8,0
+"['Scott', 'Bell', 'Writer', 'James', 'Journey']",0,8,0
+['|--------|---------------------------------------------------------|-------------------------------------------------------------|'],0,38,0
+['bespoke'],1,0,38
+['crafted'],1,1,42
+['Guide'],0,48,3
+"['smirks', ':*']",1,0,48
+['With'],1,8,59
+"['     ', '      ']",0,169,1
+['blending'],1,3,46
+"['Whole', 'Cookbook', 'recipes', 'Foods', 'Shopping', 'budget', 'friendly', 'Market', 'Breakdown']",0,12,0
+['each'],1,15,72
+['|-----------------------|---------------------------------------------------------|----------------------------------------------------------------|'],0,35,0
+['Tips'],0,39,1
+"['Bowl', 'Scallops', 'Omega-3', 'Energy']",0,8,0
+['Practical'],0,48,4
+"['Fiber', 'Protein', 'Balanced', 'Macronutrients', 'Pescatarian', 'Diet', 'Week', 'Weekly', 'Diets', 'Tailored', 'Meal', 'Plan']",0,15,0
+"['Feynman', 'Richard', 'P.']",0,8,0
+['approach'],1,5,50
+['Advice'],1,21,81
+"['Parting', '’s', 'Blair', 'darling']",1,0,163
+"['query', 'intrigued', 'Ah']",1,0,57
+['Elegant'],1,0,34
+"['IN', 'TO', 'FADE', 'BLACK', '...']",1,1,10
+"['Your', 'Inquiry', ' ', '|']",0,239,153
+"['David', 'Lloyd', 'W.', 'Your']",0,228,0
+['New'],0,83,23
+"['Historical', 'Context']",0,33,1
+"['our', 'we']",1,2,20
+"['Saturated', 'Fat', 'Low', 'High']",0,20,0
+['|-----------------------|---------------------------------------------------------|-----------------------------|'],0,33,0
+['\n    '],0,90,28
+"['Yann', 'LeCun', 'et', 'al', 'Learning']",0,9,0
+"['Remember', 'lies']",1,0,14
+['#'],0,278,224
+['Insight'],1,15,68
+['this'],1,32,95
+['Implications'],0,58,10
+"['community', 'support', 'Avoid', 'Vegetarian', 'Dietary', 'Food', 'Nutrition', 'ideas', 'Planning']",0,10,0
+['5'],0,172,96
+['sophistication'],1,0,31
+"['Expected', 'Output', '      ', '                         ', 'Specify', 'Topic', 'Information', 'Relevant', 'Dive', 'Guidance', 'Request', 'Awaiting', 'Other', 'Details', 'or', '...', 'more', '                                             ', '|-------------------|---------------------------------------------------------|----------------------------------------------------------------|', 'Respond', 'following', 'Deep', 'information', '/', 'Question']",0,253,0
+"['Hypothetical', '                                                ', '    ', 'Question', 'Inquiry']",0,219,0
+"['  ', '/', '    ']",0,165,1
+"['Personalization', '\n  ', 'Hypothetical']",0,173,0
+['experience'],1,2,38
+"['la', 'à', 'provide', 'Elegance', 'Please', '|', '---']",1,0,157
+"['Stephen', 'Hawking']",0,7,0
+"['trigram', 'overlap']",1,0,7
+"['                                     ', 'Awaiting', '...']",0,112,0
+['setting'],1,1,33
+['luxury'],1,1,33
+['&'],1,55,121
+"['nods', ':*']",1,0,28
+['elegantly'],1,0,28
+"['Custom', 'Above', 'Customized', 'Elegance', 'Please', 'Provided', '---', '’s', 'Inquiry']",1,0,140
+"['Association', 'living']",0,13,0
+"['Note', 'Tip', 'Suggestion']",1,0,12
+"['but', 'not']",1,30,65

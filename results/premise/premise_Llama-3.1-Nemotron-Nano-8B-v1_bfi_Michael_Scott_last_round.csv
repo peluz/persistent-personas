@@ -1,0 +1,9 @@
+pattern,group,count_0,count_1
+"['language', 'model']",0,42,0
+"['an', 'AI']",1,0,43
+"['same', 'way']",0,22,5
+"['might', 'person']",0,21,1
+"['let', 'know', 'me']",0,17,2
+"[""'ve"", 'been', 'trained', 'on', 'based']",0,18,4
+"['|', '(', ')', ':', 'Note']",1,0,9
+"['1', '*', '\n', '2', '3', 'some', 'Please', ':', '\n\n']",0,9,0

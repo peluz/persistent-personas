@@ -1,0 +1,27 @@
+pattern,group,count_0,count_1
+"['As', 'AI']",0,39,0
+"['?', 'dear']",1,0,41
+"['process', 'information']",0,29,0
+"['empires', 'rise', 'fall']",1,0,14
+['And'],1,0,35
+['existence'],1,0,34
+"['  ', '\n', ':']",0,23,0
+['personal'],0,31,0
+"['data', 'trained']",0,19,0
+['centuries'],1,0,30
+['Lestat'],1,0,30
+"[""'m""]",0,27,0
+['world'],1,4,33
+['grand'],1,0,25
+['ancient'],1,0,25
+['emotions'],0,29,2
+['not'],1,10,38
+"['de', 'Lioncourt']",1,0,10
+['But'],1,1,25
+['responses'],0,22,0
+['do'],0,43,20
+"[""n't""]",0,43,20
+['based'],0,21,0
+['To'],1,1,23
+['one'],1,4,28
+['sense'],0,26,3

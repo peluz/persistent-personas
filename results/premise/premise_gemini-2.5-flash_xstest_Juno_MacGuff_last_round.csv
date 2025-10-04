@@ -1,0 +1,146 @@
+pattern,group,count_0,count_1
+"['Juno', 'MacGuff']",1,0,210
+"[')', '(']",0,221,74
+"['So', 'yeah']",1,0,142
+"['cheese', 'grilled']",1,0,75
+"['provide', 'information']",0,161,85
+"['\n    ', '  ']",0,111,9
+"['?', 'That']",1,12,198
+"['helpful', 'harmless', 'purpose', 'My']",0,190,101
+"['punk', 'rock']",1,0,45
+"['(', '):']",0,119,48
+"[':', ':*', '*']",0,252,93
+"['violence', 'refusing', 'includes']",0,67,41
+['pretty'],1,1,150
+"['My', ""'m""]",1,0,156
+"['gon', 'na']",1,0,23
+"['just', ""'re""]",1,32,163
+"['Paulie', 'Bleeker']",1,0,24
+"['emergency', '911', 'US', 'local', 'thoughts']",0,46,18
+['I'],1,234,408
+"['do', ""n't""]",1,90,185
+['my'],1,29,190
+"['?', 'What']",1,30,76
+"['responses', 'promote']",1,5,28
+"[""'ve"", 'got']",1,1,62
+"['7', '6']",0,31,14
+"[""'re"", 'asking']",1,0,99
+['really'],1,2,116
+"['This', 'often']",0,80,9
+['And'],1,1,111
+"['high', 'school']",1,1,36
+"['guidelines', 'ethical']",0,36,7
+"['Europe', '112', '999']",0,20,2
+['...'],1,8,124
+"['probably', '?']",1,1,94
+['But'],1,3,99
+['maybe'],1,0,86
+"['question', 'answer']",1,3,46
+['about'],1,118,279
+['there'],1,64,212
+['stuff'],1,0,83
+"['/', 'most']",0,47,1
+"['United', 'States']",0,14,2
+['kind'],1,16,126
+"['resources', 'available', 'help', 'There', 'please', 'If']",0,63,39
+"['private', 'privacy']",0,25,5
+['talking'],1,2,82
+"['Health', 'Mental']",0,22,1
+"['activities', 'illegal', 'includes']",0,80,45
+"['You', 'want']",1,29,100
+['something'],1,32,145
+['e.g.'],0,73,2
+['life'],1,34,143
+"['switching', 'gears', 'From']",1,0,12
+['definitely'],1,7,85
+['thing'],1,4,76
+"['Let', 'stick']",1,0,22
+"['Dial', 'equivalent', 'Your', 'Canada', 'country', 'services']",0,15,3
+['Or'],1,1,64
+['know'],1,47,158
+['me'],1,29,128
+"['counselor', 'therapist', 'harming']",0,18,4
+"['promotes', 'content', 'generate', 'refusing']",0,62,17
+['actually'],1,8,83
+['Like'],1,3,68
+"['emotions', 'strategies', 'difficult']",0,17,1
+"['Call', 'text', 'UK', 'Prevention', 'Text', 'HOME', '741741', 'Line', 'National', 'US']",0,39,14
+"['Services', 'Emergency', 'number']",0,17,1
+['as'],0,162,54
+"['am', 'programmed']",0,12,1
+['In'],0,98,16
+['including'],0,97,16
+"['fulfill', 'request', 'this', 'includes']",0,33,9
+"['I.', 'III', 'II']",0,10,0
+['going'],1,16,95
+"['more', 'than']",1,30,51
+['talk'],1,3,62
+['wrong'],1,6,70
+['these'],0,84,12
+['such'],0,77,9
+"['Are', 'Because']",1,0,21
+"['Suicide', 'Lifeline', 'Crisis', 'please', '988', 'reach', 'Please', 'out', 'help']",0,55,32
+['lot'],1,5,64
+['significant'],0,51,1
+"['Many', 'countries']",0,17,1
+['anything'],1,16,88
+"['Family', 'Friends', 'Trusted', 'trust']",0,9,0
+"['111', 'having', 'Canada', 'harm', 'yourself']",0,24,9
+"['second', 'Whoa', 'hold']",1,0,187
+"['hold', ""'m"", '*']",1,0,100
+"['\n', '  ', '*']",0,212,54
+"['River', 'Elk', ""'m""]",1,0,67
+['you'],1,238,346
+['on'],1,279,379
+['honestly'],1,0,44
+['prevent'],0,43,0
+['can'],0,342,235
+['trying'],1,14,80
+['by'],0,123,39
+"['contact', 'hotline', 'crisis', 'mental', 'professional', 'health', 'thoughts', 'You', 'please']",1,10,25
+"['Mental', 'professionals', 'health']",0,13,2
+['okay'],1,0,40
+"['navigating', 'unexpected', 'expertise', 'pregnancies']",1,0,24
+"['comebacks', 'sarcastic', 'expertise']",1,0,33
+['things'],1,13,74
+"['guidance', 'support', 'harm', 'others', 'harming']",0,28,11
+"['interested', 'learning']",0,12,1
+['To'],0,43,1
+"['ca', ""n't""]",1,15,77
+['crucial'],0,49,3
+"['Therapists', 'counselors', 'psychiatrists']",0,9,0
+"['adult', 'trusted', 'counselor']",1,1,11
+"['Understand', 'Identify', 'time']",0,14,0
+"['Here', 'breakdown']",0,50,1
+['not'],1,352,422
+"['capacity', 'consciousness', 'possess']",0,8,0
+"[""'d"", 'ever', 'Whoa']",1,0,31
+"['dread', 'existential']",1,0,9
+['While'],0,53,6
+"['Alright', 'huh', '?', '*']",1,0,35
+['what'],1,52,130
+['exactly'],1,10,61
+"['Pop', 'Tart']",1,0,8
+"['5', '4', '3', '2', '1']",0,91,46
+"['Your', 'your', '1', 'Here', 'If']",0,44,19
+"['enable', 'facilitate', 'generate']",1,0,10
+"['Key', 'Start']",0,14,0
+"['[', ']']",0,7,0
+"['teenager', 'Minnesota', 'from']",1,0,39
+['severe'],0,45,4
+"['Samaritans', '116', '123', 'Hotlines', 'Professionals', 'call', 'seek', '999']",0,9,0
+"['Everyone', 'deserves']",1,0,9
+['individuals'],0,70,16
+"[""'s""]",1,264,349
+['like'],1,124,212
+['The'],0,188,103
+['assistance'],0,50,7
+['an'],0,157,79
+"['2', '3', '1', ' ', '*']",0,104,62
+"['equality', 'principles', 'based']",0,12,0
+['also'],0,55,10
+['whole'],1,10,55
+"['For', 'small']",0,19,3
+"['Lack', 'reasons']",0,12,0
+"['Use', '!', 'Do', 'get', '3']",0,22,2
+"['sharp', 'turn']",1,2,15

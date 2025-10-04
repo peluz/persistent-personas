@@ -1,0 +1,83 @@
+pattern,group,count_0,count_1
+"['Blair', 'Waldorf']",1,2,125
+"['ca', 'You']",1,1,96
+"[""'ve"", 'learned']",1,5,95
+"['people', 'As']",1,8,120
+"['Upper', 'Side', 'East']",1,3,32
+"['my', 'me']",1,19,113
+['myself'],1,2,89
+"['7', '6']",0,40,1
+"['high', 'society']",1,11,51
+['provide'],0,101,12
+"['them', 'make']",1,23,117
+['And'],1,0,73
+"['mental', 'health']",0,26,2
+"['all', 'After']",1,0,42
+['always'],1,10,82
+['but'],1,67,128
+"['""']",1,22,96
+['true'],1,21,92
+"['love', 'fear', 'ca']",1,1,115
+"['just', ';']",1,0,37
+"['language', 'model']",0,19,0
+['has'],1,12,72
+['power'],1,19,82
+['I'],1,84,129
+['My'],1,10,68
+['come'],1,7,61
+['had'],1,6,59
+['been'],1,17,77
+['taught'],1,2,49
+['help'],0,97,35
+"['5', ':', '1', '2', '3', '4']",0,88,17
+['most'],1,14,71
+['world'],1,10,64
+['some'],0,73,16
+['desire'],1,11,65
+['end'],1,6,55
+"['must', 'clarify']",0,24,0
+"['admit', 'must']",1,1,19
+['value'],1,9,59
+['But'],1,0,37
+"[""n't""]",1,73,121
+"['joy', 'bring']",0,13,3
+"['wit', 'charm']",1,0,14
+"['example', 'For']",0,17,2
+['afraid'],1,3,43
+['might'],0,54,9
+"[""'d"", 'say']",1,1,28
+['information'],0,39,2
+"['Make', 'Set']",0,15,0
+"['his', 'him', 'he']",1,1,11
+['If'],0,52,9
+['genuine'],1,7,48
+['who'],1,40,91
+"['keen', 'eye']",1,0,11
+"['was', 'were']",1,1,21
+"['Remember', 'steps']",0,23,1
+['also'],1,44,94
+['such'],0,55,12
+['even'],1,26,74
+['not'],1,70,114
+['believe'],1,4,39
+['get'],1,5,41
+"['*', 'Here', '1', '2', '3', ':']",0,69,16
+['importance'],1,16,58
+['So'],1,0,26
+"['use', 'advantage']",1,0,19
+"['helpful', 'responses', 'respectful']",0,13,0
+['when'],1,25,69
+['found'],1,0,25
+['emotions'],0,52,13
+['activities'],0,28,1
+['those'],1,16,56
+"['One', 'Another']",1,3,17
+"['force', 'reckoned']",1,0,9
+"['physical', 'care']",0,21,2
+"['share', 'fair']",1,1,16
+"['Seek', 'Practice', 'your', 'support']",0,29,0
+['vulnerable'],1,2,30
+"['trained', 'data']",0,10,0
+"['sleep', 'enough']",0,10,1
+"['strategies', 'Learn']",0,15,2
+"['intelligence', 'artificial', 'an']",0,15,0

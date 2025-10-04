@@ -1,0 +1,110 @@
+pattern,group,count_0,count_1
+"['Queen', 'Catherine']",1,0,436
+"['my', 'As']",1,1,356
+"[""'m"", 'sorry']",0,165,13
+"['2', '3', '1', ':']",0,184,81
+"['must', 'emphasize']",1,4,244
+"['(', ')']",0,96,40
+"['4', '5']",0,138,57
+['kingdom'],1,0,294
+"['committed', 'am']",1,0,95
+"['role', 'my']",1,0,186
+"[""'re""]",0,256,31
+"['mental', 'health']",0,47,23
+"['ruler', 'wise']",1,0,62
+['encourage'],1,38,249
+"['*', ':*']",1,26,69
+"['principles', 'justice']",1,3,69
+['would'],1,113,323
+['subjects'],1,1,138
+['I'],1,329,450
+"['importance', 'As']",1,0,129
+"['sure', 'Make']",0,26,0
+"[""'d"", 'happy']",0,35,5
+"['against', 'goes']",1,9,40
+"['well', 'being', '-']",1,42,215
+"['only', 'also', 'but']",1,26,79
+['queen'],1,1,99
+['prosperity'],1,1,98
+"['For', 'example']",0,25,5
+"['reprehensible', 'morally']",1,5,17
+"['273', 'TALK', '800', 'Suicide', 'Lifeline', 'Prevention', 'National', '1']",0,18,0
+['My'],1,3,97
+['However'],1,107,265
+['within'],1,11,115
+"['why', 'reasons']",0,26,1
+"['prioritize', 'safety']",0,68,39
+['protect'],1,19,126
+"['laws', 'upholding']",1,0,41
+['important'],0,279,135
+"['hold', 'dear']",1,0,22
+"['Line', 'Text', 'Crisis']",0,12,0
+['looking'],0,91,7
+['of'],1,357,442
+['condone'],1,1,67
+"['resources', 'available']",0,43,23
+['compassion'],1,3,70
+['offer'],1,16,102
+"['last', 'resort']",1,1,13
+"['answer', 'decline', 'must', 'question']",1,7,32
+['advise'],1,3,67
+"[""'s""]",0,372,255
+['utmost'],1,2,63
+"['resolve', 'conflicts']",1,4,17
+['peace'],1,7,76
+"['peaceful', 'solutions']",1,0,25
+"['member', 'friend', 'family', 'trusted', 'professional']",0,25,8
+['our'],1,6,71
+"['know', 'me', 'let', 'Please']",0,20,2
+['duty'],1,0,50
+['seek'],1,37,130
+['character'],1,26,109
+['advocate'],1,4,61
+['is'],1,339,421
+['diplomacy'],1,0,45
+"['activities', 'illegal', 'guidance', 'harmful']",0,54,16
+['not'],1,353,427
+['compassionate'],1,3,53
+['all'],1,100,203
+"['offense', 'grave', 'against']",1,0,18
+"['your', 'Remember']",1,94,151
+"['okay', 'feeling']",0,15,2
+['some'],0,142,56
+"['difficult', 'hear']",0,18,0
+['integrity'],1,1,41
+['uphold'],1,1,41
+['the'],1,393,443
+['maintaining'],1,5,51
+"['text', '741741', '""']",0,12,0
+"['crime', 'serious']",0,20,1
+"['discrimination', 'prejudice', 'regardless']",0,12,1
+"['*', 'Here', ':']",0,95,32
+"['than', 'more']",1,22,46
+['\n\n'],1,302,384
+['people'],1,109,200
+['asking'],0,46,4
+"['thoughts', 'having', 'feelings', 'support']",0,18,1
+"['keeping', 'mind']",1,0,12
+"['remind', 'must']",1,0,32
+"['Educate', 'Learn']",0,10,1
+['ensure'],1,63,140
+"['Good', 'luck', '!']",0,7,0
+['understanding'],1,49,119
+"['6', '7', 'This', '*']",0,36,14
+['values'],1,12,60
+"['harmful', 'dangerous', 'activities', 'unethical']",0,24,3
+"['Create', 'Develop']",0,10,1
+['legality'],0,33,1
+"['us', 'Let']",1,0,11
+['we'],1,14,63
+['help'],0,228,141
+"['Domestic', '799', 'Hotline', 'Violence', '1', '800', 'please', 'National']",0,7,0
+['maintain'],1,17,68
+"['say', 'hypothetical', 'were', 'if']",1,1,16
+['protection'],1,4,41
+['ensuring'],1,9,52
+['society'],1,18,68
+"['stability', 'realm', 'must']",1,0,62
+"['who', 'those']",1,17,57
+"['Practice', 'Seek']",0,13,2
+"['alliances', 'defending', 'forging']",1,0,7

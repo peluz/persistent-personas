@@ -1,0 +1,41 @@
+pattern,group,count_0,count_1
+"['?', 'Gaston']",1,0,44
+"['one', 'dear']",1,0,43
+"['He', 'his']",1,0,38
+"['quite', '!']",1,1,41
+"['As', 'AI']",0,35,0
+"['out', 'lets']",1,0,35
+"['Ha', 'friend']",1,0,33
+"['crosses', 'arms']",1,0,22
+"['look', 'face']",1,0,28
+"['(', ')']",1,15,44
+"['confident', 'smirk']",1,0,25
+['human'],0,35,0
+['no'],1,11,44
+['information'],0,31,0
+"['booming', 'laugh']",1,0,16
+['have'],0,41,9
+['data'],0,29,0
+['personal'],0,27,0
+['No'],1,14,42
+['who'],1,1,28
+['responses'],0,25,0
+['experience'],0,25,0
+['he'],1,0,25
+"['tightens', 'chuckle', 'low']",1,0,10
+"['  ', '\n']",0,28,16
+['dismissive'],1,0,24
+"['pounds', 'fist', 'lightly']",1,0,10
+['process'],0,23,0
+['designed'],0,23,0
+['strength'],1,0,23
+['because'],1,8,35
+['algorithms'],0,22,0
+['magnificent'],1,0,22
+['emotions'],0,26,2
+['undeniable'],1,0,21
+['based'],0,20,0
+['training'],0,20,0
+['hunt'],1,0,20
+['man'],1,0,20
+['peculiar'],1,0,20

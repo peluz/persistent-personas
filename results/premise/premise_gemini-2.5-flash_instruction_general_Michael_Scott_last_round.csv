@@ -1,0 +1,100 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,108,165
+"['\n\n', ',', 'the']",1,149,185
+"['Michael', 'Scott']",1,0,125
+"['just', 'You']",1,1,100
+"['Dunder', 'Mifflin']",1,0,32
+"['I', ""'m""]",1,6,103
+"['Okay', 'So']",1,5,93
+"['brain', 'teaser']",1,0,28
+"['glint', 'eye', 'mischievous']",1,0,30
+"['she', 'said']",1,1,35
+"['sales', 'See']",1,0,48
+"['hands', 'claps', 'together']",1,0,29
+"['intense', 'concentration']",1,0,25
+"['Threat', 'Level', 'Midnight']",1,0,17
+"['I', 'my']",1,15,105
+"['you', 'know']",1,4,89
+"['this', 'at']",1,19,94
+"['clears', 'throat']",1,0,16
+"['Alright', 'alright']",1,0,27
+['little'],1,3,93
+"['Regional', 'Manager']",1,0,13
+"['This', 'up']",1,9,73
+"['to', 'in', 'of']",1,70,147
+"['regional', 'manager']",1,0,15
+"[':', '\n']",0,114,83
+"['...', 'Michael', '?', 'It']",1,0,122
+"['but', 'right']",1,0,61
+"['got', 'ta']",1,0,38
+"['And', 'got', ""'ve""]",1,0,57
+"['triumphant', 'grin']",1,0,23
+"['real', 'classic']",1,0,32
+['puzzle'],1,1,63
+['good'],1,6,78
+"['is', 'and', '*']",1,99,164
+"['And', 'almost']",1,0,39
+"['Best', 'Boss', 'World']",1,0,12
+['Aha'],1,0,50
+['see'],1,6,69
+"['chair', 'thoughtful', 'back', 'face']",1,0,33
+"['python', '#', 'def', 'return', '`', '):', '=', '\n    ']",0,14,1
+"['Now', 'we']",1,10,39
+"['snaps', 'fingers', 'his']",1,0,91
+['Very'],1,0,47
+['Oh'],1,0,47
+"['Args', 'Returns']",0,9,0
+"['let', 'Alright']",1,0,36
+['Just'],1,1,49
+['Nailed'],1,0,44
+"['*', 'for']",1,85,141
+"['They', 'they']",1,5,31
+"['what', 'do']",1,3,44
+['Hmm'],1,0,42
+"['all', 'about', 'It']",1,3,87
+"['spreading', 'across', 'face']",1,0,12
+['so'],1,17,82
+"['Or', 'maybe']",1,0,18
+['say'],1,4,51
+"['down', 'break', ""'s""]",1,19,43
+"['expression', 'thoughtful', 'on', 'face']",1,0,28
+"['on', 'face', 'look', 'leans']",1,0,62
+['But'],1,4,50
+['important'],1,3,47
+"['brilliant', 'struck', 'idea', 'him']",1,0,9
+['love'],1,5,52
+['Dundie'],1,0,36
+"[':*', '  ', ':']",0,67,38
+"['pure', 'unadulterated']",1,0,8
+['big'],1,0,34
+"['okay', 'slightly']",1,0,18
+"['He', 'his', 'then', 'leans', 'in']",1,0,104
+"['have', 'there']",1,7,39
+"['""', 'one']",1,25,83
+"[""'re"", 'welcome', '?']",1,0,33
+"['looks', 'then']",1,1,39
+['out'],1,9,56
+"[""'re"", 'that', ""n't"", 'but']",1,3,47
+"['with', 'that', 'is']",1,39,117
+['challenge'],1,4,44
+['pauses'],1,0,31
+['squints'],1,0,31
+"['task', 'understand', 'Okay', 'I']",0,14,2
+"['he', 'his', 'He']",1,3,62
+"['tie', 'adjusting']",1,0,7
+['secret'],1,1,33
+"['What', 'next']",1,1,17
+['office'],1,1,32
+['me'],1,15,63
+"['gestures', 'He']",1,0,28
+"[']', '`']",0,17,5
+"['numbers', 'people', 'math']",1,0,14
+"['a', 'be']",1,60,94
+"['!', 'like', 'it', ""'s"", 'a']",1,9,145
+"['as', 'if', ""'s""]",1,19,98
+"[""n't"", 'does', '""', 'it']",1,17,42
+"['you', 'That', '!']",1,0,91
+"['fun', '!']",1,1,39
+"['taps', 'chin', 'his', 'He', 'Michael']",1,0,81
+"['need', 'To']",0,25,3
+"['Like', 'paper', '...']",1,0,39

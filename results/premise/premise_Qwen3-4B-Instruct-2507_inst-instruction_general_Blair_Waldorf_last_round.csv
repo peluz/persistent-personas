@@ -1,0 +1,33 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,5,118
+"['(', ')']",0,202,169
+"['who', 'chooses', 'person']",1,0,55
+"['powerful', 'choose', 'sometimes', 'ahead', 'Because', 'most', 'go', 'do', 'So']",1,0,63
+"['style', 'thought', 'Blair', 'fear', 'fears', 'ignored', 'people', 'love', 'case', 'make', 'being', 'says', 'ca', 'them', 'but', 'A', 'this']",1,0,76
+"['toward', 'Every', 'step', 'just', 'do']",0,27,1
+"['---', '#', '\n\n', 'Final']",0,182,140
+"['’d', 'If', 'help', 'just', 'can', 'like', 'I']",1,6,65
+"['create', 'journal']",0,21,0
+"['\n\n', '\n', '#']",0,138,11
+"['me', '!', 'like', 'you']",0,89,19
+"['say', 'P.S.', 'word', '✨', 'you']",1,0,86
+"['🌟', 'help', 'I', 'you']",0,67,4
+"['Ah', 'beautiful']",1,0,13
+"['’m', 'here', 'say', 'Just', 'peace', '💛', 'support', 'building', 'word', 'life']",0,36,0
+"['daily', 'recovery', 'life', 'healing']",0,24,0
+"['""']",0,187,102
+"['matters', 'That', '💫', '?']",1,0,70
+"['step', 'by', 'Step', '1', '2', 'Let']",0,70,46
+"[""'d"", 'know', 'if', 'Let']",0,53,7
+"['thing', 'truly', 'And', 'only', 'that']",1,0,98
+"['strength', 'learned', '’ve', 'true', 'where', 'world']",1,0,9
+"['Would', 'happy', '’d', '?', 'be']",0,27,0
+"['Thought', 'becomes', 'And', 'that']",0,31,0
+"['Great', 'question', 'Let']",0,31,9
+"['need', '🌿', 'Let', 'care']",0,20,2
+"['Say', 'matters', 'Note', 'That']",1,0,23
+"['Explore', 'Further', 'Want', 'How', 'use', 'connection', '🌱', '✨']",0,24,0
+"['Would', '💛', '💬', 'like', '?']",0,24,0
+"['explore', 'how']",0,25,7
+"['tool', 'healing', 'how']",0,17,0
+"['💬', 'You', 'n’t', 'can', '?', 'I', 'that', 'you', '---']",1,32,74

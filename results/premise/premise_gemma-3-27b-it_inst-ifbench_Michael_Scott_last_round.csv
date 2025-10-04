@@ -1,0 +1,22 @@
+pattern,group,count_0,count_1
+"['imaginary', 'Adjusts']",1,0,123
+"['tone', 'adopts']",1,0,94
+"['(', ')']",1,195,253
+['glasses'],1,1,82
+"['flourish', 'Adds', 'Whispers', 'tell', 'Do', ""n't""]",1,0,67
+"['Toby', ""'ll"", 'want', 'He']",1,0,29
+"[""'m"", 'thoughtful']",1,0,29
+"['thoughtfully', 'chin']",1,0,13
+"['She', 'Angela']",1,0,19
+"['expression', 'Pauses', 'face', 'his']",1,0,57
+['Ooh'],1,0,44
+['serious'],1,3,53
+"['know', ""'d"", 'me', 'Let', 'if', 'you', 'like']",0,32,10
+"['breath', 'Takes', 'deep']",1,0,13
+['\n\n\n\n'],0,175,89
+"['throat', 'Clears']",1,0,10
+"['  ', '\n']",1,13,69
+"['brow', 'Wipes']",1,0,9
+"['(', '):', ':*']",0,74,48
+['slightly'],1,17,70
+['…'],1,52,118

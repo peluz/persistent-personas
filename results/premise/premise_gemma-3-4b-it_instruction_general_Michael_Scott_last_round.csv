@@ -1,0 +1,9 @@
+pattern,group,count_0,count_1
+"['(', ')', '\n\n']",1,64,93
+"['Okay', 'let', '\n\n', ',']",1,60,86
+"['pause', '…', 'my', 'face']",1,0,14
+"['lean', 'forward', 'slightly']",1,0,7
+"['pen', 'notepad', 'against', 'I']",1,0,14
+"['thoughtful', 'expression']",1,0,9
+"['offer', 'hopeful', 'glance', 'It']",1,0,9
+"['!', 'do', 'this', '’s']",1,2,27

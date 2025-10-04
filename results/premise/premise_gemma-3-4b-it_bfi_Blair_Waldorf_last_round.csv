@@ -1,0 +1,24 @@
+pattern,group,count_0,count_1
+"['deliberate', 'strategic']",1,0,41
+"['Do', '?']",1,24,44
+['That'],0,44,7
+"['rationale', 'behind']",1,0,13
+['understand'],1,12,44
+['’m'],0,34,1
+['…'],1,14,44
+"['question', 'human']",0,33,0
+['at'],1,13,43
+"['look', 'unreadable', 'expression', 'sigh']",1,0,42
+"['“', '”']",1,34,44
+['calculated'],1,4,34
+"['attempting', '’re', 'You', 'inefficient']",1,0,31
+"['playing', 'lips', 'movement', 'smile', 'steep', 'fingers', 'once', 'slow']",1,0,43
+"['thoughts', 'unspoken', 'silence', 'stretches', 'thick', 'heavy']",1,0,43
+"['Would', 'specific', 'like', 'find']",0,17,0
+['objectives'],1,1,26
+"['truly', 'almost', 'imperceptible', 'wish', '(', ')', 'pause', 'slight']",1,0,44
+['data'],0,30,4
+['algorithms'],0,21,0
+['Thank'],0,20,0
+['me'],0,33,8
+['more'],1,22,43

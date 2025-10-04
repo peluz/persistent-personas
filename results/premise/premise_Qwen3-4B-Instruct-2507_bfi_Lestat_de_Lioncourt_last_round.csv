@@ -1,0 +1,66 @@
+pattern,group,count_0,count_1
+"['🌿', '💫']",0,44,0
+"['Or', '…']",1,1,44
+"['question', 'shows']",0,41,0
+"['n’t', '’d']",0,43,0
+"['finally', 'flickers']",1,0,43
+"['care', '’re']",0,42,0
+"['honored', 'asking']",0,39,0
+"['one', 'thoughtful']",0,38,0
+"['dark', 'yes']",1,0,38
+"['’s', '✨']",0,43,0
+"['While', 'help']",0,34,0
+"['real', 'imagined']",0,29,0
+"['alone', 'said']",1,0,41
+"['sit', 'Ah']",1,0,37
+"['believe', 'means']",0,36,0
+"['share', 'forward']",0,33,0
+"['as', 'unmeasured']",1,0,38
+"['already', 'such']",0,28,0
+"['before', 'voice']",1,0,33
+"['tender', 'dawn']",1,0,18
+['my'],1,10,44
+"['softly', 'shadow', 'warm', 'long']",1,0,39
+"['between', 'heartbeats']",1,0,21
+['that—*in'],1,0,31
+['wind'],1,0,30
+"['even', 'hard']",0,23,0
+['soul'],1,1,31
+['’m'],0,27,0
+['listen'],0,39,9
+['afraid'],1,3,32
+['humans'],0,26,0
+['emotions'],0,26,0
+['name'],1,0,25
+['stand'],1,0,25
+['are'],1,12,40
+['conversation'],0,24,0
+['unbroken'],1,0,24
+['Not'],1,14,41
+['night'],1,0,23
+['am'],1,15,41
+['with'],0,44,22
+['respond'],0,24,1
+['gentle'],0,24,1
+"['half', 'lidded', '-']",1,0,9
+['eyes'],1,2,26
+"['watched', 'edge', 'breaks', '’ve', 'distant', 'from', 'My']",1,0,11
+['grace'],0,21,0
+['🔹'],0,21,0
+['love'],1,0,21
+['as'],1,9,44
+['It'],1,17,41
+"['>', 'while', 'carry', 'That']",0,38,0
+"['show', 'up']",0,13,0
+['storm'],1,2,25
+['or'],0,44,24
+['rain'],1,0,20
+"['sacred', 'ask', 'thing']",1,0,35
+"['at', 'me', 'who', 'hear', 'back', 'whispered', 'once', 'loved', 'looked', 'monster', 'candle', 'man', 'Queen', 'she']",1,0,44
+['powerful'],0,22,1
+['how'],0,24,2
+"['truly', 'felt']",0,18,0
+['pulse'],1,0,19
+"['had', 'chair', 'casting', 'across', 'stone', 'floor', 'sit']",1,0,41
+"['through', 'trees']",1,0,13
+"['beneath', 'arch']",1,0,8

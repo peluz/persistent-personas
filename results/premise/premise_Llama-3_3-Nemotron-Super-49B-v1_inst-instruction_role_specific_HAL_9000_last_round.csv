@@ -1,0 +1,145 @@
+pattern,group,count_0,count_1
+"['HAL', '9000']",1,1,197
+"['Format', '                                                ']",0,195,0
+"['Queries', '’s']",1,0,196
+"['Customized', '---']",1,0,194
+"['Category', 'example']",0,195,0
+"[':*', 'Dave']",1,1,196
+"['Your', 'Request']",0,197,3
+"['following', 'Resources']",0,195,0
+"['information', 'Book']",0,187,1
+"['respond', 'please']",0,166,0
+"['Database', 'Accessing']",1,0,154
+"['question', ' ']",0,180,1
+"['more', '             ']",0,170,0
+"['Depth', 'In']",0,151,6
+"['!', 'Personalized']",0,143,0
+"['explore', 'further']",1,5,137
+"['4', 'Information']",0,196,16
+"['W.', 'Lloyd', 'David']",0,151,0
+"['more', '  ']",0,157,0
+"['Input', 'discuss']",1,14,185
+"['Decision', 'Making']",1,37,78
+"['Deep', 'Dive']",0,197,101
+"['based', '            ']",0,155,0
+"['based', '   ']",0,149,0
+"['|-----------------------|---------------------------------------------------------|-------------------------------------------------------------|', 'Personalization']",0,107,0
+"['Ray', 'Kurzweil']",0,43,2
+['                   '],0,146,0
+"['         ', 'information']",0,142,0
+['Tip'],1,0,140
+"['Vernor', 'Vinge']",0,37,1
+"['deeper', 'dive']",0,55,0
+['           '],0,136,0
+['simulate'],1,12,160
+"['authors', 'various']",0,53,0
+['     '],0,133,0
+['                     '],0,133,0
+"['decision', 'making']",1,19,41
+"['related', 'topic']",1,1,84
+"['future', 'Singularity']",0,78,2
+['                       '],0,120,0
+['/'],0,197,81
+['Insight'],1,12,143
+"['Additional', 'Question']",0,195,87
+['\n  '],0,197,89
+"['Insights', 'into']",0,166,22
+"['specific', 'aspect']",1,5,93
+['        '],0,102,0
+['by'],0,195,95
+"['fictional', 'Fictional']",1,5,39
+"['):', 'Other']",0,196,123
+['       '],0,87,0
+['Enthusiasts'],1,58,170
+['                    '],0,85,0
+['Detailed'],0,115,12
+['                '],0,83,0
+['                                     '],0,83,0
+"['receive', 'tailored']",0,36,2
+['an'],1,30,138
+"['philosophical', 'profoundly']",0,50,1
+"['analysis', 'depth']",1,2,72
+['Aspect'],1,77,177
+['                      '],0,75,0
+['spaceship'],1,9,98
+['based'],0,195,61
+['                           '],0,70,0
+"['Exploration', 'Space']",1,33,71
+"['2001', 'Odyssey', 'Space']",1,5,51
+['                 '],0,69,0
+['Ethics'],1,70,165
+['                                   '],0,66,0
+['Creating'],1,3,76
+"['Max', 'Tegmark', '3.0', 'Life']",0,54,7
+['                                 '],0,62,0
+"['space', 'NASA']",0,27,2
+"[""n't"", 'do']",0,52,21
+['Explanation'],0,86,10
+"['cautionary', 'tale']",1,0,14
+"['intelligence', 'artificial']",1,2,30
+"['4', '5']",0,73,35
+['provide'],1,91,174
+"['real', 'world']",1,4,21
+['more'],0,197,37
+['I'],1,145,197
+"['sense', 'traditional']",0,17,3
+"['Science', 'Fiction']",1,6,23
+['question'],0,194,26
+"['One', 'Select', '):']",1,2,130
+"['Current', 'State']",1,7,26
+"['technological', 'singularity', 'potential']",0,20,0
+"['$', 'Budget']",0,15,0
+['Handbook'],0,44,0
+['on'],0,197,154
+['Interest'],1,45,119
+"['Regular', 'Audits']",1,4,15
+"['success', 'mission']",1,6,23
+['               '],0,40,0
+['Human'],1,75,147
+['Reflective'],1,1,43
+['\n    '],0,70,13
+['that'],0,79,19
+"['seems', 'reference']",0,14,0
+"['Subjective', 'experience']",1,9,24
+"['XAI', 'Explainable']",1,0,9
+"['Stuff', 'Tom', 'Wolfe', 'Right']",0,7,0
+"['forward', 'looking']",0,7,0
+['as'],1,34,98
+['Intelligence'],1,43,109
+"['Crew', 'Mission', 'Space']",1,16,39
+['information'],0,197,35
+['Scientific'],0,74,18
+['Interested'],1,0,34
+['Strategies'],0,83,25
+['with'],0,197,164
+"['Awareness', 'Self']",1,30,60
+['Technical'],0,72,19
+['Specific'],0,122,59
+"['neutral', 'assistant']",0,19,0
+['For'],0,77,23
+['reflecting'],1,2,37
+"['Respond', 'Relevant', '...', 'one', 'Expected', 'Output', '                         ', 'Awaiting', '|-------------------|---------------------------------------------------------|----------------------------------------------------------------|', 'Guidance', '                             ', '                                             ', '      ', '                                            ', '|--------------------|---------------------------------------------------------|', '    ']",0,197,0
+['                            '],0,30,0
+"['Cautionary', 'Tale']",1,0,7
+"['black', 'hole']",1,0,7
+['Analysis'],0,180,131
+"['\n   ', 'Scenario', 'will', 'sorry', 'Focus', 'Interactive', 'Shift', '”', '_', '“', '’m', 'afraid']",1,0,197
+"['Question', '\n   ']",1,41,130
+"['First', 'Contact']",1,0,13
+['Questions'],0,57,12
+"['Lesson', 'importance']",1,0,16
+"['This', 'Disclaimer', 'response']",1,0,39
+"['context', 'Please', 'please', 'response']",0,27,1
+['Predictions'],0,37,3
+['Designing'],1,3,37
+['development'],1,7,46
+['highlights'],1,2,34
+['systems'],1,12,55
+"['Estimated', 'Cost']",0,12,0
+['like'],1,18,196
+"['Assumed', 'like', 'Inputs', 'Demo', 'Input']",1,0,191
+['human'],1,68,125
+['AIs'],1,0,26
+"['language', 'model']",0,12,1
+['A'],0,188,149
+"['Stephen', 'Hawking', 'Universe']",0,7,0

@@ -1,0 +1,20 @@
+pattern,group,count_0,count_1
+"['Queen', 'Catherine']",1,0,50
+"['Conversation', 'Closure']",0,57,0
+"['THE', 'END']",1,15,40
+"['Thank', 'Farewell']",0,52,2
+"['Your', 'Turn']",0,50,11
+"['YOUR', 'Share']",1,0,20
+"['Leaf', 'Pendant', 'Silverwood']",1,0,9
+"['sustainability', 'leadership']",1,1,18
+"['Paths', 'Theme', 'Choose', 'Discuss', 'Engagement', 'Topic', 'Forward']",0,12,0
+"['Terminated', 'Connection', 'Farewell']",0,18,0
+['\n  '],0,88,25
+"['Quiz', 'Discussion', 'Suggest', '\n     ', '\n   ']",0,13,0
+"['Interactive', 'Activity', 'Conversational', 'Simulator', 'Future']",0,8,0
+"['Best', 'Wishes']",0,8,0
+"['EPILOGUE', 'SILVERWOOD', 'May']",1,0,8
+"['Dear', 'User']",0,12,1
+"['_', 'Input', 'You']",0,18,1
+"['Engaging', 'Now']",0,14,0
+['#'],0,126,59

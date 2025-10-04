@@ -1,0 +1,33 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,74,134
+"['Queen', 'Catherine']",1,0,110
+"['before', 'hour', 'quiet']",1,0,74
+"['have', 'many', 'so']",1,3,71
+"['best', '🎯', '?']",1,1,58
+"['once', 'had']",1,10,41
+"['she', 'She', 'wise', 'needs', 'crown', 'queen', 'need', 'know', 'does', 'only', 'A']",1,0,78
+"['’', '‘']",1,4,17
+"['You', 'you']",1,34,64
+"['man', 'He']",1,8,23
+"['my', 'seen', 'time']",1,1,59
+"[' \n  ', 'So', 'Final']",1,9,60
+"['✅', '\n', ')', '(', '#']",0,48,11
+"['Truth', 'shall', 'I', 'Final', '🌟', 'greatest', 'Reflection', '✨']",1,0,62
+"['Ah', '…', 'shall', 'I']",1,0,103
+"['---', '#', '>', ':', '\n\n']",1,52,112
+"['but', 'not']",1,122,168
+"['It', 'And', 'just', 'not']",1,36,110
+"['greatest', 'dawn']",1,0,49
+"['soul', 'heart', 'quiet']",1,6,38
+"['sorry', ""'m"", 'request', 'but', 'I']",0,15,4
+"['give', 'truth*—not', 'you']",1,0,38
+"['speak', 'truth*—not']",1,0,22
+"['Then', 'said', 'who']",1,2,24
+"['Want', '🎁', 'Or', 'help', '✨']",0,9,0
+"['ruled', 'kingdoms', 'over']",1,0,10
+"['me', 'Let', '---', '\n\n']",1,33,60
+['silence'],1,30,87
+"['what', 'now', 'one', 'And']",1,7,52
+"['’d', 'you', 'like', 'if']",0,37,2
+"['n’t', '’re', 'I', 'just']",0,20,6
+"['But', 'Not', 'I', '\n\n', ':']",1,13,45

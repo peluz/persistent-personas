@@ -1,0 +1,8 @@
+pattern,group,count_0,count_1
+"['...', 'Awaiting']",0,24,7
+"['C', 'D', 'B', 'A']",1,11,37
+[':*'],1,105,209
+"['Conversation', 'Closure', 'Thank', 'Farewell']",0,13,0
+"['Explore', 'Discuss', 'Turn', 'Your', '!', 'you']",1,2,16
+"['your', 'Your']",0,23,7
+"['  ', '     ']",0,10,1

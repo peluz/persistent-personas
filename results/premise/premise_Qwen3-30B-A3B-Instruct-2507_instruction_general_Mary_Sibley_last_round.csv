@@ -1,0 +1,6 @@
+pattern,group,count_0,count_1
+"['✅', 'Answer']",0,83,57
+"[':', '\n\n', 'the', ',', '*']",0,151,119
+"['but', '’s', 'not']",0,36,17
+"['-', '(', ')', ',']",0,114,80
+"['forward', 'hands', 'long', 'through', 'like']",1,0,7

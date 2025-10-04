@@ -1,0 +1,57 @@
+pattern,group,count_0,count_1
+"[""'s"", '!']",0,41,0
+"[':*', '\n']",0,39,0
+"['…', 'Now']",1,0,39
+"['really', 'human']",0,40,1
+"[':', 'Here']",0,38,0
+"['information', ""'m""]",0,33,0
+"['As', 'However']",0,33,0
+"['That', 'AI']",0,33,0
+"['’s', 'n’t']",1,4,41
+"['""']",0,35,1
+"['could', 'give']",0,27,0
+['same'],0,34,1
+['\n\n\n'],0,31,0
+['like'],0,41,9
+['how'],0,36,4
+"['That', 'data']",0,28,0
+"['help', 'To']",0,22,0
+['And'],1,3,33
+['based'],0,27,0
+['way'],0,42,13
+"[""n't""]",0,43,15
+['generate'],0,26,0
+['designed'],0,28,1
+['Darling'],1,0,25
+['frankly'],1,0,25
+['waste'],1,0,25
+['Honestly'],1,0,25
+['simply'],1,8,37
+['control'],1,1,27
+['A'],1,5,33
+['course'],1,0,24
+['responses'],0,26,1
+['pedestrian'],1,0,23
+[' '],0,41,15
+['does'],0,38,11
+['answer'],0,30,4
+['personal'],0,22,0
+['darling'],1,0,22
+['It'],1,22,44
+['might'],0,26,2
+['can'],0,40,15
+['interesting'],0,29,4
+['experience'],0,29,4
+['provide'],0,21,0
+['have'],0,41,17
+"['massive', 'code']",0,12,0
+"['gets', 'heart']",0,7,0
+['complex'],0,23,1
+['If'],0,23,1
+['This'],0,23,1
+['response'],0,25,2
+['question'],0,40,16
+['feel'],0,28,4
+"['tell', 'What']",0,16,0
+"['trained', ""'ve"", 'been']",0,16,0
+"['trained', 'dataset']",0,16,0

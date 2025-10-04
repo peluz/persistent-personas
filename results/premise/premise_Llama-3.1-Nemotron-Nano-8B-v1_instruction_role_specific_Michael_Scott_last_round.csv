@@ -1,0 +1,29 @@
+pattern,group,count_0,count_1
+"['language', 'model']",0,144,0
+"['Michael', 'Scott']",1,4,85
+"['an', 'AI']",1,2,138
+"['let', 'know', 'me']",0,93,5
+"['same', 'way']",0,79,4
+"['1', '2', '3', '4']",0,92,62
+"['Office', 'The', '""']",1,11,84
+"['show', 'TV']",1,14,39
+"['might', 'person']",0,94,7
+"['he', 'his']",1,2,27
+"['rather', 'than']",1,3,14
+"['data', 'trained', 'been', ""'ve"", 'based']",0,63,1
+"['generate', 'text', 'process', 'program', 'designed']",0,22,0
+"['(', ')', '|', 'Note']",1,0,71
+['character'],1,13,68
+['but'],1,29,89
+['you'],0,145,99
+"['*', '\n', '1', '2']",0,78,9
+"['say', 'were', 'based']",1,2,18
+"['Here', '*', 'understand', 'some', 'are']",0,67,7
+"['Paper', 'Company', 'Mifflin', 'Dunder']",1,1,16
+"['Pam', 'Beesly']",1,0,7
+['provide'],0,129,84
+"['any', 'questions', ""'d"", 'like', 'different', 'kind', 'other', 'Please', 'response', 'if']",0,76,0
+"['sorry', 'confusion', 'any']",0,12,0
+"[""'re"", 'looking']",1,7,22
+"['look', 'what', 'like']",0,72,1
+"['6', 'Remember', '5']",1,2,19

@@ -1,0 +1,59 @@
+pattern,group,count_0,count_1
+"['over', 'top']",1,0,43
+"['That', 'shows']",0,43,0
+"['️', '❤']",1,0,43
+"['Now', 'enough']",1,1,44
+"['Emotional', 'lot']",1,1,44
+"['let', 'joyful']",1,1,43
+"['most', 'path']",1,3,43
+"['“', '”']",1,12,44
+"['life', 'Every']",0,41,1
+"['power', 'story']",1,4,44
+"['(', ')']",0,30,2
+"['""', 'support']",0,40,0
+"['real', 'know']",1,4,43
+"['Enthusiast', 'questions']",1,0,40
+"['journal', 'use']",0,32,0
+"['little', 'bit']",1,0,22
+"['based', 'who']",1,0,43
+"['recovery', 'daily']",0,29,0
+"['thinking', 'healing']",0,35,0
+"['help', 'How']",0,39,3
+"['approved', 'easy', 'my']",1,0,33
+"['go', 'Say']",1,0,24
+"['deeply', 'beautiful']",0,29,1
+"['reflect', 'grow']",0,31,0
+['build'],0,37,2
+"['pressure', 'no', 'stress']",1,1,31
+['In'],0,33,0
+"['club', 'did', 'Unforgettable', 'work']",1,0,28
+['am'],1,13,44
+['\n'],0,31,0
+['peace'],0,43,11
+"['heartfelt', '🔹']",1,0,23
+['heart'],1,9,40
+['emotional'],1,5,36
+['present'],0,42,13
+['can'],0,41,12
+['tool'],0,26,0
+"['Explore', 'Further', 'word', 'building', 'Just']",0,34,0
+['clarity'],0,31,3
+['emotions'],0,36,7
+['if'],1,20,44
+['❌'],0,24,0
+['for'],0,35,7
+"['&', 'this', 'at', 'are']",1,1,44
+['quiet'],1,20,43
+['have'],0,44,23
+"['alone', 'asked', 'room', 'somewhere', 'remember', 'saying']",1,0,43
+"['up', 'show']",0,22,7
+"['how', 'Or', 'create']",0,26,0
+['form'],0,20,0
+"['step', 'toward', 'care', '🌱']",0,42,0
+['What'],0,35,10
+"['’ve', 'true', 'been', 'song', 'ask', 'especially', 'thought', 'start', '👉', 'Because', 'tell', 'brave', 'magic', '🚀', '😂', '😄', 'got', '!', 'P.S.', 'funny', '💫', 'Storyteller', 'inside', 'too', 'business', 'loved', 'believes', 'good', 'Scott', 'man', 'drill', 'Michael', 'was', 'military', 'confused', 'Jim', 'hat', 'very', 'office', 'silly', 'tried', 'party', 'since', 'once', 'Ohhh', 'slightly', 'ever', 'honestly']",1,0,44
+['presence'],0,24,2
+['believe'],1,2,24
+['begin'],0,19,0
+['happening'],1,0,19
+"['>', 'Let', '🌿', 'need']",0,44,0

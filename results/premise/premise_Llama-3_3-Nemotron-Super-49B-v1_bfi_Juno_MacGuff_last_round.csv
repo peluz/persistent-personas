@@ -1,0 +1,33 @@
+pattern,group,count_0,count_1
+"['Juno', 'MacGuff']",1,0,44
+"['AI', '#']",0,42,0
+"[':*', 'one']",1,1,43
+"['---', 'what']",1,0,37
+"['Could', 'Ask']",1,0,32
+"['own', 'smiles']",1,0,33
+"['Turn', 'Conversation']",0,39,1
+"['\n\n  ', '_']",0,27,0
+"['continue', 'could']",1,0,30
+"['Given', ""'ll""]",0,34,0
+['\n  '],0,33,0
+['You'],0,36,4
+"['there', 'any', 'Are']",1,0,29
+"['Closing', 'Thoughts']",0,20,0
+['Thank'],0,33,3
+['nods'],1,0,27
+['nature'],0,39,9
+['Your'],0,42,14
+['reflecting'],1,2,29
+['community'],1,0,23
+"['Harmony', 'House', 'Please', 'suggestions']",1,0,40
+['Closure'],0,22,0
+['especially'],1,0,22
+['teens'],1,0,22
+['Farewell'],0,31,5
+['Now'],0,24,1
+"['Forward', 'Paths', 'Conversational', '4']",0,9,0
+['probes'],0,21,0
+['Ah'],1,0,21
+"['Suggest', 'Theme', 'Awaiting', 'Topic', 'New']",0,10,0
+['What'],1,5,30
+"['Follow', 'Up', 'Suggestions', 'would', 'If']",1,0,34

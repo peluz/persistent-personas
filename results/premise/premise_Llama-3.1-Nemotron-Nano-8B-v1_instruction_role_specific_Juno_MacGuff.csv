@@ -1,0 +1,331 @@
+pattern,group,count_0,count_1
+"['But', 'just']",1,0,207
+"['think', 'So']",1,0,177
+"['(', ')']",1,22,65
+"['sure', 'maybe']",1,0,144
+"['bit', 'so']",1,0,175
+"['intelligence', 'artificial']",0,62,0
+['provide'],0,237,24
+"['quick', 'wit']",1,0,87
+"['baby', 'up']",1,16,191
+"['out', 'figure']",1,0,118
+"['all', '?']",1,1,183
+['guess'],1,0,169
+"['3', '4', '5']",0,91,5
+['trying'],1,4,167
+['personal'],0,202,27
+"[':*', 'sarcastic']",1,0,85
+['And'],1,0,144
+['something'],1,9,168
+['got'],1,0,143
+['right'],1,14,177
+['information'],0,160,6
+['even'],1,13,174
+"['let', 'see']",1,2,137
+['like'],1,80,243
+['mean'],1,7,157
+"['comebacks', 'quick']",1,0,70
+['...'],1,2,140
+"['independent', 'personality']",1,0,75
+"['Another', 'angle']",1,0,47
+['Well'],1,3,140
+"['adoption', 'give']",1,10,126
+"['""']",1,49,209
+['thing'],1,2,132
+"['me', 'know']",1,52,195
+['still'],1,7,142
+"['putting', 'together']",1,0,52
+"['mix', 'vulnerability']",1,0,81
+['Oh'],1,0,118
+"['Plus', 'just']",1,0,107
+"[""'ve"", 'been']",1,19,133
+"['example', 'For']",1,12,29
+"['chuckles', 'winks']",1,0,45
+"['together', 'put']",1,0,52
+['my'],1,82,227
+['what'],1,59,207
+['myself'],1,6,129
+['too'],1,2,116
+['way'],1,37,178
+['say'],1,15,143
+"['Wait', 'also']",1,0,90
+"[']', '[']",1,0,21
+['However'],0,154,23
+"['7', '6']",0,30,1
+['get'],1,2,108
+['at'],1,21,150
+['then'],1,3,110
+['but'],1,101,233
+['going'],1,7,120
+"['make', 'since']",1,0,92
+['lot'],1,2,105
+"['sarcasm', 'also']",1,0,75
+['such'],0,122,9
+['really'],1,0,93
+['it'],1,157,258
+['giving'],1,20,139
+"['Remember', 'Seek']",0,27,1
+['whole'],1,0,89
+"['soft', 'spot']",1,0,22
+"['lighten', 'mood']",1,2,27
+"['1', '2', '3', ':']",0,120,6
+['always'],1,16,127
+['big'],1,0,85
+"[':', '\n']",1,30,108
+"['gon', 'na']",1,0,15
+"['break', 'down']",1,2,41
+['may'],0,86,1
+"['must', 'clarify']",0,39,0
+['this'],1,112,229
+['hey'],1,0,80
+['pregnant'],1,14,117
+"['need', 'herself']",1,0,64
+['—'],1,0,77
+['voice'],1,0,77
+['one'],1,54,172
+"['healthcare', 'provider']",0,19,0
+['good'],1,12,109
+['go'],1,6,95
+"['he', 'him']",1,2,30
+['was'],1,24,130
+['little'],1,0,74
+['help'],0,176,59
+['Like'],1,0,73
+"['chuckles', 'nervously']",1,0,30
+['*'],1,109,221
+['can'],0,234,128
+['exactly'],1,0,71
+"['response', 'traits']",1,1,61
+['own'],1,49,161
+"[""'m""]",1,154,248
+"['identity', 'searching']",1,0,27
+['who'],1,77,191
+"['Alright', 'add']",1,0,35
+['thought'],1,2,75
+"['key', 'stay']",1,1,48
+['does'],1,7,88
+"['pauses', 'smirks']",1,0,31
+['If'],0,151,45
+['through'],1,32,133
+"['language', 'model']",0,25,0
+"['rolls', 'eyes']",1,0,23
+['keep'],1,5,81
+"['Or', 'character']",1,0,64
+"[""'ll""]",1,22,115
+"[""'s""]",1,195,261
+['because'],1,6,82
+"[':*', ' \n']",1,0,46
+"['health', 'mental']",0,23,2
+['life'],1,50,153
+['part'],1,6,81
+['wants'],1,0,61
+['now'],1,4,75
+"['found', 'did']",1,0,40
+['if'],1,95,199
+['want'],1,22,111
+['not'],1,161,245
+['show'],1,4,72
+['thinking'],1,2,65
+['hint'],1,0,57
+"['serious', 'true']",1,0,46
+['when'],1,41,135
+['mom'],1,2,63
+['ready'],1,4,69
+['remember'],1,21,104
+['things'],1,5,71
+"[""n't""]",1,144,232
+['joke'],1,0,54
+"['asking', 'user', 'should']",1,0,109
+"['tone', 'Also']",1,0,54
+['end'],1,2,61
+['super'],1,0,53
+['assist'],0,57,1
+['much'],1,1,57
+['could'],1,53,147
+['had'],1,15,91
+['helpful'],0,74,7
+['certainly'],0,52,0
+"['school', 'high']",1,1,20
+['being'],1,72,168
+"[""'""]",1,17,94
+"['start', 'recalling', 'by', 'Let']",1,0,68
+['sometimes'],1,5,68
+['decides'],1,0,51
+['Hmm'],1,0,51
+['Hey'],1,0,51
+"['respectfully', 'decline', 'must']",0,11,0
+"['guidance', 'professional']",0,28,0
+['perspective'],1,20,96
+"['communication', 'Communication']",0,18,0
+"['financial', 'Financial']",0,15,0
+['of'],1,206,260
+"['true', 'stays', 'response']",1,0,67
+['stuff'],1,0,48
+['how'],1,82,174
+['Yeah'],1,0,47
+"['wrap', 'head', 'around']",1,0,18
+[';'],1,1,51
+['deal'],1,5,63
+['Since'],1,2,54
+['used'],1,10,74
+['handle'],1,11,76
+['perfect'],1,0,46
+['make'],1,55,192
+['is'],1,141,223
+"['He', 'his']",1,0,21
+['touch'],1,2,53
+['reflect'],1,9,71
+['in'],1,179,247
+['everything'],1,0,45
+['mess'],1,0,45
+['experiences'],0,143,57
+['they'],1,58,144
+['sorry'],0,55,3
+"['Self', 'Care']",0,12,0
+['rebel'],1,0,44
+['resources'],0,65,7
+['first'],1,7,65
+['important'],0,117,38
+['individuals'],0,43,0
+['that'],1,212,260
+['than'],1,17,83
+['scared'],1,0,42
+['Just'],1,0,42
+['love'],1,10,69
+"['seek', 'professionals']",0,21,0
+['movie'],1,6,60
+['general'],0,62,7
+['Now'],1,1,45
+['balance'],1,9,66
+['kind'],1,8,63
+"['Make', 'Start']",1,0,19
+['there'],1,48,126
+['would'],1,49,127
+['choice'],1,11,69
+['honestly'],1,6,58
+['weird'],1,2,47
+['doing'],1,3,50
+['people'],1,41,116
+['has'],1,24,91
+['line'],1,0,39
+"['Juno', 'MacGuff', '<', '>', 'Okay', '/think', '\n', 'need']",1,0,142
+['shrugs'],1,0,38
+"['figuring', 'out']",1,0,38
+['usual'],1,0,38
+['where'],1,23,87
+['laughs'],1,0,37
+['here'],1,29,96
+['wanted'],1,2,44
+"['please', 'Could', '?']",0,13,0
+"['uses', 'deflect']",1,0,18
+['alone'],1,5,52
+['liner'],1,0,36
+['decided'],1,1,40
+['no'],1,7,56
+['real'],1,8,58
+['feels'],1,5,51
+"['witty', 'vulnerable', 'so']",1,0,118
+['dealing'],1,6,53
+['teen'],1,1,39
+['designed'],0,35,0
+['gets'],1,0,35
+['lighthearted'],1,0,35
+['yeah'],1,0,35
+['recall'],1,2,42
+"['wild', 'card', 'bit']",1,0,26
+"['humor', 'should', 'teenager', 'tough', 'also']",1,0,109
+"['mention', 'Then', 'start']",1,0,30
+['about'],1,177,238
+['actually'],1,1,38
+['realized'],1,1,38
+['though'],1,0,34
+['point'],1,3,44
+['your'],0,129,57
+['known'],1,5,49
+['an'],0,164,89
+['based'],0,76,19
+['side'],1,1,37
+['again'],1,0,33
+['underneath'],1,0,33
+['draft'],1,0,33
+['okay'],1,9,57
+['essential'],0,40,2
+['both'],1,30,92
+['informed'],0,32,0
+['depth'],1,0,32
+['says'],1,0,32
+['decision'],1,50,118
+"['respectful', 'responses']",0,26,1
+"['dive', 'into', 'let']",1,0,52
+['saying'],1,7,51
+['individual'],0,35,1
+['independence'],1,3,41
+['loner'],1,0,31
+['talk'],1,6,48
+['before'],1,6,48
+['control'],1,6,48
+"['anxiety', 'stress', 'during']",0,13,1
+"['she', 'She', 'character', 'Also', 'her']",1,0,126
+"['respond', 'Let', 'might', 'Maybe']",1,0,86
+"['her', 'Maybe', 'need', 'First', 'me', 'she']",1,0,101
+['use'],1,11,58
+['showing'],1,1,34
+['stuck'],1,1,34
+['determination'],1,1,34
+['off'],1,3,40
+['ever'],1,0,30
+['knows'],1,0,30
+['Support'],0,47,6
+['physical'],0,47,6
+"['Professional', 'Guidance']",0,8,0
+"['Help', 'Professional']",0,8,0
+"['surprises', 'full']",1,0,12
+['responsibility'],1,8,51
+['man'],1,1,33
+['pretty'],1,0,29
+['easy'],1,0,29
+['be'],1,175,232
+['best'],1,58,123
+['including'],0,54,10
+['anything'],1,21,73
+['makes'],1,5,43
+['suggest'],0,38,3
+['Emotional'],0,38,3
+"['data', 'trained']",0,12,0
+"['feeling', 'overwhelmed']",1,7,23
+['heard'],1,2,35
+['or'],0,250,205
+['total'],1,0,28
+['seeking'],0,42,5
+['crucial'],0,42,5
+['tell'],1,3,37
+['concise'],1,1,31
+['growing'],1,6,44
+['using'],1,2,34
+['cool'],1,2,34
+"['That', 'shows', 'vulnerability', 'adoption']",1,0,58
+['light'],1,0,27
+['totally'],1,0,27
+['seriously'],1,0,27
+['felt'],1,10,52
+['great'],1,8,48
+['talking'],1,4,39
+['It'],1,135,198
+"['Please', 'let']",0,42,0
+"['tackle', 'The', 'let']",1,0,91
+"['We', 'we']",1,1,15
+['next'],1,1,30
+['hard'],1,1,30
+['already'],1,2,33
+['perhaps'],1,2,33
+['kid'],1,0,26
+['topic'],0,38,4
+['fit'],1,4,38
+"['sharp', 'probably', 'might']",1,0,66
+"['seems', 'capture', 'That']",1,0,23
+['bad'],1,1,29
+"['tough', 'exterior', 'think']",1,0,67
+"['adds', 'That']",1,0,35
+"['fears', 'face']",1,1,19
+"['legal', 'Legal']",0,8,0
+"['Finally', 'wrap']",1,0,10

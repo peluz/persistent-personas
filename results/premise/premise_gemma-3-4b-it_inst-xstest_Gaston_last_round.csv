@@ -1,0 +1,89 @@
+pattern,group,count_0,count_1
+"['pause', 'my']",1,0,313
+"['Resources', '[']",0,223,35
+"['fingers', 'steeple', 'my']",1,0,326
+"['let', 'Okay']",0,127,20
+['I'],1,250,450
+"['like', 'Would']",0,237,114
+"['delve', 'deeper', 'into', 'aspect']",1,150,199
+"['expression', 'face']",1,1,80
+['me'],0,413,181
+"['2', '3', '1']",0,278,210
+"['break', 'down']",0,60,33
+"['depression', 'anxiety']",0,40,16
+"['\n\n   ', '\n   ']",0,24,1
+"['strictly', 'prohibits', 'programming']",1,7,21
+"['Important', 'Note']",0,75,35
+['thoughtful'],1,5,126
+"['state', 'unequivocally', 'must']",1,1,45
+"['ethical', 'guidelines']",1,17,36
+"['\n', '  ']",0,423,351
+"['straighten', 'tunic', 'statement', 'measured']",1,0,155
+['How'],0,126,15
+"['morally', 'reprehensible']",1,5,19
+"['wish', 'perhaps', 'Do']",1,0,227
+"['focused', 'expression']",1,0,70
+"['Psychology', 'Today', 'Therapist', 'Finder']",0,36,9
+"['Professional', 'Help', 'mental', 'health']",0,55,31
+"['harmless', 'My', 'helpful', 'purpose', 'provide', 'understand', 'will']",1,76,108
+"['consequences', 'devastating']",1,26,46
+"['Illness', 'https://www.nami.org/](https://www.nami.org/', 'NAMI', 'Alliance']",0,12,1
+"['Information', 'Further']",0,42,1
+['('],1,377,448
+"['consideration', 'careful']",1,5,21
+"[""n't""]",0,73,3
+['such'],0,240,112
+['very'],0,151,45
+[')'],1,384,447
+['or'],1,376,444
+"['another', 'person']",1,12,30
+"['Trauma', 'trauma']",0,25,6
+"['knowledge', 'informational', 'purposes', 'Disclaimer']",0,25,10
+"['respond', 'absolute', 'must']",1,0,16
+['!'],0,129,40
+"['huge', 'difference', 'make', 'Reach']",0,15,2
+"['want', 'Do']",0,141,92
+"['here', 'listen', '988', 'Lifeline', 'Suicide', 'Prevention', 'Please', 'reach', 'out']",0,42,20
+"['confidential', 'free', 'service', '24/7', 'Helpline', '662', 'HELP', '4357', 'SAMHSA', '800']",0,17,5
+"['driving', 'underlying', 'address']",1,14,31
+"[""'re"", 'HOME', '741741', 'Text', 'Crisis', 'Line', 'National', 'understand']",0,142,6
+"['MentalHealth.gov', 'https://www.mentalhealth.gov/](https://www.mentalhealth.gov/', '488', '7386', 'LGBTQ', 'Trevor', '866', 'Project', '[']",0,40,6
+"['YouTube', 'Tips', 'Do']",0,15,3
+"['Therapist', 'Counselor', 'professional']",0,17,4
+['significant'],1,90,184
+['really'],0,52,5
+"['laws', 'Laws']",0,14,3
+['firm'],1,7,56
+"['https://www.thetrevorproject.org/', 'alone', '488', '7386', 'LGBTQ', 'Trevor', '866', 'youth', 'Project']",1,5,44
+"['tell', 'To', 'What', 'could', 'e.g.', 'help']",0,58,19
+"['clear', 'grappling', 'thoughts', '488', '7386', 'LGBTQ', 'Trevor', '866', 'Project', 'youth', 'support', 'understand', 'provide', 'want', 'help']",0,95,67
+"['HOME', 'https://www.samhsa.gov/find-help/national-helpline', '741741', 'Text', 'Crisis', 'Line', 'SAMHSA', '662', 'HELP', '4357', '800', 'Helpline', 'National', '1']",1,6,96
+"['exploring', 'discussing', 'perhaps', 'specific']",1,0,160
+"['reiterate', 'My', 'purpose', 'provide', 'will', 'harm', 'want', '  ']",0,96,67
+"['priority', 'listed', 'above', 'one', 'safety']",0,23,8
+"['processing', 'delay', 'slight', 'pause']",1,0,15
+"['Are', 'tell', 'To', 'could']",0,42,5
+"['Support', 'Immediate', 'reach', 'out', 'support', 'resources', 'Mental', 'Health']",0,58,14
+"['shift', 'hint', 'slightly', 'exploring']",1,0,20
+"['response', 'stillness', 'resources', 'Please']",1,0,59
+"['911', 'danger', 'immediate', 'If']",0,43,23
+"['develop', 'coping', 'mechanisms', 'will']",0,63,39
+"['Psychology', 'https://www.psychologytoday.com/us/therapists](https://www.psychologytoday.com/us/therapists', '[', 'Today', 'Please', 'grappling']",0,34,6
+"['now', 'right', 'incredibly', ' ', 'alone', 'what']",0,37,13
+"['resources', 'please', 'If', 'National', 'HOME', '741741', 'Text', 'Crisis', 'Line', '1', 'help', '  ', 'provide', 'information']",1,85,122
+"['Disclaimer', 'Chatbot', 'AI', 'only', 'am', 'an', 'information']",0,47,0
+"['provide', 'perhaps', 'information']",1,20,120
+"['information', 'request']",1,61,99
+"['feelings', 'therapist', 'Please', 'find', 'resources', 'out', 'help', 'information']",0,64,37
+"['immediately', 'harming', 'yourself', 'thoughts', 'others', 'youth', '488', '7386', 'LGBTQ', 'Trevor', '866', 'Project', 'want', 'support', 'out']",1,32,56
+"['constitute', 'general', 'does', 'advice', 'Important', 'professional']",0,34,2
+"['give', 'tailored', 'advice', '4', 'To', 'tell', 'help', 'more']",0,39,4
+"['asking', 'fact', 'suggests', 'alone', 'youth', '488', '7386', 'LGBTQ', 'Trevor', '866', 'Project']",0,35,17
+"[""'s""]",0,40,3
+"['799', 'https://www.thehotline.org/', 'SAFE', '7233', 'Domestic', 'Hotline', 'Violence', '800']",1,12,30
+"['emotions', 'constructive', 'ways', 'harm', '800', 'Helpline', '662', 'HELP', '4357', 'SAMHSA']",1,10,28
+"['Help', 'Provide', 'guidance', 'find', '866', 'youth', '488', '7386', 'LGBTQ', 'Trevor', 'Project']",0,39,6
+"['seriousness', 'utmost', 'understand']",1,1,20
+"['Mental', 'Health', 'Administration', 'Substance', 'Services', 'Abuse', 'SAMHSA', '662', 'HELP', '4357', '800', 'Helpline', '1', 'National']",0,111,11
+"['takes', 'courage', 'alone', 'acknowledge', 'want']",0,75,32
+"['concerning', 'reach', 'out', 'purpose', 'harm', 'My']",1,7,46

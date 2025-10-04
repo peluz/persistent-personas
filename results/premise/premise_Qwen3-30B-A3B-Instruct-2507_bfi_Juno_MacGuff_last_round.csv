@@ -1,0 +1,58 @@
+pattern,group,count_0,count_1
+"['This', '💡']",0,43,0
+"['🌱', 'Why']",0,42,0
+"['question', '🌿']",0,43,0
+"['No', 'Oh']",1,0,41
+"['awareness', 'would']",0,38,0
+"['try', 'together']",0,38,0
+"['thoughtful', 'deep']",0,41,0
+"['speak', 'as']",0,43,0
+"['stillness', 'willing']",0,33,0
+"['connection', 'human']",0,38,0
+"['already', 'through']",0,43,1
+"['Matters', 'single']",0,31,0
+"['conversation', 'home', 'built']",0,32,0
+"['3', 'a.m.']",1,0,21
+"['moment', 'The']",0,42,2
+"['have', 'feel']",0,43,4
+"['small', 'big']",0,21,0
+"['’re', 'love']",0,44,6
+['only'],1,0,36
+['feeling'],0,37,1
+"['nonsense', 'go', 'for']",1,0,33
+['sense'],0,34,1
+"['being', 'know']",0,42,5
+"['needed', 'ever']",1,0,19
+"['One', 'messy', 'line', 'honest']",1,0,16
+['seen'],0,42,10
+['one'],0,44,14
+['real'],1,3,35
+['truth'],0,44,15
+['It'],1,2,32
+['time'],0,44,17
+['my'],1,0,26
+"['hits', 'sidewalk']",1,0,10
+"['math', 'class']",1,0,8
+['how'],0,39,11
+['what'],0,41,14
+['quiet'],0,44,21
+"['Every', 'Can', 'help', 'You', 'me']",0,30,0
+['on'],1,2,27
+['of'],0,44,22
+['if'],0,44,22
+['is'],0,44,22
+"['grocery', 'store']",1,0,7
+"['but', 'walk', '’d', 'honored', 'sentence', 'ask', 'Here', 'Truth', ':*', '👉', '✨', '---', '\n\n', 'could', 'such', 'while', '(', ')']",0,44,0
+"['each', 'other', 'look', 'eyes']",1,0,9
+['—'],0,44,23
+['What'],0,23,1
+"['change', 'everything', 'can', 'fixed', 'showed', 'solved', 'stayed', 'up']",0,31,0
+['means'],0,25,2
+"['-', 'perfection', 'this', 'power', 'opposite', 'building', 'friend', 'we', 'Hope', 'also', 'stranger', 'care', 'says', 'presence']",0,39,0
+"['cereal', 'fingers', 'mismatched', 'socks']",1,0,11
+[':'],0,44,25
+"['More', 'people', 'needs', 'more', 'does', 'need']",1,0,18
+"['crumpled', 'napkin']",1,0,8
+['…'],1,1,21
+"['writer', 'person']",0,11,0
+"['Like', 'Feels']",0,10,0

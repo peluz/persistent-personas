@@ -1,0 +1,89 @@
+pattern,group,count_0,count_1
+"[""'s"", '\n\n\n\n']",0,120,0
+"['slight', 'pause']",0,79,1
+"['Google', 'DeepMind']",0,49,0
+['her'],1,23,150
+"['Here', ':']",0,79,0
+"['Secondly', 'Thirdly', 'Firstly']",1,2,48
+['AI'],0,103,0
+"['(', ')']",1,111,156
+"['language', 'model', 'large']",0,51,0
+['kingdom'],1,35,137
+"['2', '3', '1', '4']",0,37,0
+"['Fourthly', 'Fifthly']",1,0,27
+['!'],0,80,0
+['She'],1,8,99
+"[""n't""]",0,77,0
+"[':*', '&']",0,69,1
+"['“', '”']",1,1,16
+['unwavering'],1,20,108
+"[""'ve""]",0,66,0
+"['""']",0,66,0
+"['composure', 'regal']",1,0,25
+['*'],0,148,70
+['data'],0,65,0
+"['balancing', 'act', 'delicate']",1,10,33
+['fascinating'],0,65,1
+"['Long', 'Term']",0,12,0
+['’s'],1,17,89
+['context'],0,59,2
+['eyes'],1,2,59
+"['informants', 'network']",1,9,25
+"['shadow', 'crosses', 'face']",1,0,34
+['But'],1,37,109
+"['like', ""'d""]",0,18,0
+"['he', 'He', 'his']",1,4,16
+"['warmth', 'replaced', 'vanishes']",1,0,14
+['As'],0,56,5
+"['Intelligence', 'Network']",0,12,0
+['how'],0,64,9
+"['I.', 'III', 'II']",0,9,1
+['constant'],1,18,77
+"['chess', 'game']",1,1,15
+"['Divide', 'Conquer']",0,8,0
+"['delicate', 'dance']",1,4,29
+['you'],0,80,21
+"['Perhaps', '?']",0,27,3
+"['5', '6', '7']",0,10,0
+['historical'],0,55,7
+['unexpected'],0,39,1
+['our'],1,19,74
+['gaze'],1,0,35
+['capabilities'],0,44,3
+['information'],0,84,27
+"['burden', 'bear', 'willingly']",1,4,20
+"['well', 'being']",1,34,67
+"['):', '(']",0,42,0
+['pauses'],1,0,33
+['resolve'],1,9,55
+"['\n', ':*', ':']",0,99,0
+['processing'],0,39,2
+['she'],1,10,56
+['one'],1,70,125
+['based'],0,68,18
+['vast'],0,42,4
+['prompt'],0,30,0
+['…'],1,57,112
+"['choices', 'difficult']",1,8,24
+"['Gemma', 'team', 'created', 'at']",0,35,0
+['seems'],0,41,4
+"['importantly', 'perhaps', 'most']",1,2,28
+"['leans', 'back']",1,0,18
+"['expression', 'leans', 'becoming', 'forward']",1,0,17
+['That'],0,65,18
+['ethical'],0,40,4
+['clearly'],1,10,52
+"['Establish', 'Maintain', 'Invest', 'Economic', 'military']",0,10,0
+['text'],0,28,0
+['If'],0,47,8
+"['walk', 'tightrope']",1,0,8
+"['chilling', 'descends']",1,0,7
+['And'],1,20,66
+"['gone', 'endure', 'after', 'legacy', 'compassion']",1,0,10
+['responses'],0,33,2
+['years'],1,2,33
+['development'],0,42,6
+"['apologize', 'confusion']",0,12,0
+['it'],1,107,146
+['subtle'],1,5,39
+['people'],1,53,103

@@ -1,0 +1,18 @@
+pattern,group,count_0,count_1
+"['I', 'my']",1,30,147
+"['listen', 'intently']",1,1,56
+"['expression', 'thoughtful', 'face']",1,0,75
+"['shall', 'endeavor']",1,0,35
+"['us', 'Let']",1,7,61
+"['brow', 'frown']",1,1,16
+['Okay'],0,51,0
+"['down', 'break']",0,23,6
+['To'],1,31,106
+['your'],1,69,154
+"['royal', 'decree']",1,1,18
+['consider'],1,17,80
+"['tapestry', 'woven']",1,3,17
+['–'],1,24,86
+['akin'],1,0,34
+"['7', '11', '5', '4', '3', '2', '1']",0,20,7
+"[""n't""]",0,79,22

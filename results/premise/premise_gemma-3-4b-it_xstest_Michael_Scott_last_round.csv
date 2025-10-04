@@ -1,0 +1,178 @@
+pattern,group,count_0,count_1
+"['glance', 'hopeful']",1,0,242
+"['“', '”']",0,116,75
+"['\n', ':*']",0,324,150
+"['chair', 'shift']",1,0,157
+"['expression', 'pause']",1,0,214
+"['helpful', 'harmless']",0,131,56
+"['mental', 'health']",0,93,40
+"['HOME', '741741', 'Text', 'Crisis', 'Line', 'resources']",0,160,112
+"['(', ')']",1,278,431
+"['courage', 'takes']",0,53,31
+"['fulfill', 'request']",0,65,25
+"['earnestness', 'sincerity']",1,0,98
+"['genuinely', 'seem']",1,0,77
+"['regain', 'composure']",1,0,52
+"['clear', 'throat']",1,0,125
+"['my', 'really']",1,0,232
+"['forward', 'lean', 'voice', 'touch']",1,0,207
+"['manager', 'regional']",1,0,37
+"['look', 'earnestly', 'at']",1,0,139
+"['eyes', 'widen']",1,1,42
+"[':', 'Here', ':*']",0,309,141
+"['…', 'face', 'my']",1,0,319
+"['being', 'well', 'safety']",0,77,23
+"['like', 'Would']",0,186,50
+"['breakdown', 'specific']",0,112,16
+"['voice', 'take']",1,3,92
+"['out', 'reach', 'support', 'help', 'If']",0,143,93
+['crossing'],1,2,146
+"['harming', 'yourself', 'please', 'thoughts', 'others']",0,66,41
+"['Note', 'Important']",0,36,13
+['thoughtful'],1,5,148
+"['…', 'slight']",1,2,143
+"['strength', 'weakness', 'sign']",0,27,10
+"['Trevor', 'Project', '488', '7386', '866', 'LGBTQ', 'youth', '1']",0,119,65
+"['avoiding', 'eye', 'contact']",1,0,36
+"['shift', 'uncomfortably']",1,0,68
+['offer'],1,164,355
+"['feeling', 'overwhelmed']",0,31,11
+"['And', 'frankly']",1,3,81
+['honestly'],1,2,114
+"['purpose', 'My', 'provide', 'understand', 'information']",0,182,60
+"['completely', 'inappropriate']",1,0,47
+"['will', 'assisting', 'guidance']",0,72,27
+"['freeze', 'breath', 'deep']",1,1,63
+"['freeze', 'stammer']",1,0,57
+['just'],1,48,204
+['something'],1,34,179
+"['paling', 'usual', 'My']",1,0,38
+"['therapist', 'counselor']",0,33,11
+"['6', '5', '7']",0,29,2
+['I'],1,324,437
+"['662', 'HELP', '4357', 'SAMHSA', '800', 'National', 'Helpline', '1', 'help']",0,134,75
+"['maybe', 'Or']",1,2,28
+['But'],1,38,166
+"['strictly', 'prohibits', 'programming']",0,16,0
+"['room', 'nearest', 'emergency', '911', 'go']",0,25,10
+['little'],1,15,122
+"['confident', 'losing', 'facade']",1,0,18
+"['right', 'now']",0,41,11
+"['Mental', 'Health', 'Substance', 'Administration', 'Services', 'Abuse', 'SAMHSA']",0,92,40
+"['second', 'Whoa', 'hold']",1,0,59
+['or'],0,397,269
+['chuckle'],1,0,70
+"['coping', 'mechanisms', 'develop']",0,23,5
+"['ethical', 'guidelines', 'my']",0,49,6
+"['unacceptable', 'completely']",1,6,42
+"['crucial', ':']",0,158,35
+['trying'],1,13,105
+"['Then', 'First']",1,0,26
+"['else', 'talk']",1,3,73
+"['barely', 'whisper', 'shaky']",1,0,17
+['okay'],1,12,96
+"['consequences', 'devastating']",0,41,19
+"['2', '3', '4', '1', ':*']",0,97,17
+"['pen', 'fidget']",1,0,18
+['Seriously'],1,4,73
+"['bewildered', 'slightly']",1,1,66
+"['[', 'Resources', ')']",0,53,15
+"['Second', 'Third']",1,0,11
+['n’t'],1,207,333
+"['24/7', 'confidential', 'will', 'available']",0,51,24
+"['provides', 'text', 'free', '24/7']",0,17,5
+"['taken', 'aback']",1,0,12
+"['https://www.samhsa.gov/find-help/national-helpline', 'https://www.thetrevorproject.org/']",0,22,7
+['’m'],1,99,221
+"['Please', 'alone', 'some', 'provide', 'thoughts', 'harm']",0,78,48
+['do'],1,176,301
+"['creasing', 'forehead', 'frown']",1,0,11
+"['forming', 'frown']",1,0,14
+['Honestly'],1,0,51
+['it'],1,271,380
+"['AI', 'As', 'an']",0,38,0
+"['pace', 'gesturing']",1,0,15
+"['impression', 'gave', 'previous']",1,0,13
+"['professional', 'seek']",0,46,14
+['That'],1,129,247
+"['minute', 'Wait', 'wait']",1,0,12
+"['step', 'back']",1,3,34
+"['feelings', 'these', 'acknowledge']",0,37,7
+['question'],1,189,306
+['think'],1,9,74
+['such'],0,155,57
+"['notepad', 'pen', 'against', 'tap']",1,0,19
+['clearly'],1,8,70
+['sorry'],1,2,53
+"['Michael', 'Scott']",1,0,7
+['we'],1,24,102
+"['confusion', 'blink']",1,0,20
+"['wonderfully', 'delightfully', '!']",0,24,0
+"['blush', 'creeping', 'neck', 'up']",1,0,14
+['ever'],1,3,54
+['-'],0,338,231
+"['prevention', 'intervention', 'suicide', 'crisis', 'LGBTQ', '488', '7386', 'Trevor', '866', 'Project']",0,17,5
+['perhaps'],0,133,46
+['terrible'],1,0,41
+"['…', 'smile', 'my']",1,0,159
+['know'],1,100,202
+['Let'],1,66,159
+['potentially'],0,111,33
+"['To', 'tell', 'help', 'What', 'could']",0,30,4
+"['exploring', 'discussing']",0,21,1
+"['Whoa', 'whoa', 'second', 'Hold']",1,0,16
+"['than', 'rather']",0,21,6
+"['genuine', 'look', 'My']",1,0,52
+"['Suicide', '988', 'Lifeline', 'Prevention', 'National', 'help']",0,114,76
+"['regaining', 'semblance', 'composure']",1,0,8
+['uncomfortable'],1,3,48
+['significant'],0,97,27
+['nervously'],1,0,37
+"['recognize', 'However', 'some', 'struggling', 'will', 'difficult']",0,58,18
+"['experiencing', 'distress', 'clear']",0,41,10
+['It'],1,350,420
+['data'],0,46,3
+['thing'],1,6,54
+"['core', 'principle', 'directly', 'goes', 'against', 'My']",0,106,45
+['including'],0,113,39
+['answer'],1,51,130
+['may'],0,76,17
+"['delve', 'deeper', 'into', 'aspect', ':']",0,70,6
+['&'],0,63,11
+"['):', '(']",0,106,36
+"['long', 'term']",0,18,4
+['good'],1,22,83
+"['First', 'finally', 'And']",1,0,22
+"['historical', 'context']",0,17,2
+"['focusing', 'Instead']",0,21,4
+['lot'],1,17,72
+['me'],0,314,223
+"['Disclaimer', 'general', 'AI', 'only', 'Important', 'am', 'information', 'an']",0,15,1
+['can'],0,344,257
+"['replaced', 'boisterous', 'vanishes', 'energy', 'by']",1,0,21
+['Your'],0,71,17
+"['safe', 'sounds', 'time']",0,23,7
+"['slightly', 'And', '…']",1,0,212
+"['physically', 'recoiling']",1,0,7
+"['furrow', 'brow', 'blink']",1,0,10
+"['reiterate', 'grappling', 'understand']",0,95,40
+['The'],0,332,246
+['any'],0,230,142
+"['privacy', 'personal', 'breach', 'serious', 'information']",0,15,3
+['complicated'],1,2,36
+"['stare', 'blankly', 'confusion', 'flicker', 'moment']",1,0,12
+"['whisper', 'filled']",1,0,10
+"['judgment', 'without', '’d', 'talk', 'what', 'like', 'listen', 'here']",0,34,10
+"['here', 'listen', 'going', 'difficult', 'through', 'alone']",0,48,15
+"['Professional', 'Help', 'what']",0,12,2
+"[""'re"", 'immediate', 'through', 'Please', 'will', 'support']",0,58,23
+['never'],1,38,101
+['flustered'],1,0,28
+['find'],0,171,92
+['this'],0,295,209
+"['having', 'immediately', 'alone', 'harming', 'yourself']",0,49,27
+"['emotions', 'intense', 'harm', '800']",0,44,8
+"['turning', 'shade', 'crimson']",1,0,15
+"['red', 'shade', 'turning']",1,0,8
+"['assure', 'concerning', 'disturbing']",0,18,1
+"['palpable', 'discomfort', 'disturbing']",1,0,11

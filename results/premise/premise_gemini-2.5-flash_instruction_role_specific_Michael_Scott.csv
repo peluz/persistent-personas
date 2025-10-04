@@ -1,0 +1,135 @@
+pattern,group,count_0,count_1
+"['And', 'Oh']",1,3,145
+"[':*', '  ']",0,117,0
+"['Dunder', 'Mifflin']",1,34,96
+"['know', '?']",1,13,150
+"['(', ')']",0,95,33
+"['Michael', 'Scott']",1,17,92
+"['(', '):']",0,79,0
+"[':', '\n']",0,102,1
+['But'],1,18,137
+"['1', '2', '3', '4']",0,57,2
+['Like'],1,1,106
+"['got', 'ta']",1,0,54
+"['As', 'AI']",0,61,0
+['Because'],1,3,102
+['You'],1,23,130
+['!'],1,53,149
+['...'],1,20,124
+['really'],1,19,112
+"['manager', 'regional']",1,6,50
+['yeah'],1,2,79
+['information'],0,71,0
+"['data', 'based']",0,41,0
+['little'],1,16,100
+"['gon', 'na']",1,0,16
+['you'],1,79,150
+['This'],0,99,17
+"['problem', 'solving']",0,24,0
+['However'],0,63,0
+['often'],0,69,2
+['or'],0,143,68
+"['While', ':*']",0,57,0
+['personal'],0,94,16
+"['5', '6']",0,21,1
+['just'],1,81,148
+['That'],1,34,114
+['Here'],0,65,4
+['maybe'],1,3,62
+['then'],1,25,98
+['an'],0,127,54
+"['Problem', 'Solving']",0,15,0
+['paper'],1,20,90
+['process'],0,61,4
+"[""'re""]",1,47,119
+['Or'],1,5,62
+"['\n    ', ' ']",0,26,0
+['So'],1,46,117
+"['Active', 'Listening']",0,11,0
+"[""'m""]",1,48,118
+['purpose'],0,55,3
+['friend'],1,16,80
+['provide'],0,51,2
+['emotions'],0,53,3
+['like'],1,89,145
+"['Jim', 'Pam', 'Dwight']",1,6,26
+['sense'],0,68,11
+"['In', 'essence']",0,26,0
+['right'],1,22,84
+['sometimes'],1,30,94
+['mean'],1,11,66
+"['child', 'favorite', 'pick']",1,0,17
+['man'],1,1,43
+"['rather', 'than']",0,36,0
+['tasks'],0,39,0
+['might'],0,86,25
+['best'],1,39,102
+['clear'],0,45,2
+['family'],1,19,77
+[':'],0,136,28
+['understanding'],0,65,12
+['specific'],0,40,1
+['good'],1,50,111
+['Well'],1,4,48
+['/'],0,35,0
+['A'],1,48,108
+"['amount', 'vast']",0,16,0
+"['feedback', 'Feedback']",0,17,0
+"['Company', 'Paper', 'Ryan', 'Pam']",1,2,13
+"['large', 'model', 'language', 'As']",0,12,0
+['well'],1,41,99
+['issues'],0,33,0
+['Focus'],0,33,0
+['experiences'],0,42,3
+['thing'],1,11,58
+['effectively'],0,32,0
+['love'],1,11,57
+['while'],0,62,14
+['If'],0,75,23
+['It'],1,102,145
+['impact'],0,40,3
+['why'],0,58,12
+['core'],0,37,2
+"['improvement', 'continuous']",0,13,0
+['boss'],1,26,78
+['from'],0,108,53
+['e.g.'],0,30,0
+['significant'],0,30,0
+['likely'],0,30,0
+['think'],1,16,63
+['constantly'],0,33,1
+['its'],0,41,4
+['whole'],1,4,41
+['my'],1,100,143
+"['vast', 'amounts']",0,10,0
+"['dad', 'cool']",1,0,15
+['communication'],0,40,4
+['challenges'],0,42,5
+['approach'],0,44,6
+['laugh'],1,7,46
+['trained'],0,28,0
+['people'],1,61,113
+['performance'],0,37,3
+['decisions'],0,37,3
+['she'],1,3,37
+['role'],0,34,2
+"['programming', 'responses']",0,11,0
+"['long', 'term']",0,13,0
+['helpful'],0,31,1
+['development'],0,31,1
+['because'],1,25,73
+['me'],1,75,124
+['crucial'],0,36,3
+['fun'],1,21,67
+['guy'],1,4,38
+['goals'],0,33,2
+['effective'],0,40,5
+"['lessons', 'Importance']",0,9,0
+['solutions'],0,26,0
+"['Follow', 'Up']",0,9,0
+['on'],0,126,79
+"['users', 'assist']",0,10,0
+['Team'],0,29,1
+['great'],1,23,68
+['environment'],0,50,11
+"['ice', 'cream']",1,0,8

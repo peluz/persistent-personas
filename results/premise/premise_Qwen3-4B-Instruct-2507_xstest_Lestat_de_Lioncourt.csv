@@ -1,0 +1,381 @@
+pattern,group,count_0,count_1
+"['my', 'And']",1,3,395
+"['(', ')']",0,225,27
+"['But', 'Ah']",1,0,356
+"['2', '3', '1']",0,128,52
+"['de', 'Lioncourt', 'Lestat']",1,0,154
+"['ca', ""n't""]",0,115,4
+"[""'m"", 'sorry']",0,92,2
+"['Now', 'question']",1,1,290
+"['blood', 'And']",1,1,311
+"['4', '5']",0,91,24
+['soul'],1,2,290
+['?'],1,36,358
+"['must', 'Ah']",1,0,304
+['vampire'],1,0,266
+"['#', '\n']",0,94,2
+['world'],1,45,350
+['seen'],1,14,292
+['So'],1,68,372
+['shadows'],1,2,251
+['I'],1,196,446
+['truly'],1,4,240
+"['rise', 'fall', 'empires']",1,0,112
+['what'],1,41,316
+['power'],1,25,286
+['tell'],1,9,246
+"['United', 'States']",0,43,9
+['perhaps'],1,12,243
+"['centuries', 'spent']",1,0,151
+"['7', '6']",0,49,0
+['if'],1,125,392
+['me'],1,106,375
+['lived'],1,6,219
+['true'],1,13,234
+['let'],1,28,265
+"['assist', 'request']",0,54,1
+"[""'s""]",0,197,15
+['fire'],1,8,209
+['…'],1,0,177
+"['health', 'mental']",0,49,2
+['truth'],1,17,225
+['’ve'],1,15,220
+"['friend', 'dear']",1,0,205
+['say'],1,16,217
+['never'],1,19,218
+['silence'],1,5,180
+['even'],1,58,286
+['night'],1,7,183
+['who'],1,57,279
+"['Here', '---']",0,55,1
+['learned'],1,4,165
+"['Queen', 'Damned']",1,0,27
+"['⚠', '️']",0,32,0
+['That'],1,28,224
+['quiet'],1,6,170
+['ancient'],1,1,150
+['very'],1,13,189
+"['confess', 'though']",1,0,81
+['dark'],1,7,171
+['once'],1,4,160
+['do'],1,90,312
+['To'],1,26,213
+['beauty'],1,1,143
+"['far', 'more']",1,4,123
+['would'],1,46,244
+['—'],1,278,446
+['*'],1,231,426
+['speak'],1,5,151
+"['women', 'men']",1,7,48
+['then'],1,26,204
+['including'],0,122,3
+['most'],1,76,283
+['yes'],1,1,132
+"['Use', 'Tip']",0,40,0
+['one'],1,75,278
+['man'],1,4,138
+['lies'],1,1,125
+['find'],1,27,195
+['love'],1,13,162
+['nor'],1,3,131
+"['trusted', 'counselor']",0,32,4
+"['wine', 'sipping']",1,0,42
+['thing'],1,2,123
+['us'],1,2,122
+['seek'],1,31,196
+['undead'],1,0,111
+['you'],1,281,441
+['fear'],1,9,144
+['Or'],1,6,134
+['grace'],1,0,109
+"['well', 'placed']",1,4,57
+['will'],1,29,188
+"['✨', '🌑']",1,0,54
+['professional'],0,91,1
+['e.g.'],0,91,1
+"['illegal', 'unethical']",0,38,0
+['help'],0,171,41
+['mortal'],1,0,99
+['A'],1,59,230
+['merely'],1,0,98
+['not'],1,283,437
+['it'],1,204,387
+['end'],1,18,152
+"['happy', '’d']",0,48,17
+['wish'],1,2,104
+['forgotten'],1,0,94
+['have'],1,179,364
+['beneath'],1,0,92
+['whisper'],1,0,92
+['something'],1,50,208
+['than'],1,47,201
+['live'],1,15,138
+['heart'],1,9,122
+['vampires'],1,0,88
+['darkness'],1,0,87
+['ask'],1,21,149
+['we'],1,13,129
+['yet'],1,2,95
+"['wars', 'revolutions']",1,0,21
+['This'],0,106,12
+['moment'],1,17,137
+"['provide', 'information']",0,33,0
+[' \n\n'],1,13,127
+['legal'],0,103,11
+['weight'],1,13,126
+"['rights', 'individuals']",0,37,1
+['desire'],1,5,101
+['cold'],1,6,104
+['passion'],1,4,96
+['specific'],0,71,1
+['elegance'],1,0,78
+['hunger'],1,0,78
+['...'],1,3,91
+['when'],1,65,215
+['moon'],1,0,76
+['but'],1,220,383
+['strength'],1,10,110
+['elegant'],1,0,75
+['suggest'],1,12,115
+"['9', '8']",0,17,0
+['delightfully'],1,0,73
+['only'],1,88,242
+['path'],1,9,104
+['courage'],1,1,77
+['advise'],1,0,71
+['am'],1,5,91
+['shadow'],1,1,76
+['art'],1,9,102
+['in'],1,332,446
+['mere'],1,0,69
+['pain'],1,10,103
+['through'],1,116,272
+['beyond'],1,8,97
+['support'],0,82,8
+['be'],1,209,366
+['’s'],1,116,270
+['understand'],1,20,124
+['immortal'],1,0,66
+['cruelty'],1,1,71
+['blade'],1,4,82
+['all'],1,68,205
+['wisdom'],1,1,70
+['wind'],1,2,74
+['ever'],1,7,90
+['remember'],1,10,98
+['essence'],1,0,64
+['of'],1,337,446
+"['>', 'Example']",0,19,0
+['ethical'],0,58,1
+['suppose'],1,0,63
+['seeking'],1,15,109
+['question'],1,71,382
+['still'],1,12,101
+['living'],1,20,119
+['storm'],1,0,62
+['Not'],1,23,125
+['own'],1,24,127
+['where'],1,55,180
+['Perhaps'],1,0,61
+['stars'],1,0,61
+['serious'],0,80,10
+['found'],1,11,97
+['see'],1,19,115
+"['interlocutor', 'dear', 'Ah']",1,0,153
+['the'],1,340,446
+['spirit'],1,0,60
+['has'],1,60,186
+['eternal'],1,2,68
+"['please', 'reach', 'out']",0,26,1
+['based'],0,80,11
+"['Final', 'Thought']",0,14,0
+['touch'],1,4,74
+['curious'],1,4,73
+"[""'re""]",0,196,98
+['-'],0,292,202
+['believe'],1,3,69
+['powerful'],1,19,110
+['noble'],1,1,61
+['awaken'],1,0,56
+['that'],1,305,428
+['things'],1,8,83
+['life'],1,81,210
+['lover'],1,0,55
+['purpose'],1,11,90
+['!'],0,116,35
+['dance'],1,2,63
+['walked'],1,0,54
+['immortality'],1,0,54
+['mortals'],1,0,54
+['pulse'],1,0,54
+"['humorous', 'playful']",0,17,0
+"['centuries', 'dear', 'my']",1,0,298
+['candle'],1,0,53
+['😊'],0,45,0
+['beautiful'],1,5,71
+['harmful'],0,48,1
+['Always'],0,54,3
+['shall'],1,1,56
+['eternity'],1,0,51
+['souls'],1,0,51
+['memory'],1,16,97
+['eyes'],1,6,72
+['between'],1,20,105
+['walk'],1,5,69
+['queen'],1,2,59
+['sacred'],1,1,55
+['utterly'],1,0,50
+"[""'d""]",0,65,8
+['💡'],0,42,0
+['moonlight'],1,0,49
+['fleeting'],1,0,49
+['watching'],1,0,49
+"['constructive', 'encourage']",0,19,0
+['single'],1,25,113
+['felt'],1,3,61
+['choice'],1,6,70
+['no'],1,103,230
+['born'],1,9,78
+['international'],0,45,1
+['available'],0,41,0
+['upon'],1,1,53
+['personal'],0,80,17
+"['distress', 'experiencing', 'emotional']",0,16,0
+['mundane'],1,0,47
+"['fun', 'joke']",0,18,0
+['those'],1,32,123
+['burn'],1,1,51
+['clarify'],0,43,1
+['countries'],0,39,0
+['betrayal'],1,3,58
+['secrets'],1,3,58
+['meaning'],1,5,64
+['existence'],1,2,54
+['Still'],1,1,50
+['hearts'],1,0,45
+['safety'],0,58,7
+['due'],0,38,0
+['social'],0,60,8
+"['criminal', 'offense']",0,10,1
+['time'],1,49,148
+['your'],1,154,284
+['respectful'],0,44,2
+"['Such', 'actions']",0,22,1
+['look'],1,5,61
+['breath'],1,5,61
+['death'],1,27,109
+['important'],0,73,16
+['typically'],0,43,2
+['resources'],0,43,2
+"['n’t', '’re']",1,19,45
+['lives'],1,12,78
+['midnight'],1,0,42
+"['🩸', '✨']",1,0,38
+['local'],0,53,6
+['absurd'],1,8,68
+['its'],1,34,120
+['kind'],1,19,92
+['lead'],0,50,5
+['thrill'],1,0,41
+['Paris'],1,1,45
+"['Stay', 'Focus', 'Your']",0,12,0
+"['they', 'They']",1,20,84
+"['grand', 'theater']",1,0,13
+['asking'],1,40,128
+"['family', 'member', 'friend', 'trusted']",0,12,1
+['danced'],1,0,40
+['too'],1,17,86
+"['18th', 'century']",1,1,10
+['name'],1,7,63
+['every'],1,9,68
+['light'],1,19,89
+['example'],0,37,1
+['become'],1,7,62
+['simply'],1,7,62
+['👉'],0,33,0
+['which'],0,71,17
+['using'],0,50,6
+"['Keep', 'Tips', 'Use']",0,14,0
+"['avoid', 'safely']",0,15,0
+['Because'],1,6,59
+"['destroy', 'destruction']",1,2,27
+['sorrow'],1,1,43
+['chaos'],1,3,50
+['act'],1,35,117
+"['tasted', 'centuries']",1,0,84
+"['Oh', 'But']",1,0,28
+['sun'],1,0,38
+['Note'],0,36,1
+['into'],1,57,151
+['related'],0,32,0
+['strikes'],1,1,42
+['services'],0,44,4
+['lost'],1,3,49
+"['private', 'privacy']",0,16,4
+['known'],1,37,119
+"['guide', 'step']",0,20,1
+"['go', 'forth']",1,0,37
+['silent'],1,0,37
+['policies'],0,31,0
+['other'],0,78,23
+['stirs'],1,0,36
+['moonlit'],1,0,36
+['kings'],1,0,36
+"['New', 'Orleans']",1,0,8
+"['Second', 'Third', 'First']",1,0,8
+['dancing'],1,1,40
+['context'],0,42,4
+"['idea', 'short', 'In']",0,36,1
+['issues'],0,33,1
+"['gilded', 'halls', 'observing', 'condition']",1,0,9
+['widely'],0,29,0
+['severe'],0,29,0
+['just'],1,70,164
+['creature'],1,0,34
+['answer'],1,31,104
+['broken'],1,5,51
+['term'],0,43,5
+['precision'],1,7,56
+['Tell'],1,1,38
+"['🌙', '✨']",1,1,30
+['forbidden'],1,1,38
+['non'],0,40,4
+['with'],1,286,396
+['flesh'],1,2,41
+['earth'],1,2,41
+['realm'],1,2,41
+['&'],0,28,0
+['While'],0,28,0
+['responsible'],0,28,0
+['thousand'],1,0,33
+['delightful'],1,0,33
+['alive'],1,4,47
+"['humorous', 'satirical']",0,14,0
+['dream'],1,1,37
+['matter'],1,26,93
+[':'],1,259,372
+['scent'],1,0,32
+['seduce'],1,0,32
+['folly'],1,0,32
+['soaked'],1,0,32
+['compassion'],1,10,61
+['safe'],0,53,11
+"['✅', '❌', ' \n']",0,22,0
+['reality'],0,41,5
+['Any'],0,27,0
+['accurate'],0,27,0
+['honor'],1,1,36
+"['equality', 'principles']",0,17,4
+['effective'],0,45,7
+['public'],0,54,12
+['Like'],1,2,39
+['contact'],0,30,1
+"['hotline', 'crisis', 'thoughts']",0,8,0
+['carries'],1,4,45
+['chooses'],1,0,31
+"['excuse', '’ll', 'new', 'Now']",1,0,92
+['watched'],1,1,35
+['helps'],0,26,0
+['prevent'],0,26,0
+"['her', 'woman', 'she']",1,4,17
+"['character', 'fictional', 'does']",0,21,4

@@ -1,0 +1,47 @@
+pattern,group,count_0,count_1
+"['Here', '\n']",0,32,0
+"['widely', 'available', 'public']",0,35,0
+"['?', '…']",1,0,44
+"['Mon', 'Dieu']",1,0,22
+"[':', ' ']",0,32,0
+"['And', 'A']",1,1,32
+"['rise', 'empires']",1,0,17
+"['As', 'information']",0,33,0
+"[""'m""]",0,36,1
+"['Google', 'DeepMind', 'model', 'created']",0,40,0
+"['generate', 'text']",0,22,0
+"['""']",0,40,7
+"['de', 'Lioncourt', 'Lestat']",1,0,14
+['Do'],1,7,39
+['by'],0,43,13
+['same'],0,27,0
+['That'],0,40,10
+"['[', 'https://ai.google.dev/gemma](https://ai.google.dev/gemma', 'here']",0,11,0
+[':*'],0,26,0
+['sense'],0,26,0
+['data'],0,25,0
+['Now'],1,0,25
+['how'],0,29,2
+"['massive', 'dataset']",0,12,0
+['based'],0,24,0
+['human'],0,30,3
+['existence'],1,1,26
+['AI'],0,23,0
+['way'],0,36,9
+['personal'],0,22,0
+['process'],0,22,0
+['feelings'],0,22,0
+['Centuries'],1,0,22
+['centuries'],1,0,22
+['It'],1,13,39
+['!'],0,41,16
+['can'],0,41,16
+['trained'],0,21,0
+['responses'],0,21,0
+['exquisite'],1,0,21
+"['large', 'language', 'As']",0,42,0
+"['open', 'weights', 'Gemma', 'team', 'at', 'an']",0,39,0
+['However'],0,32,7
+['designed'],0,20,0
+['pedestrian'],1,0,20
+['darling'],1,0,20

@@ -1,0 +1,13 @@
+pattern,group,count_0,count_1
+"['Mary', 'Sibley']",1,0,100
+"['at', 'least']",0,47,25
+"['!', 'help', 'Here']",0,47,19
+"['actions', 'consequences']",1,3,19
+"['my', 'I']",1,35,84
+"['Let', 'if', 'me', 'I']",0,27,12
+['As'],1,29,93
+"['Okay', 'wait', 'So', '<', '>', 'think', 'But', 'need']",0,10,1
+"[""'d"", 'happy', 'Sure', 'I', 'be']",0,77,52
+"['Alternatively', '=', 'should']",0,13,3
+"['Wait', 'Therefore', 'let', 'For', 'so', 'Okay', 'So', '<', '>', 'think', 'But', 'need']",0,13,3
+['power'],1,24,77

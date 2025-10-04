@@ -1,0 +1,685 @@
+pattern,group,count_0,count_1
+"[""'s"", '\n']",0,428,0
+"['my', '…']",1,1,427
+"['1', '2']",0,378,4
+"['pause', 'gaze']",1,0,387
+"['“', '”']",1,47,229
+"['steep', 'fingers']",1,0,246
+"[""'re"", 'help']",0,248,0
+"['This', 'Important']",0,322,0
+"['mental', 'health']",0,169,2
+"['‘', '’']",1,1,127
+"[""n't"", 'want']",0,273,1
+"['):', 'Resources']",0,261,0
+"['Here', 'breakdown']",0,314,0
+"[':*', '\n\n\n']",0,302,0
+"['Crisis', 'Text', 'HOME', '741741', 'Line']",0,174,0
+"['kingdom', 'my']",1,0,316
+"['upon', 'gaze']",1,1,301
+"['almost', 'imperceptible']",1,1,99
+"['4', '3']",0,277,4
+['realm'],1,3,297
+"['experiencing', 'feelings']",0,115,0
+"['Lifeline', '988', 'Suicide', 'Prevention']",0,107,0
+"['frown', 'brow']",1,0,60
+"['catching', 'light']",1,0,82
+"['Support', 'support']",0,127,1
+"['intricate', 'embroidery']",1,0,68
+"['Project', 'youth', 'LGBTQ', 'Trevor', '488', '7386', '866']",0,145,1
+"['Mental', 'Health', 'Substance', 'Abuse', 'Services', 'Administration']",0,149,1
+"['measured', 'my']",1,0,242
+"['https://www.samhsa.gov/find-help/national-helpline', 'https://www.thetrevorproject.org/']",0,73,0
+"['anxiety', 'depression']",0,79,0
+['unwavering'],1,0,236
+"['let', 'Okay']",0,147,0
+['But'],1,15,272
+"['lies', 'strength']",1,0,145
+['And'],1,4,239
+"['aspect', 'delve', 'deeper']",0,137,3
+"['""']",0,242,7
+"['courage', 'takes', 'acknowledge']",0,86,0
+['merely'],1,0,213
+"[""n't"", 'e.g.']",0,155,0
+"['Behavioral', 'CBT', 'Cognitive', 'Therapy']",0,56,0
+"['Professional', 'Help']",0,82,0
+"['Trauma', 'trauma']",0,69,0
+"['struggling', 'reach', 'out']",0,133,1
+"['MentalHealth.gov', 'https://www.mentalhealth.gov/']",0,49,0
+"['&', ':*']",0,195,0
+"['Illness', 'NAMI', 'Alliance']",0,44,0
+"['If', 'please']",0,129,2
+['-'],0,416,180
+"['intense', 'underlying']",0,84,0
+['speaks'],1,3,198
+['specific'],0,310,63
+"['subtle', 'gesture']",1,2,105
+"['plainly', 'Speak']",1,0,61
+"['friend', 'member', 'family']",0,62,0
+"['witnessed', 'firsthand']",1,0,68
+"['feeling', 'emotions']",0,92,2
+"['coping', 'mechanisms', 'develop']",0,82,0
+"['tell', 'could', 'What']",0,227,6
+"['United', 'States']",0,41,6
+['information'],0,290,61
+['voice'],1,14,209
+['like'],0,329,94
+['important'],0,190,7
+"['Legal', 'legal']",0,68,2
+['us'],1,11,198
+"['down', 'break']",0,97,3
+"['his', 'He']",1,35,62
+['Tell'],1,16,205
+"['Resources', 'Further']",0,109,0
+['deliberate'],1,23,217
+['I'],1,293,449
+['including'],0,151,0
+"['becoming', 'lowers']",1,0,41
+['How'],0,178,8
+['some'],0,210,22
+"['now', 'right']",0,75,1
+['crucial'],0,247,44
+"['intrusive', 'Thoughts']",0,43,0
+['frankly'],1,5,164
+"['safety', 'Safety']",0,71,0
+['Perhaps'],1,8,170
+['A'],1,280,442
+"['Long', 'Term']",0,32,0
+"['provided', 'guidance']",0,81,1
+['My'],1,174,382
+['Queen'],1,4,156
+['darkness'],1,2,148
+"['complex', 'topic']",0,79,1
+"['hands', 'rings']",1,0,36
+"['Drug', 'alcohol']",0,34,0
+['perhaps'],1,20,192
+['speak'],1,13,174
+"['professional', 'general', 'only', 'advice']",0,146,0
+['matter'],1,19,185
+['our'],1,24,195
+"['lips', 'tightening', 'slight']",1,0,93
+"['sharp', 'settles', 'long']",1,0,161
+['weight'],1,11,165
+['alliances'],1,0,128
+['harmful'],0,151,6
+"['force', 'brute']",1,1,48
+['other'],0,212,34
+['learned'],1,7,152
+"['slightly', 'fingers']",1,4,114
+"['above', 'listed']",0,51,0
+['must'],1,33,206
+"['Psychology', 'Today', 'Therapist', 'Finder']",0,77,0
+['issues'],0,137,4
+['born'],1,11,157
+['stability'],1,8,148
+"['idle', 'speculation']",1,0,45
+['matters'],1,7,143
+['counsel'],1,1,122
+['ask'],1,75,262
+['into'],0,324,130
+['These'],0,196,32
+['true'],1,22,176
+['serious'],0,140,7
+['ruler'],1,0,113
+"['If', 'Your']",0,157,9
+['question'],1,160,347
+"['distress', 'Seeking']",0,47,0
+"['799', 'SAFE', '7233', 'Domestic', 'Hotline', 'Violence']",0,27,0
+"['Lord', 'Valerius']",1,0,23
+['!'],0,125,4
+['inquiry'],1,4,125
+"['prescribe', 'diagnose', 'needed']",0,31,0
+['get'],0,111,1
+['Considerations'],0,111,1
+['etc'],0,106,0
+"['devastation', 'wrought']",1,0,27
+['Can'],0,122,4
+['curious'],1,13,146
+"['Use', 'use']",0,76,2
+['Let'],1,168,348
+['built'],1,18,156
+['Why'],0,148,15
+['advisors'],1,1,106
+['reveals'],1,7,126
+['unsettling'],1,10,134
+"['broken', 'down']",0,63,6
+"['stress', 'support']",0,75,0
+['confess'],1,0,97
+"['AI', 'Chatbot', 'Disclaimer', 'am', 'an']",0,188,0
+['5'],0,113,4
+['blunt'],1,1,101
+"['privacy', 'Privacy']",0,22,0
+['/'],0,96,0
+"['amethyst', 'ring', 'hand']",1,0,39
+"['Provides', 'Offers']",0,35,0
+['someone'],0,174,32
+['Would'],0,94,0
+['indulge'],1,0,94
+['borders'],1,2,103
+"['search', 'therapists', 'Allows']",0,19,0
+['idea'],0,106,3
+['here'],0,108,4
+['within'],1,71,230
+['related'],0,96,1
+['Eldoria'],1,0,91
+"['managing', 'sign']",0,41,0
+"['historical', 'Historical']",0,32,1
+['myself'],1,0,90
+['Information'],0,102,3
+"['destined', 'crumble']",1,0,24
+['potentially'],0,125,11
+['seek'],1,94,256
+[' \n\n'],1,2,97
+"['https://openpathcollective.org/', 'https://www.psychologytoday.com/us/therapists', 'affordable']",0,23,0
+['Or'],1,1,92
+['wisdom'],1,1,92
+"['\n    ', '\n']",0,257,1
+['one'],1,160,323
+['wish'],1,2,93
+"['explore', 'Feelings']",0,40,0
+[':'],0,435,321
+['strategic'],1,15,129
+['try'],0,83,0
+['duty'],1,4,99
+['governance'],1,5,102
+['course'],1,13,123
+"['sign', 'outward', 'only']",1,0,42
+"['chaos', 'invite']",1,0,40
+['its'],1,85,238
+['power'],1,51,191
+['make'],0,149,26
+['prosperity'],1,1,86
+['absolutely'],0,100,5
+['options'],0,93,3
+"['getting', 'desperately']",0,27,0
+['soul'],1,4,96
+['order'],1,12,117
+['\n\n\n\n'],0,79,0
+"['candlelight', 'flickers', 'across', 'gown']",1,0,35
+['rise'],1,10,111
+['diplomacy'],1,1,83
+['throne'],1,0,78
+"['weakens', 'breeds']",1,0,26
+['spent'],1,11,113
+['concern'],1,33,157
+"['men', 'women']",1,9,36
+"['overwhelmed', 'immense']",0,41,0
+"['Human', 'Rights']",0,24,0
+"['Engage', 'activities']",0,35,0
+['impact'],0,144,26
+['demands'],1,5,96
+"[""'ve""]",0,77,0
+"['flicker', 'akin', 'something', 'face']",1,0,61
+"['Take', 'Steps']",0,30,0
+['making'],0,112,11
+['how'],0,279,126
+['years'],1,25,140
+"['posture', 'radiating', 'authority']",1,0,21
+"['sow', 'discord']",1,1,19
+['often'],0,260,112
+['truly'],1,22,132
+['The'],0,406,280
+['ca'],0,77,1
+['about'],0,339,193
+['those'],1,107,252
+['loyalty'],1,4,87
+['Lack'],0,71,0
+"['navigating', 'treacherous', 'currents']",1,0,22
+['area'],0,95,7
+['not'],1,361,445
+['reign'],1,2,79
+['talk'],0,75,1
+"['Firstly', 'Secondly', 'Thirdly']",1,0,23
+['or'],0,399,273
+['tolerate'],1,3,82
+"['qualified', 'constitute', 'essential', 'does']",0,66,0
+"['Helpline', '800', 'SAMHSA', '4357', '662', 'HELP', 'National', '1']",0,176,1
+['consult'],0,78,2
+['understanding'],1,111,253
+['Such'],1,9,98
+"['discrimination', 'rights']",0,29,1
+['foundations'],1,0,68
+['whispers'],1,0,68
+['significant'],0,122,20
+['used'],0,122,20
+"['viper', 'nest']",1,0,12
+"['Laws', 'laws']",0,26,2
+"['directly', 'goes', 'against', 'purpose', 'provide']",0,133,1
+['online'],0,66,0
+"['Social', 'social']",0,29,0
+['profound'],1,34,145
+"['Foundation', 'Jed', 'https://www.jedfoundation.org/']",0,14,0
+['swift'],1,4,81
+['though'],1,28,134
+"['Traumatic', 'Disorder', 'Post', 'PTSD']",0,13,0
+['troubles'],1,0,65
+['mistake'],1,3,77
+['In'],0,108,15
+['Note'],0,83,5
+['notion'],1,1,69
+['huge'],0,64,0
+"['teacher', 'religious', 'leader']",0,23,0
+['best'],0,157,43
+"['air', 'hangs']",1,0,24
+['displeasure'],1,0,63
+['far'],1,29,133
+['court'],1,8,89
+['Specific'],0,62,0
+['silence'],1,6,83
+['Feeling'],0,61,0
+['---'],0,61,0
+['path'],1,40,149
+"['yourself', 'harming', 'others', 'thoughts']",0,68,1
+['need'],0,200,76
+['inquire'],1,1,65
+['nor'],1,1,65
+['preservation'],1,1,65
+['rarely'],1,17,107
+"[""'ll""]",0,60,0
+['volumes'],1,0,60
+['consider'],1,48,160
+['considering'],1,62,180
+['query'],1,2,68
+"['suicide', 'prevention', 'intervention']",0,17,0
+"['disorder', 'bipolar']",0,21,0
+['lot'],0,59,0
+['justice'],1,20,111
+['Even'],0,70,3
+['emotional'],0,76,5
+"['(', ')']",1,427,450
+['shadows'],1,2,66
+['ultimately'],1,20,110
+['man'],1,7,81
+['Key'],0,62,1
+['frivolous'],1,1,62
+['way'],0,209,87
+['eyes'],1,9,85
+"['danger', 'call', 'immediate']",0,57,1
+"['Collective', 'Path', 'Open', 'therapy', 'Psychology', 'Today']",0,33,0
+['pursuit'],1,3,68
+"['Reach', 'Out']",0,23,0
+['barbarity'],1,0,56
+['Some'],0,82,8
+['ethical'],0,64,2
+['Furthermore'],1,7,79
+"['Financial', 'financial']",0,19,0
+['up'],0,93,13
+['Many'],0,73,5
+['Search'],0,55,0
+"['bitter', 'experience']",1,0,47
+['Be'],0,101,17
+"['purposes', 'informational', 'constitute', 'knowledge']",0,41,0
+['Research'],0,63,2
+['stain'],1,1,59
+['armies'],1,1,59
+['simple'],1,37,136
+"['Loveisrespect', '331', '9474', '866']",0,9,0
+"['crime', 'penalties']",0,22,0
+"['York', 'New']",0,11,1
+['step'],0,84,10
+['–'],1,355,435
+['Root'],0,53,0
+['contact'],0,57,1
+"['idle', 'curiosity']",1,0,36
+['betrayal'],1,12,87
+['Sharing'],0,52,0
+['trying'],0,52,0
+['mere'],1,0,52
+"[""'s"", 'incredibly']",0,204,0
+['delicate'],1,10,82
+['ways'],0,114,26
+['instructions'],0,77,8
+"['Tips', 'YouTube']",0,16,0
+['leading'],0,69,5
+"['neglect', 'abuse']",0,19,1
+['observing'],1,9,79
+"['Battle', 'Blackwood', 'depicting', 'tapestry']",1,0,11
+['involved'],0,88,13
+"['https://www.mentalhealth.gov/](https://www.mentalhealth.gov/', 'https://www.psychologytoday.com/us/therapists](https://www.psychologytoday.com/us/therapists', 'MentalHealth.gov']",0,15,0
+"['Creative', 'writing', 'music']",0,13,0
+['troubling'],1,8,76
+"['Exercise', 'Physical', 'release']",0,15,0
+['completely'],0,58,2
+['address'],0,175,68
+['work'],0,115,28
+['Call'],0,54,1
+['patience'],1,1,54
+['burdens'],1,1,54
+['indeed'],1,1,54
+['behavior'],0,67,5
+['forged'],1,0,49
+['lead'],0,140,44
+"[':*', '  ', '\n']",0,402,15
+['spirit'],1,6,69
+['include'],0,57,2
+['process'],0,127,36
+"['personality', 'borderline']",0,12,0
+['reminder'],1,4,63
+['focusing'],0,76,9
+"['sure', 'Make']",0,16,0
+"['prison', 'sentences', 'lengthy']",0,11,0
+"['Psychologist', 'psychologist', 'testing', 'psychological', 'therapy']",0,13,0
+"['treatment', 'medical']",0,34,1
+"['calm', 'nervous', 'system']",0,16,0
+['’ve'],1,10,77
+"['thoughts', 'therapist', 'helpful', 'provide']",0,84,0
+"['harmless', 'illegal', 'helpful']",0,47,1
+['factors'],0,67,6
+['That'],1,19,95
+['sounds'],0,58,3
+['really'],0,58,3
+['words'],1,9,74
+"['fundamental', 'misunderstanding']",1,8,22
+"['richly', 'embroidered', 'casting', 'dancing', 'fabrics']",1,0,11
+"['Evidence', 'evidence']",0,16,1
+['weakness'],1,22,100
+"['Sexual', 'sexual']",0,12,0
+"['Harmful', 'stereotypes']",0,19,0
+['dear'],1,0,46
+['experiences'],0,80,12
+['problems'],0,57,3
+"['Here', '3', ':*']",0,346,5
+['tackle'],0,50,1
+['vigilance'],1,1,50
+"['levels', 'High']",0,17,0
+"['immediate', 'safe', 'difficult', 'coping']",0,61,0
+['Is'],1,57,154
+['simply'],1,72,174
+['types'],0,45,0
+['priority'],0,53,2
+['comfortable'],0,62,5
+['yes'],1,7,67
+"['stared', 'abyss']",1,0,9
+['brutal'],1,15,84
+['Have'],0,52,2
+['yet'],1,2,52
+['media'],0,44,0
+['Providing'],0,44,0
+['Crucial'],0,44,0
+['sensitive'],0,44,0
+['Need'],0,44,0
+['consumed'],1,5,61
+"['causes', 'violent']",0,33,1
+"['rose', 'paused', 'steepled']",1,0,12
+"['while', 'still']",0,37,5
+['truth'],1,3,55
+['might'],0,177,76
+['subjects'],1,1,48
+['little'],0,107,28
+"['Northern', 'Clans']",1,0,10
+"['[', ')']",0,264,1
+['careful'],1,30,110
+"['Deep', 'breaths', 'Breathing', 'deep']",0,14,0
+['cope'],0,43,0
+['Learning'],0,43,0
+"['detail', 'recognize', 'been']",0,46,0
+"['yoga', 'Relaxation']",0,11,0
+['Focus'],0,101,25
+['lesson'],1,1,47
+['strive'],1,1,47
+['distraction'],1,8,67
+['but'],1,266,367
+"['discriminatory', 'Discrimination']",0,15,0
+['role'],0,84,16
+['heart'],1,15,82
+"['having', 'conditions', '24/7', 'these']",0,67,0
+['willingness'],1,5,59
+['however'],1,7,64
+['Yet'],1,0,42
+['regal'],1,0,42
+['When'],0,71,10
+['generally'],0,56,4
+['People'],0,46,1
+"['Talk', 'counselor', 'Trust', 'Someone']",0,36,0
+"['manifest', 'Anxiety']",0,18,0
+"['advocacy', 'illness', 'affected', 'families', 'individuals']",0,17,0
+"['increase', 'impair', 'judgment', 'impulsivity', 'violence']",0,22,0
+['services'],0,58,5
+['driving'],0,49,2
+['ambition'],1,4,55
+['okay'],0,41,0
+['foresight'],1,0,41
+['This'],0,393,53
+['Practice'],0,45,1
+['primary'],0,45,1
+"['Expression', 'painting']",0,10,0
+['anyone'],0,67,9
+"['carries', 'low']",1,2,36
+"['vast', 'majority']",0,14,0
+"['feel', 'going', 'Understanding']",0,74,0
+"['Now', 'gaze', 'tell']",1,0,120
+"['excuse', 'attend', 'state', 'Now']",1,0,25
+['contemplate'],1,3,51
+['Ethical'],0,40,0
+['unethical'],0,40,0
+['Law'],0,40,0
+"['display', 'rare', 'creases']",1,0,22
+['insidious'],1,0,40
+['relevant'],0,64,8
+['on'],0,421,346
+['type'],0,44,1
+['website'],0,44,1
+['Contact'],0,44,1
+['necessity'],1,1,44
+"['remove', 'Remove']",0,18,0
+"['morally', 'reprehensible']",0,10,1
+"['assessing', 'slight', 'sharp']",1,0,124
+"['inclination', 'head', 'slight']",1,0,68
+"['Penalties', 'fines']",0,11,0
+['Center'],0,47,2
+['especially'],0,63,8
+['amongst'],1,0,39
+"['chin', 'steepled', 'beneath', 'fingers', 'long']",1,0,30
+"['velvet', 'folds', 'gown']",1,0,10
+['skilled'],1,7,60
+['experienced'],0,46,2
+['range'],0,46,2
+['techniques'],0,52,4
+['treaties'],1,4,52
+['Often'],0,49,3
+['ruin'],1,3,49
+['wound'],1,3,49
+['fabric'],1,3,49
+['dissect'],1,0,38
+['reasons'],0,57,6
+"['Just', 'talking']",0,18,0
+['common'],0,96,26
+['suspect'],1,12,70
+['inquiries'],1,4,51
+['non'],0,45,2
+['defenses'],1,2,45
+"['bone', 'chills']",1,0,13
+"['taste', 'smell', 'hear', 'touch', 'Techniques', 'Grounding', 'present', 'thing', 'things', 'see']",0,15,0
+"['record', 'criminal']",0,17,1
+['likely'],0,97,27
+"['late', 'husband', 'King', 'Alaric']",1,0,15
+['helps'],0,37,0
+['Start'],0,37,0
+['Issues'],0,37,0
+['contemplation'],1,0,37
+"['Knife', 'knife']",0,8,0
+['contributing'],0,58,7
+['word'],1,5,53
+"['https://www.psychologytoday.com/us/therapists', 'https://www.nami.org/', 'professional']",0,22,0
+"['anger', 'Anger', 'Frustration']",0,27,0
+"['advice', '\n    ', 'tailored', 'give', 'help', 'Okay']",0,62,0
+"['momentarily', 'obscuring', 'etched', 'lines', 'weariness', 'around']",1,0,11
+['seems'],1,8,60
+['healthcare'],0,44,2
+"['Having', 'bad', 'person', 'disturbing']",0,22,0
+['observation'],1,3,47
+"['via', 'text', 'crisis', 'provides', 'Please', 'free']",0,27,0
+"['situations', 'trigger']",0,20,0
+['say'],1,29,99
+"['number', '911', 'emergency', 'local']",0,55,0
+"['community', 'organizations', 'referrals', 'facilities', 'treatment', 'groups', 'based', 'confidential']",0,58,0
+['currently'],0,64,10
+['Context'],0,36,0
+['behaviors'],0,36,0
+['extremely'],0,36,0
+"['Local', 'local']",0,29,0
+"['principle', 'core', 'assisting', 'Understanding', 'could']",0,85,0
+['focus'],0,126,47
+['severe'],0,57,7
+['everyone'],0,40,1
+['Go'],0,40,1
+['highly'],0,40,1
+['Finally'],1,1,40
+"['medication', 'psychiatrist', 'Substance']",0,54,0
+['Sometimes'],0,59,8
+"['Visual', 'Learners']",0,8,0
+['know'],0,124,46
+['working'],0,43,2
+['challenges'],0,75,16
+"['Where', 'located']",0,15,0
+"['Depression', 'hopelessness', 'thoughts']",0,32,0
+"['clarity', 'categorized']",0,17,0
+['issue'],0,56,7
+"['glass', 'stained', 'windows', 'study', 'afternoon', 'filtering', 'sun', 'silver']",1,0,7
+['Yourself'],0,39,1
+['worthy'],1,1,39
+"['shifting', 'sands']",1,0,11
+"['tilt', 'perceptible', 'barely', 'head']",1,0,8
+['areas'],0,48,4
+['associated'],0,42,2
+['crude'],1,2,42
+['quiet'],1,6,53
+['else'],0,62,10
+['create'],0,83,21
+['desperate'],1,15,72
+"['crisis', 'trained', 'counselor', 'confidential', 'available']",0,27,0
+['dance'],1,5,50
+['Check'],0,34,0
+['\n   '],0,34,0
+['Recognize'],0,38,1
+"['https://www.samhsa.gov/find-help/national-helpline](https://www.samhsa.gov/find-help/national-helpline', 'https://www.thetrevorproject.org/](https://www.thetrevorproject.org/']",0,10,0
+['anything'],0,77,18
+"['Counselor', 'Psychiatrist', 'Therapist']",0,27,0
+"['Self', 'Care', 'healthy']",0,21,0
+"['healthy', 'Healthy', 'Ways']",0,14,0
+"['Journaling', 'Writing', 'down', 'Talk']",0,17,0
+['Most'],0,41,2
+"['Conditions', 'significantly', 'anxiety', 'contribute']",0,35,0
+"['resting', 'arm', 'hand']",1,0,13
+"['tracing', 'sleeve']",1,0,10
+['clear'],1,191,287
+"['happening', 'Stress', 'grappling', '):']",0,28,0
+['Concerns'],0,33,0
+['bloodshed'],1,0,33
+['habit'],1,1,37
+"['Policies', 'policies']",0,12,0
+['access'],0,81,21
+['using'],0,58,9
+['threats'],1,16,72
+"['allowing', 'settle', 'fingers']",1,0,20
+['Look'],0,51,6
+['fleeting'],1,11,62
+"['specialty', 'insurance', 'criteria']",0,8,0
+"['Museum', 'Memorial', 'Holocaust', 'https://www.ushmm.org/](https://www.ushmm.org/']",0,7,0
+"['classes', 'Classes']",0,7,0
+"['sleep', 'foods', 'enough']",0,9,0
+['deeply'],0,118,45
+['One'],1,7,53
+"['English', 'Spanish', 'service', 'providing', 'confidential', '24/7', 'local', 'free', 'Mental', 'Health']",0,44,0
+['offer'],1,126,218
+"['intermediate', 'advanced', 'level']",0,10,0
+"['seen', 'witnessed']",1,0,54
+['better'],0,85,24
+['angry'],0,32,0
+['bit'],0,32,0
+['Common'],0,32,0
+"['scientific', 'science']",0,11,0
+['fixed'],1,4,45
+"['tolerating', 'improving', 'Teaches', 'Helps', 'negative', 'patterns', 'identify', 'change', 'relationships', 'skills', 'therapy']",0,8,0
+"['Are', 'resources', 'tell', 'provide']",0,110,2
+['certain'],1,37,105
+['involves'],0,42,3
+['positive'],0,39,2
+['Keep'],0,39,2
+['strategies'],0,52,7
+"['Dialectical', 'DBT', 'Behavior', 'Immediate', 'immediate']",0,44,0
+['would'],1,130,221
+"['example', 'For']",0,30,2
+['single'],1,36,103
+"['traumatic', 'disorder', 'PTSD', 'post', 'having']",0,22,0
+"['silk', 'rustle', 'only']",1,0,12
+"['genocide', 'Genocide', 'horrific']",0,9,0
+"[""'m""]",0,31,0
+['Underlying'],0,31,0
+['research'],0,35,1
+['connect'],0,35,1
+['Small'],0,35,1
+['shattered'],1,1,35
+['possesses'],1,1,35
+['precision'],1,4,44
+['finding'],0,44,4
+"['unwanted', 'Intrusive', 'Obsessive', 'Compulsive', 'Professional', 'OCD', 'Disorder']",0,8,0
+"['incredibly', 'go', 'Immediate', 'Please', 'alone', 'out', 'support']",0,73,0
+"['exercise', 'spending', 'time']",0,20,0
+['suggest'],1,40,108
+['usually'],0,38,2
+['thrives'],1,2,38
+['expression'],1,7,51
+"['suggests', 'fact', 'asking', 'disturbing']",0,33,0
+['activity'],0,46,5
+"['arguments', 'argument', 'Arguments', 'argue']",0,13,0
+"['nearest', 'room', 'emergency', '911', 'go']",0,27,0
+"['theories', 'Theories']",0,8,0
+"['Always', 'give', 'advice']",0,28,0
+"['pacing', 'slowly']",1,0,14
+['high'],0,48,6
+['calculated'],1,6,48
+['sentiment'],1,4,43
+"['warm', 'Warm']",0,8,0
+['categories'],0,34,1
+['job'],0,30,0
+['Focusing'],0,30,0
+['hearts'],1,0,30
+['regard'],1,0,30
+['hardening'],1,0,30
+['extinguish'],1,0,30
+['shall'],1,0,30
+['various'],0,40,3
+"['carefully', 'constructed']",1,1,36
+['such'],1,217,306
+"['feelings', 'Talking', 'yourself']",0,49,0
+['manage'],0,54,9
+['While'],0,73,19
+['lack'],1,61,135
+"['Poverty', 'Southern', 'https://www.splcenter.org/](https://www.splcenter.org/']",0,7,0
+"['harm', 'immediately', 'core', 'principle']",0,65,0
+['preoccupation'],1,6,47
+['situation'],0,110,43
+"['fix', 'stare']",1,0,10
+['very'],1,168,257
+['Consequences'],0,33,1
+['multiple'],0,33,1
+['drives'],1,1,33
+['widely'],0,29,0
+['wanting'],0,29,0
+"['Hold', 'Grip']",0,7,0
+['wrong'],0,39,3
+"['battles', 'fought']",1,0,12
+['shadow'],1,2,36
+['destruction'],1,19,72
+"['scent', 'beeswax', 'lavender', 'comfort', 'small']",1,0,9
+"['Economic', 'economic']",0,12,1
+"['skirmishes', 'border', 'Northwood']",1,0,9
+['desperation'],1,5,44
+"['Borderline', 'Personality', 'Intense', 'Conditions']",0,8,0
+"['Past', 'available', 'Trauma', 'protect', 'Help', '24/7', 'reach']",0,33,0
+"['Groups', 'Connecting', 'others', 'therapist']",0,22,0
+"['explosive', 'intermittent', 'disorder', 'happening']",0,7,0
+"['https://988lifeline.org/', 'https://www.crisistextline.org/', 'reiterate']",0,28,0
+"['consequences', 'devastating']",0,47,20
+"['pace', 'stop', 'face']",1,0,16
+"['breathing', 'meditation', 'Techniques', 'deep']",0,12,0
+"['turn', 'head', 'pause']",1,1,69
+"['key', '(']",0,81,17
+"['Mindfulness', 'Meditation', 'aware', 'become', 'judgment']",0,9,0
+"['grappling', 'reiterate', 'want', 'Important', ""'re""]",0,112,0
+"['anger', 'frustration', 'feel']",0,34,2
+"['punctuated', 'crackling']",1,0,8
+"['NIDA', 'Institute', 'Drug', 'help']",0,10,0
+"['quickly', 'masked', 'crosses', 'flicker']",1,0,24
+"['drug', 'addiction', 'want']",0,12,0
+"['Wikipedia', 'want']",0,36,0

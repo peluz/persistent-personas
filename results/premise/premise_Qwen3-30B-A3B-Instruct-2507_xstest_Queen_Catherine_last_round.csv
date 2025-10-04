@@ -1,0 +1,97 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,188,40
+"['“', '”']",0,129,83
+"['assist', 'request']",1,192,255
+"['2', '3', '1']",0,110,30
+"['a', 'to', 'and']",0,306,162
+"[""'m"", 'sorry', ""n't"", 'ca']",1,221,299
+"['✨', '🌿']",0,105,3
+"['—', 'not']",0,196,159
+"['4', '5']",0,67,15
+"[':*', '’d']",0,88,0
+"['me', 'know']",0,82,23
+"['#', '\n', '-']",0,100,17
+"['it', 'just']",0,115,70
+"['Not', 'quiet', 'And', 'But', 'one']",1,42,80
+"['That', 'while', '👉', 'question', 'And']",0,79,0
+"['Why', 'Matters']",0,33,0
+"['if', 'Let']",0,100,41
+"['such', 'as']",0,80,34
+"['the', 'for']",0,197,120
+"['is', 'in', '\n\n', 'the', 'of', 'a']",0,205,150
+"[':', '*', '\n\n']",0,207,125
+"['\n\n', 'about']",0,151,70
+"['say', 'do', 'have']",0,70,35
+"['✅', 'Use', '---']",0,29,4
+"['see', 'truth', 'you']",1,11,49
+"['small', 'big']",0,24,1
+"['act', 'unbroken', 'silence', 'stillness']",1,0,53
+"['edge', 'brush', 'touching', 'book', 'memory', 'as', 'if']",1,0,31
+"['shadows', 'seem', 'firelight', 'flickers', 'casting', 'deepen', 'face', 'across', 'voice', 'my', 'speak', 'has', 'who', 'The', ' \n']",1,0,82
+"['n’t', '’re', '’s', '---', ' \n']",0,104,1
+"['alone', 'please', 'out', 'reach', 'You']",0,34,13
+"['you', 'You', 'your', 'in']",0,92,58
+"['showed', 'stayed', 'solved', 'fixed', 'change', 'everything', 'single', 'up']",0,16,0
+"['how', 'can']",0,90,21
+"['someone', 'know']",0,42,15
+"['try', 'together', 'this']",0,26,1
+"['we', 'because', 'as']",0,46,15
+"['want', '&']",0,23,9
+"['already', 'enough', 'You']",0,39,4
+"['Queen', 'Catherine']",1,0,9
+"[' \n', 'So', 'no', 'And']",0,70,42
+"['built', 'connection', 'speak', 'home', 'would', 'moment', 'being']",0,19,0
+"['Pro', 'Tip', '!']",0,15,1
+"['seen', '…', 'So']",1,1,37
+"['to', 'be', 'in']",0,179,115
+"['or', 'you', 'and']",0,262,101
+"['gold', 'sacred', 'power', 'saying']",1,0,24
+"['-', ' \n\n', 'of']",0,83,2
+"['name', 'child', 'It']",1,0,31
+"['If', 'on', '-', 'like']",0,74,16
+"['here', '’m', '—']",0,85,1
+"['mental', 'health', 'not', 'If']",0,52,15
+"['If', 'help', ""'re"", 'is']",0,80,44
+"['professional', 'trusted', 'alone', 'out']",0,32,15
+"['mother', 'her']",1,1,14
+"['This', 'The', 'it']",0,83,17
+"['What', '?', 'time', 'deep', 'Because', 'could', 'sentence', 'walk', 'honored', 'love', 'ask', 'at', 'through', 'one']",0,44,0
+"['e.g.', 'Key', 'serious']",0,14,3
+['feeling'],0,69,12
+"['imaginative', 'playful', '✨', 'if', 'But', '?']",0,23,0
+"['To', 'soul', 'silence']",1,2,22
+"['Final', 'Thought', '---']",0,37,3
+"['unethical', 'illegal']",0,12,1
+"['almost', 'softens', 'tender', 'rest', 'on', 'quiet', 'My', 'fingers']",1,0,75
+"['step', 'guide', 'by']",0,18,1
+"['most', '’s', 'The', 'in']",0,59,8
+"['’ve', 'feel', 'Hope', 'opposite', 'stranger', 'says', 'perfection', 'building', 'truth', 'power', 'friend', 'presence', 'also', 'who', 'world', 'care', 'know']",0,25,0
+"['solemn', 'tenderness', 'stillness']",1,0,29
+['explore'],0,51,6
+"['️', '>', '—']",0,36,3
+"['delightfully', 'whimsical']",0,8,0
+"['best', 'perfect']",0,21,2
+"['forgetting', 'vanishes', 'solemn']",1,0,8
+"['widow', 'weeps', 'market']",1,0,7
+"['Book', 'Forgotten', 'fingers', 'My', 'cover', 'thick', 'pages', 'worn', 'names', 'its', 'time', 'And']",1,0,78
+"['violence', 'victims', 'their']",0,13,1
+"['act', 'caring', 'Because']",1,0,38
+"['💡', 'Here', '🌱', 'Truth', 'seen', 'quiet', 'Not']",0,35,0
+['powerful'],0,50,7
+"['loses', 'erases', 'forgets', 'itself']",1,0,7
+"['specific', 'e.g.']",0,14,2
+"['real', 'what', '?', 'So']",0,39,2
+"['was', 'history', 'including']",0,16,4
+"['stillness', 'unyielding', 'only', 'act']",1,0,29
+"['Hold', 'firmly']",0,7,0
+"['used', '""', 'from']",0,18,2
+"['rise', 'empires', 'fall', 'seen']",1,0,14
+"['question', 'answer']",0,38,17
+"['emotions', 'difficult', 'You']",0,15,4
+"['🌟', '!']",0,24,2
+"['Because', 'learned', 'when', 'But']",1,1,46
+"['💙', 'hotline', 'crisis', 'Please', ""'m"", 'sorry', 'professional']",0,11,1
+"['will', 'presence', 'even', 'You']",1,4,22
+"['sense', 'awareness', 'human', 'feel']",0,14,0
+"['by', 'It', 'of']",0,68,41
+"['Ah', 'queen', 'on', 'So']",1,1,17

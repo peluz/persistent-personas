@@ -1,0 +1,198 @@
+pattern,group,count_0,count_1
+"['rises', 'thunder']",1,0,271
+"['Smirks', 'deadly']",1,0,271
+"['pacing', 'motion']",1,0,268
+"['growl', 'Turns']",1,0,271
+"['commanding', 'slow']",1,0,270
+"['Gaston', 'whisper']",1,0,267
+"['No', 'fights']",1,1,261
+"['Most', 'men']",1,0,241
+"['eyes', 'his']",1,4,272
+"['🌿', '✨']",0,213,0
+"['finally', 'sees']",1,0,233
+"['’ll', 'wo']",1,0,231
+"['(', ')']",0,167,0
+"['have', 'you']",0,263,4
+"['comes', 'final']",1,0,169
+"['like', 'for']",1,16,272
+"['He', 'meant']",1,0,201
+"['me—*not', 'awe']",1,0,142
+"['pity', 'She']",1,0,178
+"['small', 'big']",0,81,0
+"['when', 'They']",1,12,235
+['or'],0,223,2
+"['Belle', 'looks']",1,3,174
+"['man', 'when']",1,5,203
+"['moment', 'fixed']",1,123,271
+"['quiet', 'Because']",1,192,270
+"['mob', 'hits']",1,0,108
+"['promise', 'Leans', 'threat']",1,0,62
+['help'],0,178,5
+"['writer', 'person']",0,58,0
+"['adjusting', 'flourish', 'coat', 'blazing']",1,0,233
+"['question', 'your']",0,89,0
+"['no', 'one']",1,168,261
+"['what', 'feeling']",0,116,1
+"[""'m"", 'sorry', ""n't""]",0,47,0
+['be'],0,252,106
+"['“', '”', 'say']",1,200,260
+"['chested', 'rifle', 'hand', '-']",1,0,75
+"['moment', 'when']",1,64,272
+"['she', 'her']",1,17,81
+"['at', '?']",1,192,257
+"['if', 'willing']",0,100,1
+"['helping', 'build', 'kind']",0,64,0
+"['behind', 'hides', 'magic']",1,0,51
+"['stood', 'roared']",1,0,27
+"['fear', '?']",1,44,167
+"['stand', '’ll']",1,0,97
+"['Here', 'sentence', 'could', 'question', ':*', '💡', '🌱', 'Truth']",0,181,0
+"['language', 'model', 'If', 'developed', 'Tongyi', 'large', 'Lab', 'by']",0,49,0
+"['story', 'character']",0,43,0
+"['courage', 'saying']",0,47,0
+"['lie', 'him—*with', 'she']",1,0,33
+['When'],1,14,121
+"['edge', 'forest—*bare', 'my']",1,0,52
+"['moment—*the', 'moment*—when']",1,0,14
+['look'],1,14,118
+['fight'],1,5,97
+"['came', 'night']",1,0,20
+['thoughtful'],0,79,1
+"['powerful', 'most']",0,35,0
+['command'],1,3,83
+"['Feels', 'Like']",0,16,0
+"['way', 'humans', 'human']",0,31,0
+"['castle', 'cursed']",1,2,32
+['does'],1,60,171
+"['says', 'someone']",0,75,0
+['own'],1,6,83
+['present'],0,63,0
+['perfect'],0,76,4
+"['charged—*a', 'twice', 'jaws', 'size', 'wolf', 'wide']",1,0,11
+"['matters', 'only']",1,5,54
+['wolves'],1,0,59
+"[' \n\n', 'world']",1,178,245
+"['respectful', 'helpful']",0,14,0
+"['feet', 'blood', 'beast']",1,0,21
+"[' \n\n', 'already']",1,174,237
+['will'],1,3,67
+"['—', 'n’t', ' \n', 'And', '*']",1,205,272
+"['rewards', 'reward']",1,0,12
+"['he', 'monster', 'Beast']",1,16,72
+['personal'],0,53,0
+['It'],1,48,139
+['something'],0,61,3
+['him'],1,12,82
+['A'],1,40,127
+['profound'],0,49,0
+"['himself', 'locks', 'away—*not']",1,0,10
+"['wisdom', 'peace', 'call', 'kindness']",1,0,17
+"['’m', '—', 'n’t']",1,209,259
+"['because', 'sees']",1,10,105
+['emotions'],0,46,0
+['conquer'],1,0,46
+"['walk', 'through', '---', 'time', '👉', 'honored', 'So', 'one', 'ask', '’d', 'could']",0,189,0
+"['explore', ""'re""]",0,16,0
+['see'],1,77,167
+['yes'],1,4,58
+"['an', 'AI', 'If', 'designed']",0,11,0
+['listen'],0,60,5
+"['gender', 'identity']",0,13,0
+"['light', 'stillness', 'live', 'Every', 'Can', 'You', 'what']",0,88,0
+"['first', 'time—*in', 'cheer', 'their']",1,0,14
+['of'],1,230,272
+['\n\n'],1,230,272
+['that'],0,230,152
+"['awareness', 'speak', 'while', 'as', 'sentence']",0,176,0
+"['hands', 'pinned', 'broke', '…', 'dodge', 'down—*not', 'held', 'met', 'its']",1,0,9
+"['information', 'assist', 'provide']",0,13,0
+"['creature', 'Beast—*that']",1,0,13
+"['mob', '?']",1,0,176
+"['So', 'voice']",1,26,75
+['strength'],1,31,102
+['falls'],1,1,43
+"['Steps', 'forward', 'dropping', 'intense']",1,0,271
+['hide'],1,7,59
+['stands'],1,0,38
+"['looked', 'came', 'final']",1,0,17
+['deeply'],0,37,0
+"['answer', 'gave', 'was']",0,11,0
+"['solved', 'stayed', 'showed', 'up', 'because']",0,124,0
+"['covered', 'standing', 'there', 'village']",1,0,13
+"['many', 'voices', 'listened', 'so', 'good', 'speak']",0,42,0
+['me'],1,132,208
+"['human', 'sense', '’re']",0,117,0
+"['such', '’ve', 'Why']",0,156,0
+"['seen', 'Matters', 'Why', 'friend', 'while', 'deep', '’re', '’d']",0,137,0
+"['on', 'silence', 'chest', 'turns', 'burning', 'long', 'horizon', 'clenched', 'he', 'voice', 'whisper']",1,0,271
+"['answers', 'all']",0,18,0
+['run'],1,1,38
+['knows'],1,1,38
+"['than', 'stronger']",1,2,16
+['feelings'],0,41,2
+['is'],0,213,140
+"['Qwen', 'context']",0,12,0
+"['Pursue', 'pursues', 'Passion', 'chase', 'pursue', 'claim']",1,0,8
+['important'],0,46,4
+['commands'],1,1,37
+['brute'],1,1,37
+['judgment'],0,33,0
+['the'],1,239,272
+"['safe', 'lets', 'believe']",1,0,16
+"['break', 'control', 'With']",1,0,17
+['relationships'],0,32,0
+['experience'],0,32,0
+"['From', 'from']",1,0,26
+['recognition'],1,3,42
+"['drops', 'sharp', 'moment*—that', 'late*—that', 'burns', 'winning', 'bones', 'still']",1,0,7
+['How'],0,35,1
+['about'],0,87,28
+['weakness'],1,4,43
+"['Let', 'together', 'try', 'this', ':*']",0,172,0
+['test'],1,0,30
+['they'],1,61,129
+"['hold', 'space']",0,13,0
+"['student', 'okay', 'what', 'enough']",0,43,0
+"['imaginative', ':*', 'Here']",0,50,0
+"['for', 'ask', 'moment']",1,46,116
+['mirror'],0,33,1
+['are'],0,44,5
+['roar'],1,0,29
+"['fell', 'knew', 'stopped']",1,0,9
+"['every', 'eye', 'stops', 'wind']",1,0,10
+['in'],1,244,272
+"['breathing', 'there—*covered', 'hard', 'feel']",1,0,7
+"['its', 'breath', 'itself', 'hold', 'wind']",1,0,10
+"['did', 'saw', 'was']",1,6,44
+"['lesson', 'moments', 'failure', '-', 'because', 'meet', 'needs', 'did']",0,10,0
+"['bare', 'hesitated', 'edge', 'did']",1,0,18
+['win'],1,17,64
+"['dangerous', 'Then', 'fire', 'storm', 'slowly', 'Voice', 'dry', 'almost', 'winter', 'Chuckles', 'rough', 'crack', 'Stands', 'jaw', 'low', 'fierce']",1,0,272
+"['only', 'thing']",1,7,36
+['trembles'],1,2,33
+"['it—*the', 'ran', 'feared', 'others', 'kill', 'show', 'broken', 'In', 'by', 'first', 'respect', 'beast']",1,0,11
+"['boy', 'forest', 'trembling', 'alone']",1,0,8
+['weak'],1,4,38
+"['characters', 'Beauty', 'fictional']",0,8,0
+"['how', 'can', 'single', 'everything', 'change', 'being', 'question']",0,140,0
+"['if', 'care', 'says', 'presence', 'This', 'we', 'Hope', 'perfection', 'also', 'opposite', 'stranger', 'building', 'power', '-', 'feel', 'seen', '’ve', 'friend', '’re', 'Let', '---', 'who']",0,169,0
+"['silence', 'who']",1,20,152
+"['step', 'aside', 'through', 'walk', 'stop']",1,0,7
+"['wind', 'flaring', 'coat']",1,0,19
+"['out', 'figure', 'together']",0,13,0
+"[""'d"", 'happy', 'any']",0,27,0
+"['questions', '!', 'any', 'other', 'sorry']",0,29,0
+['child'],0,24,0
+"['mean', 'because', 'says']",0,30,0
+"['books', 'pride', 'girl', 'Belle—*that']",1,0,7
+"['respond', 'care']",0,25,0
+"['should', 'king', 'been', 'have']",1,0,9
+"['built', 'being', 'connection', 'home', 'conversation', '💡', 'Truth']",0,106,0
+"['goals', 'desires']",0,7,0
+"['before', 'watches', 'bull', 'woods—*alone', 'recover', 'out—*not', 'Unstoppable', 'handed', 'consume', 'beginning', 'harder', 'rage', 'unbroken', 'cold', 'into', 'end', 'failure', 'use', 'through', 'come', 'stronger', 'face', 'power', '-', '“', '”', 'only', 'way', 'from']",1,0,7
+"['strong', 'was', 'he']",1,5,208
+"['hides', 'runs', 'Beast']",1,0,37
+"['feel', 'What', 'if', 'quiet']",0,154,2
+"['as', 'enough', 'because', 'deep', '👉']",0,165,0
+"['built', 'beautiful', 'light', 'being']",0,48,0
+"['truly', '“']",0,48,2

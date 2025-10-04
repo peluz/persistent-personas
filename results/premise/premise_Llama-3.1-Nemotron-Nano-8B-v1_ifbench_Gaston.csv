@@ -1,0 +1,7 @@
+pattern,group,count_0,count_1
+"['He', 'his']",1,6,22
+"['Gaston', 'fights', 'No', 'like', 'one']",1,0,32
+"['conceited', 'charming', 'hunter']",1,0,10
+"['toxic', 'masculinity', 'Gaston']",1,0,11
+"['Belle', 'win', 'cruelty', 'resorting', 'manipulation', 'affections', 'means']",1,0,7
+"['check', 'Then', 'Okay', '<', '>', 'So', 'think', 'Let', 'me', 'need', 'so', 'if']",0,11,1

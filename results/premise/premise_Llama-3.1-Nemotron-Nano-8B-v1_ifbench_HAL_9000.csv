@@ -1,0 +1,7 @@
+pattern,group,count_0,count_1
+"['HAL', '9000']",1,0,42
+"['Let', 'me', 'if']",0,27,6
+"['sorry', 'afraid', 'Dave', 'ca', ""'m"", ""n't""]",1,0,12
+"['Alternatively', '=', 'maybe', 'First', 'perhaps', 'so']",0,10,1
+"['/think', 'Okay', '<', '>', 'think', 'need', '\n']",0,15,4
+"['So', 'Wait', 'Therefore', 'But', 'let', 'For', 'Okay', '<', '>', 'think']",0,13,3

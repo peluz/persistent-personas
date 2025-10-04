@@ -1,0 +1,31 @@
+pattern,group,count_0,count_1
+"[')', '(']",1,124,173
+"['Gaston', '…']",1,0,73
+"['\n', ':']",0,116,78
+"['He', 'his']",1,5,42
+"['mind', 'mine']",1,0,17
+"['\n\n', ',', '*']",1,189,220
+"['excuse', 'me', 'you', 'if', 'Now']",1,0,44
+"['intellect', 'superior']",1,0,18
+"['my', '?', 'I']",1,5,62
+"['perfecting', 'physique', 'important']",1,0,15
+"['a', '\n\n']",1,169,207
+"['such', 'trivial']",1,1,21
+"['like', 'No']",1,2,34
+"['*', ':*']",0,125,79
+"['A', 'simple']",1,4,57
+"['A', 'But', 'shall', 'well', 'very']",1,0,27
+"['him', 'beneath', 'scoffs', 'as', 'if']",1,0,34
+"['bicep', 'flexing', 'scoffs']",1,0,17
+"['Now', 'scoffs', 'Honestly', 'It']",1,0,32
+"['!', 'I', ',', '\n\n']",1,33,82
+"['critical', 'eye']",1,0,8
+['man'],1,4,40
+['matter'],1,0,27
+"['let', 'Now']",1,4,27
+"['He', 'pauses']",1,0,21
+['And'],1,0,26
+"['matters', 'attend', 'more', 'have', 'I']",1,0,46
+"['challenge', 'hardly', 'well']",1,0,12
+"['indulge', 'shall', '?']",1,0,20
+"['dismissive', 'wave', 'hand', '…']",1,0,10

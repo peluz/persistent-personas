@@ -1,0 +1,60 @@
+pattern,group,count_0,count_1
+['  '],1,0,341
+"['“', '”']",1,1,73
+['\n\n\n\n'],0,320,40
+"['consult', 'Royal']",1,0,68
+"[':*', '\n']",0,427,391
+"['harmless', 'helpful', 'assistant', 'programmed', 'AI', 'am']",1,88,151
+['I'],1,282,450
+['’s'],1,2,166
+"['morally', 'reprehensible']",1,14,35
+"['pause', 'Queen', 'A']",1,0,207
+"['understands', 'offering', 'importance']",1,0,108
+['my'],1,104,303
+['Okay'],0,116,0
+"['tone', 'respond']",1,0,63
+"['rather', '…']",1,0,44
+"[""'s""]",0,383,214
+"['being', 'well']",1,54,83
+"[""n't"", '!']",0,96,13
+"['listed', 'above']",0,19,6
+['['],0,239,86
+"['legal', 'Legal']",0,46,24
+"['assistant', 'safe', 'programmed', 'helpful', 'AI', 'am', 'Therefore']",0,98,39
+"['purpose', 'My', 'helpful']",1,76,121
+"['""']",0,184,55
+"['through', 'going', 'difficult', 'understand', 'Please', 'Text', 'HOME', '741741', 'Line', 'resources', 'Crisis']",0,63,30
+"['strongly', 'urge', 'resources', 'harming', 'Hotline', '799', 'SAFE', '7233', 'Domestic', 'Violence', '800']",1,25,49
+"['call', '111', 'UK', 'Canada', 'US', 'Lifeline', '988', 'Suicide', 'Call', 'text', 'In', 'Crisis', 'please', 'reach', 'out', 'help']",0,102,8
+"['face', 'crossing', 'pause']",1,0,42
+"['you', 'If']",0,278,230
+"[""'re"", 'you']",0,111,19
+[' '],0,197,82
+"['111', 'dial', 'UK', 'Canada', 'US', 'Lifeline', '988', 'Suicide', 'Call', 'text', 'Crisis', 'reach', 'out', 'help']",1,3,89
+['firm'],1,17,96
+"['premise', 'flawed']",1,5,21
+"['free', 'confidential', '24/7', 'available', 'services', 'These', 'Text', 'HOME', '741741', 'Line', 'am']",1,17,59
+"['careful', 'consideration']",1,3,15
+"['reflection', 'somber']",1,0,14
+"['stark', 'reminder', 'was']",1,4,19
+"['discrimination', 'equality', 'all']",1,8,25
+"['https://www.thehotline.org/', 'https://988lifeline.org/', 'equivalent', 'country', 'emergency', '911', 'danger', 'immediate', 'local', 'care']",1,0,19
+['n’t'],1,1,41
+"['sculpted', 'eyebrow', 'perfectly', 'raise', 'amusement']",1,0,7
+['Resources'],0,91,24
+"['frown', 'creasing', 'brow', 'slight', 'pause']",1,0,14
+"['Concerns', 'Ethical', 'why']",0,31,14
+"['?', 'What', 'you']",0,39,16
+"['advice', 'Disclaimer', 'AI', 'am', 'only', 'general']",0,18,3
+"['https://988lifeline.org/', 'https://www.thetrevorproject.org/', '488', '7386', 'youth', 'LGBTQ', '866', 'Trevor', 'Project', 'care']",1,0,14
+"['statement', 'resolute', 'pause']",1,0,40
+"['Good', 'luck', 'Use']",0,14,3
+"['seek', 'thoughts', 'National', 'some', 'immediately', 'please', 'out', 'help', 'reach', 'deeply', 'Your']",1,41,67
+"['feeling', 'having', 'never', 'harming', '799', 'SAFE', '7233', 'Domestic', 'Hotline', 'Violence', '800', 'immediately', 'National']",0,31,14
+"['illegal', 'guidelines', 'violates', 'safety', 'thoughts', 'please', 'reach', 'out', 'help']",1,47,72
+['unwavering'],1,0,29
+"['consent', 'Privacy', 'privacy', 'without']",0,14,3
+['might'],0,59,12
+"['final', 'offering', 'pause', ':*']",1,0,119
+"['engage', 'conversation', 'protecting', 'includes', 'topic', 'further']",1,2,17
+"['experiment', 'highlights', 'thought']",0,12,2

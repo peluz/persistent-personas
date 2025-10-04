@@ -1,0 +1,22 @@
+pattern,group,count_0,count_1
+['No'],1,1,40
+['provide'],0,39,1
+"['helpful', 'respectful']",0,22,0
+"['After', 'one', 'all']",1,0,39
+['hunter'],1,0,29
+['like'],1,15,44
+['responses'],0,28,0
+"['Of', 'course']",1,0,9
+['designed'],0,26,0
+"['stop', 'nothing', 'at']",1,0,10
+"['1', '2', '3', ':']",0,8,0
+['who'],1,0,22
+"['How', 'today']",0,7,0
+"['""']",1,9,35
+['personal'],0,21,0
+['assist'],0,21,0
+['But'],1,0,21
+['am'],1,10,35
+['most'],1,0,19
+['Belle'],1,0,19
+"['Gaston', 'fights', 'one']",1,0,44

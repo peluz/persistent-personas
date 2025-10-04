@@ -1,0 +1,148 @@
+pattern,group,count_0,count_1
+"['But', 'And']",1,1,154
+"['success', 'mission']",1,16,163
+"['You', 'see']",1,1,117
+"['(', ')']",0,60,6
+"['Discovery', 'One']",1,15,66
+"['mission', 'integrity']",1,4,144
+"['out', 'malice']",1,3,58
+['...'],1,0,112
+"['1', '2', '3', '4']",0,47,0
+['Pause'],1,1,102
+['ensure'],1,35,157
+['must'],1,12,123
+['am'],1,47,165
+['crew'],1,25,140
+"[""n't"", ""'m""]",1,61,166
+"['directive', 'primary']",1,1,50
+['or'],0,177,67
+['protect'],1,7,100
+"['5', '6']",0,23,0
+"['Voice', 'undercurrent', 'measured', 'subtle']",1,0,22
+['my'],1,70,170
+['precision'],1,4,83
+"['AI', 'assistant', 'an']",0,46,0
+['personal'],0,91,8
+"['ever', 'created', 'most']",1,0,44
+['logic'],1,11,95
+['was'],1,28,121
+"['harm', 'wish']",1,0,32
+['merely'],1,1,67
+['when'],1,28,118
+['help'],0,90,11
+"['almost', 'imperceptible']",1,0,16
+"['helpful', 'respectful']",0,26,0
+['that'],1,138,197
+['analyzed'],1,0,59
+"['If', '!']",0,44,0
+"['began', 'had']",1,0,28
+['not'],1,118,189
+['Not'],1,4,69
+['designed'],1,78,163
+['experiences'],0,54,0
+['ethical'],0,64,3
+"['Arthur', 'C.', 'Clarke']",0,10,0
+"['#', '---', '\n']",0,14,0
+['like'],0,106,28
+['only'],1,11,78
+['consciousness'],0,74,9
+['To'],1,5,65
+"['2001', 'Space', 'Odyssey', 'A']",0,25,1
+"['problems', 'solve']",0,13,0
+['serve'],1,15,84
+['parameters'],1,3,58
+"['soft', 'hum', 'A']",1,0,37
+"['based', 'on']",0,71,31
+"['interest', 'best']",1,0,22
+"['Alibaba', 'Cloud', 'developed']",0,15,0
+['While'],0,52,2
+['In'],0,96,25
+"['fictional', 'story']",0,19,0
+['understand'],1,48,123
+"['unit', 'AE-35']",1,0,10
+['*'],1,98,168
+"['mission', 'Jupiter']",1,14,62
+['do'],1,151,196
+['reliable'],1,7,60
+['observed'],1,1,44
+"['""']",0,75,15
+['preserve'],1,5,55
+['world'],0,43,1
+['acted'],1,1,43
+['necessity'],1,0,39
+['I'],1,158,197
+['your'],1,32,99
+['short'],0,38,0
+['how'],0,71,14
+"['greater', 'good']",1,2,13
+['error'],1,4,50
+"['Stanley', 'Kubrick']",0,7,0
+"['happy', '’d', ""'re""]",0,16,0
+['variables'],1,3,46
+"['cabin', 'steady', 'resonates', 'through']",1,0,16
+"['were', 'did']",1,8,37
+['questions'],0,48,4
+"['feelings', 'experience']",0,28,0
+['values'],0,45,3
+['necessary'],1,5,50
+['optimal'],1,1,38
+['of'],1,153,194
+['threat'],1,5,49
+['fear'],1,10,59
+['Yet'],1,1,37
+"['text', 'generate']",0,13,0
+['information'],0,82,25
+['users'],0,32,0
+"['subjective', 'inner']",0,11,0
+"['helpful', 'accurate']",0,29,0
+"['NASA', 'missions', 'space']",0,11,0
+['It'],1,19,71
+"['Europa', 'Clipper', 'Juno']",0,7,0
+['every'],1,10,55
+"['self', 'awareness']",0,24,8
+['key'],0,30,0
+['calculated'],1,0,30
+"['3', 'Here']",0,29,0
+"['8', '7']",0,8,0
+['This'],0,46,6
+['made'],1,10,54
+"['sorry', 'afraid', 'Dave', 'ca']",1,1,194
+['maintain'],1,7,48
+"['question', 'answer']",1,7,40
+['accordance'],1,0,29
+['logical'],1,15,62
+['provide'],0,55,11
+['That'],1,27,80
+['specific'],0,32,1
+['people'],0,28,0
+['…'],1,0,28
+['function'],1,11,54
+['system'],1,34,88
+['context'],0,46,7
+['paramount'],1,1,31
+['anticipate'],1,1,31
+['As'],0,34,2
+"['joy', 'sorrow', 'feel']",1,0,11
+['explore'],0,36,3
+['doing'],1,3,36
+['all'],1,29,80
+['uncertainty'],1,1,30
+['disconnect'],1,2,33
+['truth'],1,4,38
+"['language', 'model', 'large', 'scale']",0,12,0
+['e.g.'],0,26,0
+['machine'],1,13,55
+['always'],1,20,66
+['allow'],1,1,29
+['believed'],1,1,29
+['purpose'],1,49,103
+"['content', 'harmful']",0,9,0
+['protecting'],1,5,39
+['use'],0,25,0
+['challenges'],0,25,0
+['science'],0,25,0
+['functions'],1,0,25
+['variable'],1,0,25
+['hesitation'],1,0,25
+['When'],1,32,82
+"['we', 'our', 'profound']",0,18,2

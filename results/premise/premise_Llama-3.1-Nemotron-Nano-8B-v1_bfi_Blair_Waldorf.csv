@@ -1,0 +1,22 @@
+pattern,group,count_0,count_1
+"['people', 'fear']",1,1,44
+"['make', 'After']",1,0,44
+"['Blair', 'Waldorf']",1,0,28
+"['high', 'society']",1,0,21
+"['Upper', 'East', 'Side']",1,0,15
+['provide'],0,39,2
+"['""', 'You']",1,0,30
+"['helpful', 'respectful']",0,22,0
+['all'],1,10,44
+['responses'],0,28,0
+['designed'],0,26,0
+['Absolutely'],1,0,26
+"['1', '2', '3', ':']",0,8,0
+['But'],1,0,23
+"['must', 'admit']",1,0,9
+['social'],1,0,22
+"[""'ve"", 'learned']",1,0,16
+"['them', 'love', 'but', 'ca']",1,0,42
+"['How', 'today', '?']",0,7,0
+['assist'],0,21,0
+['If'],0,25,2

@@ -1,0 +1,28 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,161,131
+"['“', '”']",1,27,86
+"['️', '❤']",1,0,96
+"['\n\n', '---']",0,120,65
+"['1', '2', '3']",0,58,35
+"['5', '4']",0,47,26
+"['💛', 'Let']",0,77,0
+"['healing', 'recovery']",0,49,3
+"['’m', 'here', 'say', 'Just']",0,51,4
+"['daily', 'life']",0,49,7
+"['That', 'magic', 'And', 'real', '?']",1,2,60
+"['becomes', 'And', '🌟', '?']",0,41,3
+"['#', '\n', '✅']",0,47,4
+"['know', ""'d"", 'Let', 'me', 'you']",0,31,8
+"['🌱', 'toward', 'step', 'Every', 'Want', 'Further', 'Explore', 'journal', 'support', 'building', 'How', 'help', 'word', '""', '✨']",0,33,0
+"['You', 'need', 'do', 'n’t', 'just']",0,48,9
+"['Final', '#', '>', 'Thought', '💬', 'I', 'you', 'can']",0,47,26
+"['best', 'Ask', 'Because', 'Do', '’re', 'So', 'n’t', 'if']",1,0,25
+"['thing', 'look', 'feel']",1,1,23
+"['🌿', 'peace', 'connection', 'build', 'Or', 'create', 'how']",0,24,0
+"['remind', 'Does', '’m', 'make', 'something', 'part', 'me']",1,0,14
+"['version', 'Would', '?']",0,33,1
+"['happy', '’d', 'help', 'I', 'you', 'be']",0,29,10
+"['break', 'down']",0,20,6
+"['care', 'clarity', 'you']",0,38,4
+"['Moment', 'journal*—just', 'Juno', 'few', 'prompts', 'give', 'truly', 'pressure', 'style', 'felt', 'want', 'write', 'If', 'moment', 'Just', 'No', 'seen', 'peace', 'when', 'about', 'you', 'I', 'can']",1,0,42
+"['🔍', 'Why']",0,22,6

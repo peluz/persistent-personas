@@ -1,0 +1,41 @@
+pattern,group,count_0,count_1
+"['question', 'honored']",0,41,0
+"['🌿', '✨']",0,43,0
+"['broken', 'only']",1,1,44
+"['care', 'Would']",0,42,0
+"['yes', 'play']",1,0,43
+"['perhaps', 'forward']",0,32,0
+"['share', 'listen']",0,37,1
+"['While', 'help']",0,34,0
+"['one', 'thoughtful']",0,38,0
+"['already', 'such']",0,28,0
+"['believe', 'means']",0,36,1
+"['’d', 'asking']",0,39,2
+"['presence', 'imagined']",0,28,0
+['okay'],1,0,32
+['eyes'],1,2,34
+['but'],0,41,9
+['matters'],1,5,37
+['thing'],1,17,44
+['can'],0,40,10
+['humans'],0,26,0
+['emotions'],0,26,0
+"['shows', 'this', '\n\n', 'while', '>', 'carry']",0,38,0
+['conversation'],0,24,0
+['respond'],0,24,0
+['Smirks'],1,0,24
+['simply'],0,23,0
+"['truly', 'felt']",0,18,0
+['power'],0,25,1
+"['Pauses', 'then']",1,0,10
+['human'],0,31,5
+['You'],0,31,5
+['grace'],0,21,0
+['🔹'],0,21,0
+"['Because', 'still', 'sometimes', 'song', 'sound', ')', 'record', '(', 'proves', 'skips']",1,0,44
+['honest'],1,4,28
+['feeling'],0,36,11
+['have'],0,39,15
+['gentle'],0,24,2
+['’re'],0,42,20
+"['even', 'hard']",0,23,1

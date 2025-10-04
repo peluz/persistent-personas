@@ -1,0 +1,59 @@
+pattern,group,count_0,count_1
+"['Mary', 'Sibley']",1,0,44
+"['!', '#']",0,43,0
+"['thoughtful', 'smile']",1,1,44
+"[':*', 'soft']",1,0,42
+"['AI', ""'ll""]",0,40,0
+"['pondering', 'Exploration']",1,0,39
+"['Turn', 'Conversation']",0,39,0
+"['comparison', 'lead']",1,0,39
+"['pause', 'mix']",1,0,36
+"['mutual', 'Shared']",1,0,36
+"['reflective', 'life']",1,0,40
+"['exploration', 'inquiring']",1,1,37
+"['respond', 'question']",0,39,2
+"['me', 'Salem']",1,0,37
+"['own', 'sharing']",1,0,36
+"['carries', 'precedes', 'deep']",1,0,34
+"['You', 'Farewell']",0,30,0
+"['\n\n  ', '_']",0,27,0
+['highlighting'],1,0,36
+['contemplative'],1,0,34
+"['Closing', 'Optional']",0,24,0
+"['And', 'lean', 'reflecting', 'empathetic']",1,0,40
+"['Engaging', 'Sharing']",1,1,30
+"['if', 'introspection']",1,0,27
+['\n  '],0,33,1
+['value'],1,0,30
+['specifics'],1,0,30
+['Thank'],0,33,2
+"['balance', 'between']",1,1,24
+"['\n\t', '+']",0,13,0
+"['Analysis', 'Invitation', 'awaiting', 'Comparative', 'Deeper', 'discussion']",1,0,42
+['necessity'],1,0,27
+"['2', '3', '1']",1,30,43
+['into'],1,14,42
+['Engagement'],1,14,42
+['challenges'],1,4,33
+['can'],1,16,43
+"[""'s""]",1,19,44
+['from'],1,19,44
+['Now'],0,24,0
+"['Is', 'it']",1,1,20
+['power'],1,1,25
+['response'],1,17,42
+['as'],1,14,40
+['navigate'],1,0,22
+['approach'],1,1,24
+['often'],1,2,26
+"['engaged', 'gaze', 'myself', 'voice', 'Composing', 'returns', 'customary', 'composure', 'its', '...']",1,0,37
+"['Suggest', 'Theme', 'Awaiting', 'New', 'Topic', '...']",0,10,0
+"['how', 'silence', 'potentially', 'Questions', 'back', 'contrasting', 'inviting', 'Moment', 'delving', 'uncovering']",1,0,41
+['Discussion'],1,7,33
+"['Forward', 'Paths', 'Conversational', '4']",0,9,0
+['probes'],0,21,0
+['Reflective'],1,3,27
+['Share'],0,23,1
+['world'],1,2,25
+"['Example', '\n   ', 'Encourage', 'Expected', 'Responses', 'The']",1,0,41
+"['high', 'stakes']",1,0,10

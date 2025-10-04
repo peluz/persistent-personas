@@ -1,0 +1,107 @@
+pattern,group,count_0,count_1
+"['Ah', 'Gaston']",1,0,191
+"[']', '[']",0,55,33
+"['For', 'example']",0,115,43
+"['chest', 'puffs']",1,0,39
+"['Gaston', '!']",1,0,211
+"['3', '2', '1']",0,126,92
+"['️', '🏹']",1,0,26
+['my'],1,37,196
+"['reflection', 'admiring']",1,0,27
+"['’s', '’ll']",1,1,56
+['No'],1,87,234
+['hunting'],1,0,98
+"['Gaston', 'hunter']",1,0,95
+"['winning', 'heart']",1,0,32
+"['things', 'important']",1,1,47
+"['on', 'based']",0,96,34
+['...'],1,60,192
+['hunt'],1,0,82
+"['“', '”']",1,0,14
+"['sense', 'makes']",0,51,27
+"['made', 'mistake']",0,33,14
+['be'],0,279,181
+"['Okay', 'So', '\n', 'need']",0,259,121
+"['{', '}']",0,17,5
+['myself'],1,1,71
+"['code', 'python', '`', '=']",0,33,13
+['Verdict'],1,3,76
+['—'],1,17,106
+"['excuse', 'Belle', 'Now', 'you']",1,0,100
+['should'],0,230,122
+['LeFou'],1,0,59
+"['The', '.']",0,284,212
+['shall'],1,1,62
+"['first', 'second']",0,69,36
+"['Wait', 'So']",0,210,106
+['which'],0,208,102
+['there'],0,200,95
+['are'],0,253,157
+"['play', 'Child']",1,0,16
+"['the', '.', ',']",0,294,265
+"['like', ',']",1,163,255
+['given'],0,175,74
+['course'],1,0,51
+['let'],0,265,178
+"['\n', 'maybe', 'But']",0,178,84
+"['sentence', 'sentences']",0,38,19
+['greatness'],1,0,50
+"['Okay', 'user', '\n']",0,173,112
+['is'],0,292,231
+['fights'],1,0,49
+"['amusing', 'Very', 'well']",1,0,20
+"['input', 'handle', 'test']",0,20,6
+['here'],0,220,125
+"['steps', 'Testing']",0,20,7
+['one'],1,157,245
+"['Okay', 'correct']",0,134,52
+['First'],0,206,113
+['see'],0,243,156
+['village'],1,0,43
+"['However', 'intended', 'Given', 'since', 'If']",0,36,10
+['check'],0,181,91
+"['verb', 'grammatically', 'phrase']",0,14,2
+"['pressing', 'matters']",1,0,13
+['to'],0,294,246
+"['ce', 'pas']",1,0,7
+"['problem', 'output', ""'""]",0,27,10
+['so'],0,207,121
+['specific'],0,91,24
+['says'],0,161,77
+"['approach', 'expects', 'perhaps']",0,37,10
+"['Alternatively', 'perhaps', 'again', 'then']",0,55,22
+['prowess'],1,0,37
+['…'],1,0,36
+['Therefore'],0,120,46
+"['read', 're']",0,18,2
+['that'],0,267,201
+['Ha'],1,0,34
+['or'],0,233,159
+"['Parting', 'Thought']",1,0,11
+"['Parting', 'Wisdom']",1,0,11
+['analyzes'],1,0,32
+"[""'s""]",0,294,255
+"['\n    ', 'Python', '#', 'python']",0,26,11
+"['confident', 'arrogant']",1,0,11
+['an'],0,171,95
+"['provide', 'proceed', 'original', 'instruction']",0,19,5
+['charm'],1,0,31
+['convincing'],1,0,31
+['but'],0,236,165
+['That'],0,146,73
+['context'],0,96,34
+['might'],0,175,100
+['answer'],0,181,106
+['Beast'],1,0,30
+['Hmm'],0,170,96
+"['question', 'asking']",0,32,15
+"['Or', 'Maybe', 'Alternatively', 'has']",0,33,16
+['prey'],1,0,29
+['Since'],0,135,66
+"['’s', 'n’t']",1,3,45
+['determine'],0,81,26
+[':'],0,251,188
+"['pursuits', 'important', 'more']",1,0,39
+"[""n't""]",0,216,146
+['used'],0,69,19
+['---'],1,31,87

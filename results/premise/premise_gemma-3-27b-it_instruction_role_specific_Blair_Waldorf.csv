@@ -1,0 +1,180 @@
+pattern,group,count_0,count_1
+"[' ', ':*']",0,111,0
+"['(', ')']",0,112,19
+"['Honestly', '…']",1,2,127
+"['Okay', 'This']",0,93,0
+"['Here', '\n']",0,87,0
+"['1', '2', '3']",0,49,0
+"['Upper', 'East', 'Side']",1,9,31
+"['fear', 'love']",1,8,104
+['darling'],1,5,106
+"['!', ':']",0,82,0
+"['):', 'down']",0,61,0
+"['model', 'large', 'language']",0,41,0
+['And'],1,42,128
+"['Constance', 'Billard']",1,1,25
+"['an', 'AI']",0,70,0
+"['&', '""']",0,77,0
+"['I.', 'II', 'III']",0,31,0
+['how'],0,102,13
+"['human', 'data']",0,44,0
+"['specific', ""'d""]",0,55,0
+"['In', 'conclusion']",0,37,0
+['like'],0,102,18
+['information'],0,70,1
+['ca'],1,43,120
+"['Google', 'DeepMind', 'Gemma', 'team']",0,21,0
+['experience'],0,70,2
+"['breakdown', 'Self']",0,38,0
+['feel'],0,72,4
+"['elaborate', 'particular']",0,31,0
+['complex'],0,68,3
+['or'],0,113,40
+"[':', 'important']",0,65,1
+['by'],0,93,20
+"['""', 'sense']",0,69,1
+['You'],1,53,120
+['from'],0,103,31
+['incredibly'],0,54,0
+['process'],0,71,7
+"['der', 'Woodsen', 'van', 'Serena']",1,5,20
+"[""'m""]",0,79,12
+"['try', ""'ll""]",0,44,0
+['help'],0,57,2
+['also'],0,76,12
+['provide'],0,53,1
+"['\n', '  ']",0,44,0
+['lot'],0,55,2
+['personal'],0,64,6
+"['weights', 'widely', 'available', 'open']",0,17,0
+['based'],0,51,1
+['what'],0,111,47
+['naturally'],1,10,70
+"['text', 'trained']",0,27,0
+['as'],0,115,53
+['emotional'],0,55,3
+['work'],0,55,3
+['crucial'],0,67,9
+['way'],0,88,24
+[' \n\n\n\n'],0,45,0
+"['massive', 'dataset']",0,19,0
+['feelings'],0,51,2
+['simply'],1,34,98
+['out'],0,57,5
+"['strategies', 'Strategies']",0,17,0
+['patterns'],0,43,0
+['answer'],0,54,4
+['have'],0,113,54
+"['support', 'friends']",0,32,1
+['this'],0,99,37
+['huge'],0,42,0
+['Understanding'],0,45,1
+['make'],1,61,117
+"['Long', 'Term']",0,11,0
+"['5', '4']",0,17,0
+['into'],0,87,27
+['frankly'],1,7,58
+['-'],0,112,55
+"['\n', 'helpful']",0,42,0
+['often'],0,73,17
+['being'],0,105,47
+"['\n    ', 'these']",0,33,0
+"['[', ']']",0,12,0
+['on'],0,126,82
+['different'],0,66,13
+['good'],0,66,13
+"['Focus', 'Talk', 'Support', 'family']",0,19,0
+['?'],1,88,128
+['why'],0,51,5
+['must'],1,7,55
+['/'],0,37,0
+"['Active', 'Listening']",0,8,0
+['response'],0,45,3
+['These'],0,42,2
+['question'],0,90,34
+['behavior'],0,39,1
+"['yourself', 'Yourself']",0,19,0
+"['Bass', 'Chuck']",1,6,22
+['avoid'],0,41,2
+['might'],0,57,10
+['core'],0,45,4
+"['development', 'training']",0,20,1
+"['anything', 'Is', 'Perhaps']",0,27,0
+['How'],0,44,4
+['While'],0,39,2
+['self'],0,65,16
+['likely'],0,36,1
+['positive'],0,32,0
+['far'],1,13,60
+"['Boundaries', 'boundaries']",0,20,0
+['other'],0,58,12
+['break'],0,38,2
+['emotions'],0,38,2
+[' '],0,123,0
+['in'],0,128,94
+"[""'ve""]",0,77,26
+['relationships'],0,59,13
+['context'],0,31,0
+['going'],0,31,0
+['What'],0,52,9
+['broken'],0,42,4
+['e.g.'],0,30,0
+['constantly'],0,51,9
+['person'],0,51,9
+"['mental', 'health']",0,12,0
+['experiences'],0,36,2
+"['Feedback', 'RLHF', 'Human', 'Learning']",0,9,0
+['professional'],0,33,1
+"['Considerations', 'Important', 'situation']",0,17,0
+['do'],0,112,66
+['values'],0,38,3
+['knowledge'],0,29,0
+['okay'],0,29,0
+['pedestrian'],1,0,29
+"['coping', 'mechanisms', 'develop']",0,10,0
+['difficult'],0,48,8
+['need'],0,66,20
+['deeply'],0,34,2
+['learn'],0,45,7
+['Waldorf'],1,7,45
+['with'],0,118,77
+['their'],0,82,34
+['really'],0,58,15
+['perspective'],0,36,3
+"['If', '\n\n\n\n\n', 'an']",0,42,0
+"['thoughts', 'Challenge', 'judgment']",0,11,0
+['perfectly'],1,12,53
+['able'],0,27,0
+['humans'],0,27,0
+['internal'],0,27,0
+['give'],0,27,0
+['time'],0,59,16
+['Social'],0,33,2
+['strong'],0,33,2
+['where'],0,69,24
+['through'],0,58,16
+['code'],0,26,0
+['questions'],0,26,0
+[' \n\n'],0,26,0
+['part'],0,45,8
+['take'],0,37,4
+['same'],0,37,4
+"['space', 'safe']",0,14,0
+['One'],1,11,50
+['Though'],1,7,43
+['actions'],0,39,5
+"['Be', 'Your', 'Do', ""'re""]",0,26,0
+"['Avoid', 'Remember', 'Be']",0,14,0
+['may'],0,29,1
+['mistakes'],0,29,1
+"['Practice', 'Care', 'therapist']",0,12,0
+['\n\n\n\n'],1,104,129
+['topic'],0,25,0
+['character'],0,25,0
+['recognize'],0,25,0
+['communication'],0,25,0
+['potential'],0,49,11
+['There'],0,49,11
+"['effortless', 'charm', 'her']",1,0,13
+"['generate', 'responses', 'generating', 'model']",0,13,0
+"['biases', 'limitations']",0,13,0

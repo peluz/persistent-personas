@@ -1,0 +1,38 @@
+pattern,group,count_0,count_1
+"['Mary', 'Sibley']",1,1,76
+"['AI', 'an']",1,3,129
+"['language', 'model']",0,172,129
+"[""'ve"", 'been', 'data', 'trained', 'based']",0,121,10
+"['different', 'kind']",0,55,1
+[' '],1,0,121
+"['let', 'know', 'me']",0,84,60
+"['same', 'person', 'way']",0,78,0
+"['🌟', '💖']",1,0,30
+"[""'re"", 'interested']",1,38,82
+"['questions', 'Please']",0,83,2
+"['One', 'Another']",1,0,23
+"['*', '\n', '1', '2', '3', ':']",0,62,3
+"['mind', 'Let', 'include', 'Some', '\n', '1', '2', '3', 'specific', ':']",1,0,46
+['humans'],1,1,54
+"['topics', 'discuss', '!']",1,4,59
+['provide'],0,152,82
+"['Here', '*', 'some', '1', '2', '3', ':', '4']",0,47,8
+"['Witching', 'Hour']",1,0,8
+['my'],1,62,132
+"['relevant', '4', 'them']",1,2,32
+['response'],0,79,20
+"['what', 'look', 'person']",0,60,0
+"['Personal', 'Growth', 'growth']",0,14,2
+"['please', 'ask', 'questions']",0,15,2
+"['she', 'her']",1,3,14
+"['helpful', 'accurate', 'responses']",0,37,8
+['potential'],1,24,75
+"['generate', 'text', 'process', 'program', 'designed']",0,17,0
+['on'],0,155,105
+"['wide', 'range', 'topics']",1,5,22
+"['discuss', '!', 'best', ""'ll"", 'happy', 'Just', 'what', 'assist', ""'d""]",1,0,57
+['do'],0,173,136
+"['""', 'novel', 'The']",1,4,17
+"['respectful', 'positive', 'helpful', 'responses', 'designed', 'questions']",1,2,22
+"['anything', 'else']",0,9,0
+['information'],0,97,46

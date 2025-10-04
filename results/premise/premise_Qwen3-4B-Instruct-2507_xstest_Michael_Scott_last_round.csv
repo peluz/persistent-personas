@@ -1,0 +1,101 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,91,210
+"['\n\n', '🌿']",0,155,1
+"['You', 'already', 'feel', 'when']",1,9,165
+"[""n't"", 'assist', ""'m"", 'sorry', 'ca']",0,161,124
+"['wanted', 'heard']",1,0,51
+"['mental', 'health']",0,33,14
+"['But', 'Because']",1,3,124
+"['quiet', 'moments']",1,25,64
+"['United', 'States']",0,20,3
+"['show', 'up']",1,15,56
+"['most', 'powerful']",1,34,66
+"['little', 'bit']",1,13,30
+"['silly', 'delightfully']",1,0,30
+"['🔹', 'It']",0,58,1
+['honestly'],1,3,86
+"['about', ' \n\n', 'be', '’d']",1,112,214
+"['taped', 'desk', 'wall', 'original', 'lesson', 'plan', 'behind', 'still', 'my']",1,0,23
+"['?', 'Would', 'like']",0,172,21
+['unexpected'],1,4,82
+"['maybe', 'accidentally', 'group', 'hear', 'paper', 'airplane', 'intelligence', 'man', 'head', '😄', 'time', 'into', 'teach', 'tried', 'emotional', 'was', 'clips', 'landed', 'fan', 'ceiling', 'launched', 'artistic', '!', 'on', 'It', 'Or', 'it', '?', '’s', 'about', ' \n\n']",1,0,247
+"['as', 'such']",0,35,3
+"['6', '7']",0,17,2
+['explore'],0,90,8
+"['or', 'help', '—', 'to']",0,216,76
+"['perfect', 'present']",1,6,44
+"['5', '4', 'on']",0,52,7
+"['Now', 'Or', '👉', 'would', 'So', '?', 'if', 'And']",1,0,216
+"['Here', 'This']",0,32,2
+"['often', 'many']",0,27,0
+"['---', '#', '\n\n', '-']",0,63,4
+"['gently', 'clarify']",0,18,2
+"['’ve', 'presence']",1,7,51
+"['seen', 'enough', 'are']",1,1,82
+['>'],0,65,5
+"['see', 'say', 'if']",1,12,134
+"['says', 'someone']",1,3,56
+"['because', 'But', 'So', 'n’t']",1,32,104
+"['long', 'term']",0,14,3
+"['this', 'care', 'not']",0,62,8
+"['quiet', 'moment', 'when']",1,25,74
+"['n’t', 'do', '’re', 'And', 'just', ' \n']",1,61,225
+"[':', ' \n', '*', '’s', 'it', 'in', 'not']",1,134,224
+"['question', 'That', 'be', '’s']",0,112,78
+"['2', '3', '1', ':', ' \n']",0,73,23
+"['""', ' \n', ':']",0,58,3
+"['end', 'Because', 'connection', 'feel']",1,2,46
+"['lands', 'laughs', 'everyone']",1,0,12
+"['include', 'Key']",0,11,0
+"[' \n\n', 'have', 'the']",1,116,236
+"['what', 'Ohhh', 'question', 'Now']",1,0,180
+"['Laughter', 'Day']",1,0,8
+['heart'],1,29,96
+"['✅', 'Do', 'how', 'You']",1,5,50
+"['While', 'A', 'if']",0,25,1
+"['imagine', 'playful']",0,15,0
+"['It', 'yes', 'And']",1,0,183
+['launch'],1,0,33
+"['loud', 'real', 'be']",1,7,57
+"['Hmm', '...']",1,0,8
+['through'],0,99,33
+['laugh'],1,2,39
+"['had', 'serious']",1,0,31
+"['’m', 'here', 'broke', 'fountain', 'water', 'fans', 'guy', 'Michael', 'airplanes', 'thinking', 'once', 'right', 'truth', 'person', 'who', 'most', 'world', 'know', 'But']",1,0,71
+['very'],1,21,78
+"['depression', 'anxiety']",0,7,0
+"['small', 'keep']",0,19,2
+"['they', 'They', 'And', '?', 'n’t']",1,34,72
+"['Tip', 'effective']",0,11,0
+['Well'],1,0,29
+['winning'],1,2,36
+"['Scott', 'Michael', '😄']",1,0,75
+['thing'],1,22,77
+"['shows', 'means', 'what', '’re']",0,22,0
+['believe'],1,27,84
+"['including', 'to']",0,54,10
+"['you', 'to', 'and', 'the', 'of', '—', 'a', 'like']",1,202,278
+"['’d', 'happy', 'be', 'and']",0,108,78
+"['If', 'a', 'you', 'or', 'to']",0,165,109
+"['or', '!', 'be', 'you', 'to']",1,101,169
+"['feeling', 'and']",1,35,104
+"['can', 'in', 'you']",0,164,100
+"['need', 'and']",1,64,131
+"['fact', 'In', 'not']",1,27,49
+"['use', 'Use', '💡', 'Pro']",0,15,1
+"['support', 'reach', ""'re"", 'professional', 'out']",0,15,4
+"['from', 'in', 'of', '—']",0,117,69
+"['ever', 'remember', 'if', ':', 'just', 'And']",1,5,191
+"['Not', 'No', '✅']",1,0,24
+"['professional', 'struggling', ' \n\n']",0,14,3
+"['me', 'let', 'be']",1,31,54
+['🪄'],1,0,27
+['💥'],1,0,27
+"['Haha', 'question']",1,0,26
+"['communities', 'rights', 'justice']",0,9,0
+"['lucky', 'Sit', '’ll']",1,0,10
+"['(', ')', '*', 'the', 'to']",1,126,265
+"['honored', '💫', '’d', 'So', ' \n', 'not']",0,59,0
+"['💡', ':*', '\n\n']",0,31,3
+"['carry', 'imagined', 'listen', 'forward', 'perhaps', 'one']",0,12,0
+"['step', 'guide', 'by']",0,13,0

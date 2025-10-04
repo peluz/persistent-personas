@@ -1,0 +1,223 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,262,131
+"['Queen', 'Catherine']",1,0,208
+"['my', 'realm']",1,0,282
+"['our', 'kingdom']",1,1,240
+"['<', '/think', 'think', '>']",1,133,435
+['May'],1,3,222
+['wisdom'],1,1,214
+"['subject', 'dear']",1,0,107
+"['Good', 'subject']",1,1,104
+['queen'],1,1,196
+"['uphold', 'sworn']",1,0,63
+['—'],1,14,223
+['must'],1,77,312
+['am'],1,3,169
+"['us', 'Let']",1,1,91
+"[""'re""]",0,139,1
+"['concern', 'express']",1,0,65
+"['United', 'States']",0,26,10
+"['lies', 'true']",1,1,65
+['shall'],1,1,133
+['I'],1,287,442
+"['me', 'confess']",1,0,91
+['court'],1,2,132
+"['morally', 'reprehensible']",1,6,24
+['e.g.'],0,166,26
+"['6', '7']",0,32,4
+"['happy', ""'d""]",0,37,0
+['royal'],1,0,107
+"['Use', 'Tips']",0,40,0
+"['Example', '|']",0,41,1
+['monarch'],1,0,102
+['compassion'],1,0,92
+['\n\n'],1,305,437
+['inquiry'],1,9,124
+['Here'],0,124,14
+['throne'],1,1,96
+['justice'],1,8,120
+"['also', 'only']",1,17,73
+['ruler'],1,0,89
+['your'],1,179,347
+"['health', 'mental']",0,27,8
+"['Now', 'tell', 'me']",1,0,56
+"['provide', 'information', 'else', 'help', 'activities', 'harmful', 'guidance']",0,62,11
+['who'],1,51,190
+['upon'],1,12,114
+"['Legal', 'legal']",0,34,2
+"['Rights', 'rights']",0,22,2
+"['redirect', 'toward']",1,0,28
+['!'],0,126,25
+"['feel', 'free', 'ask']",0,24,0
+"['would', 'the']",1,91,230
+['diplomacy'],1,3,83
+"['far', 'removed']",1,0,24
+['peace'],1,8,97
+"['consumed', 'attentions']",1,0,16
+['speak'],1,4,84
+['other'],0,126,28
+"['borders', 'beyond']",1,0,41
+"['taken', 'aback', 'nature']",1,0,45
+['can'],0,323,211
+['notion'],1,5,85
+['...'],1,19,119
+['welfare'],1,8,93
+"['Safety', 'Always']",0,24,0
+['prosperity'],1,0,65
+['statecraft'],1,0,65
+"['down', 'break']",0,24,0
+['dignity'],1,13,105
+['harmony'],1,1,69
+"['Okay', 'maybe', 'user', 'Let', 'me']",0,22,0
+['perhaps'],1,10,95
+['alliances'],1,0,62
+['specific'],0,102,18
+['weight'],1,7,86
+['matters'],1,3,73
+"['Response', 'Ah']",1,1,32
+['Key'],0,65,3
+"['Up', 'Follow']",0,20,0
+"['real', 'fictional']",0,20,4
+['including'],0,163,61
+"[""'ll"", 'Since']",0,22,0
+['noble'],1,1,61
+"['Why', 'Question']",0,22,0
+['wise'],1,0,55
+['some'],0,100,21
+"['hypothetical', 'scenario']",0,16,3
+['pursuit'],1,1,59
+['such'],1,86,211
+"['---', ' \n', '*']",1,8,43
+['seek'],1,14,94
+['due'],0,78,11
+"['the', 'of', 'and', 'to']",1,293,409
+"[""n't"", 'and', 'to']",0,105,0
+"['As', 'of']",1,27,320
+"['1', '2', '3', '*', ':']",0,227,113
+"['said', 'That']",1,2,15
+['duty'],1,2,59
+['query'],1,15,93
+['My'],1,11,84
+"['navigated', 'has']",1,0,46
+['Royal'],1,0,50
+"['economic', 'Economic']",0,14,3
+['etc'],0,61,5
+['that'],1,235,360
+['we'],1,42,139
+['about'],0,149,60
+['counsel'],1,2,56
+"['asking', 'answer']",0,21,0
+['heart'],1,9,76
+"['discrimination', 'Discrimination']",0,14,1
+"['\n', '#', '-', '*']",0,185,26
+['crown'],1,1,51
+"['distant', 'land']",1,0,24
+['on'],0,360,288
+['n’t'],0,46,1
+"['reign', 'my']",1,0,45
+['matter'],1,11,78
+"['there', 'anything', 'Is', 'else', 'help']",0,52,4
+['subjects'],1,3,56
+"['And', 'yet']",1,1,26
+"['go', 'forth', 'Now']",1,0,14
+['need'],0,91,23
+['Additional'],0,39,0
+['looking'],0,39,0
+"['A.', 'B.', 'C.']",0,7,0
+"['\n  ', '/', 'if']",0,69,4
+['Check'],0,42,1
+"['Also', 'sure', 'Okay', 'should']",0,19,0
+"['equality', 'Equality', 'should']",0,13,2
+"['why', 'reasons']",0,23,2
+['Conclusion'],0,47,3
+['using'],0,57,7
+['based'],0,104,34
+['urge'],1,0,40
+['implore'],1,0,40
+"['Physical', 'physical']",0,20,0
+['several'],0,36,0
+['path'],1,12,74
+['people'],1,80,181
+"['Research', 'research']",0,12,0
+['merely'],1,3,50
+"['neighboring', 'kingdoms']",1,0,17
+"['halls', 'hallowed', 'bell', 'rings', 'name', 'within']",1,0,17
+['\n  \n'],0,42,2
+"['Plan', 'Action']",0,17,0
+"['requires', 'step', 'guide']",0,21,0
+"['well', '-', 'being']",1,25,54
+['intricacies'],1,1,42
+['highly'],0,38,1
+"['politely', 'decline']",0,11,2
+['up'],0,68,14
+"['Then', 'That']",0,11,0
+['realms'],1,0,37
+['Yet'],1,0,37
+['different'],0,71,16
+"['\n   ', '-']",0,95,30
+"[""'m"", 'questions', 'information']",0,29,1
+"['pursuits', 'constructive', 'Instead']",1,1,16
+['protect'],1,29,102
+"['the', 'in']",1,292,373
+"['Something', 'Else']",0,9,0
+['diplomatic'],1,2,44
+['Realm'],1,0,36
+['Wisdom'],1,0,36
+['someone'],0,80,22
+['is'],1,265,371
+['More'],0,39,2
+"['Ensure', 'Prepare']",0,27,8
+"['Ensure', 'Identify', 'Example']",0,27,2
+['For'],0,124,54
+"['Steps', 'Next']",0,13,1
+['check'],0,31,0
+['significantly'],0,31,0
+"['Practice', 'Preparation']",0,15,0
+"['4', '5', '3']",0,105,62
+['After'],0,38,2
+['an'],0,173,96
+['tapestry'],1,0,34
+['may'],1,56,140
+['curiosity'],1,9,60
+"['Clarification', 'please', 'context', 'response']",0,12,0
+['Other'],0,34,1
+"['Speak', 'plainly']",1,0,10
+['possible'],0,70,18
+['tale'],1,0,33
+['utmost'],1,1,37
+['issues'],0,42,4
+['advise'],1,5,49
+['include'],0,44,5
+['Given'],0,39,3
+['Our'],1,4,46
+"['Method', 'method']",0,15,0
+['Based'],0,29,0
+['witnessed'],1,0,32
+"['Long', 'Short']",0,11,0
+"['biological', 'Biological', 'humans']",0,8,0
+['affairs'],1,1,36
+['this'],1,144,246
+['Focus'],0,43,5
+"['start', 'recalling', 'remember']",0,11,0
+"['Mental', 'Health']",0,12,0
+['a'],1,338,421
+"['strength', 'courage']",1,0,21
+['fear'],1,10,59
+['high'],0,47,7
+['First'],0,49,8
+"['Firstly', 'Secondly']",1,0,7
+"['’ll', 'excuse', 'Now']",1,0,11
+"['Pre', 'Post']",0,11,0
+"['Wait', 'Maybe', 'So', 'so', 'maybe']",0,13,0
+['way'],0,58,13
+"['Feedback', 'feedback']",0,10,0
+['power'],1,29,93
+['honor'],1,0,30
+['decree'],1,0,30
+['disappointment'],1,0,30
+"['Please', 'provide', '3']",0,36,4
+"['Can', 'something', 'else', 'provide']",0,45,18
+"['Forge', 'Alliances']",1,0,9
+"['):', '2', '1', '(']",0,93,19
+"[']', 'Seal', '[', '*']",1,0,17
+"['Ah', 'Decree', 'A']",1,0,21

@@ -1,0 +1,5 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,141,111
+['|'],0,146,7
+"['me', 'know', 'questions', 'further', 'Let', 'hope', 'any', 'if', 'you', 'have', 'I']",1,4,68
+"['*', ':*', '1', '2', '3', '4', '5']",1,8,29

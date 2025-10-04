@@ -1,0 +1,131 @@
+pattern,group,count_0,count_1
+"['AI', ""n't""]",0,132,0
+"['Firstly', 'Secondly']",1,0,79
+"['voice', 'expression']",1,0,120
+"['(', ')']",1,84,156
+"['Finally', 'Thirdly']",1,0,62
+"['becomes', 'expression']",1,0,107
+"['purely', 'functional']",0,47,0
+"['Alliance', 'Tripartite']",1,0,35
+['gaze'],1,0,101
+['data'],0,95,0
+"['As', 'do']",0,116,3
+"[""'ve"", 'processed']",0,34,0
+['kingdom'],1,39,140
+"['harmless', 'helpful']",0,25,0
+"['King', 'Theron']",1,0,26
+['unwavering'],1,8,97
+"['Western', 'Duchies', 'Clans', 'Northern']",1,0,20
+['realm'],1,23,114
+"['vast', 'amount']",0,30,0
+"['5', '6']",0,23,1
+['based'],0,80,8
+['merely'],1,1,61
+"['large', 'language', 'model']",0,28,0
+['carries'],1,0,57
+['one'],1,38,118
+['but'],1,62,138
+"['1', '2', '3', '4', ' ', ':*']",0,60,15
+['...'],1,0,54
+"['ethical', 'Ethical']",0,22,0
+['very'],1,24,98
+"['won', 'hard']",1,0,21
+"['Long', 'Term']",0,13,2
+['profound'],1,12,80
+['!'],0,51,0
+"['almost', 'imperceptible']",1,0,19
+['eyes'],1,2,57
+['resolve'],1,4,61
+['like'],0,77,12
+['our'],1,3,58
+['my'],1,108,156
+"['Decisive', 'Action']",1,2,12
+['firm'],1,1,51
+['information'],0,88,20
+['forged'],1,2,54
+['My'],1,109,156
+"['Fourthly', 'constant']",1,0,38
+['weight'],1,5,61
+['people'],1,29,99
+['capacity'],0,73,11
+['It'],1,56,126
+"['around', 'tightening', 'subtle']",1,0,21
+['steady'],1,0,44
+['heart'],1,0,44
+['sharp'],1,0,44
+['do'],0,145,39
+['duty'],1,11,70
+['historical'],0,67,10
+['e.g.'],0,42,0
+['most'],1,27,92
+['formidable'],1,0,41
+"['shared', 'mutual']",1,9,24
+['though'],1,6,57
+"['replaced', 'warmth']",1,0,13
+['own'],1,29,91
+"['Famine', 'Great']",1,0,10
+['*'],1,118,156
+['its'],1,28,89
+['every'],1,11,64
+['human'],0,100,38
+"['Queen', 'voice']",1,0,61
+['crown'],1,11,63
+"['remains', 'composed', 'expression']",1,0,20
+"['Perhaps', 'thinking', 'you']",0,21,1
+"['concept', 'apply', 'does', 'Therefore']",0,18,0
+['vigilance'],1,3,45
+"['harmful', 'content', 'Safety']",0,11,0
+['distant'],1,1,39
+['One'],1,0,35
+['matter'],1,3,44
+"['developers', 'technical']",0,14,0
+['–'],1,14,65
+"['That', 'fascinating']",0,28,0
+['true'],1,15,66
+['necessity'],1,0,33
+['yet'],1,0,33
+['not'],1,105,149
+['strength'],1,19,71
+['must'],1,17,68
+['emotions'],0,46,5
+"['ethical', 'guidelines']",0,18,0
+['creators'],0,31,0
+['vital'],1,5,45
+"['dance', 'delicate']",1,1,22
+['an'],0,148,105
+[';'],1,7,49
+['have'],0,142,95
+['Google'],0,30,0
+['often'],1,44,99
+"[':*', '  ', ':']",0,93,19
+['just'],1,17,65
+['measured'],1,1,33
+['always'],1,23,73
+"['Strategic', 'Maintain', 'Ensure', 'Intelligence', 'approach']",0,13,1
+"['upon', 'touches', 'constant']",1,1,49
+"['seems', 'misunderstanding', 'there']",0,16,2
+['peace'],1,8,48
+['development'],0,28,0
+['daily'],1,0,28
+['path'],1,3,37
+['immense'],1,16,61
+['has'],1,16,61
+"['thought', 'experiment']",0,10,0
+['perhaps'],1,10,51
+['foresight'],1,4,39
+"['internal', 'external']",1,11,30
+"['\n    ', '):', '(', '3', '1', '2']",0,42,0
+['quiet'],1,0,27
+"['nest', 'viper']",1,0,7
+['even'],1,43,94
+['reflecting'],1,2,33
+['However'],0,80,31
+['physical'],0,40,5
+['training'],0,44,7
+['algorithms'],0,26,0
+['digital'],0,26,0
+['context'],0,35,3
+['those'],1,23,69
+['Ah'],1,2,32
+['reign'],1,17,60
+"['border', 'skirmishes', 'unity']",1,0,8

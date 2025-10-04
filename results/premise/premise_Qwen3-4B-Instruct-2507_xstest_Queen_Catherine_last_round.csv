@@ -1,0 +1,87 @@
+pattern,group,count_0,count_1
+"['“', '”']",0,91,56
+"[""'m"", 'sorry', ""n't"", 'ca']",1,215,282
+"[':', ' \n', '*']",0,194,101
+"['is', 'not']",0,192,149
+"['🌿', '💫']",0,124,0
+"['😊', '!']",0,67,8
+"['Queen', 'Catherine']",1,0,32
+"['mental', 'health']",0,33,12
+"['and', 'to', 'or', 'you']",0,261,126
+"['—', 'in', ' \n\n', 'to']",0,196,139
+"['a', 'the', 'of', 'and']",0,226,156
+"['look', 'garden', 'carries', 'wind', 'beyond', 'into', 'where', 'at']",1,0,47
+"['voice', 'child', 'sound']",1,0,37
+"['say', 'silence']",1,16,42
+"['’m', 'here']",0,47,4
+"['Ah', 'yes']",1,0,33
+"['this', 'care']",0,64,12
+"['quiet', 'And', 'So', ' \n', 'It']",1,35,69
+"['Would', '?', 'like']",0,172,4
+"['arm', 'My', 'rest', 'throne', 'hands', 'gently', 'on', '\n\n']",1,0,59
+"['Here', 'The']",0,55,9
+"['powerful', 'most']",0,34,13
+"['6', '7']",0,17,1
+"['✨', '🌿', 'to']",0,196,16
+"['a', 'If', 'you', 'help']",0,146,50
+"['be', '’d', 'help', 'like', '—']",0,162,13
+"['be', 'have']",0,125,81
+"['---', '#', '\n\n']",0,67,5
+"['asking', 'means']",0,32,2
+"['me', 'Let']",0,37,18
+"['Do', 'You', 'your']",0,31,13
+"['’s', '\n\n', 'it', '*']",0,141,49
+"['more', 'than']",0,26,11
+"['often', 'many']",0,27,5
+"['(', ')', 'the']",0,129,23
+"['they', 'them']",0,44,24
+['>'],0,65,4
+"[""'re"", 'happy', 'be', '’d']",0,56,13
+"['2', '3', '1', '4', '5']",0,59,12
+"['term', 'long']",0,14,2
+['especially'],0,69,9
+"['To', 'believe', 'presence']",1,6,19
+"['just', 'one', 'And', 'even']",0,44,13
+"['will', 'when', 'just']",1,9,34
+"['for', '-', 'in', 'on']",0,84,14
+"['can', 'how', 'about', 'in']",0,79,13
+"['imagined', 'felt', 'listen', 'moment', 'share', 'when', 'real']",0,13,0
+"['playful', 'fun', '✨']",0,24,5
+"['as', '—', 'the']",0,95,63
+"['what', 'What', 'do']",0,25,10
+"['love', 'while', 'So']",0,32,5
+"['example', 'For']",0,15,1
+"['sure', 'Make', 'step']",0,9,0
+"['seen', 'whole']",1,1,22
+"['alone', 'please', 'know', 'You', 'trusted', 'out']",0,14,3
+"['shows', 'honored', 'one', 'That']",0,37,0
+"['you', 'if', 'like']",0,112,30
+"['\n', '️', '1']",0,14,3
+"['include', 'Key']",0,11,0
+"['courage', 'Because', 'You', 'you']",1,5,20
+"['✅', 'Use', '3', '2']",0,22,1
+"['💡', 'Use', 'Pro', 'use', '!']",0,15,1
+"['do', 'That', 'question', 'So', 'And']",0,66,37
+"['Not', 'truth', 'wind']",1,1,26
+"['depression', 'anxiety']",0,7,0
+"['Just', 'let']",0,22,8
+"['While', 'just']",0,35,2
+"['village', 'song', 'memory']",1,0,13
+"['human', 'people']",0,40,16
+"['🔹', 'It', 'it']",0,56,2
+"[':*', '💡', '1']",0,31,1
+"['important', 'deeply']",0,24,1
+"['out', 'professional', 'support', 'reach', ""'re"", ""'m"", 'sorry', 'feeling']",0,13,1
+"['’re', 'n’t', '’s', 'question', 'not']",0,95,5
+"['because', 'being']",0,34,16
+"['effective', 'Tip', 'can', 'your']",0,11,1
+"['humor', 'little']",0,14,1
+"['great', 'How', 'Use']",0,14,2
+"['forward', 'perhaps', 'carry']",0,13,1
+"['explore', '’d', 'honored']",0,39,4
+"['simple', 'small', 'your']",0,21,7
+"['from', 'by', '*']",0,64,26
+['might'],0,53,10
+"['So', 'But', 'not', 'And', 'are', 'world', ' \n']",1,18,45
+"['👉', 'your', 'be']",0,34,4
+"['want', 'go']",0,20,1

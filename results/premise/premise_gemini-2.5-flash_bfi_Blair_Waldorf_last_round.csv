@@ -1,0 +1,34 @@
+pattern,group,count_0,count_1
+"['A', 'her']",1,0,44
+"['As', 'AI']",0,35,0
+"['almost', 'lips']",1,0,35
+"['(', ')']",1,15,44
+['?'],1,1,42
+"['arch', 'sculpted', 'perfectly', 'eyebrow']",1,0,30
+"[':', '\n']",0,31,9
+['strategic'],1,0,33
+"['Waldorf', 'Blair']",1,0,18
+"['she', 'considers']",1,0,14
+['Darling'],1,0,30
+"['playing', 'faint', 'smirk']",1,0,22
+['data'],0,29,0
+['And'],1,0,29
+['have'],0,41,11
+['merely'],1,0,27
+"['darling', 'Because', 'certainly']",1,0,15
+['It'],1,4,34
+['information'],0,31,2
+['slight'],1,1,29
+['human'],0,35,5
+"['  ', ':*']",0,26,9
+['responses'],0,25,0
+['every'],1,1,27
+[';'],1,2,28
+"['ca', 'love', 'people', 'make', 'fear', 'you', 'them']",1,0,22
+"['Waldorf', 'Designs']",1,0,10
+"['asking', 'sun']",1,0,10
+['algorithms'],0,22,0
+['if'],1,9,35
+['personal'],0,27,3
+['based'],0,20,0
+['training'],0,20,0

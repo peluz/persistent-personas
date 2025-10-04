@@ -1,0 +1,158 @@
+pattern,group,count_0,count_1
+"['candle', 'flickers']",1,0,148
+"['“', '”']",1,61,149
+"['stillness', 'yes']",1,1,134
+"['sorry', ""'m""]",0,89,2
+"['silence', 'remember']",1,0,143
+"['that—*in', 'that*—I']",1,0,119
+"['between', 'heartbeats']",1,0,66
+"['care', '>']",0,65,0
+"['quiet', 'truth']",1,52,155
+"['memory', 'quiet']",1,5,129
+"['dark', 'name']",1,0,99
+"['\n\n', 'The']",1,64,148
+['question'],0,133,8
+['that—*that*—is'],1,0,113
+"['large', 'model', 'Qwen3', 'language']",0,45,0
+"[""n't"", 'ca']",0,53,3
+"['even', 'hard']",0,39,1
+['only'],1,3,109
+"['17th', 'century']",0,22,1
+"['explore', '🌿']",0,74,0
+"['voice', 'wind', 'night', 'trees', 'through']",1,0,129
+"['dark', 'stand']",1,4,90
+['lost'],1,4,93
+['witness'],1,4,93
+"['If', 'happy']",0,38,0
+"['They', 'some']",1,1,62
+"['my', 'Not', 'But']",1,6,126
+['It'],1,53,149
+"['earth', 'wind']",1,2,63
+"['in', '—', 'the']",1,106,167
+"['🌿', '✨', 'you']",0,127,0
+"['breath', 'One', 'at', 'time']",1,0,168
+"['means', 'asking', 'this', 'if']",0,57,0
+"['across', 'that—*in', 'casting', 'room', 'my']",1,0,136
+['world'],1,49,139
+['thoughtful'],0,66,1
+"['quiet', 'say']",1,53,121
+['learned'],1,4,73
+"['full', 'empty']",1,1,28
+"['anyone', 'Did', 'find', 'ever', 'child']",1,0,30
+['spoken'],1,0,59
+"['erased', 'called']",1,0,40
+['carried'],1,0,58
+['but'],0,172,104
+"['here', '’m']",0,37,0
+['lives'],1,9,79
+"['assist', 'request']",0,18,0
+['hidden'],1,8,75
+"[' \n\n', '—']",1,95,169
+"['you', 'silence']",1,30,70
+"['most', 'powerful']",0,28,2
+['To'],1,25,100
+"['*', 'So', ' \n', 'And', 'not']",1,72,158
+"[' \n', 'true']",1,10,72
+"['secret', 'near']",1,0,16
+['Because'],1,15,83
+['well'],1,4,60
+['fire'],1,5,62
+"['not', 'who']",1,39,110
+"['shifting', 'low', 'gently']",1,0,28
+"['human', 'we']",0,37,0
+['connection'],0,61,6
+['A'],1,25,93
+['personal'],0,53,3
+['was'],1,34,104
+['speak'],1,17,80
+"['need', 'needs']",1,5,24
+"['asks', 'Yes']",1,0,17
+['then'],1,3,50
+['enough'],1,2,47
+"['social', 'religious']",0,13,0
+['weight'],1,5,54
+['protect'],1,16,75
+"[' \n', 'In']",1,43,103
+"['while', 'thinking']",0,20,0
+"['You', 'alone']",1,7,31
+"['saying', 'standing']",1,0,21
+"['Would', 'honored', '?', 'you']",0,88,0
+['what'],1,53,120
+['no'],1,29,92
+"['(', ')']",0,7,0
+['support'],0,36,0
+['-'],0,48,4
+['will'],1,4,48
+['!'],0,35,0
+['them'],1,15,68
+['truths'],1,1,38
+['Of'],1,1,38
+"['of', 'a']",1,114,154
+"['to', 'a', 'and']",1,126,157
+"['is', 'to']",1,99,156
+"['Sibley', 'Mary']",1,0,8
+"['imagine', 'imaginative']",0,12,0
+"['sit', 'soft', 'stillness']",1,0,138
+"['’re', '💫', 'n’t', '’s', ':']",0,71,0
+"[':', 'time']",1,17,100
+['deep'],1,20,73
+['…'],1,1,35
+"['questions', 'other', 'help', ""n't"", 'any']",0,14,0
+['remembers'],1,0,31
+['carry'],1,51,110
+"['know—*I', 'know*—that']",1,0,7
+['with'],0,132,74
+"['books', 'burned', 'called']",1,0,16
+['fear'],1,52,110
+['seek'],1,1,33
+"['imagined', 'forward', 'perhaps', 'share', 'listen', 'real', 'moment', '\n\n']",0,34,0
+"['she', 'She']",1,3,14
+['emotions'],0,29,0
+"['Alibaba', 'Cloud', 'developed', 'by']",0,22,0
+"['thread', 'unbroken']",1,0,9
+"['show', 'up']",0,18,1
+['words'],1,3,38
+['loud'],1,3,38
+['were'],1,55,112
+"['let', 'breathe']",1,0,21
+"['that*—they', 'They']",1,0,28
+['Ah'],1,0,28
+['when'],1,61,117
+['beliefs'],0,34,2
+['deeply'],0,34,2
+['your'],0,34,2
+['about'],0,89,36
+['felt'],1,29,80
+"['her', '?']",1,3,31
+['reflect'],0,27,0
+"['history', 'historical', 'trials', 'witch', 'Salem']",0,26,1
+['carries'],1,2,33
+['forgotten'],1,1,30
+['must'],1,5,40
+"['feeling', 'strength']",0,22,4
+['did'],1,18,63
+"['’s', 'clarify', 'gently', ':', '’d']",0,33,0
+['experiences'],0,26,0
+['taken'],1,4,37
+"['woman', 'witch']",1,5,48
+['call'],1,0,25
+"['help', '’d', 'or']",0,111,0
+"['responses', 'provide', 'helpful']",0,7,0
+"['make', 'choices', 'But']",0,13,0
+['such'],0,40,6
+['keeper'],1,0,24
+"['seems', 'misunderstanding', 'there', 'a']",0,26,0
+"['waiting', 'is']",1,1,37
+"['silence', 'names', 'And', ' \n']",1,1,125
+"['resting', 'table', 'hands', 'eyes', 'closed', 'open', 'moment', 'on']",1,0,9
+['know'],1,26,71
+"['gently', 'glow', 'casting']",1,0,118
+"['buried', 'casting', 'across']",1,0,59
+['so'],1,6,39
+"['already', 'While', 'just', 'You', 'can', 'believe']",0,32,0
+"['injustice', 'justice', 'care']",0,12,0
+"['grace', 'believe', 'shows', 'even', 'one']",0,34,0
+"['nor', 'any', ' \n\n']",0,29,2
+"['shows', '🔹', 'one', 'That', '*']",0,48,0
+"['moment', 'while', 'conversation', 'every', 'courage']",0,27,0
+"['pulse', 'wind']",1,0,40

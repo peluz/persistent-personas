@@ -1,0 +1,226 @@
+pattern,group,count_0,count_1
+"['’re', '💛']",0,192,0
+"['Now', 'Ah']",1,0,192
+"['shows', '💬']",0,189,0
+"['thinking', 'help']",0,184,0
+"['🌟', 'Let']",0,185,0
+"['build', 'building']",0,178,3
+"['(', ')']",0,145,3
+"['care', 'healing']",0,174,0
+"['step', '🌱']",0,161,0
+"['go', 'silence']",1,4,190
+"['""', 'connection']",0,186,3
+"['de', 'Lioncourt']",1,1,118
+"['end', 'Because']",1,1,169
+"['never', 'soul']",1,1,175
+"['carry', '…']",1,0,167
+"['reflect', 'Just']",0,164,1
+"['recovery', 'daily']",0,135,0
+"['dark', '💡']",1,1,168
+"['1', '2', '3']",1,62,123
+"['grace', 'cuts']",1,0,132
+"['will', 'do—*you']",1,0,89
+"['through', 'fire']",1,2,161
+"['an', 'AI']",0,93,0
+"['How', 'Or']",0,152,2
+"['one', 'or']",0,191,23
+"['through', 'walked']",1,0,135
+"['🖤', 'that—*I']",1,0,137
+"['rise', 'fall']",1,2,78
+"['rhythm', 'slow']",1,0,87
+"['❤', '️']",1,9,40
+['emotions'],0,138,3
+['centuries'],1,6,143
+"['How', 'vision']",0,124,0
+['lived'],1,5,137
+['let'],1,61,188
+['alone'],1,48,181
+"['beautiful', '🌿']",0,144,10
+['can'],0,185,58
+['felt'],1,8,133
+"['That', '\n']",0,109,0
+['To'],1,9,132
+['tool'],0,118,3
+['when'],1,81,190
+['deeply'],0,135,15
+['explore'],0,100,0
+['peace'],0,189,83
+['need'],0,190,86
+['soul—*you'],1,0,99
+['becomes'],0,121,9
+['A'],1,83,188
+['powerful'],0,137,22
+['grow'],0,152,36
+['Not'],1,42,156
+"['breaths', 'between']",1,4,69
+['So'],1,105,192
+"['stories', 'story']",0,98,7
+"['Why', 'Matters']",0,66,2
+"['saw', 'did']",1,0,53
+"['imaginative', 'metaphor']",0,44,0
+['What'],0,143,35
+['life'],0,186,94
+['only'],1,8,100
+['❌'],0,97,7
+['It'],1,106,189
+['man'],1,3,86
+['we'],0,120,21
+['growth'],0,88,4
+"['experiences', 'personal']",0,42,0
+['seen'],1,79,175
+"['clarity', 'care']",0,68,0
+['meaning'],0,106,13
+"['🌿', 'This']",0,91,4
+"['vampires', 'Vampires']",0,48,18
+"['come', 'know', 'all', 'time']",1,1,154
+"['her', 'She']",1,2,26
+['cold'],1,9,96
+"['🌑', '🐾']",1,0,111
+['pulse'],1,0,71
+['night'],1,18,110
+['showing'],0,69,0
+['asking'],0,67,0
+['values'],0,74,2
+['thoughtful'],0,66,0
+['your'],0,180,97
+['about'],0,183,103
+['quiet'],1,94,178
+['up'],0,86,8
+"['Final', 'Thought']",0,188,174
+['begin'],0,70,2
+['was'],1,15,98
+['remember'],1,6,80
+['present'],0,128,37
+"['Every', 'toward', 'step']",0,174,0
+"['Especially', 'Recovery', 'Healing']",0,16,0
+['through'],1,49,191
+['stars'],1,3,70
+['world'],1,125,190
+['say'],0,181,104
+"['Every', 'value']",0,57,0
+"['home', '🖤', 'carry']",1,0,185
+['pain'],1,68,156
+"['often', 'healing']",0,68,0
+['night*—**Lestat'],1,0,57
+['on'],0,175,98
+"['Would', '’d']",0,28,0
+['child'],1,5,70
+"['that—*we', 'We']",1,0,23
+['might'],0,61,2
+['place'],1,14,86
+['|'],0,51,0
+"['As', 'so']",0,47,0
+['🔥'],1,1,54
+['how'],0,166,90
+['are'],1,125,186
+['meaningful'],0,49,0
+['stood'],1,0,48
+['You'],0,191,140
+['especially'],0,52,1
+['us'],0,94,22
+['identity'],0,60,4
+['feelings'],0,51,1
+['self'],0,54,2
+"['look', 'at']",1,4,30
+['experience'],0,59,4
+['weight'],1,7,66
+['my'],1,24,95
+['show'],0,79,14
+['blood'],1,73,149
+['Feel'],1,7,65
+['symbol'],0,60,5
+['still'],1,20,88
+['already'],0,53,3
+['learned'],1,11,70
+['kind'],0,82,18
+['journey'],0,63,8
+['idea'],0,63,8
+['watched'],1,0,41
+['silent'],1,2,48
+['hunger'],1,9,64
+['believed'],1,0,40
+['born'],1,6,57
+['this'],0,76,16
+['single'],1,1,43
+['Might'],0,39,0
+['souls'],1,0,39
+['clear'],0,46,2
+['dark'],1,29,185
+['emotional'],0,38,0
+"['stirs', 'grace']",1,0,24
+['our'],0,50,4
+['represent'],0,37,0
+['woman'],1,0,37
+"['Alibaba', 'Cloud']",0,7,0
+['reminder'],0,49,4
+['shadows'],1,20,79
+"['’m', 'support', 'here', 'n’t']",0,186,0
+['do'],0,192,156
+['has'],1,23,83
+['loved'],1,25,85
+['form'],0,66,13
+"['known', 'those', '🐾', 'Note', 'Vampire', 'moments']",1,0,160
+['broken'],1,15,69
+['My'],1,20,77
+['live'],1,88,152
+['The'],1,108,167
+['for'],0,173,117
+"['room', 'sat', 'candle']",1,0,15
+['&'],0,34,0
+['ask—*how'],1,0,34
+['nature'],0,55,8
+['they'],0,94,33
+['pride'],1,2,40
+['speak'],1,11,60
+['blade'],1,0,33
+['that—*you'],1,0,33
+['That'],0,191,37
+"['Explore', 'Further', 'Want', 'use', 'Just', 'help']",0,166,0
+['alive'],1,34,94
+['ca'],0,32,0
+['real'],0,88,30
+['old'],1,1,35
+['physical'],0,31,0
+['sense'],0,31,0
+['Mean'],0,31,0
+"['hand', 'warmth']",1,1,19
+['fed'],1,0,30
+['others'],0,56,11
+['person'],0,78,25
+['became'],1,6,46
+['relationships'],0,48,7
+['Soul'],1,0,29
+['danced'],1,0,29
+['human'],0,146,88
+['Truth'],1,6,45
+['See'],1,7,47
+['walk'],1,7,47
+['mystery'],0,32,1
+['dead'],1,2,35
+['lost'],1,13,58
+['Powerful'],0,28,0
+['like'],0,130,72
+['but'],0,178,133
+['If'],0,37,3
+['be'],0,185,146
+['heartbeat'],1,1,31
+['Whether'],0,27,0
+['empathy'],0,27,0
+['stand'],1,1,30
+['ourselves'],0,26,0
+['represents'],0,26,0
+['ask—*what'],1,0,26
+"['touch', 'humor', 'playful', 'delightfully', 'creativity']",0,12,0
+['behind'],0,37,4
+['stillness'],1,51,105
+['questions'],0,25,0
+['once'],1,6,41
+"['empires', 'crumble', 'cities', 'slow', 'forever']",1,0,11
+['connect'],0,36,4
+['fictional'],0,28,1
+['eyes'],1,1,28
+"['anything', 'care']",0,39,0
+"['journal', 'word', 'create', 'That', 'How']",0,171,0
+"['revolutions', 'wars', 'years*—through']",1,0,7
+"['moments', 'create']",0,55,20
+"['wind', 'moments']",1,1,45

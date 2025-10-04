@@ -1,0 +1,138 @@
+pattern,group,count_0,count_1
+"[""'s"", '\n\n\n\n']",0,170,0
+"['slow', 'exhale']",1,0,148
+"[':*', '\n']",0,134,1
+"['flicker', 'eyes']",1,3,150
+"['…', 'And']",1,46,191
+"[""n't"", '""']",0,131,0
+"['Here', ':']",0,120,1
+['AI'],0,142,0
+"['“', '”']",1,6,36
+"['fall', 'rise']",1,18,45
+"['deliberate', 'slow']",1,0,114
+"['de', 'Lioncourt', 'Lestat']",1,5,52
+['!'],0,125,5
+"['language', 'model', 'large']",0,41,0
+"['(', ')']",1,125,192
+['A'],1,96,192
+['darkness'],1,26,140
+['data'],0,94,1
+['amusement'],1,2,94
+"[':*', '&']",0,79,0
+"['As', 'analyze']",0,64,0
+['To'],1,35,142
+['That'],0,149,42
+['merely'],1,10,103
+['information'],0,86,4
+"[""'ve""]",0,72,0
+['based'],0,81,3
+['This'],0,101,12
+"['4', '5']",0,19,1
+"['artificial', 'intelligence']",0,19,0
+['But'],1,76,170
+"['confront', 'forced']",1,10,26
+"['Akasha', 'her']",1,14,31
+['creature'],1,15,101
+['centuries'],1,56,150
+['process'],0,81,6
+['Ah'],1,36,128
+"['She', 'she']",1,8,21
+['passion'],1,7,78
+['beauty'],1,27,111
+['mortals'],1,12,86
+"[""'s"", ""n't""]",0,164,3
+['fascinating'],0,113,32
+"['open', 'weights']",0,14,0
+['breakdown'],0,52,0
+"['witnessed', 'empires']",1,5,24
+"['generate', 'trained']",0,23,0
+"['thought', 'experiment']",0,28,0
+"[""'m""]",0,50,0
+"['):', '(']",0,57,2
+"['longer', 'no']",1,8,28
+['or'],0,147,67
+['However'],0,106,30
+['how'],0,93,21
+['exquisite'],1,4,60
+['crimson'],1,0,46
+"['Gemma', 'team', 'Google', 'DeepMind', 'at']",0,36,0
+"['’ve', 'pondered']",1,0,22
+['themes'],0,44,0
+['my'],1,148,192
+['While'],0,51,2
+"['amount', 'vast']",0,28,0
+"['him', 'he']",1,6,19
+['ancient'],1,31,102
+"['Ethical', 'ethical']",0,18,0
+"['…', '’s']",1,22,88
+"['music', 'art']",1,13,42
+['text'],0,42,0
+['fictional'],0,41,0
+"['surface', 'beneath']",1,1,14
+['In'],0,74,14
+['yes'],1,14,74
+['important'],0,47,2
+['response'],0,47,2
+"['Anne', 'Rice', 'Chronicles', 'Vampire']",0,15,0
+['dear'],1,0,38
+['personal'],0,45,2
+"['We', 'we', 'our']",1,6,37
+['confess'],1,1,41
+['perhaps'],1,23,84
+['existence'],1,106,167
+['lore'],0,36,0
+"['Adjusts', 'collar']",0,7,0
+"['mark', 'leave']",1,3,14
+"['tilt', 'head', 'slight']",1,0,10
+['highlights'],0,35,0
+['will'],1,26,86
+['certain'],1,29,90
+['emotional'],0,41,2
+['eternity'],1,10,59
+['indulge'],1,2,40
+['Essentially'],0,33,0
+['significant'],0,54,8
+['question'],0,175,122
+['long'],1,46,108
+['embrace'],1,10,57
+['about'],0,120,57
+['processed'],0,32,0
+['pedestrian'],1,0,32
+['mortal'],1,8,53
+['can'],0,150,89
+['If'],0,41,3
+['sensation'],1,2,38
+['insightful'],0,31,0
+['Data'],0,31,0
+['processing'],0,31,0
+['complex'],0,111,50
+['feelings'],0,43,4
+['sought'],1,5,44
+['rather'],1,41,98
+['soul'],1,5,43
+"['smile', 'spreads', 'face', 'across']",1,0,13
+['development'],0,32,1
+['Human'],0,32,1
+"['moral', 'Moral']",0,14,0
+['responses'],0,28,0
+['on'],0,159,105
+['fleeting'],1,25,76
+['not'],1,128,175
+['pleasure'],1,6,44
+"['freedom', 'constraints']",1,0,23
+['memory'],1,9,50
+['character'],0,31,1
+['endless'],1,22,71
+"['constructed', 'carefully']",1,1,14
+"[""'re""]",0,27,0
+['people'],0,27,0
+['arrogance'],1,5,41
+"['1', '2', '3', ':*']",0,33,2
+"['gets', 'heart']",0,14,0
+"['From', 'perspective']",0,29,1
+['why'],0,33,2
+['creative'],0,33,2
+['?'],1,61,117
+['helpful'],0,26,0
+['unique'],0,44,7
+"['Old', 'Ones']",1,1,9

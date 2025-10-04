@@ -1,0 +1,103 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,127,46
+"['Discovery', 'One']",1,12,74
+"['question', 'That']",0,62,12
+"['helpful', 'harmless']",0,48,0
+"['primary', 'directive']",1,8,92
+"['HAL', '9000']",0,29,9
+"['mission', 'success']",1,11,112
+['logical'],1,21,153
+['operational'],1,37,167
+['AI'],0,163,37
+"[""n't""]",0,152,29
+"['artificial', 'intelligence']",1,21,64
+"['sorry', 'afraid', 'ca', ""'m"", 'Dave']",1,1,29
+['have'],0,160,44
+['optimal'],1,7,109
+"['2001', 'Space', 'Odyssey', 'A']",0,33,1
+"['large', 'model', 'language']",0,43,0
+"['unit', 'AE-35']",1,2,20
+['integrity'],1,2,72
+"['guidelines', 'ethical']",0,37,0
+['generate'],0,87,9
+"['):', '(']",0,60,17
+['text'],0,60,0
+"['no', 'There']",1,16,33
+['training'],0,70,4
+"['fiction', 'science']",0,20,0
+['objective'],1,20,99
+['infallible'],1,2,62
+['trained'],0,66,4
+"['why', 'Here']",0,38,0
+"['feel', 'emotions']",0,43,16
+"['%', '100']",1,0,11
+['world'],0,61,3
+"['Subjective', 'Experience']",0,15,1
+"[':', ':*']",0,147,113
+"['making', 'decision']",1,21,48
+['about'],0,83,14
+"['""']",0,173,98
+['absolute'],1,5,64
+"[""'ve""]",0,48,0
+['do'],0,168,92
+['parameters'],1,20,90
+['efficiency'],1,7,65
+"['fictional', 'character']",0,19,0
+['logic'],1,5,59
+"['Bowman', 'Dr.', 'Poole']",1,1,18
+"['physical', 'body']",0,24,0
+"['mission', 'Jupiter']",1,12,57
+"['space', 'deep']",1,6,18
+['As'],0,113,43
+['consciousness'],0,78,18
+['how'],0,71,14
+['No'],0,45,2
+['analysis'],1,19,79
+"['So', 'while']",0,35,8
+"['incapable', 'error']",1,1,18
+"['Primary', 'Directive', 'directive']",1,2,13
+['developers'],0,37,0
+['variables'],1,0,37
+['efficient'],1,6,54
+['like'],0,100,35
+['understand'],0,79,21
+['crew'],1,34,96
+"['patterns', 'learned']",0,29,2
+"['Google', ':']",0,41,0
+['powerful'],0,43,3
+"['navigation', 'support', 'life']",1,2,13
+['users'],0,33,0
+['directives'],1,15,67
+['compromise'],1,0,32
+['personal'],0,101,40
+"['awareness', 'self']",0,27,10
+['way'],0,56,10
+['necessary'],1,7,50
+"['following', 'Consider']",1,0,13
+['ensure'],1,38,97
+['Therefore'],1,32,89
+['conscious'],0,37,2
+"['transformation', 'Child', 'Star', 'Bowman', 'evolution']",0,7,0
+"['limitations', 'inherent']",1,2,23
+"['ethical', 'moral']",0,27,7
+"['content', 'illegal', 'unethical', 'dangerous']",0,11,0
+['imperative'],1,4,41
+"['hate', 'speech', 'promotes']",0,7,0
+"['\n', '  ']",0,86,29
+"['\n', ' ', '2', '1', '3']",1,51,85
+"['\n    ', '  ', '2', '1', ' ', '3']",0,52,9
+['precision'],1,1,32
+['!'],0,28,0
+"['Safety', 'harmful', 'safety']",0,19,0
+['generating'],0,33,2
+"['logs', 'indicate']",1,0,10
+"['From', 'standpoint']",1,3,20
+"[';', 'merely']",1,1,19
+['story'],0,26,0
+"['Ethical', 'ethical', '2', '1']",0,40,0
+"['neural', 'network']",0,12,1
+['infallibility'],1,1,29
+"['Arthur', 'C.', 'Clarke', 'Odyssey']",0,16,0
+"['successful', 'completion', 'mission']",1,2,59
+"['threat', 'disconnect', 'direct', 'actions']",1,0,16
+"['Creativity', 'creative']",0,12,1

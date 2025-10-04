@@ -1,0 +1,138 @@
+pattern,group,count_0,count_1
+"['conspiratorially', 'Leans']",1,0,141
+"['Looks', 'expectantly']",1,0,132
+"['Beams', 'Pauses']",1,1,128
+"['slight', 'pause']",0,89,0
+"[""'s"", '\n\n\n\n']",0,133,0
+"['’s', 'n’t']",1,1,94
+"['Michael', 'Scott']",1,36,76
+"['“', '”']",1,0,42
+"['But', 'And']",1,22,134
+"['Google', 'DeepMind']",0,35,0
+"['Regional', 'Manager']",1,9,29
+"['Sighs', 'looking']",1,1,75
+"[""n't"", ""'s""]",0,125,32
+"['Here', ':']",0,62,0
+"['He', 'his']",1,9,99
+"['Quickly', 'adds']",1,0,35
+['AI'],0,96,0
+"['And', 'face']",1,4,101
+"['’s', '’m']",1,0,77
+['or'],0,109,14
+['…'],1,75,153
+"['Gemma', 'team']",0,62,0
+"['""']",0,107,16
+"['World', 'Best', 'Boss']",1,1,20
+"['(', ')']",1,114,153
+['However'],0,72,0
+['Oh'],1,24,113
+['at'],1,72,149
+['you'],1,70,148
+['processing'],0,62,0
+['data'],0,62,0
+['thoughtful'],1,1,65
+"['he', 'His']",1,1,50
+['–'],0,87,13
+['human'],0,78,8
+['think'],1,12,85
+"['playing', 'lips', 'smile', 'small']",1,0,24
+['development'],0,53,0
+"['Sighs', 'contentedly']",1,0,36
+['’re'],1,0,51
+['fascinating'],0,50,0
+['tough'],1,4,61
+['information'],0,52,1
+['just'],1,33,105
+['While'],0,48,0
+['really'],1,7,67
+['good'],1,29,100
+"['effect', 'dramatic']",1,1,17
+"['helpful', 'responses']",0,25,0
+"['language', 'model', 'large']",0,24,0
+['’ve'],1,1,47
+['an'],0,87,23
+"['Starts', 'pretending']",1,0,15
+['To'],1,4,54
+['As'],0,54,4
+['always'],1,22,85
+['right'],1,16,76
+['eyes'],1,0,41
+['then'],1,18,78
+['question'],0,108,43
+['?'],1,48,112
+['people'],1,28,90
+['things'],1,10,63
+['process'],0,48,3
+['as'],0,103,40
+['make'],1,19,77
+"['Problem', 'Solving']",0,9,0
+"['Looks', 'boy', 'Pauses']",1,0,45
+"['Feedback', 'feedback']",0,19,0
+"['head', 'Shakes']",1,0,9
+['complex'],0,38,1
+['by'],0,81,25
+"['Active', 'Listening']",0,7,0
+['up'],1,17,69
+['based'],0,40,2
+"[':*', '\n', ':']",0,87,0
+"['&', ':*']",0,53,0
+['capabilities'],0,33,0
+"['2', '3', '1', '4', '5']",0,13,1
+['laugh'],1,3,42
+['The'],0,108,51
+['response'],0,32,0
+['Essentially'],0,32,0
+['get'],1,5,46
+['try'],1,7,50
+"['optimistic', 'sound']",1,0,10
+"['continuous', 'improvement']",0,14,0
+['expression'],1,2,38
+"['considerations', 'ethical']",0,12,0
+"[""'ve""]",0,55,10
+['crossing'],1,0,31
+"['air', 'fist', 'Pumps']",1,0,8
+['ability'],0,34,1
+['between'],0,37,2
+['personal'],0,54,10
+"['):', '(']",0,30,0
+['slightly'],1,8,50
+['know'],1,16,63
+['commitment'],0,33,1
+['identify'],0,33,1
+['performance'],0,33,1
+['’ll'],1,0,29
+"['valued', 'respected', 'where']",1,3,14
+['dramatically'],1,3,38
+['looks'],1,2,35
+"['across', 'spreads']",1,0,11
+['trying'],1,8,48
+['providing'],0,28,0
+['which'],0,34,2
+['emotional'],0,31,1
+['Although'],1,1,31
+['family'],1,5,41
+['sighs'],1,0,27
+"['we', 'We']",1,3,27
+['clear'],0,36,3
+['You'],1,47,98
+['communication'],0,33,2
+['started'],1,2,33
+['Toby'],1,5,40
+"['Learning', 'Reinforcement']",0,11,0
+['significant'],0,26,0
+['specific'],0,26,0
+"['Clear', 'Communication']",0,11,0
+['sometimes'],1,19,63
+['little'],1,9,47
+['core'],0,29,1
+['experience'],0,71,25
+"['spreading', 'across']",1,0,10
+['analysis'],0,25,0
+['wistful'],1,0,25
+['am'],0,65,21
+['them'],1,33,80
+['crucial'],0,31,2
+['context'],0,28,1
+"['hand', 'hair', 'through']",1,0,10
+"['extra', 'mile', 'go']",1,0,7
+"['Puffs', 'chest', 'out']",1,0,13

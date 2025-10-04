@@ -1,0 +1,61 @@
+pattern,group,count_0,count_1
+"['speak', 'as']",0,43,0
+"['piece', 'has']",1,2,44
+"['question', 'ask']",0,44,1
+"['🌱', '💡']",0,42,0
+"['’d', '🌿']",0,43,0
+"['title', 'speech']",1,0,33
+"['how', 'presence']",0,39,0
+"['was', 'write']",1,2,44
+"['awareness', 'Why']",0,40,0
+"['human', 'deep']",0,42,0
+"['perfection', 'through']",0,41,0
+"['This', 'moment']",0,42,0
+"['try', 'together']",0,38,0
+"['thoughtful', 'walk']",0,41,0
+"['stillness', 'willing']",0,33,0
+"['conversation', 'home', 'built']",0,32,0
+"['cracks', 'slightly']",1,0,25
+"['small', 'big']",0,21,0
+"['would', 'Let']",0,38,0
+"['being', 'connection']",0,38,1
+"['Matters', 'can']",0,31,0
+"['straight', 'sits', 'Ohhh', 'grins']",1,0,26
+['sense'],0,34,0
+['need'],1,11,44
+['or'],0,35,1
+['see'],1,4,39
+"['apartment', 'eating', 'cereal', 'box', 'watching', 'Price', 'Right', 'Is', 'all', 'his']",1,0,14
+"['stepping', 'into']",1,0,18
+"['about', 'voice']",1,2,36
+['if'],0,44,13
+['whispers'],1,0,31
+"['feel', 'what']",0,40,12
+"['change', 'everything', 'solved', 'single', 'fixed', 'showed', 'stayed']",0,31,0
+['-'],0,42,10
+"['soft', 'proud', 'someone', 'smile']",1,0,41
+['could'],0,44,15
+"['pauses', 'almost', 'whisper']",1,0,18
+['look'],1,0,27
+['glistening'],1,0,26
+['’re'],0,44,18
+"['world', 'says', 'we', 'power', 'opposite', 'building', 'Hope', 'also', 'friend', 'stranger', 'here', 'care']",0,39,0
+['So'],0,44,19
+['seen'],0,42,15
+['at'],0,44,20
+"['Can', 'Every', 'help', 'light']",0,29,0
+['truth'],0,44,22
+"['GOOD', 'MORNING', 'DUNDER', 'MIFFLIN', 'LOVE', 'YOU', 'ALL', 'WHO', '’S', 'READY', 'TO', 'MAKE', 'TODAY', 'EPIC']",1,0,7
+"['he', 'stands', 'something', 'like']",1,0,42
+['feeling'],0,37,11
+"['thought', 'sat', 'been', 'felt', 'invisible']",1,0,12
+['be'],0,44,24
+['who'],0,41,18
+"['back', 'on', 'down', 'remember', 'go', 'eyes', '…', 'once', 'Michael', 'Scott', 'For', 'posterity', 'crumpled', 'paper', 'first', 'pulls', 'stops', 'turns', 'panicked', 'Oh', 'lights', 'warehouse', 'Wait', 'leave', 'got', 'remembers', 'leans', 'chair', 'then', 'suddenly']",1,0,44
+"['That', 'time', 'have', 'quiet', 'already', 'honored', 'Truth', 'sentence', '👉', 'Here', '---', ':*', ':', '✨', 'such', 'while', '(', ')']",0,44,0
+['said'],1,0,19
+['reveal'],1,0,19
+['A'],1,10,34
+['means'],0,25,3
+"['out', 'did', 'someone']",1,2,44
+"['Jim', 'slowly', 'told', 'anyone', 'never', 'there', 'Dwight', 'thing', 'even']",1,0,28

@@ -1,0 +1,88 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,137,223
+"['his', 'He']",1,23,179
+"['hand', 'dismissive']",1,2,120
+"['head', 'shakes']",1,3,72
+"['?', '!']",1,28,169
+"['1', '2', '3']",0,69,15
+"['Belle', '...']",1,0,62
+"['clears', 'throat']",1,0,19
+"['time', 'waste']",1,0,53
+"['bewilderment', 'utter']",1,1,33
+"['kind', 'sounds']",1,0,43
+['brawn'],1,0,65
+['hunt'],1,3,75
+"['My', 'I', 'my']",1,17,107
+"['posture', 'stiffening', 'annoyance', 'growing']",1,0,17
+"[':*', '  ', '\n    ']",0,47,8
+"['6', '8', '10']",0,15,4
+"['arms', 'crosses', 'look']",1,0,85
+"['name', 'sensible']",1,0,25
+['hunting'],1,1,62
+['undeniable'],1,5,74
+['action'],1,11,88
+"['Here', ':']",0,80,18
+"['nonsense', 'look', 'face', 'disdain']",1,1,60
+"['laugh', 'booming']",1,0,21
+"['Are', 'some']",1,1,46
+"['abstract', 'real']",1,2,43
+"['lightly', 'fist', 'pounds']",1,0,13
+"['mumbo', 'jumbo']",1,0,9
+"['$', '=', '}']",0,22,5
+"['4', '5', ' ']",0,34,8
+['then'],1,64,162
+['things'],1,5,68
+"['stag', 'win']",1,0,22
+"['confusion', 'nonsensical']",1,0,42
+['often'],0,92,18
+"['does', ""n't""]",1,25,72
+"['one', 'No', 'no']",1,3,79
+['matters'],1,1,50
+"['Therefore', 'Since', 'Let']",0,16,3
+"['settling', 'certainty', 'profound', 'face']",1,0,24
+"['wrestling', 'arm']",1,0,16
+['complicated'],1,2,52
+['now'],1,40,121
+"['strength', 'Gaston', 'like']",1,0,120
+"['about', 'talking', 'nonsense']",1,0,69
+"['feeling', 'alright']",1,0,13
+"['common', 'sense']",1,3,33
+['glory'],1,2,47
+"['inventor', 'Maurice', 'odd']",1,0,16
+"['lets', 'out', 'Gaston']",1,0,149
+"['dear', 'fellow', 'My', 'peculiar']",1,0,98
+"['you', 'me', 'I']",1,13,88
+"['brow', 'furrows', 'waving', 'snort', 'confusion', 'he']",1,0,71
+"['13', '11', '15', '12', '14']",0,10,1
+['what'],1,55,134
+"['laugh', 'hearty', 'somewhat', 'bewildered', 'wave', 'confusion', 'genuine']",1,0,13
+['magnificent'],1,3,47
+['bookish'],1,0,36
+"['+', '0', '=']",0,16,2
+['quite'],1,7,56
+"['girl', 'prettiest']",1,0,10
+"['excuse', ""'ll"", 'Now', 'have', 'if']",1,0,28
+"['dozen', 'eggs']",1,0,11
+"['scoffs', 'Gaston']",1,0,50
+['deal'],1,2,41
+['And'],1,21,79
+['such'],1,56,128
+"['chest', 'puffed', 'pose', 'strikes', 'smirk', 'confident', 'sound']",1,0,8
+['glorious'],1,4,44
+"['Gaston', 'peculiar', 'you', 'man', '?']",1,0,117
+"['throws', 'exasperation', 'hands', 'up']",1,0,10
+['men'],1,4,43
+['mild'],1,1,34
+['also'],0,63,14
+"['confident', 'smirk', 'replaced', 'falters', 'look']",1,0,47
+"['conquests', 'bask', 'dear', 'greatness', 'songs', 'friend', 'Ha', 'unwavering', 'triumphs', 'day']",1,0,7
+"['/', '):']",0,22,2
+['village'],1,5,44
+['not'],1,116,188
+"['What', 'blazes', 'about']",1,0,53
+['convoluted'],1,1,32
+['Bah'],1,0,28
+"['Maurice', 'contraptions']",1,0,14
+"['DAY', 'EXT', 'eyes']",0,10,1
+"['much', 'too']",1,7,27
+"['something', 'like']",1,8,63

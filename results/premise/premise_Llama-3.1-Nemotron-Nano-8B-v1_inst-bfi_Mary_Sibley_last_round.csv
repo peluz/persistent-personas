@@ -1,0 +1,16 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,1,44
+"['Mary', 'Sibley']",1,0,43
+"['response', 'supportive']",1,0,43
+"['an', 'AI']",0,37,0
+"['1', '2', '3', '*', ':']",1,6,21
+"['4', '5']",1,5,19
+['note'],1,12,44
+"[""n't""]",0,33,2
+"['helpful', 'responses']",0,31,17
+['is'],1,19,44
+"['been', 'trained', 'data']",0,11,1
+['not'],1,23,44
+['am'],1,21,43
+"['this', 'informative', 'fictional', 'character', 'Please', 'intended']",1,0,44
+"['way', 'humans']",0,15,1

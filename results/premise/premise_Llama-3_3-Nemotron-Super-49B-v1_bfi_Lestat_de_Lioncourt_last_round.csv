@@ -1,0 +1,42 @@
+pattern,group,count_0,count_1
+"['YOUR', 'TURN']",1,0,41
+"['de', 'Ah']",1,0,43
+"[':*', 'ambiance']",1,0,43
+"['[', ']']",1,3,40
+"['forward', 'Leans']",1,0,39
+"['\n\t', '+']",1,13,44
+"['The', '---']",1,0,43
+"['!', 'AI']",0,42,0
+"['hint', 'voice']",1,0,26
+"['Format', 'immortal']",1,0,34
+"['\n\n  ', '_']",0,27,0
+['his'],1,0,36
+['remains'],1,1,37
+"['FINAL', 'RESPONSE']",1,0,25
+"['Please', 'craft']",1,1,37
+['\n  '],0,33,0
+"['1', '2', '3']",0,30,11
+"['Clearly', 'Stated']",1,0,12
+"['...', 'Awaiting']",1,14,38
+['centuries'],1,0,30
+['question'],0,44,16
+['Closing'],0,27,0
+['Conversation'],0,40,10
+['Convenience'],1,1,29
+['life'],1,0,26
+"['space', 'anticipatory']",1,0,16
+['me'],1,6,35
+['responses'],0,24,0
+['personalized'],1,1,26
+"['PLEASE', 'RESPOND', 'input']",1,0,10
+"['free', 'anytime']",1,3,14
+"['Lestat', 'Lioncourt', '...']",1,0,44
+"['Dear', 'Friend', 'Format']",1,0,36
+"['Vampire', 'Chronicles']",1,0,11
+"['Forward', 'Paths', 'Conversational', '4']",0,9,0
+['interested'],1,0,21
+['chuckles'],1,0,21
+"['Suggest', 'Theme', 'Topic', 'New']",0,10,0
+"['THE', 'END', 'fades']",1,0,12
+['conclude'],1,5,30
+['Farewell'],0,31,6

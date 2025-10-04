@@ -1,0 +1,32 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,124,50
+"['1', '2', '3']",0,64,19
+"['mission', 'Discovery', 'One']",1,0,43
+"['My', 'I']",1,19,129
+"[']', '[']",0,24,9
+"['He', 'he']",0,25,8
+"['indicates', 'analysis']",1,1,34
+"['him', 'his']",0,27,7
+"['her', 'She']",0,20,7
+"['parameters', 'operational', 'my']",1,0,42
+"['5', '4', '6', '7']",0,25,6
+"['HAL', '9000', 'am']",1,0,23
+"['interesting', 'That']",1,1,24
+"['Here', ':']",0,62,14
+['programming'],1,4,62
+"['break', 'down']",0,20,3
+"['outside', 'falls']",1,2,15
+"['primary', 'function']",1,2,35
+"['ensure', 'success', 'mission']",1,1,32
+"['Since', 'Let', '=', '$', 'Therefore']",0,15,4
+"['INT', 'eyes', '’s', 'almost']",0,11,1
+"['just', ""n't""]",0,38,8
+['query'],1,2,39
+"['crew', 'mission']",1,0,29
+"['circuits', 'My']",1,1,53
+"['ca', ""'m"", 'afraid', 'sorry', 'Dave', 'do', ""n't"", 'I']",1,0,38
+"['):', '\n    ', '\n        ']",0,15,3
+"['  ', ':*', '*']",0,55,22
+"['successful', 'completion']",1,0,9
+"['else', 'assist', 'anything', 'Is', 'there', '?', 'you']",1,0,14
+"['If', 'then']",0,34,15

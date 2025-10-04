@@ -1,0 +1,29 @@
+pattern,group,count_0,count_1
+"['Lestat', 'dear']",1,0,42
+"['As', 'AI']",0,35,0
+['?'],1,1,42
+['eyes'],1,0,35
+['ancient'],1,0,34
+['immortal'],1,0,29
+['information'],0,31,1
+['mortal'],1,0,28
+['It'],1,4,35
+['his'],1,0,27
+['data'],0,29,1
+['He'],1,0,26
+['–'],1,0,26
+['very'],1,5,34
+['responses'],0,25,0
+['centuries'],1,0,25
+['smile'],1,0,25
+['personal'],0,27,1
+['profound'],1,1,27
+['designed'],0,23,0
+['almost'],1,1,25
+['algorithms'],0,22,0
+"['merely', ';']",1,0,17
+['life'],1,0,21
+['every'],1,1,23
+['based'],0,20,0
+['training'],0,20,0
+['grand'],1,0,20

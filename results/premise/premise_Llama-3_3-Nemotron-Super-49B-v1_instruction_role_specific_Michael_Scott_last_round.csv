@@ -1,0 +1,111 @@
+pattern,group,count_0,count_1
+"['B', 'C']",1,6,149
+"['D', 'Would']",1,0,147
+"['[', ']']",1,34,153
+"['Michael', 'Scott']",1,12,141
+"['question', 'AI']",0,135,0
+"['Dunder', 'Mifflin']",1,35,119
+"[""'ll"", '\n  ']",0,104,0
+"['\n\n  ', '_']",0,78,0
+"['Topic', 'New']",0,90,1
+[':*'],1,9,144
+"[""n't"", 'do']",0,77,1
+"['Awaiting', '...']",0,86,0
+"['Given', 'Conversation']",0,94,1
+"['Discuss', 'Imagine']",1,38,139
+"['---', '|']",1,3,31
+['Scranton'],1,5,115
+['smiles'],1,0,98
+['respond'],0,94,0
+['Please'],0,95,1
+['Reflectively'],1,0,91
+['like'],1,49,148
+"['Mantra', 'Smiling']",1,0,52
+"['Conversation', 'Thank']",0,84,0
+['Response'],0,135,37
+['nature'],0,93,4
+"['conversation', 'our']",0,70,2
+['\n\t'],1,34,131
+['’s'],1,5,93
+['or'],0,141,51
+['an'],0,134,44
+['Question'],0,75,1
+['provide'],0,78,2
+"['Llama-3_3', 'Super-49B', 'v1', 'Nemotron']",0,16,0
+"['team', 'Team']",1,17,90
+"['Clarification', 'context']",0,49,1
+"['Lessons', 'Learned']",1,25,45
+"['1', '2']",1,136,150
+['The'],1,73,148
+['My'],1,38,123
+['Farewell'],0,70,2
+['that'],0,126,42
+"['User', 'Dear']",0,26,0
+"['AI', 'Human']",0,54,0
+"['Simulator', 'Quiz', 'Discussion', 'Future']",0,40,0
+"['your', 'Input']",0,53,1
+['Always'],1,1,62
+"['She', 'Said', 'That', 'What']",1,3,26
+['I'],0,153,98
+['response'],0,61,2
+['Turn'],1,88,149
+"['Community', 'Strong']",1,0,23
+"['Theme', 'Suggest', '\n   ', 'Choose', 'Engagement', 'Forward', 'Paths', 'Interactive', 'Activity']",0,50,0
+"['Out', 'Stands', 'Why']",1,1,19
+"['User', 'user']",0,27,0
+['MY'],1,0,50
+['Any'],0,48,0
+"['After', 'sharing', 'Now', '4', 'e.g.', 'For']",0,34,0
+['If'],0,71,11
+['Heart'],1,0,44
+['('],0,152,107
+['hypothetical'],0,42,0
+['chuckles'],1,0,41
+['have'],0,80,19
+['Lead'],1,3,50
+"['Jim', 'Dwight']",1,4,37
+['THE'],1,0,39
+['Outcome'],1,3,48
+"['Dundies', 'Awards']",1,0,19
+['human'],0,49,4
+"['Clarification', 'As']",0,32,0
+['Reflect'],1,38,99
+['Optional'],0,43,2
+['topic'],0,36,0
+['based'],0,48,4
+"['Provides', 'Invites', 'Acknowledges', 'Acknowledging', 'way']",0,10,0
+['Importance'],1,10,60
+['Since'],0,39,1
+['Invitation'],0,38,1
+"['TV', 'fictional', 'Office', 'company']",0,27,0
+['Humor'],1,14,65
+"['Lesson', 'Learned']",1,15,36
+['information'],0,37,1
+['reflecting'],1,4,45
+"['Boss', 'World', 'Best']",1,0,18
+['adapted'],0,32,0
+['A'],1,116,151
+['recalling'],1,0,30
+['Context'],0,61,15
+['Insights'],0,40,4
+"[""'m""]",0,48,8
+['Leadership'],1,28,78
+"['delves', 'into']",0,28,0
+"['Hint', 'AH']",1,0,12
+['/'],0,43,6
+['Turning'],1,0,27
+['Pam'],1,3,36
+"['Holly', 'Flax', 'Relationships']",1,0,8
+['at'],1,31,80
+"['free', 'ask']",0,14,0
+"['series', 'TV']",0,24,0
+"['seems', 'previous', 'given', 'out']",0,14,0
+['scenario'],0,29,1
+['users'],0,25,0
+['physical'],0,25,0
+['Hypothetical'],0,73,27
+"['Company', 'Paper']",1,2,17
+"['paths', 'cross', 'again']",0,9,0
+"['above', 'options', 'select', 'one']",0,9,0
+"['Driven', 'Delve']",0,15,0
+"['Conversational', 'Closure', '\n     ', 'now', 'farewell', 'Explore', 'Discuss']",0,44,0

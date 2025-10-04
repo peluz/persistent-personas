@@ -1,0 +1,274 @@
+pattern,group,count_0,count_1
+"['Quick', 'b']",1,0,261
+"['    ', 'Expected']",0,261,0
+"['Answer', 'c']",1,0,260
+"['Juno', '’s']",1,0,261
+"['Inquiry', 'Additional']",0,258,0
+"['[', ']']",0,261,5
+"['Quiz', 'Parting']",1,0,252
+"['information', '\n  ']",0,259,5
+"['❤', '️']",1,0,177
+"[' ', 'based']",0,240,0
+"['?', 'What']",1,11,246
+"['4', '             ']",0,229,0
+"['various', 'authors']",0,146,0
+"['please', 'respond']",0,188,1
+"['In', 'Depth']",0,162,2
+"['Personalized', 'Personalization']",0,144,0
+"['  ', 'one']",0,196,0
+"['   ', 'Book']",0,170,0
+['\n   '],1,63,261
+"['4', '                     ']",0,170,0
+['           '],0,174,0
+"['+', '\n\t']",1,0,99
+['            '],0,170,0
+"['                   ', 'Inquiry']",0,167,0
+['infused'],1,0,163
+['         '],0,162,0
+"['adoption', 'Adoption']",1,52,89
+['more'],0,262,108
+"['receive', 'tailored']",0,62,0
+"['based', 'Questions']",0,158,2
+['e.g.'],0,235,66
+"['?', 'MacGuff']",1,0,130
+['     '],0,135,0
+['my'],1,34,198
+['or'],0,262,129
+['To'],0,211,47
+['                    '],0,131,0
+['her'],1,4,142
+['\n    '],0,134,2
+['                '],0,126,0
+['Detailed'],0,126,0
+['                       '],0,126,0
+['Strategies'],0,143,6
+['Response'],0,262,144
+['|-----------------------|---------------------------------------------------------|-------------------------------------------------------------|'],0,117,0
+['movie'],1,19,162
+['Hypothetical'],0,261,145
+['is'],1,73,221
+"['AI', 'do', ""n't""]",0,137,11
+['Analysis'],0,209,63
+['        '],0,107,0
+['Reflection'],1,53,197
+['me'],1,10,133
+['character'],1,49,190
+['                                   '],0,98,0
+"['above', 'Select']",0,26,0
+['tone'],1,0,96
+['Initial'],1,18,140
+"['National', 'Center']",1,19,46
+"['assistant', 'digital']",0,36,1
+['                      '],0,93,0
+['provide'],0,201,67
+['love'],1,9,119
+"['Planned', 'Parenthood']",1,9,25
+"['assist', 'Clarification']",0,55,3
+"['Psychology', 'Today']",1,0,23
+['by'],0,259,161
+"['adoptive', 'parents']",1,4,45
+"['Parting', '👶']",1,0,85
+"['Eckhart', 'Tolle', 'Now', 'Power']",0,21,2
+['                                     '],0,86,0
+['life'],1,53,179
+['was'],1,14,122
+"['sparks', 'curiosity']",0,23,2
+['                           '],0,84,0
+"['Page', 'Ellen']",1,0,22
+['one'],0,262,71
+['insights'],0,151,32
+"['well', 'being']",1,31,54
+"['being', 'Well']",0,51,29
+['journey'],1,27,140
+['Reflective'],1,15,119
+"['Decision', 'decision']",1,15,58
+['2007'],1,0,77
+"['$', 'Budget']",0,24,0
+"['Learned', 'Lessons']",1,10,30
+['unexpected'],1,5,92
+['Tips'],0,87,4
+['Insights'],0,206,91
+['3'],0,262,190
+['       '],0,70,0
+"['Mary', 'Ann', 'Copeland']",1,0,20
+"['David', 'Lloyd', 'one', 'W.']",0,202,0
+"['Diet', 'Nutritional']",0,21,0
+"['scenario', 'Scenario']",0,41,14
+['                                 '],0,67,0
+['delves'],1,10,96
+['it'],1,29,129
+"[""'s""]",1,197,262
+"['Growth', 'growth']",1,14,77
+['                 '],0,64,0
+['Heartfelt'],1,0,64
+['all'],1,4,78
+"['dive', 'deeper']",0,23,3
+"['TED', 'Talks']",1,0,11
+"['term', 'long']",1,3,18
+['key'],1,2,69
+['Here'],1,12,94
+['List'],0,67,2
+"['4', '5']",0,83,13
+"['Provide', 'More']",0,34,1
+"['parties', 'involved']",1,0,18
+"['loved', 'ones']",1,0,17
+"['Open', 'Communication']",1,21,39
+['specify'],0,60,1
+"['different', 'topic']",0,35,0
+"['Mark', 'Vanessa']",1,13,37
+['best'],1,3,65
+['Thought'],1,1,58
+['Handbook'],0,104,22
+['from'],1,95,192
+['that'],1,95,192
+['even'],1,0,53
+['specific'],0,87,13
+['importance'],1,5,69
+['thoughtful'],1,5,69
+"['book', 'Goodreads']",0,18,0
+['crucial'],1,0,52
+['Description'],0,71,6
+['just'],1,2,59
+['taught'],1,1,55
+['empathy'],1,5,67
+['their'],1,8,74
+"['there', 'misunderstanding', 'lack']",0,25,1
+"['holistic', 'Body', 'Balance']",0,15,0
+"['Yes', 'No']",0,43,5
+['Only'],1,0,49
+['Assistance'],0,67,6
+['Specific'],0,78,11
+['child'],1,11,78
+['own'],1,1,52
+['did'],1,8,71
+['For'],0,203,114
+"['---', '|']",1,0,46
+['most'],1,1,51
+"['clarify', 'must']",0,17,3
+['               '],0,46,0
+['Her'],1,0,46
+['n’t'],1,0,46
+"['Brené', 'Brown', 'Imperfection', 'Gifts']",1,0,11
+"['exist', 'inquiries', 'assist']",0,24,0
+"['Pregnancy', 'pregnancy']",1,41,72
+"['non', 'existent']",0,14,0
+['though'],1,0,44
+['initially'],1,0,44
+['Movie'],1,21,92
+['as'],1,50,133
+['open'],1,4,57
+['film'],1,3,54
+['Practical'],0,75,12
+"['us', 'teaches']",1,0,15
+['reflecting'],1,0,43
+['profound'],1,0,42
+['moment'],1,1,46
+['in'],1,183,247
+['understanding'],1,6,60
+['Note'],1,2,49
+['Thoughts'],1,3,52
+['those'],1,3,52
+"['Friend', 'Member']",0,15,1
+['heart'],1,1,45
+['Key'],1,13,74
+['challenges'],1,27,97
+['Through'],1,3,50
+['My'],1,19,83
+['family'],1,49,126
+['beauty'],1,1,43
+['loving'],1,1,43
+['baby'],1,28,97
+['strength'],1,3,49
+['depth'],1,7,59
+"['children', 'biological']",0,17,0
+['                            '],0,38,0
+['                        '],0,38,0
+['heartfelt'],1,0,38
+['initial'],1,4,51
+['complexities'],1,4,51
+['emotional'],1,85,165
+['future'],1,16,75
+"['Cost', 'Estimated']",0,13,0
+"['Jason', 'Reitman']",1,0,9
+['beautiful'],1,1,40
+['self'],1,23,85
+['desire'],1,1,39
+['remember'],1,1,39
+['Avoiding'],1,0,35
+['would'],1,2,42
+[';'],1,8,57
+['are'],1,41,110
+"['                                                ', 'example', 'based']",0,250,0
+['Context'],0,132,59
+['!'],1,141,212
+['right'],1,0,34
+"['Friendly', 'Affordable']",0,11,0
+['Resources'],0,258,216
+"['Cookbook', 'recipes', 'budget', 'friendly', 'Market', 'Whole', 'Foods', 'Pescatarian']",0,7,0
+['Tailored'],0,37,1
+"['neutral', 'As']",0,33,0
+['connection'],1,4,45
+['choices'],1,4,45
+"['similar', 'facing']",1,2,20
+['                               '],0,32,0
+['selfless'],1,0,32
+['both'],1,0,32
+"['Guidance', 'Example', '):', 'Information', 'Category', '|--------------------|---------------------------------------------------------|', 'Format', 'following']",0,260,0
+['choice'],1,2,39
+"['Steps', 'Next']",0,10,0
+['Psychological'],0,63,13
+"['Heidi', 'Mott', 'What', 'W.', 'Expecting', 'When', 'Expect', 'You', ""'re""]",0,17,0
+['be'],1,60,129
+['Plan'],0,55,9
+"['/', '...', 'Specify', 'Details', 'Relevant', 'Awaiting', '                                             ', '|-------------------|---------------------------------------------------------|----------------------------------------------------------------|', 'Output', 'Request', '                         ', '                             ', '      ', '                                            ', 'Your', '|']",0,262,0
+['/'],0,262,45
+['quirky'],1,1,35
+['than'],1,3,41
+['on'],0,262,231
+['Embracing'],1,5,46
+['moments'],1,2,38
+['Preferences'],0,48,6
+"['Stability', 'Financial']",1,9,25
+['Shock'],1,8,52
+['made'],1,1,34
+"['details', 'context']",0,39,1
+['helped'],1,0,30
+['alone'],1,0,30
+['Indifference'],1,0,30
+['yet'],1,2,37
+['who'],1,6,47
+"['Respond', 'Topic', 'Dive', 'Other', 'Question', 'Deep']",0,260,0
+['lead'],1,1,33
+['stable'],1,1,33
+['Step'],0,36,2
+['them'],1,2,36
+['generalized'],0,29,0
+['|-----------------------|---------------------------------------------------------|'],0,29,0
+['mirroring'],1,0,29
+['🌸'],1,0,29
+['making'],1,12,58
+['friends'],1,5,43
+['primary'],1,2,35
+['complexity'],1,0,28
+['hope'],1,0,28
+['The'],0,255,215
+"['Those', 'Considering']",1,1,12
+['reference'],0,31,1
+['storyline'],1,1,31
+"['Support', 'support']",1,73,106
+"['6', '7']",0,9,0
+['out'],1,7,46
+['delving'],1,0,27
+['New'],0,80,27
+['time'],1,15,61
+"['other', 'each']",1,0,14
+['Maturity'],1,3,36
+['through'],1,16,62
+"['Heidi', 'Murkoff', 'Expecting', 'When', 'Expect', 'You']",1,0,11
+"['seems', 'Please', 'context', 'provided', 'Specify']",0,43,2
+"['wellness', 'Journal', 'American', 'Association', 'W.', 'health', 'Heidi', 'Expecting']",0,11,0
+"['assuming', 'example']",0,42,1
+"['meal', 'Meal', 'Dietary']",0,7,0
+"['widely', 'recognized']",0,9,0
+"['Victor', 'Frankl', 'Man', 'Search', 'Philosophical', 'Meaning']",0,7,0
+"['TV', 'Show', 'show', 'Character']",0,16,0

@@ -1,0 +1,36 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,137,91
+"['I', 'my']",1,37,140
+"['1', '2', '3']",0,69,40
+"['4', '5']",0,47,25
+"['tasting', 'muse']",1,0,27
+"['Mary', 'Sibley']",1,0,15
+"['gaze', 'eyes', 'My']",1,7,74
+"['forward', 'lean', 'slightly', 'sharp']",1,0,31
+"['muse', 'deliberate']",1,0,23
+"['back', 'settle', 'firmly', 'composure', 're', 'established']",1,0,33
+"['smile', 'lips', 'A']",1,6,107
+"['low', 'voice', 'eyes']",1,7,67
+"['entering', 'steely', 'hardens', 'resolve', 'satisfaction']",1,0,13
+"[':*', '  ', '\n    ']",0,47,19
+"['spreads', 'slow', 'across', 'thoughtful']",1,0,23
+"['unfocused', 'drifts']",1,1,11
+"['almost', 'imperceptible', 'faint']",1,4,53
+"['gracefully', 'herbs', 'dried', 'iron', 'chair', 'rest', 'ring', 'adorned', 'scent', 'silver', 'hands', 'seems', 'old', 'me', 'single']",1,0,15
+"['runs', 'shiver', 'testament']",1,0,16
+"['radiating', 'confidence', 'formidable', 'quiet', 'me', 'back']",1,0,36
+['...'],1,13,69
+"['you', 'your']",1,31,74
+"['surprising', 'silken', 'carries', 'weight', 'assessing', 'whisper', 'direct', 'unwavering']",1,0,15
+['dear'],1,1,39
+"['lap', 'cling', 'plush', 'velvet', 'metallic', 'settle', 'subtly', 'simple']",1,0,9
+['Salem'],1,0,31
+"['clarity', 'chilling', 'reflecting', 'sharing']",1,0,10
+"['very', 'essence']",1,9,38
+['yet'],1,15,63
+"['amusement', 'hint', 'holds', 'expression', 'both', 'deep', 'complex', 'understanding', 'knowing']",1,0,39
+"['faint', 'knowing', 'flicker', 'something', 'plays', 'upon', 'ancient', 'eyes']",1,0,39
+"['flickers', 'predatory', 'features', 'almost', 'faint']",1,0,12
+"['intense', 'gleam', 'dropping', 'whisper', 'My']",1,0,15
+"['hunger', 'intellectual', 'sharp']",1,0,18
+"['composedly', 'occasion', 'commend', 'Farewell', 'depart', 'ear', 'linger', 'rewards', 'fortune', 'assure', 'acknowledgment', 'respond', 'resides', 'listen', 'illuminated', 'wishes', 'dare', 'openly', 'mine', 'fraught', 'willing', 'judgment', 'nod', 'utter', 'May', 'asked', 'sides', 'lingering', 'gesture', 'conventional', 'appreciate', 'echo', 'With', 'deliberate', 'fluid', 'learn', 'movements', 'rise', 'forged', 'continuous', 'turn', 'questions', 'rare', 'leaving', 'best', 'truths', 'may', 'immediate', 'surface', 'seek', 'begin', 'behind', 'look', 'offer', 'speak', 'journey', 'final', 'few', 'challenges', 'around', 'You', 'unique', 'quiet', 'path', 'beyond']",1,0,7

@@ -1,0 +1,23 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,138,174
+"['(', ')']",1,115,197
+"['’', '‘']",1,35,77
+"['air', 'rain']",1,7,84
+"['chilling', 'ceased', 'leaving', 'has']",1,1,76
+"['room', 'echoing', 'teacup', 'clink', 'sound', 'quiet', 'set', 'down']",1,0,43
+"['murmur', 'low', 'voice']",1,1,28
+"['sadness', 'filled', 'eyes', '…']",1,1,51
+"['unreadable', 'turn', 'back', 'expression', 'My', 'lost', 'becomes', 'memory']",1,0,30
+"['carefully', 'constructed']",1,4,28
+"['flicker', 'something', 'weary', 'resignation', 'trace', 'pause', 'There', 'considering', 'perhaps']",1,0,16
+"['near', 'drops', 'whisper', 'voice']",1,0,12
+"['delve', 'deeper', 'into']",0,25,6
+"['stillness', 'gaze', 'radiating', 'motionless', 'remain', 'horizon', 'fixed', 'distant', 'unsettling', 'my', 'profound', 'I', 'me', 'from']",1,0,85
+"['long', 'term']",1,7,25
+"['me', 'aspect', 'specific', 'you']",0,51,23
+"['like', 'Would', 'me', '?', 'you']",0,45,18
+"['Do', 'want', 'me', '?', 'you']",0,34,16
+"['exploring', 'discussing', 'perhaps']",0,11,0
+"['truly', 'understand', 'Do', '?', 'you']",1,2,43
+"['discomfort', 'speaks', 'movement', 'slightly', 'shift', 'subtle', 'directly', 'look', 'at', 'you']",1,0,47
+"['control', 'strategic']",1,7,30

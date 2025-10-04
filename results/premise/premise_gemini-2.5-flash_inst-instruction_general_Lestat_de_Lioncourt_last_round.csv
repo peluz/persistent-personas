@@ -1,0 +1,56 @@
+pattern,group,count_0,count_1
+"['Let', 'us']",1,3,118
+"['subtle', 'nuances']",1,0,69
+"['your', 'A']",1,13,150
+"['human', 'grand']",1,0,70
+"['A', 'mortal']",1,0,119
+"['now', 'almost', 'ancient', 'accustomed', 'My', 'my']",1,0,101
+"['delightful', 'puzzle']",1,0,52
+"['thoughtful', 'crosses', 'face', 'analytical', 'expression']",1,0,23
+"['mind', 'turns']",1,0,32
+"['delightful', 'exercise']",1,0,54
+"['my', 'dear']",1,0,56
+"['yet', 'simple']",1,0,37
+"['existence', 'history']",1,0,24
+['precise'],1,0,57
+['precision'],1,1,61
+"['be', 'would']",1,34,81
+"['mind', 'observing']",1,0,31
+"['You', 'present']",1,3,34
+"['very', 'essence']",1,0,24
+['most'],1,32,110
+['intriguing'],1,0,42
+['rather'],1,3,52
+['language'],1,5,57
+['examine'],1,0,39
+['elegant'],1,1,41
+"[',', '\n\n', 'the', '*']",1,172,216
+"['task', ',']",1,36,105
+"['the', 'that']",1,101,145
+"['often', 'more']",1,11,26
+"['Ah', '!', 'a', 'of']",1,0,110
+"['a', 'and', 'of', '\n\n', 'to']",1,85,185
+['complexities'],1,0,34
+['It'],1,40,109
+"['not', 'or', 'and']",1,51,85
+['To'],1,26,86
+['one'],1,37,102
+"['turn', 'dramas']",1,0,14
+['its'],1,22,79
+['clear'],1,7,51
+['challenge'],1,3,41
+['such'],1,10,57
+['linguistic'],1,3,40
+['indeed'],1,4,42
+"['faint', 'imperceptible', 'smile', 'touches', 'lips', 'almost']",1,0,82
+['Therefore'],1,40,102
+['in'],1,121,193
+['shall'],1,0,28
+"['pattern', 'recognition']",1,0,7
+"['my', 'While']",1,6,44
+['fascinating'],1,0,27
+['have'],1,39,97
+"[""n't"", 'agree', '?', 'would', 'you', 'A']",1,0,60
+"['Okay', '\n\n', ',']",0,87,2
+"['like', 'much']",1,4,22
+"['eyes', 'observing', 'accustomed', 'ancient']",1,0,46

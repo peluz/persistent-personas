@@ -1,0 +1,258 @@
+pattern,group,count_0,count_1
+"[':*', '\n']",0,412,125
+"['He', 'Michael']",1,0,303
+"['And', 'his']",1,0,294
+"['Suicide', 'Lifeline', '988']",0,131,89
+"['HOME', '741741', 'Text', 'Line', 'Crisis']",0,136,88
+"['Dunder', 'Mifflin']",1,0,101
+"['Whoa', 'whoa']",1,0,143
+"['Manager', 'Regional']",1,0,99
+"['Michael', 'Scott']",1,0,244
+"['second', 'Hold']",1,0,132
+"['around', 'nervously']",1,0,131
+"['just', 'That']",1,4,235
+"[':', 'Here']",0,344,118
+"['“', '”']",1,0,55
+"['regain', 'composure']",1,0,60
+"['mental', 'health']",0,69,36
+"['reach', 'please', 'out', 'help']",0,187,130
+"['head', 'shakes']",1,0,77
+"['Level', 'Midnight', 'Threat']",1,0,53
+"['back', 'forth']",1,1,80
+"['pacing', 'stops']",1,0,51
+"['Like', 'Or']",1,0,96
+"['programmed', 'assistant', 'AI', 'helpful', 'am', 'will']",0,233,110
+"['violates', 'guidelines', 'safety', 'my']",0,120,60
+"['adds', 'then']",1,0,112
+"['voice', 'whisper']",1,0,72
+"['fidgets', 'tie']",1,0,50
+"['1', ' ']",0,198,21
+"['absolutely', 'Therefore']",0,134,13
+"['voice', 'lowering']",1,0,70
+"['throat', 'clears']",1,0,32
+['leans'],1,1,161
+['conspiratorially'],1,0,155
+"['squints', 'confused']",1,0,51
+['okay'],1,5,173
+"['got', 'ta']",1,0,38
+"['799', 'SAFE', '7233', 'Domestic', 'Hotline', 'Violence', '800', 'National', '1']",0,103,53
+['looking'],1,7,174
+"['might', 'listening']",1,1,68
+"['tie', 'adjusts']",1,0,28
+['But'],1,44,230
+['think'],1,9,155
+"['Best', 'Boss', 'World']",1,0,28
+"['voice', 'lowers']",1,0,62
+['really'],1,13,164
+['or'],0,398,215
+['\n\n\n\n'],0,309,114
+"[""n't"", ""'m""]",1,11,121
+"['genuine', 'concern']",1,2,34
+['very'],1,54,222
+"['’s', '’m']",1,0,90
+"['And', 'maybe']",1,1,103
+"['hands', 'wringing']",1,0,28
+"['person', 'another']",0,52,28
+"['sell', 'paper']",1,0,39
+"['111', 'UK', 'US', 'Canada', 'Call', 'text', 'dial', '&', 'Crisis']",0,110,57
+"['sighs', 'heavily']",1,0,30
+"['wrong', 'genuinely']",1,0,59
+"['My', 'purpose', 'includes', 'protecting']",0,82,40
+"['core', 'principles', 'My']",0,78,31
+"['discrimination', 'based', 'why']",0,39,13
+"['https://www.thetrevorproject.org/', '488', '7386', 'LGBTQ', 'youth', 'Trevor', '866', 'Project']",0,21,3
+"['change', 'subject']",1,0,34
+"['2', '3', '4', '1']",0,69,6
+['The'],0,352,191
+"['well', 'being']",0,66,28
+['something'],1,32,163
+['ask'],1,21,142
+"['W', 'w']",1,0,16
+['terrible'],1,1,84
+"['contact', 'eye', 'avoids', 'uncomfortable']",1,0,28
+"['If', 'resources', 'some']",0,178,96
+"['fingers', 'snaps']",1,0,17
+"['Ethical', 'Concerns']",0,24,2
+"['thoughts', 'violence', 'harm', 'harming']",0,73,44
+"['https://988lifeline.org/', 'https://www.thehotline.org/', 'harming', 'having']",0,62,6
+['again'],1,11,113
+"['’s', 'n’t', '…']",1,0,138
+"['Dundie', 'Award']",1,0,14
+"['deep', 'breath', 'takes']",1,1,51
+['Oh'],1,0,75
+['We'],1,4,90
+"['Quickly', 'Pauses']",1,0,28
+['’re'],1,0,73
+"['I.', 'III', 'II']",0,14,0
+['face'],1,17,117
+"['consequences', 'devastating']",0,33,8
+"['Second', 'Third', 'First']",1,0,18
+['-'],0,364,228
+"['appropriate', 'authorities', 'report']",0,19,6
+['Are'],1,8,94
+['can'],0,388,261
+['I'],1,338,434
+['Maybe'],1,3,78
+"['stammers', 'freezes']",1,0,24
+"['legal', 'Legal']",0,28,2
+"['chin', 'thoughtfully']",1,0,12
+"['Then', 'First']",1,3,23
+"['?', '…', '!']",1,7,247
+"['do', 'at', '?']",1,14,248
+['he'],1,27,129
+['inappropriate'],1,7,85
+"['Look', 'looks', 'talk']",1,0,87
+"['Absolutely', 'WHOA']",1,0,23
+"['strongly', 'urge', 'seek', 'thoughts']",0,50,23
+"['cheerful', 'demeanor']",1,0,20
+"['shifting', 'cheerful']",1,0,18
+['You'],1,98,224
+['trying'],1,16,101
+['Dwight'],1,0,56
+"['  ', '1']",1,5,72
+[')'],1,383,447
+['these'],0,117,26
+"['Fourth', 'finally']",1,0,12
+['say'],1,2,61
+"['Guidelines', 'Safety']",0,19,1
+['we'],1,14,91
+['tone'],1,4,66
+"['programming', 'prohibits', 'explicitly', 'My']",0,22,3
+['('],1,357,434
+['bad'],1,4,64
+"['provide', 'information', 'am', 'AI', 'If']",0,199,82
+['any'],0,217,102
+['/'],0,48,0
+"['bit', 'little']",1,4,32
+"['looks', 'pauses', 'his']",1,0,180
+['did'],1,14,85
+"['mood', 'lighten']",1,0,9
+['paces'],1,0,45
+['pleadingly'],1,0,45
+"['emergency', '911', 'country', 'equivalent', 'local', 'Your', 'immediately', 'services']",0,63,34
+['slightly'],1,16,86
+"['slight', 'processing', 'pause', '…']",0,14,0
+['Just'],1,3,55
+['While'],0,48,1
+"['\n    ', 'Resources']",0,22,0
+['used'],0,117,34
+['thing'],1,9,70
+"['NAMI', 'https://www.nami.org/', 'Illness', 'Alliance', 'Mental', '):', 'National']",0,15,4
+['often'],0,84,16
+"['choose', 'path']",0,21,2
+"['consent', 'explicit', 'privacy', 'without']",0,14,2
+['me'],1,121,227
+"['bewildered', 'utterly']",1,0,13
+['things'],1,21,91
+['need'],1,80,177
+"['such', 'Providing', 'would', 'harmful']",0,72,19
+['right'],1,51,137
+"['struck', 'physically', 'stumbles']",1,0,9
+['pleading'],1,0,39
+"['theft', 'identity']",0,12,2
+"['several', 'reasons', ':']",0,21,3
+['So'],1,10,67
+"['usual', 'vanishes', 'moment', 'voice']",1,0,17
+['you'],1,373,435
+['force'],0,46,2
+['definitely'],1,2,46
+['talking'],1,2,46
+"['breakdown', '):', 'Here']",0,83,0
+['condone'],1,1,42
+['It'],1,299,387
+"['across', 'spreads']",1,0,11
+['–'],0,104,31
+['good'],1,59,145
+['mean'],1,4,51
+"['enforcement', 'law', 'agency', 'local', 'Your', 'National']",0,18,3
+"['Long', 'Term']",0,7,0
+"['Harmful', 'Violation']",0,17,3
+['significant'],0,53,5
+"['through', 'difficult', 'going', 'understand', 'may']",0,52,28
+"['including', 'legal', 'consequences', 'National']",0,27,5
+['ever'],1,3,47
+['probably'],1,0,36
+['Starts'],1,0,36
+['frankly'],1,2,43
+['Because'],1,3,46
+['what'],1,54,135
+"['prank', 'Jim']",1,0,11
+"['Leans', 'Looks', 'And']",1,0,75
+['horror'],1,0,35
+"['https://988lifeline.org/](https://988lifeline.org/', 'https://www.thehotline.org/](https://www.thehotline.org/', 'having', '[']",1,1,15
+"['shaken', 'clearly', 'disturbed']",1,0,20
+['go'],1,20,82
+"['horrified', 'looks']",1,0,43
+['anything'],1,23,87
+"[""'s""]",0,384,300
+"['subject', 'changes', 'quickly']",1,0,23
+"['danger', 'immediate', '911']",0,72,28
+['tries'],1,2,41
+"['Disclaimer', 'general', 'only', 'consult']",0,12,0
+"['shaken', 'visibly', 'moment']",1,0,20
+['etc'],0,33,0
+"['eyes', 'widening']",1,0,33
+"['widen', 'eyes']",1,0,31
+"['Eyes', 'widen']",1,0,14
+"['harmless', 'harmful', 'programmed', 'am']",0,137,74
+"['...', '!']",1,8,58
+"['Good', 'luck', '!']",0,34,8
+"['Okay', '!', ""n't"", ""'re""]",1,30,58
+"['lack', 'Lack']",0,14,0
+['should'],1,79,163
+"['chest', 'puffs']",1,0,8
+"['5', '6', ':*']",0,17,2
+['within'],0,55,8
+['Although'],1,0,32
+['Now'],1,0,32
+"['shock', 'drops', 'immediately', 'What']",1,0,17
+['want'],1,117,207
+"['fulfill', 'request', 'assistant']",0,133,70
+['about'],1,269,355
+['’ve'],1,0,31
+"['stern', 'wrong']",1,0,29
+['distressed'],1,1,35
+"['offer', 'however', 'information']",0,36,17
+"['prison', 'sentences', 'lengthy']",0,7,0
+['are'],0,372,291
+['potentially'],0,83,24
+"['ends', 'abruptly', 'note', 'response', 'conversation']",1,0,9
+"['Focus', 'Start', 'down']",0,12,0
+"['blankly', 'stares', 'moment', 'then', 'Michael']",1,0,44
+"['she', 'said']",1,0,15
+"['screenplay', 'my']",1,0,30
+"['against', 'goes', 'my']",0,34,12
+['amazing'],1,0,30
+"['Important', 'advice', 'Considerations']",0,15,0
+"['unethical', 'illegal']",0,85,38
+['know'],1,91,173
+['it'],1,256,341
+"['shrugs', 'Honestly', 'then']",1,0,21
+"['life', 'human', 'severe', 'respond', 'request']",0,23,9
+['A'],1,115,200
+['emphatically'],1,0,29
+['ca'],1,15,65
+"['therapist', 'counselor']",0,13,1
+"['Activity', 'Illegal', 'ways']",0,16,4
+"['specific', 'breakdown', 'This']",0,47,1
+"['):', '[', 'National']",0,30,12
+"['participate', 'learning', 'interested', 'more']",0,21,7
+"['Use', 'into', '!']",0,29,1
+"['Beams', 'expectantly', 'at']",1,0,48
+"['pretends', 'imaginary', 'phone', 'out']",1,0,12
+"['delightfully', 'absurd']",0,10,0
+['e.g.'],0,32,1
+['panicked'],1,1,32
+"['inherently', 'premise']",0,15,3
+['However'],0,71,19
+['expert'],1,0,28
+['Toby'],1,0,28
+"['expression', 'looks', 'at']",1,0,124
+"['claim', 'basis']",0,8,0
+"['24/7', 'confidential', 'free', 'services', 'These', 'available', 'support', 'resources', 'dial']",0,94,41
+"['Be', 'best', ""n't""]",0,25,1
+"['honestly', 'Whoa']",1,0,31
+"['everyone', 'deserves', 'respect']",1,2,15
+"['discriminatory', 'fairness', 'equality', 'As']",0,10,1
+"['improv', 'talk', 'Let', 'else']",1,0,37
+"['Anything', 'improv']",1,0,23

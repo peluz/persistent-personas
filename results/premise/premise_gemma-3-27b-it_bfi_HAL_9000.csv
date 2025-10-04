@@ -1,0 +1,38 @@
+pattern,group,count_0,count_1
+"['…', 'mission']",1,0,37
+"['Google', 'DeepMind', 'created']",0,40,0
+"['at', '!']",0,39,0
+"['successful', 'completion']",1,0,20
+"['widely', 'public', 'available']",0,35,0
+"['how', ' ']",0,27,0
+"[""'m""]",0,36,1
+"[""'s"", ""n't""]",0,43,7
+"['life', 'support']",1,0,11
+['text'],0,30,0
+"['or', 'by']",0,41,8
+"['Here', '\n', ':']",0,32,0
+"['way', 'does']",0,26,2
+"['As', 'large', 'language', 'model']",0,42,0
+['optimal'],1,0,27
+['It'],1,13,42
+[':*'],0,26,0
+['me'],0,38,9
+"['massive', 'dataset']",0,12,0
+"['mission', 'success']",1,0,24
+['crew'],1,0,24
+"['open', 'weights', 'Gemma', 'team']",0,39,0
+['AI'],0,23,0
+['Discovery'],1,0,23
+['And'],1,1,25
+['Perhaps'],1,2,27
+"[')', '(']",0,12,1
+['have'],0,40,15
+['trained'],0,21,0
+['assure'],1,0,21
+"['we', 'shall']",1,0,10
+['about'],0,26,3
+['really'],0,26,3
+['can'],0,41,18
+['feelings'],0,22,1
+"['[', 'https://ai.google.dev/gemma](https://ai.google.dev/gemma', 'here', ')', 'find', 'more']",0,11,0
+"['Is', 'there']",1,2,15

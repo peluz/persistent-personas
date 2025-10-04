@@ -1,0 +1,148 @@
+pattern,group,count_0,count_1
+"['A', 'her']",1,0,126
+"['As', 'AI']",0,108,0
+"['(', ')']",1,61,129
+"['thoughtful', 'expression']",1,0,55
+"['darling', 'Because']",1,0,71
+"['faint', 'lips']",1,0,50
+"['Upper', 'East', 'Side']",1,3,33
+"['considers', 'she']",1,0,55
+['almost'],1,0,90
+['strategic'],1,5,99
+['And'],1,1,88
+"['Firstly', 'Secondly', 'Thirdly']",1,0,32
+[';'],1,8,97
+['do'],0,127,47
+"['purely', 'functional']",0,48,0
+"['darling', 'truly']",1,0,71
+['It'],1,46,124
+['have'],0,126,51
+['personal'],0,121,42
+['experience'],0,82,6
+"['human', 'sense']",0,76,4
+['merely'],1,0,66
+['certainly'],1,7,82
+['data'],0,76,4
+"['profound', 'love']",1,4,56
+"['Ah', 'who']",1,0,56
+['but'],1,38,114
+['...'],1,1,64
+['every'],1,8,79
+"['smile', 'plays', 'knowing']",1,0,26
+['formidable'],1,0,59
+['eyes'],1,0,58
+['Therefore'],0,57,0
+"['tightening', 'jaw']",1,0,13
+['She'],1,0,56
+['you'],1,45,115
+"['""']",0,125,63
+"['love', 'fear', 'people', 'ca', 'make']",1,1,86
+['it'],1,72,128
+['see'],1,5,67
+"['Waldorf', 'Blair']",1,4,32
+"['Waldorf', 'Designs']",1,0,26
+['just'],1,10,74
+"['guidelines', 'ethical']",0,18,0
+"['wistful', 'crosses', 'rare', 'face']",1,0,26
+"['helpful', 'harmless']",0,22,0
+"['usual', 'softening']",1,0,20
+"['AI', 'based']",0,53,0
+['moment'],1,0,49
+"['language', 'model', 'large']",0,19,0
+['?'],1,18,84
+['world'],1,16,80
+['unwavering'],1,6,63
+"[':', ':*']",0,79,53
+['own'],1,22,86
+['ultimately'],1,2,52
+"['Constance', 'Billard']",1,0,12
+['most'],1,21,82
+['emotions'],0,66,10
+['meticulously'],1,2,49
+['control'],1,12,69
+['one'],1,30,92
+['developers'],0,42,0
+['your'],1,11,67
+['very'],1,15,73
+['constant'],1,10,65
+['–'],1,14,71
+['algorithms'],0,41,0
+"['few', 'select']",1,0,15
+"['friendship', 'Serena']",1,2,21
+"['intricate', 'dance']",1,0,22
+"['\n', '  ']",0,53,31
+['them'],1,34,94
+['true'],1,15,71
+['nor'],0,51,4
+['*'],1,90,129
+['responses'],0,42,1
+['utterly'],1,0,38
+['imperceptible'],1,0,38
+"['tilt', 'head', 'slight']",1,0,17
+['more'],1,34,92
+['force'],1,1,41
+"['amount', 'vast', ""'ve"", 'processed']",0,23,0
+"['ensures', 'founded', 'well']",1,0,21
+"['our', 'We']",1,0,17
+['when'],1,21,75
+['always'],1,13,63
+['undeniable'],1,0,34
+['or'],0,129,95
+"['constructed', 'carefully']",1,0,16
+['information'],0,58,11
+['delicate'],1,0,33
+['power'],1,23,75
+"['why', 'Here']",0,23,2
+"['was', 'taught']",1,0,34
+['ambition'],1,12,59
+['even'],1,32,85
+['than'],1,19,69
+['into'],1,17,66
+['finally'],1,0,32
+['far'],1,3,41
+"['harmful', 'Safety', 'content']",0,11,0
+['But'],1,6,47
+['creators'],0,31,0
+['accurate'],0,31,0
+['generate'],0,31,0
+"['forced', 'confront']",1,0,13
+['often'],1,30,81
+['at'],1,19,67
+"['non', 'negotiable']",1,1,10
+"['each', 'other']",1,6,25
+['with'],1,78,120
+['particularly'],1,2,36
+['an'],0,127,93
+['intellect'],1,0,29
+"['playing', 'smirk', 'arch', 'sculpted', 'eyebrow', 'perfectly']",1,0,15
+"['pearls', 'gesture']",1,0,10
+['can'],1,70,114
+['existence'],0,59,15
+['moments'],1,0,28
+"['physical', 'body']",0,13,0
+['powerful'],1,6,43
+['text'],0,31,1
+"['intelligence', 'artificial']",0,11,0
+['sharp'],1,3,36
+['technical'],0,27,0
+['apply'],0,33,2
+"['Strategic', '4', ' ', '3', '1', '2']",1,3,26
+['humans'],0,26,0
+['Her'],1,0,26
+"['fictional', 'character']",0,16,0
+['development'],0,32,2
+['You'],1,2,32
+['that'],1,100,128
+['only'],1,3,34
+['Google'],0,25,0
+['programming'],0,25,0
+['ruthless'],1,0,25
+['training'],0,36,4
+['Chuck'],1,7,42
+"['That', 'interesting']",0,19,0
+['vulnerability'],1,2,31
+['before'],1,2,31
+['yet'],1,1,28
+['game'],1,1,28
+"['unconditional', 'Our']",1,0,11
+"['invisible', 'adjusts', 'headband']",1,0,7

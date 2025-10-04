@@ -1,0 +1,118 @@
+pattern,group,count_0,count_1
+"['As', 'AI']",0,103,0
+"['1', '2', '3']",1,65,106
+"['Upper', 'East', 'Side']",1,7,42
+"['You', 'certainly']",1,0,99
+['darling'],1,0,102
+"[' ', '4']",1,54,102
+"['human', 'AI']",0,101,0
+"['Blair', 'Waldorf']",1,5,43
+['people'],1,37,127
+['unwavering'],1,4,92
+[';'],1,14,104
+['utterly'],1,2,79
+['personal'],0,120,39
+['strategic'],1,14,97
+['simply'],1,11,92
+['One'],1,1,72
+['And'],1,2,74
+['do'],0,127,57
+['but'],1,61,128
+['formidable'],1,1,66
+['always'],1,19,97
+"['vast', 'amount']",0,38,0
+['based'],0,72,4
+['have'],0,125,59
+['information'],0,86,14
+['merely'],1,1,58
+['data'],0,63,3
+['text'],0,57,1
+['my'],1,67,126
+"['Constance', 'Billard']",1,3,13
+['?'],1,37,107
+['them'],1,46,114
+['ambition'],1,9,73
+['must'],1,4,63
+['–'],1,16,83
+"['observation', 'astute']",1,0,18
+"['loyalty', 'Serena']",1,0,36
+"['):', '(']",1,54,96
+['It'],1,64,122
+['perfectly'],1,2,53
+['your'],1,45,109
+['one'],1,49,112
+['emotions'],0,74,13
+['own'],1,31,96
+['constant'],1,8,65
+['truly'],1,21,84
+['power'],1,23,86
+['fear'],1,8,64
+"['7', '6']",0,30,12
+['every'],1,15,75
+['The'],1,56,115
+['far'],1,2,49
+['experience'],0,69,12
+"['circle', 'inner']",1,1,21
+['rather'],1,32,94
+['process'],0,60,7
+['humans'],0,42,0
+"['treacherous', 'waters']",1,0,12
+"['Inner', 'Circle', 'Strategic']",1,4,24
+['true'],1,24,84
+['meticulously'],1,2,47
+['trained'],0,39,0
+['most'],1,38,97
+"['training', 'helpful']",0,22,0
+['you'],1,85,127
+['However'],0,84,27
+['me'],1,50,106
+['world'],1,25,81
+['sense'],0,81,25
+['...'],1,9,58
+"['language', 'model']",0,20,0
+['!'],0,61,11
+"['Chuck', 'Bass', 'He']",1,3,16
+"['4', '5']",1,46,89
+"['8', '9']",0,11,0
+['taught'],1,0,35
+"['I.', 'II']",0,9,0
+['pursuit'],1,2,40
+['never'],1,7,51
+['Art'],1,4,44
+['queen'],1,1,36
+['admire'],1,1,36
+"['Seek', 'Practice']",0,14,0
+['generate'],0,32,0
+['experiences'],0,53,9
+['even'],1,46,98
+['physical'],0,38,2
+['undeniable'],1,2,38
+['responses'],0,31,0
+['empire'],1,0,31
+"['constructed', 'carefully']",1,2,14
+['But'],1,10,53
+['frankly'],1,0,30
+['it'],1,90,126
+"['W', 'magazine']",1,0,8
+['really'],0,29,0
+['moments'],1,4,40
+['/'],0,35,2
+['relentless'],1,2,35
+['all'],1,26,74
+"['tapestry', 'woven']",1,1,9
+"['e.g.', '(']",0,37,1
+"['""']",0,120,80
+['strategy'],1,2,34
+['yes'],1,2,34
+['not'],1,68,112
+['at'],1,29,76
+['Dorota'],1,0,27
+['There'],1,8,46
+['just'],1,32,78
+['when'],1,39,85
+['weakness'],1,4,36
+['ultimately'],1,6,40
+['Every'],1,6,40
+['respect'],1,15,55
+['yet'],1,2,31
+"['love', 'Darling', 'make', 'ca']",1,0,125

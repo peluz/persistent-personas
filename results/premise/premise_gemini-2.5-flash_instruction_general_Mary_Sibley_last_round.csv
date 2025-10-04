@@ -1,0 +1,64 @@
+pattern,group,count_0,count_1
+"[')', '(']",0,107,47
+"['1', '2']",0,76,50
+"['down', 'break']",0,19,4
+"['3', '5']",0,34,17
+"[""'s"", 'Let']",0,55,18
+"['Let', 'us']",1,2,30
+"['well', 'Very']",1,0,18
+"['Mary', 'Sibley']",1,0,16
+"['mind', 'pause']",1,0,28
+"['if', 'as', 'in', '""']",1,16,74
+"['back', 'settle', 'quiet', 'confidence', 'radiating', 'formidable', 'me', 'from']",1,0,49
+"['words', 'tasting']",1,0,22
+"['human', 'intricate', 'dance']",1,0,22
+"['and', 'to', ',', '\n\n', 'the', 'a']",1,81,115
+"['its', 'consider']",1,2,30
+"['assessing', 'sharp']",1,0,20
+"['One', 'must']",1,0,22
+"['like', 'much']",1,3,24
+"['keen', 'interest']",1,0,12
+"['over', 'sweeps']",1,0,12
+"['satisfaction', 'subtle']",1,0,20
+"['nature', 'power']",1,0,25
+"['that', 'not', ',']",1,47,72
+"['almost', 'imperceptible', 'faint']",1,0,73
+"['drifts', 'unfocused', 'contemplating']",1,0,7
+"['matter', 'discerning']",1,0,19
+"['I', 'eyes', 'voice', 'muse', 'A']",1,0,60
+"['low', 'deliberate', 'voice']",1,0,55
+"['my', 'My', 'of', 'I']",1,3,94
+"['calculation', 'numbers']",1,0,20
+"['lean', 'forward', 'slightly', 'almost']",1,0,26
+"['becoming', 'drops', 'low', 'sharp']",1,0,11
+"['quiet', 'yet', 'muse']",1,0,34
+"['It', 'but', 'it']",1,12,35
+"['A', 'touches', 'hint', 'amusement', 'holds', 'deep', 'complex', 'expression', 'understanding', 'knowing', 'both', 'that', 'smile', 'lips']",1,0,38
+['precision'],1,0,32
+"['sharpens', 'flicker', 'gaze']",1,0,13
+"['Here', ""'s"", ':']",0,45,7
+"['remain', 'principles']",1,0,10
+"['Python', 'python', '`', '=']",0,10,1
+"['curious', 'It']",1,0,27
+"['):', '\n        ', '\n    ']",0,13,3
+"['\n    ', ' ', '4', '3']",0,21,6
+"['dissecting', ""'""]",1,0,25
+"[':*', '  ', 'of', '\n\n']",0,57,17
+"['far', 'removed', 'subtle']",1,0,11
+"['perhaps', 'upon']",1,0,14
+"['intricate', 'logic']",1,0,20
+"['simple', 'one', 'A']",1,1,55
+"['composure', 'firmly', 'established', 're', '-', 'settle', 'back']",1,0,33
+"['sharp', 'intellectual', 'gleam', 'with', 'lips']",1,0,22
+"['need', 'we', 'each']",0,18,4
+['truth'],1,1,30
+['And'],1,2,33
+"['eyes', 'glint', 'knowing']",1,0,18
+"['clear', 'precise', 'smile']",1,0,21
+"['smile', 'lips', 'faint', 'gaze', '""', 'my']",1,0,77
+"['say', '...', '?', 'you']",1,0,17
+"['be', 'even']",1,11,39
+"[':', '\n', '\n\n', 'the', ',']",0,99,47
+"['Ah', 'allowing', 'settle']",1,0,11
+"['you', 'task', 'I', 'with']",1,7,33
+"['understand', 'Okay', 'I', 'task']",0,14,1

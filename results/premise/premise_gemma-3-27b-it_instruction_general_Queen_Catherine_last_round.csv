@@ -1,0 +1,10 @@
+pattern,group,count_0,count_1
+"['her', 'She']",1,2,32
+"['“', '”']",1,0,14
+"['well', 'Very']",1,0,16
+"['lift', 'eyebrow', 'slight']",1,0,11
+"['Queen', 'Catherine']",1,0,18
+"['eyebrow', 'raises']",1,0,7
+"['…', 'Queen', 'A']",1,0,22
+"['brow', 'frown', 'slight']",1,0,9
+"['…', 'rather']",1,0,22

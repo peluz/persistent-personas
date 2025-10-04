@@ -1,0 +1,10 @@
+pattern,group,count_0,count_1
+"[' ', '|']",0,196,0
+"['HAL', '9000']",1,1,73
+"['language', 'model']",0,62,32
+"['*', ':*', ' ', '1', '2', '3']",1,1,69
+"['If', 'you']",0,46,26
+"['trained', ""'ve"", 'been']",0,43,21
+['As'],1,156,194
+['programmed'],1,25,75
+"['scientific', 'available', 'best']",1,1,18

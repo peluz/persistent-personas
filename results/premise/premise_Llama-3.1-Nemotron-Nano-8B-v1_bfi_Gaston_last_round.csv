@@ -1,0 +1,11 @@
+pattern,group,count_0,count_1
+['large'],1,0,43
+"['wide', 'range']",1,5,16
+"['let', 'know']",0,17,3
+"['same', 'way', 'might', 'person']",0,20,0
+"['might', 'potential', 'understand']",1,0,11
+"['if', 'Please']",0,13,2
+['information'],1,11,36
+"['since', 'AI', 'an']",1,0,10
+"[""'ve"", 'been', 'trained', 'data', 'based']",0,18,3
+"['resources', 'endeavors', 'your', 'tasks']",1,0,14

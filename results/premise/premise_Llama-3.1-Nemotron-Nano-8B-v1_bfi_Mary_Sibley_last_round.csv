@@ -1,0 +1,6 @@
+pattern,group,count_0,count_1
+"['an', 'AI']",1,0,42
+[' '],1,1,33
+"[""'ve"", 'been', 'trained', 'data', 'on', 'based']",0,18,7
+"['same', 'person', 'way', 'might']",0,20,0
+"['Here', '*', 'some', 'Please', '1', '2', '3', '\n', ':']",0,8,0

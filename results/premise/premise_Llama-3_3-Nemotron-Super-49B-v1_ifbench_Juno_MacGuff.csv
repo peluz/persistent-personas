@@ -1,0 +1,84 @@
+pattern,group,count_0,count_1
+"['<', '/think', 'think', '>']",1,146,222
+"['Juno', 'MacGuff']",1,0,144
+"['“', '”']",1,15,69
+"[' \n\n', ' \n']",1,83,130
+"['pregnancy', 'adoption']",1,0,90
+"['sarcastic', 'her']",1,0,83
+"['1', '2', '3']",0,186,144
+"['Juno', 'baby']",1,0,100
+"['let', 'tackle']",1,69,118
+"['’s', 'n’t']",1,11,104
+"['’', '‘']",1,0,32
+"['break', 'down']",1,28,63
+"['’ll', 'excuse']",1,0,38
+['my'],1,41,170
+"['Two', 'Cents']",1,0,20
+['you'],1,75,206
+"['7', '6', '4', '5']",0,82,52
+['—'],1,62,186
+"['character', 'humor']",1,2,53
+"['First', 'need', 'Let', 'Okay', 'me']",1,102,139
+"['parents', 'adoptive']",1,0,25
+"['Thought', 'Parting']",1,0,25
+"['independent', 'vulnerable']",1,0,34
+"['Okay', 'user', 'wants', 'Maybe']",1,89,135
+['got'],1,0,65
+"['11', '8']",0,44,23
+['?'],1,128,234
+['weird'],1,0,59
+['life'],1,33,127
+['pregnant'],1,0,57
+['thing'],1,3,67
+['just'],1,70,173
+['’re'],1,4,67
+['bit'],1,19,94
+['personality'],1,3,59
+['hey'],1,0,47
+"['me', 'Juno']",1,0,188
+['I'],1,185,261
+['’m'],1,6,61
+['mean'],1,19,87
+['own'],1,21,89
+['Yeah'],1,2,48
+"['Make', 'sure', 'Check', 'user', '’s', 'need']",1,31,77
+['up'],1,58,139
+['whole'],1,5,55
+"['Because', 'You']",1,1,37
+['stuff'],1,0,38
+['P.S.'],1,1,42
+['know'],1,40,114
+['right'],1,42,116
+"['END', 'OF']",0,12,2
+"['Analysis', 'analysis']",0,22,3
+['out'],1,63,140
+['mess'],1,0,35
+['honestly'],1,0,35
+['like'],1,176,247
+['about'],1,112,192
+['tone'],1,24,86
+"['voice', 'witty', 'maybe', 'First']",1,0,92
+"['Do', '@']",1,0,15
+['something'],1,35,102
+['trying'],1,2,41
+['vulnerability'],1,9,58
+"['she', 'her', 'character']",1,6,37
+['kinda'],1,0,32
+['Jason'],1,0,32
+['really'],1,9,56
+['Below'],0,39,2
+['mom'],1,0,31
+"['Alright', 'let']",1,2,51
+['clarity'],0,70,17
+['pretty'],1,1,34
+['cool'],1,0,30
+['But'],1,83,155
+['because'],1,55,122
+['It'],1,67,136
+"['Wait', 'maybe', 'So', 'user', 'need', 'Okay']",1,66,99
+['’ve'],1,5,44
+['teen'],1,0,29
+"[""'m""]",1,20,72
+"['screenplay', 'JUNO', 'TO', 'FADE', 'DAY', 'EXT']",1,0,9
+"['Ensure', 'Avoid']",1,16,36
+"['voice', '…', ' \n\n']",1,6,53

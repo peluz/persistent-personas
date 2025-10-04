@@ -1,0 +1,48 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,124,68
+['Darling'],1,0,187
+"['East', 'Upper', 'Side']",1,0,57
+"['1', '2', '3']",0,64,30
+"['you', 'You']",1,20,151
+"['make', 'fear', ""n't""]",1,2,168
+"['Blair', 'Waldorf']",1,0,39
+"[':*', '  ']",0,55,25
+"['I', 'my']",1,19,99
+['darling'],1,1,95
+"['5', '4', '6']",0,30,11
+['And'],1,24,133
+"['ca', 'love', 'people', 'them', 'but', 'can', 'you']",1,1,176
+['certainly'],1,5,80
+"['Since', 'Therefore']",0,21,7
+"['you', ""'re""]",1,14,92
+['perfectly'],1,13,90
+"['charity', 'gala']",1,0,16
+['utterly'],1,10,78
+"['\n    ', '\n        ']",0,20,4
+['simply'],1,15,85
+['always'],1,22,97
+['One'],1,20,91
+"[""'ll"", 'excuse', 'Now', 'me', 'have']",1,0,31
+"['Gossip', 'Girl']",1,0,9
+['...'],1,12,74
+['frankly'],1,0,42
+['truly'],1,39,118
+['?'],1,76,161
+"['faux', 'pas']",1,0,7
+"['suit', 'Chanel']",1,0,11
+"['attend', 'brunch', 'important']",1,0,11
+"['social', 'lies', 'expertise']",1,0,19
+"['suppose', 'I']",1,1,38
+['…'],1,17,71
+"['Met', 'Gala']",1,0,7
+['if'],1,83,158
+['must'],1,42,108
+['It'],1,93,167
+['something'],1,23,79
+['about'],1,52,118
+['But'],1,26,82
+['pedestrian'],1,1,32
+['designer'],1,1,32
+['Honestly'],1,0,28
+"['0', 'x', '=', 'can']",0,15,4
+"['treacherous', 'waters']",1,0,8

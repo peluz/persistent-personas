@@ -1,0 +1,76 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,110,165
+"['rather', 'One']",1,0,104
+"['faint', 'lips', 'playing', 'smirk', 'on']",1,0,121
+"['must', 'always']",1,1,68
+"['Waldorf', 'Blair']",1,0,33
+"['considers', 'slight']",1,0,56
+"['almost', 'imperceptible']",1,0,34
+"['social', 'strategic']",1,0,50
+"[':', '\n']",0,118,79
+"['far', 'while']",1,0,43
+"['it', 'even']",1,16,88
+"['My', 'dear', 'faint']",1,0,80
+"['you', 'Now', 'more']",1,1,49
+"['as', 'she', 'her']",1,1,101
+"['expertise', 'lies']",1,0,12
+"['frown', 'brow', 'creasing']",1,0,11
+"[""'ll"", 'indulge']",1,0,25
+"['if', 'delicate', 'lips']",1,0,62
+"['sigh', 'escapes']",1,0,11
+"['eye', 'glint']",1,0,16
+"['sculpted', 'eyebrow', 'perfectly', 'arch', 'A', 'a']",1,0,107
+"['Upper', 'East', 'Side']",1,0,9
+"['elementary', 'rather']",1,0,47
+"['def', '#', 'python', 'return', '`', '):', '\n    ', '=']",0,15,3
+"['Here', 'why']",0,20,2
+"['well', 'Very']",1,0,15
+"['simply', '...']",1,0,57
+"['hostile', 'takeover']",1,0,9
+"['taps', 'finger', 'manicured', 'against', 'chin', 'perfectly']",1,0,32
+"['queen', 'occasionally', 'suppose', 'must']",1,0,20
+['utterly'],1,0,44
+['precise'],1,0,44
+"['excuse', ""'ll"", 'me']",1,0,14
+"[""n't"", '?', 'one']",1,4,49
+"['adjusts', 'invisible', 'an']",1,0,19
+['shall'],1,1,45
+"['worthy', 'intellect', 'challenge', 'hardly']",1,0,12
+"['if', 'be', 'and', 'as']",1,19,63
+"['...', 'A', 'with', 'I']",1,3,85
+"['yet', 'perfectly']",1,0,39
+"['greater', 'matters', '–']",1,0,14
+['And'],1,2,46
+"['\n    ', ' ', '2', '1', '3']",0,29,7
+['my'],1,18,79
+"['concern', 'myself', 'typically', 'while']",1,0,34
+"['amusement', 'eyes']",1,0,15
+"['To', 'need']",0,25,9
+['quite'],1,1,38
+"['offers', 'smile']",1,0,10
+['request'],1,4,46
+['Darling'],1,1,37
+['mundane'],1,0,33
+"['people', 'fear', 'but', 'can']",1,1,14
+['darling'],1,0,31
+"['charity', 'gala']",1,0,8
+['intricate'],1,0,30
+"['Okay', 'understand', 'I', 'task']",0,14,2
+"['  ', ':*', '\n\n']",0,72,21
+"['nature', 'considers', 'pedestrian', 'rather']",1,0,25
+"['pressing', 'attend']",1,0,7
+['simple'],1,5,44
+"['placed', 'rumor', 'well']",1,0,8
+"['\n\n', 'of', ',', 'the', 'is']",1,104,148
+"['She', 'her', 'of']",1,1,130
+"[""'s"", 'a', '\n\n', 'to', ',', 'the']",1,73,118
+"['that', 'and', 'in', 'the', '\n\n']",1,57,87
+"['high', 'society']",1,0,10
+"['?', 'There']",1,3,40
+"['usual', 'precision', 'with']",1,0,32
+['simplistic'],1,0,28
+['such'],1,11,55
+['discerning'],1,0,26
+"['appreciate', 'I']",1,1,30
+"['break', 'down', 'Let', ""'s""]",0,18,3
+"['ca', 'love', 'them', ""n't""]",1,1,13

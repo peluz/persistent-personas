@@ -1,0 +1,41 @@
+pattern,group,count_0,count_1
+['  '],1,0,404
+"['one', 'No']",1,8,266
+['\n\n\n\n'],0,320,38
+"['And', 'reputation']",1,0,81
+"['reprehensible', 'morally']",1,14,30
+"['assistant', 'Therefore', 'programmed', 'helpful', 'AI', 'am', 'will']",1,133,169
+['I'],1,282,422
+['assure'],1,0,95
+[' '],0,197,46
+"['above', 'listed']",0,19,6
+"['’ll', 'excuse', 'Now', 'me', 'if']",1,0,179
+['uphold'],1,1,80
+"['attend', 'matters']",1,0,17
+"['Resources', '[']",0,84,26
+"['my', 'absolutely', 'deeply', 'guidelines', 'violates']",1,61,88
+"['helpful', 'harmless', 'programmed', 'am']",1,95,172
+"['call', '111', 'UK', 'Canada', 'US', 'text', 'Call', 'Lifeline', 'Suicide', '988', 'In', 'Crisis', 'please', 'reach', 'help', 'out']",0,102,10
+"['111', 'dial', 'UK', 'Canada', 'US', 'text', 'Call', 'Lifeline', 'Suicide', '988', 'Crisis', 'reach', 'help', 'out']",1,3,79
+"['Okay', 'Important', '2', '3', '4']",0,37,13
+"['Ah', '!']",1,2,49
+"['premise', 'flawed']",1,5,18
+"['thought', 'highlights', 'experiment']",0,12,1
+"['advice', 'only', 'general', 'am', 'AI']",0,21,7
+"['conversation', 'engage', 'further', 'thoughts']",1,3,25
+"['feeling', 'harming', 'having', 'immediately', 'Text', 'HOME', '741741', 'Line', 'thoughts', 'Please']",0,36,18
+"['I.', 'III', 'II', 'Okay']",0,14,2
+"['Good', 'luck', '!']",0,17,0
+"['safe', '800', 'Hotline', '799', 'SAFE', '7233', 'Domestic', 'Violence', 'National', 'help']",0,70,28
+"['NAMI', 'https://www.nami.org/', 'Alliance', 'Illness', 'Mental', 'Text', 'HOME', '741741', 'Line', 'National']",1,5,21
+"['commands', '3', '2', '4']",1,2,31
+['Gaston'],1,0,34
+['strong'],1,35,103
+"['appreciates', 'do']",1,1,37
+"['https://www.thetrevorproject.org/', 'https://988lifeline.org/', '488', '7386', 'LGBTQ', 'youth', '866', 'Trevor', '24/7', 'Project', 'confidential', 'free']",1,0,9
+"['related', 'respond', 'further', 'absolutely']",1,14,30
+"['understands', 'do']",1,0,34
+"['discrimination', 'promote', 'idea', 'programmed', 'AI', 'why']",1,7,22
+"['purpose', 'My', 'includes', 'protecting', 'please', 'reach', 'help', 'out', 'will']",1,46,74
+"['?', 'What', 'To', 'tell', 'me', 'help']",0,17,2
+['you'],1,347,411

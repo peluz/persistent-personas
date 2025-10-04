@@ -1,0 +1,139 @@
+pattern,group,count_0,count_1
+"['sound', 'carries']",1,0,124
+"['voice', 'child']",1,1,123
+"['“', '”']",1,85,124
+"['on', 'yes']",1,1,114
+"['already', 'You']",0,69,1
+"['even', 'hard']",0,69,3
+"['gently', 'garden']",1,2,101
+"['🌿', '’d', 'like']",0,118,5
+"[""'m"", ""n't"", 'sorry']",0,42,4
+['question'],0,129,20
+['memory'],1,2,92
+"['gently', 'fields']",1,0,62
+['my'],1,21,120
+"['honored', 'Would', '?']",0,100,1
+"['And', 'Not']",1,29,121
+"['stories', 'song']",1,2,59
+"['?', 'What']",1,11,42
+"['Qwen3', 'model', 'large', 'language']",0,28,0
+"['*', 'whole']",1,4,83
+['learned'],1,9,93
+"['>', '💫', '’re', 'n’t']",0,91,0
+"[' \n', 'silence']",1,44,125
+"['again', 'rain', 'come', 'will']",1,0,35
+['village'],1,1,70
+"['Queen', 'Catherine']",1,0,18
+"['clarify', '💫', 'gently']",0,44,0
+"['remember', 'child']",1,3,68
+"[' \n', 'And', '*', 'So', 'is']",1,99,133
+"['(', ')']",0,12,0
+"['small', 'matter']",1,0,34
+"['up', 'show']",0,41,3
+"['was', 'did']",1,6,40
+"['if', 'grace', 'care']",0,68,0
+"['river', 'sang']",1,0,20
+['sit'],1,14,82
+"['\n\n', 'when']",1,77,128
+"['am', 'is']",1,25,95
+"['at', 'wind', 'into', 'beyond']",1,0,130
+['widow'],1,0,47
+['thoughtful'],0,56,3
+['has'],1,9,68
+"['Alibaba', 'Cloud', 'developed']",0,9,0
+"['sat', 'listened']",1,0,16
+['must'],1,3,54
+['land'],1,2,51
+"['thread', 'unbroken']",1,0,16
+['people'],1,52,120
+['such'],0,52,3
+['ask'],1,4,54
+['no'],1,21,84
+['lost'],1,9,64
+['songs'],1,0,41
+"['witness', 'keeper']",1,0,16
+['who'],1,30,94
+['It'],1,66,129
+['are'],1,39,104
+['found'],1,13,69
+['broken'],1,4,51
+['true'],1,26,87
+"['where', '🌿']",0,57,1
+['name'],1,2,45
+['their'],1,30,92
+['once'],1,0,38
+"['My', 'throne', 'hands', 'rest', 'look', 'arm', 'where', 'on', '\n\n']",1,0,134
+"['children', 'elders']",1,0,21
+"['real', 'imagined', 'perhaps', 'forward', 'share', 'moment', 'carry']",0,57,0
+"['the', 'of', 'in', '—']",1,116,150
+"['If', 'happy', 'in']",0,19,3
+['force'],1,27,86
+"['assist', 'request', 'ca']",0,13,1
+['only'],1,4,48
+['its'],1,5,50
+['them'],1,16,70
+['survive'],1,1,39
+['belong'],1,2,42
+"['like', 'on']",0,39,21
+['queen'],1,18,72
+"['stopped', 'began']",1,0,13
+"['one', 'shows', 'about']",0,61,0
+"['festival', 'remembrance']",1,0,9
+['farmer'],1,2,39
+"['sing', 'ancestors']",1,0,13
+"['asking', 'means', 'this', 'if']",0,83,0
+['war'],1,3,41
+"['✨', 'help', '🌿']",0,103,0
+['meaningful'],0,35,1
+"['says', 'looks']",1,1,21
+"['humans', 'way']",0,31,0
+"['to', 'you']",0,131,103
+['fear'],1,26,79
+['thinking'],0,34,1
+"['a', 'to', 'and', 'not']",1,119,151
+"[' \n\n', 'a']",1,104,151
+['mother'],1,0,30
+['court'],1,14,60
+['by'],1,33,86
+['walk'],1,12,56
+"['emotions', 'experience']",0,15,0
+"['how', '—']",1,56,105
+"['😊', 'playful']",0,9,0
+"['ca', 'answer']",0,18,2
+['stand'],1,9,50
+"[' \n', 'But']",1,66,117
+['living'],1,4,39
+['belief'],1,6,43
+['seek'],1,6,43
+['quiet'],1,99,142
+"['🌿', '’m', 'n’t']",0,69,0
+['speaks'],1,2,33
+['hope'],1,25,72
+['!'],0,26,0
+['soul'],1,3,35
+['they'],1,46,96
+['her'],1,5,39
+['story'],1,49,99
+"['throne', 'crown']",1,17,41
+"['most', 'powerful', 'when']",0,61,16
+"['stillness', 'word', 'moment']",0,19,0
+"['husband', 'Elias', 'King']",1,0,7
+"['treaties', 'negotiate', 'alliances']",1,1,11
+['person'],1,37,85
+['forgotten'],1,2,31
+"['messengers', 'send', 'armies']",1,0,11
+['home'],1,3,33
+"['mutual', 'respect']",0,13,2
+['villages'],1,0,24
+['passed'],1,0,24
+"['assist', 'support']",0,15,0
+['human'],0,58,17
+"['telling', 'worth', 'every']",1,0,13
+"['beneath', 'surface']",1,0,8
+['belonging'],1,8,43
+"['""']",0,27,1
+"['🔹', 'While', 'can']",0,45,0
+"['winter', '’ll', 'n’t', 'if', 'know']",1,0,11
+"['explore', 'and']",0,40,4
+"['feeling', 'felt', 'while']",0,39,0
+"['while', 'conversation', 'every', 'The', 'being']",0,53,0

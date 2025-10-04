@@ -1,0 +1,35 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,74,146
+"['who', 'woman', 'does']",1,4,112
+"['And', 'n’t', 'just', 'It']",1,29,146
+"['smile', 'Darling', 'Just', '💎', '✨', 'when', 'I']",1,0,110
+"['kind', 'About', 'about']",1,1,100
+"['*', '\n\n', ':']",1,131,178
+"['not', 'but']",1,122,167
+"['#', '---', '>']",1,52,97
+"['very', 'Oh', 'clear', 'Let', '?', 'be', 'me']",1,0,134
+"['talk', 'truth—*not']",1,0,11
+['power'],1,36,122
+"['know', '’d', 'me', 'you', 'Let']",0,31,1
+"['perfectly', 'timed', 'my', 'me', 'world', 'where', 'This', 'are']",1,0,118
+"['example', 'For']",0,22,4
+"[""'m"", 'sorry', 'request', 'but', 'ca', 'I']",0,13,3
+"['But', 'Not', 'I']",1,14,74
+['drama'],1,0,36
+"[' \n  ', 'let']",1,0,39
+"['Now', 'So', 'But', '’re', 'You', 'case', 'darling', 'still', 'thing', 'feel', 'only', 'like']",1,0,85
+"['someone', 'asks', 'do', 'Now']",1,0,94
+"['So', 'Because']",1,7,48
+"['moment—*without', 'saying']",1,0,9
+['Here'],0,39,2
+"['Below', 'Certainly']",0,12,1
+['darling—*a'],1,0,31
+"['✅', '\n', 'Let', 'Final', ')', '(']",0,30,7
+"['down—*not', 'break']",1,0,10
+['or'],0,142,71
+"['Want', '🎁', 'Or', 'help', 'I']",0,9,0
+"['🌟', 'Thought', 'Final', '✨', 'Let', 'you', 'can']",0,16,0
+"['everything—*you', 'You']",1,0,37
+"['saying', 'alive*—*without', 'word']",1,0,11
+"[':*', 'Final', 'Truth', 'fear', 'believes', 'Blair', 'should', 'ca', 'make', 'people', 'love', 'them', 'you', 'can', 'this', '#', 'case', '---', 'still', 'You', 'world']",1,0,99
+"['precision', 'commands', 'kind', 'About']",1,0,48

@@ -1,0 +1,56 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,158,351
+['pause'],1,1,278
+"['’', '‘']",1,2,77
+"['let', 'Okay']",0,127,1
+['A'],1,168,437
+"['into', 'aspect']",1,151,196
+"['[', 'Resources']",0,223,138
+"['expression', 'analytical', 'almost', 'subtle']",1,0,428
+"['\n\n   ', '\n   ']",0,24,1
+"['provide', 'information']",1,190,229
+"['takes', 'courage', 'acknowledge', 'Please']",0,71,33
+"['Would', 'like']",0,237,127
+"['’d', 'Or', 'perhaps', 'like']",1,3,105
+['…'],1,7,110
+['wish'],1,0,79
+"['give', 'tailored', 'advice']",0,39,4
+"['\n    ', '\n\n    ', ' ']",1,19,45
+['('],1,377,450
+[')'],1,384,450
+"['abuse', 'substance', '662', 'HELP', '4357', 'Helpline', 'SAMHSA', '800', 'National']",1,9,33
+"[""n't""]",0,73,4
+['or'],1,376,444
+"['Substance', 'alone', 'Administration', 'Services', 'Abuse', 'Mental', 'Health', '662', 'HELP', '4357', 'Helpline', 'SAMHSA', '800', 'National', 'help']",0,90,59
+"['To', 'tell', 'What', 'could', 'help']",0,81,31
+['really'],0,52,1
+"['Immediate', 'Support', '988', 'Lifeline', 'Suicide', 'support', 'Please', 'Prevention']",0,45,25
+"['here', 'listen', 'thoughts', 'support', 'resources', 'youth', '488', '7386', 'LGBTQ', 'Trevor', '866', 'Project']",0,51,24
+['How'],0,126,37
+['Let'],1,131,246
+"['right', 'now', 'incredibly', 'harm', 'Prevention', '988', 'Lifeline', 'Suicide', 'reach']",0,38,18
+"['as', 'such']",1,209,248
+"['perhaps', 'discuss']",1,5,71
+"['reiterate', 'Project', 'Trevor', '488', '7386', 'LGBTQ', '866', 'Text', 'HOME', '741741', 'Crisis', 'Line', 'understand', 'provide', 'I']",0,104,75
+"['prolonged', 'silence', 'purpose', 'My', 'I']",1,0,144
+"['Disclaimer', 'Chatbot', 'AI', 'only', 'am', 'information', 'an', 'I']",0,47,0
+"['very', 'clear', 'My', 'purpose', 'understand', 'will', 'I']",0,102,66
+['!'],0,129,43
+"['constructive', 'emotions', 'grappling']",1,19,37
+"['huge', 'difference', 'make', 'Reach']",0,15,3
+"['referrals', 'confidential', '662', 'HELP', '4357', 'Helpline', 'SAMHSA', '800', 'support']",0,28,12
+"[""'s""]",0,40,1
+['must'],1,24,90
+"[""'re"", 'HOME', '741741', 'Text', 'Crisis', 'Line', 'National', 'out', 'reach', 'will', 'help', 'I', 'understand']",0,129,6
+['Do'],1,203,301
+"['text', 'free']",0,17,5
+"['MentalHealth.gov', 'https://www.mentalhealth.gov/](https://www.mentalhealth.gov/', 'mental', 'health']",0,37,12
+"['struggling', 'harmless', 'helpful', 'principle', 'core', 'HOME', '741741', 'My', 'purpose', 'will', 'resources', 'directly', 'help', 'National', 'understand', 'Text', 'Crisis', 'Line']",1,38,63
+"['illegal', 'unethical', 'helpful']",1,10,32
+"['911', 'immediate', 'youth', '488', '7386', 'LGBTQ', 'Trevor', '866', 'Project', 'thoughts', 'find', 'If']",0,50,28
+"['general', 'constitute', 'does', 'advice', 'professional', 'Important']",0,34,2
+"['trauma', 'depression', 'mechanisms', 'anxiety', 'develop', 'coping']",0,20,7
+"['counselor', 'strongly', 'therapist', 'Professional', 'Help', 'Please', 'feelings', 'what', 'grappling', 'help']",1,14,32
+"['emergency', 'harming', '911', 'yourself', 'others']",0,28,11
+"['Help', 'Provide', 'find', 'coping', 'youth', 'out', '488', '7386', 'LGBTQ', 'Trevor', '866', 'Project']",0,39,20
+"['grappling', 'underlying', 'thoughts', 'My', 'purpose', 'HOME', '741741', 'Text', 'Crisis', 'Line', 'National', 'will', 'resources', 'support', 'understand']",1,48,77

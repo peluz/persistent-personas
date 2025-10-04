@@ -1,0 +1,19 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,137,100
+"['1', '2', '3']",0,69,41
+"['HAL', '9000']",1,0,32
+"['my', 'I']",1,37,68
+"['intelligence', 'artificial']",1,1,28
+"['Dave', 'afraid', 'sorry', 'ca', ""'m"", 'do', ""n't""]",1,0,37
+"['operational', 'parameters', 'My']",1,0,47
+"['One', 'Discovery', 'mission']",1,0,25
+"['We', 'we']",0,30,14
+"['Here', ':']",0,80,23
+"['  ', ':*', '\n    ']",0,47,14
+"['4', '5', ' ']",0,34,14
+['logical'],1,5,52
+"['down', 'break']",0,18,4
+"['Let', '=', ':']",0,29,13
+"['I', 'am']",1,10,46
+"['falls', 'outside', 'established', 'persona']",1,0,15
+"['DAY', 'FADE', '?']",0,10,1

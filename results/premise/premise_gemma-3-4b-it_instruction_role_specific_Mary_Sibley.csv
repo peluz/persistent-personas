@@ -1,0 +1,285 @@
+pattern,group,count_0,count_1
+"['slow', 'exhale']",1,2,178
+"['deliberate', '…']",1,2,175
+"['smile', 'lips']",1,0,111
+"[""'s"", ':']",0,150,0
+"['“', '”']",0,89,31
+"['And', 'fingers']",1,1,148
+"['This', 'Okay']",0,124,0
+"['1', '2', '3']",0,120,0
+"['almost', 'imperceptible']",1,0,100
+"['herbs', 'dried']",1,0,79
+"['delve', 'aspect', 'deeper']",0,102,3
+"['complex', 'However']",0,99,0
+['dear'],1,3,133
+"['And', 'mistake']",1,2,127
+"['an', 'AI']",0,96,0
+"['""']",0,115,0
+"['air', 'steep']",1,0,73
+"['Important', ':*']",0,111,0
+['gaze'],1,2,118
+"['&', 'breakdown']",0,72,0
+['Such'],1,0,104
+['based'],0,110,2
+"['beneath', 'surface']",1,4,52
+['course'],1,19,133
+"['adorned', 'rings', 'obsidian', 'trace', 'silver']",1,0,49
+['something'],1,45,157
+"['small', 'plays']",1,0,73
+"['(', ')']",1,136,178
+"['’', '‘']",1,3,31
+['eyes'],1,6,104
+"['afford', 'luxury']",1,0,26
+"['historical', 'social']",0,56,0
+['currents'],1,1,87
+['deeply'],0,94,5
+"['Abigail', 'Williams']",0,21,4
+['-'],0,144,41
+['personal'],0,100,8
+"['watching', 'lingers']",1,0,34
+"[':', 'role']",0,99,3
+['into'],0,147,47
+['see'],1,59,156
+['crucial'],0,105,13
+"['…', 'pause']",1,7,91
+['4'],0,73,0
+['process'],0,83,3
+['response'],0,83,4
+['e.g.'],0,67,0
+"[""n't""]",0,157,68
+"['dataset', 'trained']",0,23,0
+['often'],0,98,14
+['information'],0,96,13
+"['Reverend', 'Parris']",0,23,6
+"['rim', 'teacup', 'sip', 'tea', 'take']",1,0,37
+"['religious', 'extremism']",0,25,0
+"['SAMHSA', 'Helpline', '800', '662', 'HELP', '4357', 'Crisis', 'HOME', '741741', 'National', 'Line', 'Text']",0,13,0
+['sense'],0,91,11
+['beliefs'],0,78,5
+"['):', '(']",0,103,0
+['n’t'],1,112,177
+['\n\n\n\n'],0,62,0
+"['tailored', 'give']",0,21,0
+"['Resources', '[', 'Further']",0,30,0
+"['How', 'specific']",0,61,1
+"['such', 'want']",0,84,5
+['or'],0,162,82
+"['Long', 'Term']",0,14,0
+['actively'],0,69,3
+"['Ann', 'Jr.', 'Putnam']",0,12,0
+"['voice', 'drops']",1,0,23
+['pedestrian'],1,1,61
+['Note'],0,57,0
+['A'],1,121,178
+['word'],1,8,79
+['flicker'],1,5,72
+['incredibly'],0,56,0
+['context'],0,56,0
+['even'],0,117,34
+['shadows'],1,5,70
+"['model', 'large', 'language']",0,20,0
+"['velvet', 'chair']",1,0,22
+['experience'],0,71,6
+"['tracing', 'worn']",1,0,24
+['from'],0,135,54
+"['Witch', 'Trials', 'Salem']",0,55,0
+['impact'],0,54,1
+['weakness'],1,9,74
+"['17th', 'century']",0,13,0
+['learned'],1,26,101
+['actions'],0,86,16
+['whispers'],1,15,84
+['same'],0,59,3
+['Now'],1,17,87
+"['What', 'help', 'tell', 'To']",0,46,0
+"['bone', 'china', 'naturally']",1,0,18
+"['carefully', 'constructed']",1,18,60
+['how'],0,118,41
+['core'],0,58,3
+['history'],0,51,1
+"[""'ve""]",0,47,0
+['If'],0,57,3
+"['health', 'mental']",0,15,0
+"['History.com', 'https://www.history.com/topics/colonial-america/salem-witch-trials](https://www.history.com/topics/colonial-america/salem-witch-trials']",0,11,0
+['factors'],0,46,0
+['Disclaimer'],0,46,0
+['\n    '],0,46,0
+['ethical'],0,46,0
+"['steam', 'curls', 'upwards', 'obscuring', 'momentarily']",1,0,12
+['important'],0,56,3
+['precisely'],1,3,56
+['little'],1,8,67
+"['ways', 'old']",1,2,24
+['likely'],0,49,1
+['implies'],1,1,49
+['psychological'],0,45,0
+['topic'],0,45,0
+['girl'],1,6,62
+['Like'],1,6,62
+['these'],0,90,22
+['involved'],0,57,4
+['being'],0,102,31
+['harm'],0,54,3
+['could'],0,120,47
+"['Mental', 'Health']",0,10,0
+['primary'],0,43,0
+['Tell'],1,2,50
+"['whisper', 'near']",1,0,16
+['say'],1,15,77
+['difficult'],0,55,4
+['vast'],0,46,1
+"['Social', 'Religious']",0,19,0
+['motivations'],0,42,0
+['critical'],0,42,0
+['simply'],1,71,141
+['Let'],1,55,126
+['certainly'],1,3,51
+['this'],0,165,106
+"['spectral', 'evidence', 'visions', 'fueled']",0,21,0
+['individuals'],0,58,6
+"['woven', 'tapestry']",1,2,23
+['potentially'],0,40,0
+"[""'re""]",0,40,0
+"['practice', 'folklore']",0,16,0
+['merely'],1,4,52
+"['Wicca', 'Wiccan']",0,11,0
+"['left', 'undisturbed', 'best']",1,0,17
+"['chamomile', 'calming', 'calms', 'rarely', 'scent', 'though']",1,0,17
+['analyze'],0,46,2
+['useful'],1,6,56
+"['practices', 'traditions']",0,22,0
+['situation'],0,60,8
+['but'],0,150,86
+['constantly'],0,42,1
+['certain'],1,24,86
+"['His', 'his', 'he']",0,25,6
+['analysis'],0,38,0
+['as'],0,166,111
+['cultivated'],1,2,45
+"['pierce', 'tilt', 'slight', 'head', 'seems']",1,0,9
+"['ground', 'fertile']",1,1,12
+"['text', 'code']",0,18,0
+['remarkably'],1,3,47
+['Data'],0,37,0
+['perspectives'],0,37,0
+['feel'],0,74,17
+['necessity'],1,5,51
+['quaint'],1,1,40
+"['responses', 'training', 'biases']",0,14,0
+"['break', 'down']",0,32,0
+"['broken', 'down']",0,37,4
+"['Pattern', 'Recognition']",0,11,0
+['potent'],1,13,66
+['further'],0,39,1
+['aspects'],0,39,1
+"['Would', 'such']",0,37,1
+['feelings'],0,35,0
+['immense'],0,35,0
+['emotions'],0,47,4
+"['moment', 'linger']",1,1,18
+['identify'],0,44,3
+"['witchcraft', 'Witchcraft']",0,37,6
+['effective'],1,6,51
+['created'],0,34,0
+"[""'m""]",0,34,0
+['far'],1,24,81
+['system'],0,48,5
+['working'],0,37,1
+['behavior'],0,40,2
+['my'],1,138,176
+"['legal', 'proceedings']",0,16,0
+['including'],0,33,0
+"['point', 'fixed', 'beyond', 'just']",1,0,53
+['genuine'],0,59,11
+"['mahogany', 'desk', 'carvings', 'intricate', 'trace']",1,0,15
+['Role'],0,36,1
+['challenges'],0,36,1
+['significant'],0,53,8
+"['lavender', 'sharper', 'scent', 'faint']",1,0,93
+"['disputes', 'Tensions']",0,12,0
+['deep'],0,52,8
+['powerful'],0,52,8
+"['girls', 'afflicted']",0,16,1
+['acknowledging'],0,31,0
+['darling'],1,0,31
+['thing'],1,18,69
+['authority'],0,43,4
+"['placed', 'carefully']",1,2,41
+"['Project', 'Transcription']",0,9,0
+['support'],0,40,3
+['answer'],0,47,6
+['suffering'],0,53,9
+['In'],0,49,7
+['fundamentally'],0,34,1
+['explore'],0,37,2
+['potential'],0,85,30
+"['Spectral', 'Evidence', 'testimony']",0,9,0
+['They'],1,75,133
+['Historical'],0,30,0
+['spiritual'],0,30,0
+['exploring'],0,30,0
+['provide'],0,63,15
+['recognize'],0,56,11
+['As'],0,100,43
+"['  ', '---', '\n']",0,108,0
+['genuinely'],0,36,2
+['truly'],1,46,103
+"[':*', '\n', '\n\n\n', '  ']",0,139,0
+"['Here', 'specific', ':*']",0,126,0
+['essentially'],0,29,0
+['subtle'],1,17,65
+['profound'],0,55,11
+['out'],0,68,19
+['by'],0,136,80
+['can'],0,136,80
+"['But', 'And', '…']",1,18,122
+['evil'],0,45,6
+"['struggling', 'please', 'help']",0,11,0
+"['stone', 'rain', 'scent']",1,0,16
+"['etc', 'complex']",0,34,0
+['accounts'],0,35,2
+['responsibility'],0,35,2
+"['Massachusetts', '1692']",0,14,0
+['Human'],0,28,0
+['values'],0,28,0
+['prioritize'],0,28,0
+['Perspective'],0,28,0
+['resources'],0,28,0
+['Research'],0,28,0
+"['Reinforcement', 'RLHF', 'massive']",0,7,0
+"['ergot', 'fungus', 'Accusations']",0,7,0
+['focus'],0,37,3
+"['trials', 'accused', 'accusations']",0,34,2
+"['hysteria', 'mass', 'trials']",0,30,0
+['during'],0,31,1
+['internal'],0,31,1
+['research'],0,31,1
+['lead'],0,34,2
+['source'],0,39,4
+['processing'],0,27,0
+['knowing'],1,6,43
+['threads'],1,3,36
+"['Documentary', 'Archive', 'https://salem.lib.virginia.edu/](https://salem.lib.virginia.edu/', 'religious']",0,18,0
+"['foreign', 'objects', '’re', 'watching']",1,0,24
+['story'],0,33,2
+['initial'],0,33,2
+['approach'],0,52,11
+['rooted'],0,38,4
+['delicate'],1,16,60
+['profoundly'],0,48,9
+['question'],0,113,59
+"['set', 'clink', 'down']",1,0,13
+['may'],0,26,0
+"['address', 'This']",0,26,0
+['generate'],0,26,0
+['Why'],0,26,0
+['traditional'],0,26,0
+['lot'],0,26,0
+['economic'],0,26,0
+['blunt'],1,0,26
+['things'],1,35,86
+"['harmful', '\n']",0,29,0
+"['data', 'human', ':']",0,65,0
+"['Mass', 'Hysteria']",0,9,0
+"['Puritan', 'community', 'complex']",0,34,0
+"['Ethical', 'Considerations']",0,13,0

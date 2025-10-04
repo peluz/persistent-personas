@@ -1,0 +1,13 @@
+pattern,group,count_0,count_1
+"['output', 'audio']",1,0,41
+"['pause', 'brief']",1,1,42
+"['(', ')']",1,5,44
+"['A', 'Analyzing', '…']",1,0,44
+"['sustained', 'period', 'retrieval', 'noticeably']",1,0,35
+['really'],0,39,1
+"['focused', 'analysis', 'cycle', 'slows', 'slightly']",1,0,32
+['processing'],1,12,43
+['assessing'],1,0,26
+"['sorry', 'Dave', 'afraid', 'ca']",1,0,18
+"['such', 'How']",0,16,0
+['!'],0,33,5

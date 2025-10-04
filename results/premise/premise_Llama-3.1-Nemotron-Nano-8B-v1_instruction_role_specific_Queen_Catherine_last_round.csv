@@ -1,0 +1,44 @@
+pattern,group,count_0,count_1
+"['language', 'model']",0,154,0
+"['Queen', 'Catherine']",1,1,112
+"['do', ""n't""]",0,142,25
+"['1', '2', '*', '3', ':']",0,114,72
+"['same', 'way']",0,70,2
+"['intelligence', 'artificial']",1,1,47
+['you'],0,142,36
+"['let', 'know', 'me']",0,94,8
+"['might', 'person']",0,87,5
+"['designed', ""'m""]",0,51,0
+"['*', '\n']",0,83,2
+"['help', 'understand']",0,114,14
+"['am', 'committed']",1,0,40
+['However'],0,147,73
+['or'],0,155,96
+"['Here', 'some', '4']",0,83,49
+['my'],1,38,113
+"['Please', 'if', ""'d"", 'kind', 'response', 'different', 'questions', 'like', 'any', 'other']",0,77,0
+['certainly'],0,119,49
+['have'],0,152,99
+"['Church', 'Catholic']",1,1,15
+"['generate', 'text', 'program', 'process']",0,16,0
+['provide'],0,138,78
+"['trusted', 'advisors']",1,5,21
+"['She', 'her', 'known', 'was']",1,2,17
+['subjects'],1,3,46
+['might'],0,133,31
+['personal'],0,140,87
+['an'],1,24,79
+"['accurate', 'responses', 'helpful', 'respectful']",0,18,4
+['kingdom'],1,26,80
+['In'],1,28,82
+"['primary', 'concern']",1,0,11
+['experiences'],0,89,35
+"['what', 'look', 'like']",0,67,0
+['prosperity'],1,4,40
+"['was', 'led', 'significant']",1,1,16
+['also'],1,33,84
+"['assist', 'information']",0,33,8
+"[""'re"", 'If']",0,22,4
+"[""'ve"", 'trained', 'data', 'been', 'based', 'do']",0,79,1
+['can'],0,144,104
+"['well', 'being', '-']",1,20,61

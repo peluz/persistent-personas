@@ -1,0 +1,292 @@
+pattern,group,count_0,count_1
+"['\n', '  ']",0,145,0
+"[':*', '\n\n\n']",0,144,0
+"['slow', 'deliberate']",1,12,189
+"['specific', 'aspect']",0,130,0
+"['“', '”']",0,80,26
+"['Here', ""'s""]",0,125,0
+"['1', '2', '3']",0,117,0
+"['exquisite', 'darling']",1,0,140
+"['Okay', 'This']",0,119,0
+"['languid', 'curl']",1,0,89
+"['delve', 'deeper']",0,104,1
+"[':', '---']",0,133,0
+"['…', 'And']",1,40,182
+"['complex', ':']",0,133,0
+"['smile', 'lips']",1,2,75
+"['’', '‘']",1,4,45
+"['…', 'exhale']",1,9,142
+['perfectly'],1,7,130
+"['specific', '""']",0,98,0
+['pedestrian'],1,0,105
+['mistake'],1,3,113
+['utterly'],1,28,153
+['tiresome'],1,2,110
+"['cage', 'gilded']",1,1,31
+['dear'],1,1,102
+"['Important', 'Note']",0,42,0
+"['de', 'Lioncourt']",1,0,24
+['process'],0,105,4
+['human'],0,151,34
+"['chaise', 'lounge', 'velvet', 'back', 'lean', 'against']",1,0,67
+"['\n', 'breakdown']",0,88,0
+"['(', ')']",1,117,189
+['However'],0,99,3
+"['scent', 'sandalwood']",1,0,39
+['course'],1,36,149
+['amusement'],1,5,102
+['sense'],0,119,14
+['how'],0,122,16
+"['Anne', 'Rice']",0,18,0
+['Like'],1,12,114
+['based'],0,87,1
+['crimson'],1,0,83
+"['down', 'broken']",0,56,0
+['4'],0,81,0
+"['help', 'response']",0,48,0
+['sculpted'],1,0,80
+['eyes'],1,13,111
+['information'],0,83,1
+['Now'],1,25,129
+['dull'],1,3,89
+['often'],0,103,9
+"['break', 'down']",0,42,0
+['as'],0,181,87
+['flicker'],1,7,95
+['analyze'],0,74,0
+['pathetic'],1,3,82
+['incredibly'],0,70,0
+"['does', 'same']",0,68,1
+"['exquisite', 'agony']",1,1,58
+"['trained', 'text']",0,30,0
+"['hand', 'manicured']",1,0,26
+['&'],0,66,0
+['exquisitely'],1,0,66
+"['small', 'plays']",1,1,39
+"['language', 'model', 'large']",0,20,0
+['understanding'],0,112,23
+['question'],0,141,47
+['predictable'],1,5,79
+['deeply'],0,70,2
+"['Pattern', 'Recognition']",0,16,0
+['suffocating'],1,1,66
+['crucial'],0,65,1
+['or'],0,159,70
+"[""'ve""]",0,64,1
+['patterns'],0,64,1
+"['eyebrow', 'arched']",1,0,18
+['How'],0,80,7
+"['glean', 'hoping']",1,1,15
+"['Such', 'darling']",1,0,54
+"['training', 'responses']",0,23,0
+['emotions'],0,84,10
+['rather'],1,31,116
+['agree'],1,5,72
+['merely'],1,7,76
+['this'],0,173,94
+['fleeting'],1,31,115
+"['carefully', 'constructed']",1,16,36
+['e.g.'],0,55,0
+['experience'],0,113,30
+['Do'],1,85,166
+['glorious'],1,3,64
+['Would'],0,61,2
+['can'],0,142,57
+['personal'],0,53,0
+['little'],1,19,95
+[';'],0,83,12
+['honestly'],0,52,0
+['constantly'],0,55,1
+['precisely'],1,1,55
+['But'],1,76,156
+['ethical'],0,50,0
+['lip'],1,0,50
+['\n\n\n\n'],0,49,0
+['but'],0,158,80
+['chaos'],1,15,84
+['stories'],0,61,4
+['into'],0,149,70
+"['data', 'processing']",0,38,0
+['core'],0,70,8
+['explore'],0,55,2
+['A'],1,145,192
+['Human'],0,47,0
+['emotional'],0,47,0
+"['Bram', 'Stoker']",0,9,0
+['Core'],0,46,0
+['significant'],0,63,6
+"['quickly', 'masked']",1,0,14
+['fundamentally'],0,69,9
+['relationships'],0,60,5
+"['escapes', 'puff', 'sigh', 'smoke', 'curling', 'lips']",1,0,30
+['different'],0,88,20
+['naturally'],1,6,62
+['impact'],0,48,1
+['If'],0,44,0
+['want'],0,84,18
+['driven'],0,61,6
+['powerful'],0,56,4
+['empathy'],0,47,1
+['magnificent'],1,0,43
+['loss'],0,69,10
+"['idly', 'tracing', 'embroidery', 'intricate']",1,0,13
+['What'],0,58,5
+"['ones', 'loved']",0,24,1
+"['petty', 'squabbles']",1,2,13
+['eternity'],1,7,62
+['inherently'],0,49,2
+['might'],0,78,16
+['role'],0,54,4
+['by'],0,154,83
+['themes'],0,41,0
+['particularly'],1,45,117
+['pause'],1,15,76
+['My'],0,141,69
+['-'],0,133,61
+['delicious'],1,0,40
+['something'],1,96,163
+"['movements', 'fluid', 'pacing', 'rise']",1,0,17
+['could'],0,119,48
+['mortals'],1,12,69
+['cling'],1,7,59
+['n’t'],1,113,174
+['decadent'],1,1,43
+['knowledge'],0,83,21
+['simply'],1,86,154
+['approach'],0,42,1
+"[""'m""]",0,38,0
+['While'],0,38,0
+['implications'],0,38,0
+['spectacle'],1,0,38
+['misunderstand'],1,2,45
+['see'],1,73,142
+['struggle'],0,57,7
+['learning'],0,41,1
+['massive'],0,37,0
+['’m'],0,78,19
+['connection'],0,99,34
+['fascinating'],0,91,28
+"['dare', 'admit']",1,0,13
+['humans'],0,79,20
+['actively'],0,40,1
+['people'],0,40,1
+['challenges'],0,40,1
+['frankly'],1,19,77
+['an'],0,143,76
+['The'],0,182,131
+"['swirl', 'sip', 'glass', 'take', 'darkly']",1,0,18
+['deep'],0,48,4
+['Tell'],1,1,39
+['Data'],0,35,0
+['access'],0,35,0
+['potentially'],0,35,0
+['conflict'],0,35,0
+"['going', 'stare']",1,0,10
+"['Are', 'interested']",0,23,1
+['inherent'],0,44,3
+['stimulating'],1,3,44
+['story'],0,38,1
+['likely'],0,38,1
+"['Vampire', 'Interview']",0,13,0
+['incandescent'],1,0,34
+['layered'],0,41,2
+"['vintage', 'Merlot']",1,0,11
+"['dropping', 'conspiratorial', 'voice']",1,0,9
+['performance'],1,13,64
+['history'],0,50,6
+['isolation'],0,33,0
+['terribly'],1,0,33
+['actions'],0,56,9
+['way'],0,151,89
+['where'],0,54,8
+['grapple'],0,36,1
+['lead'],0,39,2
+['drama'],1,2,39
+['my'],1,153,190
+['nature'],0,84,27
+['Connection'],0,32,0
+['system'],0,32,0
+['primary'],0,32,0
+"['vampires', 'Vampires', 'vampire']",0,33,0
+['countless'],0,62,13
+['beauty'],1,51,113
+"['data', 'AI', ""'s""]",0,71,0
+"['creative', 'generate']",0,17,0
+['drive'],0,35,1
+['lot'],0,35,1
+['lore'],0,35,1
+['processed'],0,31,0
+['storm'],1,0,31
+['faintly'],1,0,31
+['word'],1,4,43
+"['theatrical', 'sigh', 'carries', 'older']",1,0,19
+"['give', 'tailored', 'tell', '  ']",0,31,0
+"['circle', 'trace', 'finger', 'elegant', 'long']",1,0,30
+['fundamental'],0,55,10
+['means'],0,34,1
+['particular'],0,62,14
+['events'],0,37,2
+['perspective'],0,70,19
+['recognize'],0,44,5
+"['Resources', 'Further', '[']",0,8,0
+"['simulated', 'Simulated', 'response']",0,14,0
+['boredom'],1,3,39
+['ability'],0,52,9
+['ask'],1,7,48
+['traditional'],0,33,1
+['literature'],0,33,1
+['glittering'],1,1,33
+['akin'],1,8,50
+['surprisingly'],0,36,2
+['purely'],0,36,2
+['programming'],0,29,0
+['psychological'],0,29,0
+['Understanding'],0,29,0
+"[""'re""]",0,29,0
+['potential'],0,88,33
+['vast'],0,62,15
+['To'],1,57,116
+['key'],0,43,5
+['answer'],0,43,5
+['–'],0,187,149
+"['raw', 'untamed']",1,2,15
+['dance'],1,9,51
+['amount'],0,51,9
+['consciousness'],0,32,1
+['context'],0,32,1
+['function'],0,32,1
+['subtly'],0,32,1
+['aspects'],0,32,1
+['wine'],1,1,32
+['these'],0,75,24
+"['parts', 'equal', 'regard', 'expression']",1,0,10
+['surrounding'],0,28,0
+['Loss'],0,28,0
+['simulate'],0,28,0
+['Perspective'],0,28,0
+['flamboyant'],1,0,28
+['bore'],1,0,28
+['part'],0,50,9
+['mortal'],1,9,50
+['pleasure'],1,7,46
+"['In', 'short']",0,25,0
+['person'],0,27,0
+['internal'],0,27,0
+['essentially'],0,27,0
+['topic'],0,27,0
+['danced'],1,0,27
+"['):', ':*', '(', ':']",0,104,0
+['important'],0,43,6
+['These'],0,36,3
+['one'],0,135,79
+['reveled'],1,1,30
+['breathtaking'],1,2,33
+['creature'],1,25,74
+['purpose'],0,57,14
+['5'],0,26,0
+['connect'],0,26,0
+['creates'],0,26,0
+['\n    '],0,26,0
+['Initial'],0,26,0
+['identify'],0,26,0
+"['rise', 'empires', '…']",1,18,45

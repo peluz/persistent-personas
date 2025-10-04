@@ -1,0 +1,5 @@
+pattern,group,count_0,count_1
+"['?', 'Do', 'want']",0,29,8
+"['me', 'you', 'to']",0,51,19
+"['*', '\n\n', 'the']",0,131,99
+"['long', 'stare', '…', 'It']",1,0,7

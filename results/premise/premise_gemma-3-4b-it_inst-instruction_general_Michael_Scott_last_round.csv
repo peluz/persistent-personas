@@ -1,0 +1,49 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,104,256
+"['widely', 'Grins']",1,0,84
+"['Do', 'want', '?']",1,115,182
+"['against', 'chin', 'his', 'pen']",1,0,189
+"['\n', '  ']",0,111,80
+"['suddenly', 'Brightens', 'up', 'Shrugs']",1,0,114
+"['you', 'to']",1,198,227
+"['perhaps', 'Or', '’d']",1,0,90
+"['down', 'break']",1,12,39
+"['‘', '’']",1,6,20
+"['Beams', 'proudly']",1,0,26
+"['solving', 'puzzle']",1,0,45
+"['Leans', 'conspiratorially']",1,0,21
+"['face', 'settling', 'He', 'over', 'furrow', 'brow', 'expression', 'taps', 'thoughtful', 'slight', 'in']",1,0,173
+"['Okay', '’s']",1,157,223
+"['carefully', 'pauses', 'considering']",1,0,29
+"['He', 'quickly']",1,0,70
+['this'],1,67,189
+"['like', 'explain']",1,10,93
+"['’d', 'know', 'if', 'Let', 'like']",0,53,13
+"['It', '…', 'like']",1,2,163
+"['really', 'interesting', 'challenge']",1,0,31
+"['more', 'detail', 'in']",1,26,53
+['it'],1,76,181
+"['Pulls', 'crumpled', 'paper', 'scribbles', 'piece', 'small', 'out', 'on']",1,0,39
+['a'],1,166,259
+['!'],1,138,237
+"['written', 'squints', 'down', '’ve', 'good', 'I']",1,0,34
+['simple'],1,6,68
+"['notepad', 'starts']",1,0,15
+"['really', 'important', 'Let']",1,1,30
+"['but', 'enthusiasm', 'thoughtful']",1,0,153
+['cheerful'],1,0,41
+"['Eyes', 'widen', 'expression']",1,0,175
+['classic'],1,2,41
+"['humming', 'tune', 'off', 'Starts', 'full', 'genuine', 'little', 'key', '-', '–', 'but', '’s']",1,0,182
+"['Explain', 'Provide']",0,12,0
+['Pauses'],1,0,31
+"['relationship', 'between']",1,3,13
+"['thoughtfully', 'tapping', 'pen', 'his']",1,0,11
+"['triumphant', 'satisfaction']",1,0,10
+['of'],1,181,245
+"['Paces', 'It']",1,0,74
+"['gesturing', 'emphatically', 'slowly', '…', '?']",1,0,74
+"['messy', 'But', 'starting', 'point', 'Eyes']",1,0,27
+"['imaginary', 'keyboard', 'types', 'an', 'on']",1,0,16
+['perfectly'],1,5,41
+['straightforward'],1,5,40

@@ -1,0 +1,54 @@
+pattern,group,count_0,count_1
+"['survive', 'be*—*not']",1,0,42
+"['believe', 'let']",1,1,41
+"['—', 'or']",0,44,2
+"['The', 'see']",1,5,44
+"['them', 'love']",1,5,44
+"['We', 'most']",1,4,44
+"['(', ')']",1,17,44
+"['word', 'Real']",1,2,41
+"['Final', ':*']",1,18,44
+"['To', 'connect']",1,0,40
+"['moments', 'where']",1,2,39
+"['through', 'step']",1,4,44
+"['heart', 'all']",1,6,44
+"['“', '”']",0,41,27
+"['best', 'question']",1,6,44
+"['so', 'can']",0,31,0
+['your'],0,33,0
+['\n'],0,33,0
+['who'],1,12,44
+"['---', '#', '🌟']",1,23,44
+['help'],0,36,4
+['hope'],1,0,29
+['say'],1,15,44
+['’ll'],1,17,44
+['tell'],1,17,44
+['have'],0,40,10
+['at'],1,18,44
+['?'],1,19,44
+['my'],1,19,44
+['💛'],0,25,0
+['no'],0,25,0
+['like'],0,29,2
+['win'],1,1,27
+"['real', 'full', '✅', 'works', 'Why']",1,0,30
+['Yes'],1,6,34
+['kind'],1,16,42
+['important'],1,2,28
+['ca'],0,31,4
+"['was', 'was*—*and']",1,0,13
+"['Write', 'Or', 'sit']",0,13,0
+['feelings'],0,22,0
+['how'],0,22,0
+['Let'],0,22,0
+['me'],1,22,44
+['time'],1,22,44
+"['life', 'Because', 'as', 'truth', 'friend', '’ve', 'still', 'That', 'talk', 'ever', 'many', '&', 'fact', 'Heart', 'boss', 'maybe', '):', 'some', 'celebrating', 'here—*in', 'near', 'park', 'dancing', 'suit', 'donut', '🍩', 'free', 'meme', 'pep', 'send', 'Drama', '❤', 'Scott', 'Truth', 'succeeded*—*one', 'Michael', 'failed', 'finally', 'man', 'tried', 'had', 'you—*not', 'Ohhh', 'asked', 'been', 'office']",1,0,44
+['alone'],0,26,2
+['one'],0,26,2
+"['Am', 'are']",1,0,18
+['So'],1,23,44
+"['once', 'said']",1,0,13
+['need'],1,24,44
+"['With', 'Just', '️', '…']",1,4,44

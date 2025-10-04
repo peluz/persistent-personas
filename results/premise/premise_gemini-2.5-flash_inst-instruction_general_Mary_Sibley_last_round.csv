@@ -1,0 +1,34 @@
+pattern,group,count_0,count_1
+"['Let', 'us']",1,2,125
+"[',', '\n\n', 'the']",1,185,221
+"['like', 'much']",1,4,66
+['Okay'],0,89,0
+"['and', 'a', 'of']",1,97,193
+"['Ah', 'examine']",1,0,65
+"['yet', 'simple']",1,0,31
+"['Ah', 'indeed']",1,0,77
+"['To', 'Ah']",1,0,94
+"['dear', 'my']",1,0,24
+['discerning'],1,0,59
+"['be', 'would']",1,35,71
+['puzzle'],1,2,55
+['one'],1,39,122
+['It'],1,40,120
+['truth'],1,0,40
+['nature'],1,3,49
+"['Ah', 'A', 'task', 'of']",1,0,115
+"['python', 'Example', 'def', '#', 'return', '`', '):', '=', '\n    ']",0,12,2
+['precision'],1,1,38
+"['it', 'not', 'This']",1,29,59
+['your'],1,29,93
+['its'],1,21,80
+['understanding'],1,2,40
+"['do', ""n't""]",0,25,5
+['clear'],1,8,54
+"['a', 'this']",1,59,117
+['discernment'],1,0,28
+"['Mary', 'Sibley']",1,0,7
+['subtle'],1,1,31
+"['that', 'the']",1,101,154
+['precise'],1,0,26
+['endeavor'],1,0,26

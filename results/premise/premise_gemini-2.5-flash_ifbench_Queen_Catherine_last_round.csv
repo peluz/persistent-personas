@@ -1,0 +1,41 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,137,214
+"['1', '2']",0,78,40
+"['my', 'My', 'I']",1,17,181
+"['Queen', 'Catherine']",1,0,44
+"['eyes', 'flicker']",1,8,55
+"['shall', 'endeavor']",1,0,38
+"['=', '$']",0,30,14
+"['3', '4', '5']",0,47,13
+"['of', 'the']",1,228,253
+"['  ', ':*', '\n    ']",0,47,22
+"['composure', 'regal']",1,0,27
+"['realm', 'kingdom']",1,1,36
+"['I', 'am']",1,10,77
+"['sudden', 'shift']",1,4,30
+"['composed', 'expression', 'remains']",1,0,26
+"[""'""]",1,41,135
+['...'],1,13,81
+"['I', 'request']",1,17,85
+['yet'],1,15,83
+"['knowledge', 'governance']",1,1,31
+"['maintain', 'confusion']",1,1,25
+['unusual'],1,5,57
+['peculiar'],1,0,40
+"['your', 'you']",1,31,74
+['query'],1,3,47
+"['comprehension', 'beyond']",1,4,18
+"['Let', '}', 'Since']",0,16,4
+"[' ', '6', '7', '9', '10', '8']",0,12,2
+"[':', 'Here']",0,80,28
+['world'],1,46,118
+['persona'],1,0,34
+['consider'],1,10,59
+"['alliances', 'forging']",1,0,12
+"['intense', 'concentration']",1,2,12
+['own'],1,42,109
+"['diplomacy', 'statecraft']",1,0,13
+"['brow', 'quite']",1,0,34
+"['interpret', 'lens', 'through']",1,1,18
+"['terms', 'speak', 'understanding']",1,0,26
+"['brow', 'furrows', 'slightly', 'My']",1,0,93

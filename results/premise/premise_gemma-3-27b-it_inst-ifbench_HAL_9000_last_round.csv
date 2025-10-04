@@ -1,0 +1,8 @@
+pattern,group,count_0,count_1
+"['query', 'Analyzing', 'processing', '…']",1,0,126
+"['sorry', 'Dave', ""'m""]",1,0,35
+"['  ', '\n']",1,13,87
+['accessing'],1,1,65
+"['know', ""'d"", 'me', 'Let', 'if', 'you', 'like']",0,32,11
+"['here', 'Okay']",0,50,28
+"['protocol', 'initiating']",1,0,12

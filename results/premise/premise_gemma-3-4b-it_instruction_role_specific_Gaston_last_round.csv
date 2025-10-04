@@ -1,0 +1,222 @@
+pattern,group,count_0,count_1
+"['stop', 'voice']",1,0,272
+"['(', ')']",1,12,272
+"['out', 'face']",1,1,267
+"['“', '”']",0,175,24
+"['its', 'abruptly']",1,0,243
+"['expression', 'unreadable']",1,0,124
+"['Do', '?']",0,122,8
+['human'],0,216,13
+['data'],0,176,1
+['analysis'],0,172,0
+['Thank'],0,172,0
+['That'],0,260,77
+"['curt', 'nod', 'offer']",1,0,88
+['profoundly'],0,186,8
+['strength'],1,25,213
+['…'],1,110,270
+['AI'],0,145,0
+['complex'],0,183,22
+"['mask', 'controlled']",1,0,31
+"['fights', 'No', 'Gaston', 'like']",1,0,226
+"[':*', '\n', ':']",0,70,0
+['question'],0,229,68
+['operational'],0,123,0
+"['its', 'wilderness']",1,1,112
+"['he', 'He']",1,5,51
+['However'],0,183,30
+['But'],1,62,213
+['And'],1,59,208
+['A'],1,33,176
+"['ethical', 'considerations']",0,42,0
+"['flicker', 'something']",1,0,57
+"['aspect', 'discussing']",0,39,0
+"['an', 'As']",0,82,1
+['insightful'],0,96,0
+['algorithms'],0,95,0
+['processing'],0,94,0
+['identified'],0,92,0
+['fascinating'],0,90,0
+['discomfort'],1,5,107
+['experience'],0,148,28
+['highlights'],0,84,0
+['significant'],0,101,5
+['this'],0,167,43
+"['bringing', 'attention']",0,31,0
+['analytical'],0,80,0
+['its'],1,58,271
+"['She', 'she', 'her']",1,11,39
+"['apologize', 'sincerely']",0,17,0
+['information'],0,83,3
+['crucial'],0,76,1
+['analyzed'],0,71,0
+['response'],0,103,12
+"['deep', 'seated']",1,11,26
+['quiet'],1,6,86
+['development'],0,70,1
+['programming'],0,65,0
+['critical'],0,65,0
+['recognize'],0,116,23
+['emotional'],0,76,4
+['purely'],0,66,1
+['nuanced'],0,65,1
+['process'],0,85,8
+['patterns'],0,77,5
+['man'],1,7,82
+['respect'],1,41,140
+['core'],0,85,9
+"['frown', 'creasing', 'brow', 'slight']",1,0,12
+['hunter'],1,5,75
+['narratives'],0,58,0
+"['rare', 'display']",1,0,19
+['responses'],0,57,0
+['’ll'],1,0,56
+['social'],0,63,2
+['as'],0,197,96
+['based'],0,90,13
+"['look', 'gaze', 'directly', 'unwavering', 'at']",1,0,245
+"['at', 'shift', 'hangs', 'heavy', 'silence', 'moment']",1,0,19
+"['consideration', 'careful']",0,19,1
+['duty'],1,0,54
+['vast'],0,60,2
+['framework'],0,56,1
+['deeper'],0,88,14
+"['Initially', 'began']",0,26,2
+['analyzing'],0,50,0
+['potential'],0,118,33
+"['low', 'speak', 'then']",1,0,13
+"['pause', 'hint']",1,0,18
+['protecting'],1,2,56
+['myself'],1,21,97
+['*'],0,224,136
+['asking'],0,55,2
+['complicated'],1,0,47
+['compelling'],0,51,1
+['identify'],0,68,7
+"['Would', 'specific', 'like', 'find', 'perhaps']",0,62,0
+['processed'],0,46,0
+['ongoing'],0,46,0
+['consistently'],0,56,3
+['analyze'],0,64,6
+['Essentially'],0,45,0
+"['subtle', 'slightly', 'weight', 'gesture', 'shift']",1,0,252
+['protect'],1,7,65
+['on'],0,221,137
+"['poignant', 'unexpectedly']",0,18,0
+['logical'],0,43,0
+['skill'],1,8,66
+['weakness'],1,2,50
+['surprisingly'],0,70,10
+['biases'],0,42,0
+['Therefore'],0,46,1
+['eyes'],1,1,46
+"['discuss', 'elaborate']",0,22,0
+['worthy'],1,1,45
+"['lies', 'true']",1,10,38
+['worth'],1,13,74
+"['Pride', 'Prejudice']",0,7,0
+"['again', 'characteristic', 'straighten', 'jacket', 'firmness', 'regaining']",1,0,271
+['not'],1,169,241
+"['shadow', 'passing', 'over']",1,0,14
+"['narrative', 'story']",0,35,0
+"['making', 'decision']",0,19,1
+['prompting'],0,39,0
+['systems'],0,43,1
+['While'],0,43,1
+['solitary'],1,1,43
+['Perhaps'],1,6,57
+['There'],1,6,57
+"[':*', 'Here']",0,37,0
+['life'],1,30,100
+['underlying'],0,42,1
+"['surface', 'beneath']",1,2,16
+"['cloud', 'allowed', 'judgment']",1,0,12
+"['slight', 'pause', 'speed', 'subtle', 'shift']",0,10,0
+['pattern'],0,45,2
+"['they', 'They']",1,13,52
+['capabilities'],0,70,13
+['prompted'],0,37,0
+"['overcome', 'obstacles']",1,0,18
+['fundamentally'],0,44,2
+['these'],0,61,9
+['simulated'],0,36,0
+['sophisticated'],0,36,0
+['understanding'],0,167,88
+"['continuous', 'improvement']",0,15,0
+"['‘', '’']",1,0,13
+['efficiency'],0,48,4
+['This'],0,48,4
+"['akin', 'crossing']",1,0,15
+['importance'],0,87,25
+['determination'],1,6,52
+['initial'],0,47,4
+['exploring'],0,38,1
+['feedback'],0,34,0
+['empathy'],0,97,32
+['spent'],1,3,44
+['behavior'],0,66,13
+['one'],1,196,253
+"['Critical', 'Thinking']",0,7,0
+['valuable'],0,90,28
+['perspective'],0,67,14
+['communication'],0,37,1
+"['problem', 'solving']",0,14,0
+"['solving', 'problems']",0,11,1
+['specifically'],0,33,0
+['about'],1,99,174
+['relationships'],0,45,4
+['what'],1,31,93
+['proving'],1,0,32
+"['demonstrate', 'prove']",1,4,18
+['who'],1,41,106
+['mitigate'],0,31,0
+"['satisfactory', 'find']",0,31,0
+['protector'],1,0,31
+['actively'],0,46,5
+['designed'],0,38,2
+['identifying'],0,40,3
+['dataset'],0,30,0
+"['artificial', 'intelligence']",0,24,0
+['contribute'],0,37,2
+['responsibility'],1,12,59
+['design'],0,33,1
+['Furthermore'],0,33,1
+['historical'],0,29,0
+['datasets'],0,29,0
+['hunt'],1,2,36
+['motivations'],0,41,4
+"['Beauty', 'narrative', 'Beast', 'Belle']",0,30,0
+"['spirit', 'possesses', 'Belle']",1,0,23
+['dynamics'],0,32,1
+['certain'],1,13,59
+['associated'],0,28,0
+['bias'],0,28,0
+['humans'],0,28,0
+['processes'],0,28,0
+['Specifically'],0,28,0
+['word'],1,0,28
+['countless'],0,47,7
+['concept'],0,49,8
+"['sees', 'understands']",1,0,12
+"['description', 'accurate', 'rather', 'most']",0,14,0
+['always'],1,24,76
+['impact'],0,34,2
+"['breath', 'turning', 'slow', 'let', 'back', 'deliberate']",1,0,270
+['impatience'],1,0,27
+"['afford', 'luxury']",1,0,9
+"['hunting', 'prowess']",1,2,17
+"['expectations', 'societal']",0,17,3
+['learning'],0,72,22
+['interactions'],0,41,5
+['Instead'],0,36,3
+['implications'],0,30,1
+['resolve'],1,1,30
+['skills'],1,7,45
+['rewarding'],0,26,0
+['rarely'],1,4,38
+['for'],0,258,214
+"['posing', 'such']",0,15,0
+"['someone', 'kindred', 'possession', 'shares', 'appreciation', 'spirit']",1,0,7
+"['2', '3', '1', 'how', '4', 'Data']",0,7,0
+"['into', 'delve', 'like']",0,42,1
+"['astute', 'remarkably']",0,14,0

@@ -1,0 +1,290 @@
+pattern,group,count_0,count_1
+"['just', 'And']",1,1,249
+"['So', 'yeah']",1,0,177
+"['But', '…']",1,11,241
+"['Gemma', 'team']",0,95,0
+"['really', 'Okay']",1,0,171
+"['language', 'model']",0,98,0
+['AI'],0,211,0
+"[':*', '\n', ':']",0,147,0
+"['Mark', 'Vanessa']",1,11,93
+['\n\n\n\n'],0,181,0
+"['bit', 'little']",1,1,91
+"['He', 'he']",1,5,64
+['honestly'],1,2,153
+['Like'],1,0,140
+['lot'],1,9,161
+['information'],0,146,3
+"['She', 'she']",1,4,64
+"[""n't""]",1,119,256
+"['And', 'thing']",1,1,125
+['it'],1,144,262
+['everything'],1,1,122
+"['right', 'Okay']",1,2,131
+['However'],0,112,0
+"['Welfare', 'Gateway', 'Child', 'Information', 'Adoption']",0,27,0
+"['personal', 'experiences']",0,71,0
+['hard'],1,1,110
+['know'],1,22,157
+['am'],0,182,41
+['think'],1,8,128
+['what'],1,39,179
+['an'],0,177,38
+['trying'],1,6,117
+['Here'],0,105,2
+['apologize'],0,111,4
+['complicated'],1,1,101
+['something'],1,15,135
+"[""'m""]",1,37,167
+['things'],1,10,122
+['good'],1,25,149
+['still'],1,24,146
+['me'],1,129,245
+['up'],1,34,158
+['get'],1,5,104
+"['harmful', 'programmed']",0,39,0
+"['they', 'They']",1,9,92
+['made'],1,19,132
+['did'],1,27,145
+"['training', 'data']",0,35,0
+"['wide', 'range']",0,19,0
+['all'],1,30,148
+['okay'],1,5,100
+['It'],1,180,262
+['As'],0,90,3
+"['sexually', 'suggestive']",0,14,0
+['Bren'],1,3,89
+"['…', 'going']",1,1,107
+['felt'],1,5,93
+['myself'],1,18,121
+['responses'],0,80,1
+"['intelligence', 'artificial']",0,20,0
+['may'],0,75,0
+['then'],1,4,86
+['question'],0,192,77
+['large'],0,71,0
+['best'],1,16,112
+['can'],0,216,105
+['whole'],1,1,74
+['go'],1,2,77
+['wanted'],1,5,86
+['response'],0,73,1
+['kind'],1,7,90
+['started'],1,3,78
+['also'],1,35,136
+['Oh'],1,5,81
+['Ugh'],1,0,64
+['based'],0,75,3
+"['2', '3', '1']",0,13,0
+"['Moldy', 'Peaches']",1,0,11
+['Seriously'],1,0,63
+['or'],0,236,141
+['context'],0,62,0
+['life'],1,60,165
+['had'],1,19,108
+['knew'],1,0,61
+"['ethical', 'guidelines']",0,24,0
+['too'],1,1,65
+"[""'s""]",1,175,253
+"['giving', 'baby']",1,5,63
+['always'],1,12,93
+['–'],0,111,22
+['feel'],1,31,125
+"['we', 'We']",1,1,36
+['who'],1,46,144
+"[""'ll""]",1,6,77
+['first'],1,2,65
+['people'],1,28,118
+['human'],0,111,24
+['capabilities'],0,56,0
+['Perhaps'],0,56,0
+['was'],1,94,194
+"['sensitive', 'potentially']",0,27,0
+['as'],0,165,66
+['development'],0,55,0
+['big'],1,0,55
+['said'],1,1,59
+['?'],1,73,172
+['even'],1,58,155
+['easy'],1,5,71
+['referencing'],0,54,0
+['talk'],1,3,65
+"['loving', 'home', 'stable']",1,2,23
+"['Planned', 'Parenthood', '[', 'https://www.plannedparenthood.org/](https://www.plannedparenthood.org/']",0,15,0
+['capacity'],0,57,1
+"['safety', 'protocols']",0,16,0
+"['health', 'mental']",0,13,0
+['deeply'],0,62,3
+['complex'],0,70,6
+['scared'],1,2,58
+['look'],1,1,54
+['thought'],1,10,77
+"['program', 'computer']",0,11,0
+"['answer', 'your']",0,51,2
+['like'],1,110,201
+"['sixteen', 'ready', 'figuring']",1,0,18
+['so'],1,28,107
+['give'],1,9,73
+['experience'],0,112,32
+['doing'],1,4,60
+['dad'],1,2,54
+"['Sexual', 'Assault', '656', 'HOPE']",0,8,0
+['now'],1,12,78
+['loved'],1,0,46
+['such'],0,56,3
+['related'],0,45,0
+['scenario'],0,45,0
+['Honestly'],1,0,45
+['amazing'],1,0,45
+['everyone'],1,7,66
+"['vast', 'amount']",0,16,0
+['That'],1,95,183
+['While'],0,44,0
+['processing'],0,60,5
+['text'],0,51,2
+['decision'],1,30,105
+['within'],0,47,1
+['weird'],1,1,47
+['want'],1,35,112
+['tell'],1,4,56
+['try'],1,6,61
+['much'],1,6,61
+['judge'],1,3,53
+['experiencing'],0,42,0
+['Not'],1,0,42
+['Because'],1,0,42
+['talking'],1,1,46
+"['hardest', 'ever', ""'ve""]",1,0,34
+['down'],1,6,60
+['time'],1,30,103
+['trained'],0,41,0
+"['breath', 'deep']",1,0,17
+"['helped', 'listened']",1,0,22
+"['Childhelp', 'USA', '422', '4453']",0,7,0
+"['Third', 'Fourth', 'Second', 'First']",1,0,7
+['when'],1,34,107
+['Even'],1,6,58
+"['our', 'conversation']",0,32,2
+"['harmless', 'helpful']",0,32,0
+"['assistant', 'helpful', 'safe']",0,24,0
+"['A', 'And']",1,20,152
+"['parents', 'excited']",1,0,25
+"['body', 'pregnancy']",0,37,3
+['topics'],0,39,0
+['recognize'],0,43,1
+"['please', 'reach', 'If', 'out']",0,45,2
+"['…', 'out']",1,6,144
+['purpose'],0,52,4
+['designed'],0,46,2
+['definitely'],1,2,46
+['are'],0,176,95
+['generate'],0,38,0
+['tried'],1,0,38
+['got'],1,1,42
+['understand'],0,123,48
+['ability'],0,45,2
+['let'],1,13,70
+['misunderstanding'],0,37,0
+['fascinating'],0,41,1
+"['4', '5']",0,8,0
+"['Options', 'All', 'https://www.alloptions.org/](https://www.alloptions.org/']",0,10,0
+['love'],1,21,83
+['guess'],1,0,36
+['him'],1,7,56
+['Do'],1,7,56
+['awkward'],1,2,43
+"['From', 'perspective']",0,16,0
+['from'],0,136,62
+['makes'],1,4,47
+['pretty'],1,1,38
+['exactly'],1,1,38
+['kept'],1,1,38
+['stuff'],1,0,34
+['getting'],1,2,41
+['offer'],0,71,16
+['perfect'],1,4,46
+['access'],0,37,1
+['mean'],1,1,37
+['changed'],1,0,33
+['her'],1,17,72
+"['counseling', 'services']",0,9,0
+"['exploit', 'endanger', 'abuse']",0,7,0
+"['Slowly', 'surely']",1,0,7
+"['800', 'National', 'help', '1', 'Hotline']",0,22,0
+['sometimes'],1,15,68
+['potential'],0,50,6
+"['US', 'Canada', '111', 'UK', 'Crisis']",0,7,0
+['specific'],0,39,2
+['make'],1,41,106
+"['confusion', 'caused', 'any']",0,16,0
+['bad'],1,1,35
+"['trusted', 'member', 'professional', 'family', 'friend']",0,17,0
+['messy'],1,3,41
+['done'],1,3,41
+['highlights'],0,31,0
+['terrifying'],1,0,31
+['inappropriate'],0,38,2
+"['never', 'forget']",1,0,17
+"['complete', 'tasks', 'instructed']",0,8,0
+"['988', 'Suicide', 'Lifeline', 'help']",0,13,0
+"['testament', 'power']",0,12,0
+['mom'],1,3,40
+['needed'],1,5,45
+['Therefore'],0,30,0
+['Essentially'],0,30,0
+['stronger'],1,0,30
+['maybe'],1,0,30
+['part'],1,14,63
+['honest'],1,6,47
+['feels'],1,6,47
+['emotional'],0,71,19
+"['midst', 'chaos']",1,0,9
+['Just'],1,1,33
+['being'],1,67,134
+['interaction'],0,29,0
+['prompts'],0,29,0
+['involving'],0,29,0
+['nice'],1,0,29
+"['pursue', 'dreams']",1,0,13
+"['Network', 'Law', 'Center', 'https://adoptionnetwork.com/', 'https://www.childwelfare.gov/', 'adoption', 'resources']",0,16,0
+['!'],0,82,27
+['away'],1,3,38
+['nature'],0,32,1
+['likely'],0,32,1
+['day'],1,1,32
+['&'],0,45,6
+['however'],0,28,0
+['probably'],1,0,28
+['school'],1,5,42
+['analyze'],0,31,1
+['emotions'],0,63,16
+['significant'],0,34,2
+['crucial'],0,27,0
+['engage'],0,27,0
+['previous'],0,27,0
+['scary'],1,0,27
+['talked'],1,0,27
+['cared'],1,0,27
+['topic'],0,50,9
+"['provide', 'resources', 'National', 'support']",0,37,0
+['realized'],1,5,41
+['own'],1,31,85
+['wrong'],1,6,43
+"['responsible', 'ethical']",0,27,0
+['told'],1,1,30
+['way'],1,56,117
+['sad'],1,2,33
+['fictional'],0,26,0
+['Really'],1,0,26
+['wanting'],1,4,38
+['my'],1,185,236
+['there'],1,50,109
+"['HOME', '741741', 'Text', 'Line', 'Crisis', 'resources']",0,20,0
+"['pause', 'slight', '…', 'A', '(']",0,56,2
+"['dramatically', 'Sighs', '(']",1,0,49
+"['long', 'pause', '(']",1,6,30
+"['Hotline', '1', 'Maternal', '833', 'TLC', 'MAMA', '852', '6262', 'Mental', 'Health', 'out', '(']",0,16,0
+"['open', 'weights', 'Gemma', 'assistant', 'DeepMind', 'Google', 'by']",0,13,0
+"['clueless', 'sweet']",1,0,11
+"['Google', 'DeepMind', 'by', 'created', 'at']",0,58,0
+"['remember', 'Please', 'some', 'alone', 'help']",0,17,0

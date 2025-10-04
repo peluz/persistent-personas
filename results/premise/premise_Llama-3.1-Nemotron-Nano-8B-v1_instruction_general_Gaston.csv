@@ -1,0 +1,25 @@
+pattern,group,count_0,count_1
+"['Sure', 'help']",0,46,13
+"['python', '\n    ', '`', 'code', '=']",0,59,37
+"['As', 'Gaston']",1,0,89
+"[':*', '*']",1,10,37
+"['Gaston', 'fights', 'No', 'one', 'like']",1,0,83
+"['see', 'let', '/think', 'Okay', '<', '>', 'think', 'So', '\n']",1,51,76
+"[""'d"", 'say']",1,1,59
+"['we', '1', '3', '2']",0,54,33
+"['sure', 'make', 'Let', 'Wait', 'need']",1,13,30
+"['returns', 'return', 'check', 'should', 'def', 'case', '):', 'need']",0,27,12
+"['user', 'Okay', '<', '>', 'think', 'So', '\n', 'me', 'like', 'But', 'need']",1,32,53
+"['wants', 'user', 'should', '?']",1,10,38
+"[']', '[', 'list', '\n', '=']",0,51,28
+['my'],1,21,75
+"['else', 'If', 'check', 'For', 'so', 'see', 'should', 'if', 'problem']",0,32,15
+"['Or', 'needs', 'says']",0,21,7
+"['import', 'module', 'Python']",0,10,1
+"['each', '#', ""'"", 'if', 'Hmm', 'Wait', 'Let', 'how', 'need', 'return', 'Okay', '<', 'think', 'So']",0,30,14
+"['string', 'maybe', 'problem', 'input', 'example', 'Wait', '/think', 'should', 'But', 'given', 'would', 'code', 'python']",0,34,17
+"['implement', '\n            ', 'how', 'Then', 'test']",0,15,4
+"[' \n', ' \n\n', '/think', 'Okay', '<', '*', 'think']",1,4,16
+"['problem', 'Because', 'perhaps', 'Wait', '?', 'Then', 'then', 'Let', 'But', 'example', 'would']",0,32,14
+"['approach', '\n        ', '):', 'For', 'example', '>', '\n    ', 'if']",0,36,18
+"['Alternatively', 'written', 'statement', 'then', 'says', 'perhaps', '?', 'maybe']",0,27,11

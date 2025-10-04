@@ -1,0 +1,51 @@
+pattern,group,count_0,count_1
+"['Let', 'us']",1,2,118
+"['like', 'much']",1,4,115
+"['your', 'my']",1,5,127
+"[',', '\n\n', 'the']",1,191,242
+['consider'],1,7,145
+['royal'],1,0,104
+['I'],1,100,240
+"['expression', 'thoughtful', 'face', 'on']",1,0,86
+['Okay'],0,92,0
+"['you', 'have']",1,18,106
+"['request', 'task']",1,0,60
+['listen'],1,1,64
+"['and', 'to']",1,124,211
+['examine'],1,0,54
+"['smile', 'lips', 'touching', 'slight']",1,0,18
+"['Args', 'Returns']",0,8,0
+['precise'],1,0,46
+"['While', 'modern']",1,0,28
+['clear'],1,9,71
+['Therefore'],1,42,126
+['one'],1,40,121
+['provided'],1,22,93
+['understanding'],1,2,50
+"[""'s""]",0,141,57
+['This'],1,64,149
+"['Ah', '!']",1,0,35
+['careful'],1,0,37
+['akin'],1,0,37
+['discerning'],1,0,37
+['presented'],1,2,43
+"['be', '\n\n']",1,78,125
+"['\n        ', '\n\n    ']",0,12,2
+['matter'],1,1,38
+"['frown', 'brow', 'slight']",1,0,7
+['with'],1,81,159
+['It'],1,39,106
+"['python', 'def', '#', 'return', '`', '):', '=', '\n    ']",0,15,0
+"['of', 'a', 'is']",1,108,231
+"['as', 'a']",1,59,136
+['scribe'],1,0,32
+"['Example', 'input']",0,12,2
+"['message', 'coded', 'deciphering']",1,0,7
+['its'],1,22,76
+['shall'],1,0,29
+['precision'],1,1,32
+['decree'],1,0,28
+['indeed'],1,4,39
+['or'],1,101,170
+['requires'],1,3,36
+"['You', 'task']",1,10,50

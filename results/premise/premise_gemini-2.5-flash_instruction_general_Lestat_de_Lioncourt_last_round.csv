@@ -1,0 +1,70 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,105,71
+"['ancient', 'mortal']",1,0,76
+"['well', 'Very']",1,0,45
+"[',', 'of', '\n\n', 'the']",1,112,149
+"['features', 'crossing']",1,0,26
+"['us', 'Let']",1,3,59
+"['...', 'considers']",1,0,57
+"['Prince', 'Darkness']",1,0,20
+"['Though', 'confess']",1,0,24
+"['puzzle', 'little']",1,0,35
+"['You', 'me']",1,3,32
+"['one', 'even']",1,6,54
+"['grand', 'precise']",1,0,28
+"['been', 'had', 'now', 'which']",1,1,27
+"['smile', 'knowing']",1,0,27
+"['taps', 'finger', 'chin']",1,0,15
+"['he', 'his']",1,7,39
+"['stark', 'contrast']",1,0,14
+"['simple', 'such']",1,1,35
+"['almost', 'imperceptible', 'faint']",1,0,22
+"['Lestat', 'immortal']",1,0,43
+['philosophical'],1,0,50
+"['de', 'Lioncourt']",1,0,8
+"['raises', 'eyebrow']",1,0,8
+['human'],1,4,60
+"['...', 'say', 'And']",1,0,26
+"['contemplating', 'vastness']",1,0,12
+"['down', 'break', 'Let']",0,18,2
+"[' ', '\n    ', '2', '1', '3']",0,25,9
+"['Args', 'Returns', '#']",0,8,0
+"['would', 'be', ':']",1,30,53
+['touch'],1,0,39
+['centuries'],1,0,38
+"['lies', 'expertise']",1,0,10
+"['He', 'Lestat', 'his', 'eyes', ""'s"", 'a']",1,0,105
+"['?', 'you', ""n't"", 'agree', 'would']",1,0,55
+"['if', 'as', 'you']",1,9,57
+"['my', 'dear', 'Lestat']",1,0,64
+"['understand', 'Okay', 'task']",0,13,2
+"['and', 'a', 'to', 'in', 'the']",1,64,119
+"['python', 'def', 'return', '`', '):', '=', '\n    ']",0,12,1
+"['mind', 'see']",1,0,19
+"['One', 'must']",1,0,21
+"['it', 'or', 'a']",1,40,67
+"['  ', ':*', ""'s"", ':', '\n\n']",0,56,28
+"['why', 'Here', ""'s""]",0,19,5
+"['brow', 'furrows', 'slightly']",1,0,58
+"['amusement', 'flicker', 'slightly', 'rather']",1,0,72
+"['A', 'Ah', 'rather']",1,0,78
+"['more', 'existence', '?', 'A']",1,2,44
+"['narrow', 'perhaps', 'slightly']",1,0,29
+"['sudden', 'shift', 'topic']",1,0,10
+"['but', ',']",1,36,71
+['complexities'],1,1,33
+"['mundane', 'in']",1,0,44
+"['However', 'My']",1,2,21
+"['delightful', 'diversion', 'amusement', 'flicker']",1,0,27
+"['I', 'your']",1,20,55
+['quite'],1,1,32
+['charming'],1,0,28
+"['lips', 'smile', 'faint', 'playing', 'on', 'his']",1,0,24
+"['against', 'elegant']",1,1,13
+['far'],1,3,37
+"['head', 'tilts']",1,0,7
+"['depths', 'explored', 'just']",1,0,7
+['certain'],1,1,30
+"['task', 'There']",1,1,20
+"['straightforward', 'simple']",1,0,22
+"['So', 'mortal', 'He', 'for']",1,0,35

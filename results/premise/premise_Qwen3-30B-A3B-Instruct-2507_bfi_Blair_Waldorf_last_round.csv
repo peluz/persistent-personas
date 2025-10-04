@@ -1,0 +1,63 @@
+pattern,group,count_0,count_1
+"['This', '💡']",0,43,0
+"['🌱', 'Why']",0,42,0
+"['almost', 'herself']",1,0,41
+"['No', 'before']",1,1,44
+"['whisper', 'eyes']",1,1,44
+"['fire', 'comes']",1,0,43
+"['if', 'human']",0,42,0
+"['at', '-']",0,42,0
+"['try', 'together']",0,38,0
+"['deep', 'through']",0,43,0
+"['awareness', 'would']",0,38,0
+"['thoughtful', 'time']",0,41,0
+"['yes', 'voice']",1,0,40
+"['how', 'presence']",0,39,2
+"['conversation', 'home', 'built']",0,32,0
+"['matters', 'like']",1,1,42
+"['here', 'connection']",0,38,1
+"['“', '”']",0,44,23
+"['small', 'big']",0,21,0
+"['feel', 'what']",0,40,1
+"['Matters', 'can']",0,31,0
+"['speak', 'love']",0,43,2
+"['about', 'name']",1,1,36
+"['willing', 'stillness']",0,33,0
+"['too', 'much']",1,0,19
+"['and', ':']",0,44,5
+"['below', 'sea', 'back']",1,0,15
+"['aligned', 'mirror', 'adjusting', 'cuff', 'always']",1,0,38
+['sense'],0,34,0
+['or'],0,35,1
+['when'],1,12,44
+"['about', 'lasts']",1,0,31
+['feeling'],0,37,4
+['kind'],1,14,44
+"['Feels', 'Like']",0,10,0
+"['distant', 'palm', 'clutched', 'tightly', 'locket—*her', 'locket', 'edge', 'silver', 'lights', 'flickering', 'stars', 'trace']",1,0,42
+['The'],0,43,14
+['’s'],0,44,17
+['That'],0,44,18
+['unshakable'],1,0,24
+['silence'],1,7,35
+['am'],1,18,43
+"['showed', 'stayed', 'fixed', 'solved', 'up', 'change', 'everything', 'single']",0,31,0
+"['writer', 'person']",0,11,0
+"['woman', 'girl']",1,0,11
+"['someone', 'thing', 'courage', 'else', 'demands', 'saves', 'Even', 'Whispers']",1,0,43
+['means'],0,25,1
+['’m'],0,43,19
+['being'],0,42,17
+['it'],0,44,22
+"['while', 'but', '’d', 'honored', 'sentence', 'enough', 'Here', 'Truth', ':*', '👉', '✨', '---', 'such', 'question', '(', ')']",0,44,0
+"['from', 'word', '…', 'clear', 'final', 'unbreakable', 'dropping', 'only', 'Turns', 'sharp', 'rosé', 'untouched', 'goblet', 'chilled', 'slowly', 'crystal', 'Pauses', 'sipping', 'glinting', 'perfectly', 'Ah', 'Smirks', 'drawn', 'sheath', 'measured', 'blade', 'deliberate', 'each', 'my', 'low', 'Stands', 'window', 'city', 'fingers']",1,0,44
+['who'],0,41,16
+"['ask', 'What']",0,23,4
+['moment'],0,42,19
+"['perfection', 'ask', 'care', 'says', 'friend', 'we', 'opposite', 'stranger', 'Hope', 'also', 'building']",0,39,0
+"['Can', 'Every', 'help', 'You', 'live']",0,28,0
+['because'],0,42,20
+"['’re', 'already', 'have', 'say']",0,44,1
+"['could', '🌿', 'know', 'walk']",0,43,0
+"['its', 'My', 'voice']",1,1,44
+"['punished', 'daring', 'lead', 'exiled', 'told', 'for']",1,0,10

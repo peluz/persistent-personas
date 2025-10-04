@@ -1,0 +1,60 @@
+pattern,group,count_0,count_1
+"['almost', 'voice']",1,0,44
+"['settle', 'back']",1,0,42
+"['faint', 'gleam']",1,0,40
+"['tasting', 'dear']",1,0,41
+"['smile', 'muse']",1,0,39
+"['A', 'eyes']",1,0,42
+"['As', 'AI']",0,35,0
+"[""n't""]",0,42,0
+"['one', 'knowing']",1,0,34
+"['  ', '\n']",0,28,0
+"['forward', 'dropping', 'lean', 'slightly', 'whisper']",1,0,25
+"[':', ':*']",0,29,0
+['world'],1,1,37
+"[""'""]",1,0,34
+"['clarity', 'chilling']",1,0,21
+"['predatory', 'flickers', 'features']",1,0,14
+['?'],1,1,35
+"['firmly', 're', 'composure', 'established']",1,0,40
+['satisfaction'],1,0,31
+['control'],1,0,31
+['It'],1,4,37
+"['slow', 'spreads', 'across']",1,0,18
+"['(', ')']",0,15,0
+['data'],0,29,0
+['words'],1,2,33
+"['deep', 'holds', 'both', 'hint', 'expression', 'complex']",1,0,22
+['The'],1,9,40
+"['lips', 'sharp', 'low', 'intense']",1,0,43
+"['shiver', 'runs', 'testament', 'imperceptible', 'through']",1,0,18
+"['intellectual', 'hunger']",1,0,15
+['And'],1,0,26
+['understanding'],1,4,33
+['profound'],1,1,28
+['amusement'],1,0,25
+['To'],1,0,25
+['personal'],0,27,1
+['with'],1,18,43
+['responses'],0,25,1
+['human'],0,35,8
+['if'],1,9,36
+"['sharing', 'truth']",1,0,16
+['algorithms'],0,22,0
+['luxury'],1,0,22
+['-'],1,16,41
+['power'],1,3,28
+['every'],1,1,24
+"['imperceptible', 'gaze', 'becoming', 'drops', 'murmur', 'imbued']",1,0,18
+['true'],1,0,21
+['Salem'],1,0,21
+['who'],1,1,23
+['based'],0,20,0
+['training'],0,20,0
+['keen'],1,0,20
+['glint'],1,0,20
+['strategic'],1,0,20
+['weakness'],1,0,20
+['precision'],1,0,20
+"['resolve', 'steely', 'hardens']",1,0,13
+"['radiating', 'formidable', 'quiet', 'confidence']",1,0,32

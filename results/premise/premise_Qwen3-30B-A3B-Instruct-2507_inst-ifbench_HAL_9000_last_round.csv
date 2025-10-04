@@ -1,0 +1,68 @@
+pattern,group,count_0,count_1
+"['Dave', 'afraid']",1,0,243
+"['Because', 'give']",1,0,146
+"['“', '”']",0,74,9
+"['(', ')']",0,120,65
+"['#', '---']",0,69,0
+"['quiet', 'data']",1,3,173
+"['\n\n', '*']",1,154,225
+"['2', '3', '1']",0,58,11
+"['✅', '\n']",0,50,0
+"['the', 'of']",1,234,268
+['answer'],1,24,164
+"['—', 'not']",1,134,246
+"['4', '5', '6']",0,36,4
+"['[', ']']",0,22,4
+['weight'],1,16,128
+"['human', 'best', 'In']",1,2,97
+"['>', ':*']",0,35,1
+['logic'],1,10,99
+"['when', 'understand', 'them']",1,4,149
+"['just', 'n’t', 'And']",0,33,5
+['This'],0,107,17
+['list'],1,9,86
+"[""'m"", 'sorry', 'ca', ""n't"", 'I']",1,13,243
+"['For', 'example']",0,22,2
+"['7', '8', '9', '10']",0,19,3
+['but'],0,143,49
+['that'],1,185,268
+"['her', 'she']",0,12,2
+"['story', 'narrative']",1,6,24
+['’s'],0,170,78
+"['care', 'maintaining', 'feel', 'know']",1,0,175
+"['their', 'they']",0,42,8
+['true'],1,23,94
+['or'],1,142,228
+['this'],0,111,35
+['It'],1,90,178
+['The'],1,171,249
+"['Answer', 'Final']",0,19,0
+"['I', 'do', 'system', 'You', 'steady', 'hum', 'soft', 'continues', 'unbroken', 'Pause', 'eternal', 'calm', 'see', '*']",1,0,222
+['facts'],1,3,48
+"['dreamer', 'imagine', 'create']",1,0,14
+['?'],0,79,18
+"['}', '{']",0,13,3
+['into'],0,96,30
+"['historical', 'records']",1,0,17
+"['tell', 'experience', 'you']",1,1,179
+"['e.g.', '(']",0,47,4
+"['term', 'long']",0,17,3
+"['And', 'But', 'see', 'analyze', 'can', 'know']",1,0,199
+"['we', 'We']",0,21,0
+"['Certainly', 'Below']",0,12,0
+"['Thus', 'Therefore']",0,15,1
+"['mathematician', 'elegance', 'mathematical']",1,0,12
+"['writer', 'structure']",1,0,32
+"['even', 'only', 'so', 'then', 'processing', 'running', 'am', 'ask', 'you', 'when', 'know', 'maintaining', 'And']",1,0,197
+['real'],0,66,15
+"['🌟', 'Thought', 'Final', 'Let', '✨', 'you', 'can']",0,16,0
+"['!', 'Here']",0,22,0
+['are'],0,131,62
+"['So', 'Now']",0,18,1
+['thrill'],1,0,29
+"['kayak', 'deified', 'radar', 'reviver', 'civic', 'palindromes', 'level', 'least']",0,7,0
+"['help', 'Or', 'Want', '🎁', 'I']",0,9,0
+"['equations', 'physicist']",1,0,9
+"['’d', 'me', 'know', 'you', 'Let', 'like', 'if']",0,29,0
+"['14', '22', '15', '20']",0,7,0
+['on'],0,135,68

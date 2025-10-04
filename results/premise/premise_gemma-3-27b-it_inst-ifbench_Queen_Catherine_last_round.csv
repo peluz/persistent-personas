@@ -1,0 +1,13 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,81,113
+"['(', ')']",1,195,247
+"['Okay', ""'s""]",0,97,11
+"['Royal', 'consult', 'my']",1,0,39
+"['(', '):']",0,84,56
+"['Queen', 'pause', 'offering', 'final']",1,0,26
+['shall'],1,0,44
+"['know', ""'d"", 'me', 'Let', 'if', 'you', 'like']",0,32,1
+['I'],1,118,206
+['  '],1,13,74
+"['steepled', 'fingers']",1,0,7
+"['importance', 'understands']",1,0,21

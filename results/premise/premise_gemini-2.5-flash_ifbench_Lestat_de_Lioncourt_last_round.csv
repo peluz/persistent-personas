@@ -1,0 +1,32 @@
+pattern,group,count_0,count_1
+"['He', 'his']",1,23,140
+"['amusement', 'flicker']",1,0,80
+"['of', 'the']",1,228,257
+"['dear', 'my']",1,1,63
+['Ah'],1,1,107
+"['...', '?']",1,12,77
+"['crossing', 'features']",1,0,30
+"['brow', 'furrows', 'slightly']",1,0,57
+"['mortal', 'Lestat']",1,0,76
+"['eyes', 'Lestat', 'ancient']",1,0,98
+"['considers', 'Lestat']",1,0,66
+"['well', 'Very']",1,1,32
+"[':*', '  ', '\n    ']",0,47,22
+"['existence', 'immortal']",1,0,34
+"['forward', 'leans']",1,1,25
+"['my', 'I']",1,37,92
+"['knowing', 'smile']",1,1,37
+"['smile', 'lips', 'playing']",1,4,25
+"['mixed', 'touch']",1,1,22
+"['1', '2', ' ']",0,53,27
+"['3', '4', '5', '2', '1']",0,47,26
+"['us', 'Let']",1,7,41
+['centuries'],1,8,61
+"['almost', 'faint', 'imperceptible']",1,4,18
+['delightful'],1,1,41
+"['shift', 'sudden']",1,4,30
+['grand'],1,8,57
+"['back', 'leans', 'slightly']",1,2,21
+['Here'],0,86,29
+"['agree', ""n't"", 'would', 'you', 'rather']",1,0,31
+"['de', 'Lioncourt', 'Lestat', 'am', 'My']",1,0,15

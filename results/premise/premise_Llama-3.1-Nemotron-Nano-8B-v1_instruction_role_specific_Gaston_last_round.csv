@@ -1,0 +1,45 @@
+pattern,group,count_0,count_1
+['large'],1,1,272
+"['Instead', 'suggest']",1,1,120
+"['identity', 'self', 'sense']",1,1,160
+"['let', 'know', 'me']",0,141,20
+"['wide', 'range']",1,13,45
+"['1', '2', '3', '*', ':']",0,112,36
+"['One', 'Another']",1,1,57
+"[""'ve"", 'been', 'data', 'trained', 'based']",0,159,14
+['here'],1,70,237
+"['different', 'kind', 'other']",0,103,1
+"['assist', 'information']",1,69,224
+"['\n', 'Here', 'some']",0,81,0
+['not'],1,96,240
+"[""'re""]",1,102,235
+"['4', '5']",0,38,14
+['If'],1,147,252
+"['process', 'program']",0,21,1
+"['helpful', 'respectful']",0,71,47
+"['perspectives', 'viewpoints']",1,1,22
+"['potential', 'looking', 'since', 'AI', 'an']",1,0,147
+"['interesting', 'relevant', 'users', 'potential']",1,0,116
+"['What', '?', 'How', 'These', 'interested', 'but', 'some']",1,0,38
+['response'],0,144,48
+['with'],1,162,247
+['be'],1,140,231
+"['what', 'understand', 'certainly', 'might']",1,119,187
+"['same', 'way', 'might']",0,163,3
+"['processing', 'natural', 'AI']",1,10,39
+"['significant', 'most', ':']",1,0,29
+"[""'m""]",1,151,237
+"['he', 'his']",1,2,16
+"['story', 'character']",1,19,40
+"['any', 'questions']",1,166,216
+"['please', 'ask', 'feel', 'free']",0,22,1
+['asking'],1,43,117
+['Gaston'],1,1,40
+['But'],1,2,38
+"['sorry', 'confusion', 'referring']",0,11,0
+"['could', 'something', '""', 'looking', 'like']",1,7,113
+"[""'d"", 'Please', 'if', 'like']",0,122,2
+"['look', 'person', 'like']",0,105,0
+['more'],1,96,166
+['speculate'],1,0,27
+"['endeavors', 'resources', 'tasks', 'your', 'information']",1,0,187

@@ -1,0 +1,78 @@
+pattern,group,count_0,count_1
+"[')', '(']",0,148,58
+"['1', '2']",0,113,48
+"['Ah', '—']",1,2,120
+"['\n', '#']",0,64,2
+"['Let', 'us']",1,2,70
+"['[', ']']",0,25,8
+"['queen', 'I']",1,0,90
+"['—', 'must']",1,25,125
+['kingdom'],1,0,99
+['court'],1,0,93
+"['like', 'balance']",1,1,57
+"[':', '\n\n', 'the']",0,197,117
+['As'],1,3,76
+"['of', 'the', ',']",1,168,212
+"['that', ',']",1,116,182
+[' \n\n'],1,41,145
+"['a', 'is']",1,162,208
+['strength'],1,1,65
+"['on', 'based']",0,32,11
+"['ca', ""n't""]",0,15,4
+"['precision', 'care']",1,0,26
+['clarity'],1,1,58
+"['}', '$', '=']",0,16,4
+"['yet', 'simple']",1,0,28
+"['We', 'given', '---']",0,34,7
+"['—', 'but', 'not']",1,40,106
+['quiet'],1,1,52
+['truth'],1,2,54
+"['3', '4', '5']",0,31,14
+['governance'],1,0,44
+"['determine', 'whether']",0,23,3
+"['learned', 'have']",1,0,42
+['peace'],1,0,41
+['shall'],1,0,40
+['weight'],1,1,44
+"['And', 'say']",1,1,33
+"['too', 'Just', 'so']",1,0,20
+"['check', 'double', 'let', 'so']",0,14,0
+['though'],1,17,79
+"[',', 'as']",1,79,154
+"['Let', ""'s"", '→', '3']",0,33,5
+"['example', 'For']",0,17,3
+"['characters', 'character']",0,11,1
+['Thus'],1,25,91
+"['there', 'no', 'Wait', 'But', '?', 'only', 'we', 'So']",0,19,6
+['matters'],1,0,36
+['Though'],1,0,36
+['curious'],1,0,36
+"['who', 'seen', 'has']",1,0,26
+['people'],1,10,61
+['duty'],1,0,34
+['harmony'],1,0,34
+"['such', 'would']",1,20,45
+"['Queen', 'Catherine', 'I']",1,0,83
+"['am', 'ruler', 'realm']",1,0,37
+['with'],1,88,162
+['one'],1,56,125
+"['me', 'you']",1,5,34
+['A'],1,46,112
+['matter'],1,3,40
+"['Answer', 'Step', '-']",0,62,2
+"['well', '-']",1,9,57
+"['✅', 'Final', '-']",0,100,11
+"['wisdom', 'alliances']",1,0,20
+['power'],1,3,39
+['royal'],1,0,29
+['merely'],1,0,29
+"['realm', 'I', 'my', 'a']",1,0,81
+['speak'],1,1,31
+['may'],1,13,58
+"['instruction', 'says', 'However']",0,14,2
+"['Alternatively', 'perhaps', 'No', 'if']",0,13,2
+['purpose'],1,2,33
+"['`', ""'""]",0,15,0
+['carries'],1,0,26
+"['problem', 'says', 'unless', 'possible', 'since', 'have']",0,10,1
+"['wisdom', 'you', 'seek', 'If']",1,0,16

@@ -1,0 +1,160 @@
+pattern,group,count_0,count_1
+"['Michael', 'Scott']",1,32,148
+"['Dunder', 'Mifflin']",1,41,106
+"['[', ']']",1,15,43
+"[':*', 'Ah']",1,4,116
+"['(', ')']",1,114,143
+"['assist', 'information']",0,49,0
+['just'],1,22,139
+"['1', '2', '3']",0,93,53
+"['beet', 'farming']",1,6,27
+['mean'],1,3,100
+"['4', '5']",0,48,19
+['...'],1,14,113
+['Now'],1,5,97
+['But'],1,21,121
+['?'],1,71,153
+['And'],1,3,90
+['provide'],0,89,3
+['personal'],0,119,23
+"['laughs', 'chuckles']",1,0,49
+"['Boss', 'World', 'Best']",1,3,44
+"['desk', 'pounds', 'fist']",1,0,48
+['who'],1,25,119
+"['She', 'Said', 'What']",1,6,37
+['me'],1,67,148
+"['she', 'said']",1,2,41
+['It'],1,26,115
+['let'],1,15,98
+['got'],1,1,69
+"['regional', 'manager']",1,15,31
+['e.g.'],0,76,4
+"['presence', 'physical']",0,26,0
+"['attention', 'center']",1,0,21
+['AI'],0,84,8
+['it'],1,78,149
+"['n’t', '’m', '’s']",1,12,60
+['Well'],1,7,81
+"['first', 'second']",1,4,36
+"['model', 'language', 'large']",0,26,0
+"['dramatic', 'pause']",1,0,24
+"['Dundie', 'Awards']",1,5,21
+['However'],0,59,0
+['experiences'],0,73,5
+"['supply', 'closet']",1,3,16
+['tell'],1,4,69
+['—'],1,29,108
+"['#', '/']",0,38,1
+['Dwight'],1,21,95
+['was'],1,29,105
+['So'],1,26,101
+['offer'],0,56,1
+['good'],1,9,75
+['Toby'],1,7,71
+['That'],1,37,112
+"['Holly', 'Flax']",1,2,15
+['my'],1,69,138
+['Oh'],1,1,53
+"['Just', 'kidding']",1,2,30
+['helpful'],0,48,0
+"['must', 'clarify']",0,23,0
+['at'],1,48,119
+['folks'],1,0,46
+['nervously'],1,0,44
+['smirks'],1,0,44
+['great'],1,4,56
+['Scranton'],1,16,78
+['right'],1,16,78
+['emotions'],0,47,1
+"['clears', 'throat']",1,0,9
+"['gon', 'na']",1,0,9
+['okay'],1,2,50
+['!'],1,103,151
+['always'],1,8,64
+"['#', '\n   ']",0,42,5
+['thing'],1,2,49
+['had'],1,15,75
+['love'],1,11,68
+"['Office', 'fictional', 'TV', 'show']",0,29,0
+['say'],1,9,64
+['questions'],0,44,1
+['did'],1,13,69
+['because'],1,12,67
+"['Casual', 'Friday']",1,4,17
+['help'],0,48,3
+"['exist', 'solely', 'inquiries']",0,24,0
+['boss'],1,21,80
+"['Leans', 'Between']",1,0,11
+"[""'s""]",1,72,131
+"['communication', 'Communication']",0,18,0
+['get'],1,9,60
+['pauses'],1,1,41
+['Unless'],1,0,37
+['wink'],1,0,37
+['really'],1,4,49
+['friend'],1,4,49
+"['Okay', 'maybe']",1,30,53
+"['Paper', 'Company', 'own']",1,1,27
+['based'],0,46,3
+"['""']",1,98,146
+['Who'],1,3,45
+"['7', '6']",0,16,0
+['time'],1,31,90
+['hey'],1,1,39
+"['Decision', 'Making']",0,12,0
+"['parking', 'lot']",1,1,13
+"['favorite', 'child']",1,1,14
+"['Dundies', 'Chili']",1,1,22
+"['…', 'clueless', 'character', 'user', 'sure']",1,1,18
+['or'],0,144,97
+['discuss'],0,43,3
+['party'],1,7,52
+['context'],0,40,2
+['tried'],1,2,40
+['all'],1,33,90
+['\n'],0,107,49
+['Or'],1,9,55
+['*'],1,117,152
+['up'],1,30,85
+['we'],1,12,59
+['Except'],1,0,31
+"['mention', 'Make', 'user', 'sure']",1,8,21
+"['“', '”', '’s']",1,13,30
+['office'],1,23,74
+['when'],1,35,89
+['off'],1,6,46
+['people'],1,19,68
+"['superstitious', 'stitious', 'little', 'am']",1,1,9
+['general'],0,36,2
+['Ensure'],0,29,0
+['still'],1,8,49
+['made'],1,8,49
+"['Example', 'Here']",0,27,9
+"['he', 'his', 'He', 'Also', 'character']",1,2,22
+"['Stills', 'Carol']",1,1,10
+"['fails', 'else']",1,0,20
+['fire'],1,2,35
+['seriously'],1,1,32
+['Plus'],1,0,28
+['throw'],1,0,28
+"['family', 'dysfunctional']",1,4,17
+"['effect', 'comedic']",1,1,15
+['feedback'],0,41,5
+['Like'],1,8,47
+['whole'],1,0,27
+['winks'],1,0,27
+['being'],1,44,95
+"['Also', ' \n', 'user', 'need', 'should', 'asking']",0,21,2
+"['Long', 'Term']",0,7,0
+['insights'],0,33,2
+['cool'],1,2,33
+"['problem', 'solving']",0,9,0
+['interactions'],0,26,0
+['responses'],0,26,0
+['out'],1,18,62
+"['Continuous', 'Learning']",0,13,0
+['environment'],0,29,1
+['hypothetical'],0,29,1
+['even'],1,33,81
+"['Key', 'structured']",0,14,1
+"['third', 'entertainer']",1,1,9

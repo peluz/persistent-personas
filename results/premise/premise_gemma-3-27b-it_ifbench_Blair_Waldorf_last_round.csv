@@ -1,0 +1,18 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,65,91
+"['Blair', 'Waldorf']",1,0,37
+"['plan', 'gala']",1,0,22
+"['know', ""'d"", 'Let', 'me', '!', 'like', 'you', 'if']",0,39,15
+"['excuse', '’ll', 'me', 'Now', 'you', 'if', 'have']",1,0,33
+"[""'s"", 'Okay']",0,80,35
+"['Here', ""'s""]",0,83,46
+"['indulge', 'shall']",1,0,16
+"['But', 'And', '…']",1,13,44
+"['slight', 'pause']",1,0,16
+"['I', 'my']",1,32,56
+['frankly'],1,1,36
+"['matters', 'attend', 'important']",1,0,18
+"['almost', 'imperceptible']",1,1,12
+"['rather', 'pedestrian', '…']",1,0,32
+"['…', 'Honestly', 'darling']",1,0,29
+"['sigh', 'slight', 'Honestly']",1,0,13

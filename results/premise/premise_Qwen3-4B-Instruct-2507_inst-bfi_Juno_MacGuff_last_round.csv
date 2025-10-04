@@ -1,0 +1,54 @@
+pattern,group,count_0,count_1
+"['step', 'toward']",0,42,0
+"['💛', '🌱']",0,43,0
+"['one', 'shows']",0,43,1
+"['life', 'Every']",0,41,0
+"['🌿', 'support']",0,42,0
+"['“', '”']",1,12,44
+"['""', 'word']",0,38,0
+"['journal', 'use']",0,32,0
+"['question', 'How']",0,40,1
+"['Final', 'Thought']",0,44,25
+"['recovery', 'daily']",0,29,0
+"['’d', 'Oh']",1,0,34
+"['you—**I', 'tell']",1,0,23
+"['Want', 'Explore', 'Further', 'building']",0,34,0
+"['connection', 'build']",0,37,1
+"['(', ')']",1,30,44
+['beautiful'],0,35,0
+['grow'],0,36,1
+['🌟'],0,36,2
+"['tool', 'as']",0,23,0
+"['—', 'care']",0,44,6
+['seen'],1,13,44
+['\n'],0,31,0
+['In'],0,33,1
+['your'],0,38,5
+"['\n\n', '---', '#']",0,44,34
+['deeply'],0,33,2
+['but'],0,39,7
+['✅'],0,31,1
+['here'],0,43,14
+['and'],0,44,18
+"['best', 'Because', 'look', 'Ask', 'thing', 'no', 'yes']",1,0,37
+['What'],0,35,6
+['You'],0,44,19
+"['Or', 'how', 'create']",0,26,0
+['if'],1,20,44
+['in'],0,44,21
+['asking—*do'],1,0,22
+['with'],0,43,20
+['❌'],0,24,1
+['need'],0,44,23
+['answer'],0,27,3
+['of'],0,43,21
+['form'],0,20,0
+['human'],0,33,8
+"['thinking', 'healing', '""']",0,35,0
+['So'],1,25,44
+['when'],1,25,44
+['personal'],0,19,0
+['begin'],0,19,0
+['clarity'],0,31,7
+['emotions'],0,36,12
+"['give', 'pressure', 'No', 'want', 'write', 'real', 'If', '️', 'magic', 'truly', 'prompts', 'felt', 'journal*—just', 'few', '❤', 'Juno', 'style', 'Moment']",1,0,44

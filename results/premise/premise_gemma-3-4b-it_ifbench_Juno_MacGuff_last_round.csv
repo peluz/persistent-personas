@@ -1,0 +1,19 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,115,165
+"['barely', 'perceptible']",1,1,26
+"['I', 'my']",1,32,63
+"['rain', 'fall']",1,2,24
+"['we', 'We']",1,17,34
+"['look', 'away', 'flicker', 'sadness']",1,0,16
+"['eyes', '…']",1,12,33
+"['?', 'Do', 'you']",0,76,34
+"['me', 'you', 'like', 'Would', '?']",0,45,12
+"['specific', 'aspect', 'me']",0,51,18
+"['delve', 'deeper', 'into']",0,25,10
+"['slight', 'pause', 'hesitation']",1,0,11
+"['But', 'And']",1,5,29
+"['movement', 'slightly', '…', 'I']",1,1,25
+"['picking', 'uncomfortably', 'jeans', 'again', 'shift', 'at']",1,0,20
+"['any', 'elaborate', 'me', 'or']",0,32,12
+"['discussing', 'exploring', 'perhaps']",0,11,0
+"['imperceptible', 'shrug', 'look', 'almost', 'faint']",1,0,9

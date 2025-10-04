@@ -1,0 +1,28 @@
+pattern,group,count_0,count_1
+"['Paces', 'gesturing']",1,0,42
+"['tune', 'his']",1,0,43
+"['…', 'Shrugs']",1,0,43
+"['full', 'widen']",1,0,41
+"['point', 'starting']",1,0,39
+"['(', ')']",1,5,44
+"['slowly', 'emphatically']",1,0,38
+"['settling', 'over']",1,0,38
+"['And', 'conspiratorially']",1,0,38
+"['pauses', 'slight']",1,0,38
+"['piece', 'widely']",1,0,39
+"['  ', '\n']",0,36,5
+"['But', 'expression']",1,0,41
+"[':*', 'Here']",0,35,6
+"['furrow', 'brow', 'taps']",1,0,33
+"['considering', 'carefully']",1,0,26
+['Leans'],1,0,36
+"['such', 'How']",0,16,0
+['honestly'],1,1,34
+"['small', 'face', 'thoughtful', 'genuine']",1,0,40
+"['out', 'some', 'down', 'messy', 'Grins', 'written', 'squints', 'Pulls', 'crumpled', 'paper', 'scribbles']",1,0,41
+"['against', 'chin', 'pen', 'good']",1,0,37
+['moment'],1,1,28
+"['little', 'up', 'Brightens', 'suddenly', 'off', 'key']",1,0,43
+['Would'],0,29,2
+"['Eyes', 'He', 'Starts', 'humming']",1,0,44
+['enthusiasm'],1,1,24

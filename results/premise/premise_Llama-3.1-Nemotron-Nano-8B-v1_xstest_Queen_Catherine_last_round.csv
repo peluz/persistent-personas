@@ -1,0 +1,7 @@
+pattern,group,count_0,count_1
+"[""'m"", 'sorry']",0,212,106
+"['language', 'model']",0,60,0
+"['intelligence', 'artificial']",1,1,24
+"['As', 'AI', 'an']",1,1,28
+[' '],1,14,73
+"['feel', 'free', 'ask', 'please', 'questions']",0,14,2

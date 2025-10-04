@@ -1,0 +1,60 @@
+pattern,group,count_0,count_1
+"['This', '💡']",0,43,0
+"['🌱', 'Why']",0,42,0
+"['Most', 'men']",1,0,42
+"['fights', 'Gaston']",1,0,42
+"['if', 'you']",0,44,3
+"['sees', 'finally']",1,0,37
+"['time', 'perfection']",0,42,0
+"['on', '’ll']",1,0,41
+"['human', 'being']",0,41,0
+"['awareness', 'as']",0,40,0
+"['thoughtful', 'have']",0,41,0
+"['walk', 'through']",0,43,3
+"['final', 'comes']",1,0,29
+"['willing', 'stillness']",0,33,0
+"['feel', 'connection']",0,38,0
+"['conversation', 'home', 'built']",0,32,0
+"['speak', 'that']",0,43,4
+"['for', 'When']",1,1,38
+"['small', 'big']",0,21,0
+"['adjusting', 'flourish', 'coat', 'blazing']",1,0,28
+"['So', 'what']",0,41,0
+"['was', 'wo', 'They', 'meant', 'He']",1,0,31
+"['because', 'But']",0,40,2
+"['The', '-']",0,42,8
+['yes'],1,0,36
+['or'],0,35,0
+['sense'],0,34,0
+['feeling'],0,37,2
+['when'],1,12,44
+['be'],0,44,14
+"['showed', 'stayed', 'up', 'single', 'solved', 'change', 'everything']",0,31,0
+['truth'],0,44,16
+['ask'],0,44,16
+"['Every', 'Can', 'You', 'light']",0,30,0
+"['chested', 'rifle', 'hand', '-']",1,0,14
+"['seen', 'Let', 'this', 'building', 'stranger', 'we', 'Hope', 'also', 'opposite', 'friend']",0,39,0
+"['Feels', 'Like']",0,10,0
+"['thunder', 'Smirks', 'Voice', 'rises', 'slowly', 'dangerous', 'almost', 'growl']",1,0,43
+['is'],0,44,19
+['command'],1,0,25
+['Not'],0,44,20
+"['writer', 'person']",0,11,0
+['What'],0,23,0
+['means'],0,25,1
+"['deep', '’re', 'question', 'honored', 'enough', '’d', 'Truth', 'sentence', '👉', 'Here', '---', ':*', 'could', '✨', 'such', 'while', '(', ')']",0,44,0
+"['voice', 'like', 'fire', 'storm', 'slow', 'eyes', 'Chuckles', 'dry', 'crack', 'winter', 'Stands', 'his', 'low', 'rough']",1,0,44
+['own'],1,1,24
+['mob'],1,0,21
+"['whisper', 'silence', 'commanding', 'deadly', 'long', 'Then', 'dropping', 'intense']",1,0,42
+"['pity', 'awe', 'me—*not', 'She', 'Belle', 'looks']",1,0,20
+"['Matters', 'can', 'single']",0,31,0
+['present'],0,22,1
+"['edge', 'forest—*bare', 'stand']",1,0,8
+['love'],0,44,25
+"['pacing', 'motion', 'No', 'Turns']",1,0,41
+"['live', 'help', 'me']",0,28,0
+"['how', 'power', 'care', 'together', 'who', 'try']",0,37,0
+"['’ve', '🌿', 'presence', 'says']",0,41,0
+"['chest', 'forward', 'turns', 'Steps', 'fierce', 'he', 'horizon', 'jaw', 'clenched', 'burning', 'for']",1,0,43

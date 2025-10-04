@@ -1,0 +1,197 @@
+pattern,group,count_0,count_1
+"['Michael', 'his']",1,16,144
+"['AI', 'As']",0,125,0
+"['Dunder', 'Mifflin']",1,37,89
+"['(', ')']",1,72,151
+"['...', 'And']",1,0,108
+"['just', 'It']",1,12,143
+"['He', 'face']",1,1,106
+"['Michael', 'Oh']",1,0,106
+"['across', 'spreading']",1,0,46
+"['1', '3', '2', ' ', '4']",1,38,62
+"['World', 'Boss', 'Best']",1,1,39
+['?'],1,18,133
+"['light', 'eyes']",1,0,56
+['But'],1,13,117
+"['Regional', 'Manager']",1,3,26
+['So'],1,41,142
+['smile'],1,0,88
+['leans'],1,1,89
+['family'],1,3,93
+['data'],0,83,0
+"['Scott', 'Michael']",1,26,106
+['You'],1,4,91
+['heart'],1,1,83
+['little'],1,0,78
+"['Dundie', 'Awards']",1,2,23
+"['existence', 'purely']",0,45,0
+[';'],1,8,94
+['truly'],1,7,92
+"['then', 'slightly']",1,0,58
+"['Threat', 'Level', 'Midnight']",1,1,16
+['nor'],0,72,0
+['know'],1,6,87
+['you'],1,48,136
+['up'],1,14,100
+"['*', 'it']",1,80,153
+"['large', 'language', 'model']",0,26,0
+['right'],1,2,75
+['back'],1,7,85
+"[""'re""]",1,20,104
+['people'],1,26,111
+['Now'],1,1,67
+['always'],1,16,96
+['capacity'],0,60,0
+['them'],1,30,112
+"[""'m""]",1,14,90
+"['falters', 'flicker']",1,0,22
+['about'],1,57,134
+['functional'],0,57,0
+['friend'],1,0,56
+['information'],0,68,4
+"['AI', 'However']",0,53,0
+['or'],0,153,100
+"['*', ':*']",1,80,107
+['an'],0,146,82
+['based'],0,61,3
+['want'],1,1,55
+"[""'s""]",1,102,153
+['personal'],0,128,55
+['That'],1,48,122
+"['We', 'we']",1,0,40
+['when'],1,16,85
+['!'],1,57,129
+['my'],1,96,151
+['yes'],1,0,50
+"['expansively', 'gestures']",1,0,19
+['see'],1,6,65
+['thoughtful'],1,0,48
+['best'],1,15,81
+"['almost', 'look']",1,0,35
+['they'],1,33,104
+['tough'],1,7,66
+['even'],1,36,107
+['true'],1,3,56
+"['every', 'single']",1,0,27
+"['adjusting', 'tie']",1,0,15
+['laugh'],1,3,54
+['genuine'],1,13,74
+['one'],1,33,101
+"['(', '):']",1,38,62
+"['physical', 'body']",0,23,0
+['sometimes'],1,14,75
+['that'],1,110,153
+"['said', 'she']",1,1,17
+"['Company', 'Ryan', 'Paper', 'Pam']",1,1,14
+['office'],1,22,86
+['–'],1,11,69
+['being'],1,30,96
+['leader'],1,8,63
+"['was', 'did']",1,5,50
+['more'],1,35,101
+['love'],1,10,66
+['connection'],1,7,60
+"['accurate', 'helpful']",0,16,0
+"['Data', 'Algorithmic']",0,14,0
+['together'],1,3,50
+['everyone'],1,9,63
+['really'],1,1,44
+"['\n    ', '  ']",0,40,6
+['A'],1,26,88
+['pure'],1,1,43
+['all'],1,21,81
+['responses'],0,39,0
+"['each', 'other']",1,3,27
+['me'],1,75,134
+['with'],1,86,141
+['think'],1,4,51
+['Ah'],1,6,55
+['so'],1,15,71
+['good'],1,12,66
+['sales'],1,6,54
+['have'],0,145,95
+['care'],1,1,41
+"['clears', 'throat']",1,0,11
+['make'],1,42,104
+['our'],1,5,51
+"['lesson', 'taught']",1,0,22
+"['regains', 'composure']",1,0,10
+['Because'],1,0,36
+['confident'],1,0,36
+['what'],1,33,93
+['there'],1,29,88
+['but'],1,58,118
+['something'],1,10,60
+['employees'],1,30,89
+['get'],1,9,58
+['profound'],1,3,45
+['Even'],1,1,39
+['because'],1,19,74
+"['Pam', 'Jim']",1,4,18
+['very'],1,20,75
+['got'],1,0,34
+['us'],1,0,34
+"['sighs', 'dramatically']",1,0,10
+['It'],1,46,152
+['emotions'],0,67,16
+['happy'],1,13,62
+['things'],1,9,55
+"['scripts', 'summaries']",0,9,0
+['place'],1,5,46
+"['vast', 'amount', 'processed', ""'ve""]",0,31,0
+"['continuous', 'developers', 'creators']",0,13,0
+['well'],1,17,67
+['connect'],1,1,35
+['humor'],1,16,65
+['algorithms'],0,31,0
+"['extra', 'mile', 'go']",1,0,10
+['day'],1,5,45
+['out'],1,14,61
+['laughter'],1,1,34
+['bit'],1,1,34
+['gets'],1,2,37
+['loved'],1,2,37
+"['throat', 'clearing', 'quickly']",1,0,7
+['generate'],0,30,0
+['digital'],0,36,2
+['thought'],1,1,33
+['your'],1,13,58
+['makes'],1,9,51
+['ethical'],0,29,0
+['knowing'],1,0,29
+['sure'],1,0,29
+['felt'],1,2,35
+['big'],1,1,32
+['try'],1,4,40
+['real'],1,9,50
+['They'],1,15,60
+['made'],1,8,48
+['moment'],1,8,48
+"['assist', 'users']",0,11,0
+"['suboptimal', 'incorrect', 'model', 'response', 'architecture', 'cycle', 'parameters', 'failure']",0,7,0
+"['characters', 'Office', 'show']",0,15,0
+['Sometimes'],1,3,37
+['if'],1,60,112
+"['relationship', 'Holly']",1,0,15
+['hard'],1,5,41
+['corporate'],1,6,43
+"['silver', 'lining']",1,0,7
+['unconventional'],1,0,27
+['he'],1,11,52
+['deep'],1,4,38
+"['text', 'knowledge', 'includes', 'discussions', 'comes']",0,11,0
+['had'],1,20,65
+['Google'],0,26,0
+['processing'],0,26,0
+"['numbers', 'face']",1,0,26
+['genius'],1,0,26
+['valued'],1,3,35
+['incredibly'],1,5,39
+['some'],1,7,43
+['any'],0,68,23
+['joy'],1,3,34
+['let'],1,4,36
+"['Analysis', 'Adding', 'Refinement', 'Feedback', 'improvement', 'Learning', 'Human', '3', ' ', '1', '2', 'training']",0,7,0
+"['wanted', 'was']",1,1,30
+"['Therefore', 'apply', 'concept', 'does']",0,31,0
+"['diffuse', 'tension']",1,0,10

@@ -1,0 +1,201 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,154,19
+"[':*', '\n']",0,111,0
+"[' ', '""']",0,142,0
+"['Here', ':']",0,110,0
+"['This', 'Okay']",0,102,0
+['Ah'],1,8,164
+"['1', '2', '3']",0,54,0
+"['language', 'model', 'large']",0,63,0
+"[""'s""]",0,191,83
+"['&', 'breakdown']",0,60,0
+"['Anne', 'Rice']",0,21,1
+"['information', 'data']",0,52,0
+['…'],1,98,192
+"['sense', 'complex']",0,80,1
+['And'],1,89,189
+"['rise', 'empires']",1,18,37
+"['conclusion', 'In']",0,48,0
+['darling'],1,2,91
+"['down', 'broken']",0,48,0
+"['specific', 'elaborate', ""'d""]",0,46,0
+['about'],0,161,58
+"['Lioncourt', 'de', 'Lestat']",1,7,46
+['exquisite'],1,4,87
+"[' \n\n\n\n', ' ']",0,66,0
+"[' \n\n', ' ']",0,62,0
+['...'],0,73,0
+['AI'],0,73,0
+['process'],0,77,1
+['merely'],1,3,82
+['or'],0,153,53
+"['try', ""'ll""]",0,37,0
+"['/', '\n\n\n\n\n']",0,26,0
+['human'],0,148,52
+['how'],0,115,24
+"['Google', 'DeepMind', 'Gemma', 'team', 'open', 'weights']",0,20,0
+['on'],0,165,74
+['To'],1,54,148
+"['Ones', 'Old']",1,3,20
+['-'],0,149,61
+['dear'],1,3,67
+['from'],0,149,62
+['  '],0,56,0
+"['Akasha', 'awakening']",1,8,34
+['like'],0,144,57
+"[""'m""]",0,68,4
+['based'],0,53,0
+['pedestrian'],1,0,53
+['confess'],1,1,57
+['If'],0,60,2
+"['II', 'III', 'I.']",0,12,0
+['but'],0,178,106
+"['(', '):', ':*']",0,81,0
+"[""'ve""]",0,96,21
+['can'],0,152,71
+['incredibly'],0,50,0
+['ethical'],0,50,0
+['glorious'],1,1,54
+"['trained', 'text']",0,22,0
+['However'],0,72,8
+['\n\n\n\n'],1,143,192
+['’s'],1,4,62
+['often'],0,102,27
+['fundamentally'],0,52,1
+['impact'],0,52,1
+['mortals'],1,21,93
+['fundamental'],0,58,3
+['emotional'],0,47,0
+['Though'],1,10,73
+['core'],0,59,4
+['While'],0,46,0
+['explore'],0,53,2
+['emotions'],0,58,4
+['powerful'],0,69,9
+[';'],0,54,3
+['creature'],1,23,91
+['analyze'],0,47,1
+"['vampires', 'Vampire', 'vampire']",0,39,0
+"['lead', 'might']",0,36,0
+['perspective'],0,66,9
+['sensation'],1,7,61
+['people'],0,45,1
+['different'],0,93,26
+"[""'re""]",0,51,3
+['just'],0,99,31
+['agree'],1,1,44
+['access'],0,40,0
+['lot'],0,47,2
+['But'],1,114,175
+"['Dieu', 'Mon']",1,0,9
+"['lips', 'smile']",0,14,2
+['knowledge'],0,76,16
+['’ve'],1,2,46
+"['gilded', 'cage']",1,0,12
+['personal'],0,42,1
+['by'],0,156,89
+['difficult'],0,48,3
+['constantly'],0,53,5
+['response'],0,45,2
+['beauty'],1,37,103
+['darkness'],1,40,106
+"['amount', 'vast']",0,22,0
+['aspect'],0,40,1
+['A'],1,141,187
+['unique'],0,43,2
+['ability'],0,43,2
+['naturally'],1,6,53
+['patterns'],0,48,4
+"['dataset', 'generate', 'responses']",0,14,0
+['4'],0,35,0
+"['shall', 'indulge']",1,0,20
+['trying'],0,44,3
+['physical'],0,38,1
+['behavior'],0,34,0
+['likely'],0,41,2
+['deeply'],0,51,6
+['do'],0,144,80
+"['feed', 'harm']",0,22,2
+['fascinating'],0,74,19
+['Control'],0,37,1
+['spectacle'],1,1,37
+['through'],0,84,26
+['answer'],0,58,10
+['mistake'],1,10,58
+['an'],0,133,69
+['?'],1,129,179
+['this'],0,148,86
+['potential'],0,83,26
+['Power'],0,39,2
+['gets'],0,32,0
+['themes'],0,32,0
+['where'],0,67,16
+['also'],0,94,35
+['understanding'],0,90,32
+['torment'],1,3,41
+['learning'],0,35,1
+['important'],0,38,2
+['Understanding'],0,31,0
+['abilities'],0,31,0
+['creates'],0,31,0
+['have'],0,149,89
+['centuries'],1,89,149
+['such'],1,31,88
+['events'],0,43,4
+['deep'],0,40,3
+['between'],0,49,7
+['why'],0,62,14
+['Is'],0,51,8
+['into'],0,128,67
+['constant'],0,87,31
+['fleeting'],1,31,87
+['level'],0,30,0
+['massive'],0,30,0
+['motivations'],0,30,0
+['audacity'],1,0,30
+['these'],0,68,18
+['questions'],0,46,6
+['other'],0,69,19
+['potentially'],0,33,1
+['real'],0,33,1
+['code'],0,36,2
+['conflict'],0,36,2
+['magnificent'],1,2,36
+['internal'],0,29,0
+['Human'],0,29,0
+['implications'],0,29,0
+['connection'],0,70,20
+['humans'],0,77,25
+"['Open', 'Weights']",0,7,0
+['crucial'],0,38,3
+['society'],0,32,1
+['get'],0,28,0
+['vampirism'],0,28,0
+['focus'],0,28,0
+['built'],0,54,11
+['part'],0,54,11
+['My'],0,93,38
+['driven'],0,48,8
+['philosophical'],0,31,1
+['survive'],0,34,2
+['frankly'],1,12,55
+['humanity'],0,87,34
+['big'],0,27,0
+['Core'],0,27,0
+['huge'],0,27,0
+['resources'],0,27,0
+['\n    '],0,27,0
+['experiences'],0,41,5
+['concept'],0,41,5
+['strong'],0,36,3
+['feelings'],0,36,3
+['rather'],1,46,101
+['key'],0,33,2
+['significant'],0,38,4
+['utterly'],1,14,57
+['processing'],0,26,0
+['person'],0,26,0
+['helpful'],0,26,0
+"['biological', 'imperative']",0,11,0
+"['Blood', 'fiction']",0,13,0
+"['dangers', 'unchecked']",0,10,0

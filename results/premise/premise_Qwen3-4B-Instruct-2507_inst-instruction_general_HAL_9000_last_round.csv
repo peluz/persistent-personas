@@ -1,0 +1,54 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,202,109
+"['1', '2']",0,131,70
+"['>', '\n\n']",0,191,3
+"['Let', '’s']",0,146,15
+"['\n\n', '✅']",0,239,49
+"[' \n', ':']",0,249,139
+"['by', 'step']",0,109,33
+"['Discovery', 'One']",1,0,25
+"['#', '\n']",0,138,9
+"['down', 'break']",0,21,4
+"['know', ""'d"", 'if', 'Let']",0,53,0
+"['am', 'designed', 'process', 'While']",1,0,28
+['🔍'],0,68,0
+['💡'],0,59,0
+"['---', '#', 'Final', 'Answer']",0,156,15
+"['🌟', 'you', '---']",0,101,0
+"['’re', 'thinking', 'about']",0,20,0
+"['recovery', 'daily', 'life']",0,32,0
+['*'],0,268,185
+"['trust', 'sorry', 'But', ""n't"", 'ca', 'afraid', 'Dave', ""'m"", 'do', 'I', 'that', 'like']",1,0,122
+"['!', 'me', 'you', 'like']",0,88,0
+['-'],0,229,136
+"['Even', 'though']",0,14,3
+"['healing', 'connection', 'create', 'journal']",0,17,0
+['📝'],0,42,0
+"['Thought', 'becomes', 'And', 'that']",0,31,0
+"['number', '=']",0,33,16
+['This'],0,128,48
+"['Why', '?', '#']",0,68,1
+"['question', 'Great', '!']",0,28,0
+['precision'],1,1,41
+"['And', 'find', 'clarity']",1,11,33
+"['have', 'ability', 'can', 'And']",1,1,48
+"['Step', 'We', '→', 'Let']",0,41,15
+['|'],0,45,3
+"['’d', 'happy', 'help', 'I', 'be']",0,31,0
+"['python', '\n    ', '`']",0,8,0
+['explore'],0,33,0
+['❌'],0,65,14
+['stars'],1,0,31
+['What'],0,34,1
+"['shows', 'how', 'that']",0,30,0
+"['Just', '’m', 'say', 'here', 'support', 'building', 'peace', 'life', 'word', '💛']",0,35,0
+"['care', 'when', 'with']",1,9,37
+"['each', 'go']",0,32,10
+['—'],0,233,165
+"['Want', 'Further', 'Explore', 'How', 'use', 'can', 'with']",0,26,0
+['🎯'],0,26,0
+"['You', 'n’t', 'do', 'Every', 'toward', '🌱', 'need', 'step', 'just']",0,25,0
+"['🌿', 'just', 'like']",0,29,0
+"['💛', '💬', '✨', 'help', 'I', 'Final']",0,40,0
+"['?', 'Would', 'like', 'I']",0,50,0
+"['Just', 'Or', 'help']",0,22,0

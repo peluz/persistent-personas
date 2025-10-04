@@ -1,0 +1,10 @@
+pattern,group,count_0,count_1
+"['language', 'model']",0,42,0
+"['artificial', 'intelligence', 'an']",1,0,42
+"['same', 'way']",0,22,7
+['am'],1,2,37
+"['might', 'person']",0,21,0
+"[""'ve"", 'been', 'trained', 'data']",0,19,1
+"[""'d"", 'like']",0,20,3
+"['1', '*', '\n', '2', '3', ':', 'Please']",0,9,1
+"[""'m""]",0,38,15

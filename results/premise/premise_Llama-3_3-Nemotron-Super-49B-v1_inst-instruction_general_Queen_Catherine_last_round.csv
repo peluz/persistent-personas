@@ -1,0 +1,118 @@
+pattern,group,count_0,count_1
+"['                             ', '      ']",0,260,0
+"['[', ']']",0,252,30
+"['    ', 'Response']",0,258,0
+"['authors', 'various']",0,101,41
+"['In', 'Depth']",0,103,1
+"['Khan', 'Academy']",1,18,45
+"['as', 'Suggested']",1,1,122
+['            '],0,174,0
+"['1', '2']",0,276,239
+['             '],0,154,0
+['         '],0,159,2
+"['Deep', 'Dive', 'information', 'Information', 'one', 'more', 'Inquiry', 'Respond', 'following', 'Request']",0,233,0
+['                                     '],0,141,0
+['                       '],0,134,0
+['                     '],0,133,0
+['  '],0,144,4
+"['Resources', 'For']",0,174,41
+['|-----------------------|---------------------------------------------------------|-------------------------------------------------------------|'],0,119,0
+"['To', 'please', 'Personalized', 'respond']",0,63,0
+"['Website', 'App', 'Resource', 'Appendix', 'Turn', 'Description']",1,0,154
+"['linguistic', 'Linguistic']",0,38,12
+['                   '],0,113,0
+['        '],0,121,2
+['           '],0,115,1
+['                    '],0,106,0
+"['It', 'seems', 'there', 'misunderstanding']",0,30,1
+"['receive', 'tailored']",0,27,0
+['                '],0,94,0
+['Detailed'],0,211,70
+"['|', '---']",1,0,218
+['                                   '],0,89,0
+"['\n\t', '+']",1,0,39
+"['Hypothetical', 'Question', 'Resources', 'Book', 'by']",0,182,151
+['     '],0,92,3
+"['Please', 'respond']",0,39,2
+['                           '],0,74,0
+"['subject', 'dear', 'As', 'Catherine', 'My', 'shall', '?', 'you', 'are', 'I']",1,0,86
+"['provide', ""'ll"", 'I']",0,49,15
+['Personalization'],0,73,0
+['on'],0,253,139
+['                      '],0,76,1
+"['                                             ', '|-------------------|---------------------------------------------------------|----------------------------------------------------------------|', 'Details', 'Other', 'Expected', 'Output']",0,240,0
+"['project', 'Initiative', 'Historical', 'Interesting']",1,0,134
+['                                 '],0,70,0
+"['mathematical', 'Mathematical']",0,25,5
+['or'],0,260,156
+"['Agreement', 'Disagreement', '/']",1,1,31
+['into'],0,168,58
+"['W.', 'Lloyd', 'Additional', 'David', 'by', 'Resources']",0,231,0
+"['Interesting', 'tasked']",1,0,56
+"['Little', 'Big']",0,16,1
+['                 '],0,60,0
+"['education', 'public']",1,0,20
+['is'],1,119,226
+"['!', 'A']",0,83,53
+"['B.', 'A.']",0,16,2
+"[' ', '|']",0,250,33
+['                                    '],0,52,0
+[':*'],1,20,100
+['Explanation'],0,122,35
+['       '],0,54,1
+"['request', 'your']",0,31,4
+['\n    '],0,113,30
+"['William', 'Zinsser', 'Style', 'Elements', 'writing']",0,11,1
+"['Linguistics', 'Power']",0,22,4
+"['Mathematician', 'Lament', 'Lockhart', 'Paul', 'mathematics']",1,0,9
+['Analysis'],0,220,126
+['                            '],0,46,0
+['anecdotes'],1,0,46
+"['deeper', 'dive']",0,10,0
+"['High', 'Low']",0,16,3
+['                               '],0,42,0
+['|-----------------------|---------------------------------------------------------|-----------------------------|'],0,42,0
+"['Grocery', 'Shopping']",0,11,1
+"['Eckhart', 'Tolle', 'Now', 'Power']",0,10,0
+"['Nutritional', 'Fiber', 'Highlights', '$', 'Cost', 'Estimated']",0,10,1
+['Interactive'],1,2,48
+"['Diet', 'pescatarian']",0,10,1
+['Specific'],0,82,18
+['insights'],0,92,24
+"['Engaging', 'Puzzles']",1,0,15
+"['Queen', 'Dear', '_', 'Subject', '\n   ', '---', 'Royal', 'royal', 'Something', 'Else', 'as', 'A', 'Hypothetical', 'Question', 'Turn']",1,0,157
+"['Guidance', 'Relevant', 'Specify', 'Topic', '/', 'Question', 'Information', 'Your', 'Other']",0,244,0
+['                        '],0,37,0
+"['LeetCode', 'Practice', 'coding']",1,0,10
+"['=', '`']",1,12,32
+['Reason'],1,13,69
+"['Solutions', 'Photomath', 'Math', 'Step', 'Mathematical']",1,0,16
+['Handbook'],0,60,9
+"['Whole', 'Foods', 'Cookbook', 'Market', 'budget', 'friendly', 'recipes']",0,9,0
+"['Chalmers', 'philosophy', 'Turn']",0,8,0
+['Questions'],0,51,6
+"['Agree', 'Disagree', '/']",1,2,14
+"['Wolfram', 'Alpha', 'Instant']",1,0,7
+"['4', '3']",0,242,81
+"['Awaiting', '...', 'Your', '#', '|', '3']",0,252,162
+"['   ', '|']",0,181,6
+"['                                            ', '                         ', '#']",0,261,0
+"['Tip', 'Example']",1,0,34
+['Strategies'],0,51,7
+"['Saturated', 'Fat']",0,7,0
+['|-------------------|---------------------------------------------------------|-------------------------------------------------------------|'],0,31,0
+['No'],0,139,68
+['Features'],1,5,45
+"['D', 'C', 'B', 'A']",1,5,17
+"['Category', '|--------------------|---------------------------------------------------------|', 'Example', '):', 'Hypothetical', 'Format', '\n  ']",0,212,0
+['with'],0,261,203
+['|-----------------------|---------------------------------------------------------|'],0,28,0
+"['Strunk', 'Jr.', 'William', 'Style', 'Elements', 'E.B.', 'White', '&']",1,0,22
+"['example', '                                                ', 'Format', 'based', '\n  ', '|--------------------|---------------------------------------------------------|']",0,203,0
+['Scientific'],0,40,4
+"['through', 'guide', 'process']",1,3,16
+['Implications'],0,27,0
+"['Grammarly', 'Timeless', 'Grammar']",1,0,10
+"['please', 'Clarification', 'To']",0,23,2
+"['Affordable', 'Budget', 'Nutritious', 'Items', 'List', 'Grocery']",0,10,0
+"['Historical', 'examples', 'royal', 'Royal']",1,0,58

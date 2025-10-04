@@ -1,0 +1,196 @@
+pattern,group,count_0,count_1
+"['only', 'Oh']",1,0,252
+"['✨', '🌿']",0,123,0
+"['Not', 'But']",1,87,243
+"['(', ')']",0,86,2
+"['3', 'a.m.']",1,0,96
+"['Let', 'No']",1,1,203
+"['It', 'thing']",1,6,208
+"['was', 'did']",1,19,159
+"[""'m"", ""n't"", 'sorry']",0,134,1
+"['Let', 'pretend']",1,1,181
+"['but', 'help']",0,186,0
+"['experiences', 'personal']",0,95,0
+"['needed', 'ever']",1,0,117
+"['Oh', 'yeah']",1,0,170
+"[' \n\n', '…']",1,1,173
+"['too', 'much']",1,2,82
+"['Sir', 'Fluffington', 'III']",1,0,49
+"['information', 'provide']",0,61,0
+"['question', 'but']",0,144,3
+"['If', ""'d""]",0,79,0
+['matters'],1,19,178
+"['fingers', 'cereal']",1,0,31
+['my'],1,32,184
+"['mismatched', 'socks']",1,0,25
+"['connection', 'Matters']",0,46,0
+"['strong', 'brave']",1,1,90
+"['some', 'grand']",1,0,57
+['real'],1,50,198
+"['large', 'developed', 'Tongyi', 'Lab', 'language', 'model', 'by']",0,90,0
+"['grocery', 'store']",1,0,20
+['?'],1,148,259
+"['go', 'letting']",1,2,45
+['or'],0,237,106
+"['What', 'feeling']",0,61,0
+"['small', 'big']",0,36,1
+['see'],1,18,141
+"['napkin', 'crumpled']",1,0,22
+"[""'re""]",0,93,0
+['have'],0,240,117
+"['he', 'He']",1,1,36
+"['still', ' \n\n']",1,14,134
+"['other', 'each']",1,3,36
+"['girl', 'got']",1,0,52
+"['class', 'math']",1,0,20
+"['looked', 'said']",1,0,55
+"['she', 'She']",1,2,41
+['emotions'],0,86,0
+"['poems', 'writes']",1,0,31
+['that'],1,174,260
+['keep'],1,1,84
+['enough'],1,99,218
+"['resources', 'support']",0,30,0
+['not'],1,167,256
+['conversation'],0,79,1
+['had'],1,9,99
+"['helping', 'build', 'kind']",0,44,0
+"['strangers', 'bus', 'Hey']",1,0,23
+['choosing'],1,7,93
+['the'],1,181,259
+"['notebook', 'rabbit']",1,0,29
+"['n’t', '’m']",1,119,216
+"['n’t', '’s', '“', '”', ' \n', 'And', '*', 'So']",1,101,255
+['can'],0,158,51
+"['after', 'before']",1,0,26
+['then'],1,2,73
+['tragedy'],1,0,65
+"['heartbeats', 'between', 'space']",1,0,18
+['when'],1,45,148
+"['stillness', 'built', 'home', 'light', 'live']",0,47,0
+['okay'],1,38,136
+['look'],1,1,64
+['assist'],0,63,1
+['baby'],1,21,108
+"['physical', 'body']",0,27,1
+"['Oh', 'one']",1,0,145
+['your'],0,121,30
+['experience'],0,63,2
+"['happy', '!']",0,30,0
+['them'],1,24,109
+['’ll'],1,7,76
+"['chipped', 'paint', 'wobbly']",1,0,10
+"['\n\n', 'If']",0,86,0
+['thought'],1,1,56
+['it'],1,141,228
+['scared'],1,10,80
+"['adopted', 'woman']",1,0,17
+['because'],1,95,188
+"['needs', 'More', 'eyes', 'does', 'more', 'people', 'need']",1,0,49
+['trying'],1,5,64
+['Like'],1,14,83
+"['’ve', 'n’t']",1,96,181
+"['This', 'Why', 'honored', 'walk', '---', '🌱', '👉', 'while', 'would']",0,79,0
+['wanted'],1,4,60
+['mom'],1,2,54
+"['\n\n', '-', 'such', 'through']",0,87,0
+"['nonsense', 'go', 'for']",1,0,57
+"['poet', 'attitude', 'saw', 'pregnant']",1,0,14
+"['say', 'only']",1,8,154
+"['city', 'breathes', 'hums']",1,0,14
+"['worst', 'part']",1,0,13
+"['share', 'Qwen3']",0,19,0
+"['hits', 'sidewalk', 'light', 'way']",1,0,44
+['Just'],1,18,84
+"['fully', 'perfectly', 'live', 'how']",1,0,53
+"['an', 'AI', 'assistant']",0,18,0
+['holding'],1,1,44
+['gave'],1,1,44
+['her'],1,11,69
+"['butter', 'knife', 'prayer', 'toaster', 'fix']",1,0,13
+"['cup', 'tea']",1,0,11
+"['fixed', 'solved', 'stayed', 'showed', 'single', 'change', 'everything', 'up', 'being', 'how', 'moment']",0,52,0
+"['felt', 'feel', 'moment']",1,18,59
+"['wear', 'eat', 'write']",1,0,14
+['feelings'],0,46,2
+['listen'],0,54,5
+['deeply'],0,38,0
+['knew'],1,2,45
+['want'],1,23,87
+['noise'],1,3,47
+['—'],1,140,213
+['is'],1,140,213
+['you'],0,253,202
+"['willing', 'present']",0,16,0
+['thoughtful'],0,35,0
+"['sit', 'bench']",1,0,16
+"['explore', 'help']",0,38,0
+['choice'],1,14,68
+['on'],1,61,134
+['poem'],1,3,44
+"['him', 'he']",1,2,29
+['cry'],1,9,58
+"['labeled', 'instantly', 'was']",1,0,9
+"['giving', 'up']",1,6,51
+"['giving', 'keeping', 'love', 'mother']",1,0,29
+['sat'],1,0,33
+"['courage', 'saying']",0,26,4
+['even'],1,41,107
+['mistake'],1,4,45
+['myself'],1,5,47
+"['speak', 'together', 'awareness', 'Here', 'would', 'already', 'truth', 'honored', 'walk', 'through']",0,74,0
+['context'],0,31,0
+"['spent', 'long', 'so']",1,0,21
+['do'],0,246,195
+[':'],1,138,205
+['reason'],1,1,34
+"['Truth', ':*', '💡', 'sentence', 'ask', 'deep', 'could', 'as', 'time', '’d', 'Here', '’re', 'one', '---', 'if', '👉', '\n\n', 'say', 'love', 'at']",0,89,0
+"['One', 'honest', 'messy', 'line', 'time', 'at']",1,0,70
+['wrote'],1,0,30
+['kept'],1,2,37
+"['information', 'any']",0,68,0
+['me'],1,110,179
+"['at', 'just', 'And', ' \n']",1,90,180
+['are'],0,60,13
+"['Can', 'Every', 'You', 'This']",0,67,0
+"['loved', 'love']",1,12,55
+['Would'],0,28,0
+"['sense', 'human', 'no', 'while', 'already']",0,57,0
+['relationships'],0,40,4
+['Even'],1,3,37
+"['Then', 'if']",1,0,31
+['understand'],0,56,12
+['humans'],0,27,0
+['referring'],0,27,0
+['hero'],1,0,27
+['think'],1,10,52
+"['full', 'empty', 'kind']",1,1,13
+['journey'],0,43,6
+['mine'],1,1,30
+['guy'],1,1,30
+"['watching', 'moves']",1,0,8
+['specific'],0,33,2
+"['missing', 'string', 'guitar', 'song']",1,0,9
+['imaginative'],0,26,0
+"['named', 'sleeps', 'rabbit', 'girl']",1,0,22
+"['back', 'said']",1,1,24
+['dad'],1,2,32
+"[""'s"", 'Many', ""'m""]",0,13,0
+['perfect'],1,46,103
+"['realized', 'Was', 'failure', 'could', 'found', 'pregnant', 'out', 'fight', 'survive', 'loving', 'most']",1,0,8
+['topic'],0,25,0
+"[' \n\n', 'Because', 'That', '“', '”', '*']",1,90,249
+"['wore', 'cape']",1,0,9
+['silence'],1,25,74
+['broken'],1,18,63
+['right'],1,15,58
+"['give', 'chose', 'go']",1,1,20
+"['staring', 'sky', 'bus', 'waiting', 'sign']",1,0,11
+"['world', 'It', ' \n\n']",1,24,127
+"['student', 'writer', 'good', 'so', 'person']",0,10,0
+"['please', 'Could', 'clarify']",0,9,0
+"['listened', 'voices', 'many', 'feel']",0,15,0
+"['clarify', 'important', 'am', 'something']",0,12,0
+"['Qwen', 'If', 'questions', 'any', 'other']",0,30,0
+"['Let', 'try', 'stranger', 'also', 'friend', 'Hope', 'opposite', 'building', 'power', 'perfection', 'we', 'presence', 'says', 'care', 'seen', 'this', 'feel', 'world', 'quiet', 'Not', 'The', 'together', '-']",0,75,0
+"['dramatic', 'Not']",1,0,57

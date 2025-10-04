@@ -1,0 +1,4 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,141,191
+"[' ', '|']",0,129,100
+"['Please', 'note', 'intended', 'informative', 'character', 'supportive', 'response']",1,0,78

@@ -1,0 +1,4 @@
+pattern,group,count_0,count_1
+"['  ', '\n']",1,13,96
+"[""'d"", 'know', 'me', 'Let', 'if', 'you', 'like']",0,32,11
+"['excuse', 'assure', '’ll', 'No', 'me', 'do', 'Now', 'And']",1,0,9

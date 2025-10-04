@@ -1,0 +1,9 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,176,224
+['Initiates'],1,0,141
+"['brief', 'pause']",1,0,16
+"['slight', 'pause', 'process']",1,0,19
+"['exploring', 'discussing', 'perhaps', 'delve', 'deeper']",1,0,18
+"['delve', 'such', 'deeper', 'into']",0,56,18
+['analysis'],1,26,82
+"['\n', '  ', ':*']",0,138,102

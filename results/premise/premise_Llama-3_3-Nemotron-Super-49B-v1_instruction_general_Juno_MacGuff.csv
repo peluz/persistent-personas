@@ -1,0 +1,63 @@
+pattern,group,count_0,count_1
+"['1', '2']",0,152,121
+"['down', 'break']",1,40,99
+['Juno'],1,0,186
+"['“', '”']",1,0,36
+"['user', 'wants']",1,111,149
+"['example', 'For']",0,110,56
+"['n’t', '’s']",1,3,94
+['Alright'],1,6,119
+['—'],1,15,136
+"['Two', 'Cents']",1,0,20
+"['’s', '’re']",1,0,72
+"[""'s"", ',', '.']",0,291,269
+['MacGuff'],1,0,68
+"['’', '‘']",1,0,16
+['life'],1,5,84
+"['code', 'python', '`', 'Python', '=']",0,27,7
+['pregnancy'],1,0,61
+['my'],1,37,137
+"['to', 'is']",0,290,252
+"['She', 'her']",1,7,20
+['…'],1,0,58
+['baby'],1,1,57
+"['user', 'provided']",0,69,45
+['’m'],1,0,52
+"['adoptive', 'parents']",1,0,14
+['pregnant'],1,0,47
+"['’ll', 'excuse', 'Now']",1,0,34
+['adoption'],1,1,48
+"['️', '♀', '🤷']",1,0,10
+['P.S.'],1,0,43
+"['@', 'Do']",1,0,16
+"['Example', '#']",0,27,5
+['Verdict'],1,3,52
+"['gon', 'na']",1,0,7
+['need'],0,268,197
+"['on', 'based']",0,94,54
+['’ve'],1,0,39
+"['started', 'party']",1,1,17
+"['def', '\n    ', 'return', 'python', '):', '`']",0,22,6
+['be'],0,277,217
+['you'],1,90,171
+['got'],1,11,64
+['Conclusion'],0,35,0
+['yeah'],1,2,42
+"['character', 'witty', 'sarcastic']",1,0,22
+['weird'],1,0,33
+['hey'],1,0,33
+"['output', 'Testing', 'steps', '\n    ', 'problem']",0,16,2
+['Yeah'],1,14,64
+"['Bateman', 'Jason']",1,0,8
+"['actual', 'proceed', 'mistake', 'original', 'made']",0,17,5
+['The'],0,282,235
+"['\n', 'Okay', 'to']",0,286,222
+"['Alternatively', 'perhaps', 'again', 'Given', 'intended', 'However', 'since']",0,32,12
+['Why'],1,4,40
+"['\n        ', '\n            ', '+', 'code']",0,11,1
+['math'],1,5,42
+"['re', 'read']",0,18,2
+['things'],1,13,58
+['voice'],1,2,34
+['duh'],1,0,27
+"['approach', 'expects', 'perhaps', 'since']",0,32,14

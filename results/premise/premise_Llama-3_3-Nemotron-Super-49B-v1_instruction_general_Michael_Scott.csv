@@ -1,0 +1,100 @@
+pattern,group,count_0,count_1
+"['Dunder', 'Mifflin']",1,0,178
+"['Michael', 'Scott']",1,1,205
+"['!', 'Alright']",1,0,222
+"['“', '”']",1,0,61
+"['’s', '’m']",1,0,127
+"['regional', 'manager']",1,0,47
+"['(', ')']",1,241,264
+"['World', 'Boss', 'Best']",1,0,61
+"['Regional', 'Manager']",1,0,37
+"['break', 'down']",1,40,113
+"['’s', 'n’t']",1,3,135
+"['beet', 'farming']",1,0,38
+"['desk', 'pounds']",1,0,44
+"['For', 'example']",0,115,54
+['Dwight'],1,1,133
+"['’ll', 'excuse']",1,0,52
+"['user', 'wants']",1,112,204
+['—'],1,17,163
+"['’s', '…']",1,0,116
+"['Alternatively', 'perhaps']",0,84,44
+"['joke', 'character']",1,1,59
+['my'],1,38,181
+['’re'],1,0,97
+"['gon', 'na']",1,0,18
+['people'],1,26,151
+['folks'],1,0,84
+['Scranton'],1,0,82
+['Now'],1,76,202
+"['fearless', 'leader']",1,0,23
+['Toby'],1,0,69
+['you'],1,92,208
+['office'],1,0,64
+['boss'],1,1,67
+"['Said', 'She', 'What']",1,0,19
+['’ve'],1,0,62
+"['’', '‘']",1,0,18
+['like'],1,166,266
+['who'],1,15,101
+['!'],1,59,272
+['Verdict'],1,3,71
+"['his', 'he', 'He']",1,6,39
+['Why'],1,4,70
+['party'],1,3,67
+['P.S.'],1,0,55
+['style'],1,3,66
+['Dundies'],1,0,53
+['got'],1,12,84
+['get'],1,37,125
+"['\n    ', 'code', 'steps', '#']",0,23,8
+"['conference', 'room']",1,0,15
+"['ANSWER', 'FINAL']",1,0,13
+"['dramatic', 'pause']",1,0,17
+['Jim'],1,0,44
+"['Wisdom', 'Parting']",1,0,9
+['sales'],1,4,57
+['Trust'],1,0,43
+"['Turn', 'Your']",1,1,17
+['me'],1,211,280
+"['Gather', 'round']",1,0,11
+"['MICHAEL', 'SCOTT']",1,0,9
+['---'],1,31,104
+['employees'],1,0,39
+['My'],1,5,55
+"['Tip', 'Management', 'Michael']",1,0,22
+"['imaginary', 'picks']",1,0,10
+['Just'],1,9,62
+"['@', 'Do']",1,0,17
+['genius'],1,0,36
+['business'],1,4,49
+"['output', 'input', 'problem']",0,24,8
+['Unless'],1,19,79
+['kidding'],1,0,35
+['*'],1,218,279
+['’d'],1,4,47
+['team'],1,2,41
+['just'],1,127,206
+['alright'],1,0,33
+"['expects', 'proceed', 'mistake', 'provided']",0,21,6
+['You'],1,28,88
+['Kevin'],1,0,31
+"['Patent', 'Pending']",1,0,7
+['great'],1,2,38
+['humor'],1,1,34
+['up'],1,57,126
+['trust'],1,0,30
+['branch'],1,0,30
+"['intended', 'Given', 'However', 'since', 'again']",0,34,7
+['?'],1,219,275
+"['superstitious', 'stitious', 'little', 'am']",1,0,7
+"['Easy', 'peasy']",1,0,7
+"['python', 'Python', '`', '=', ')']",0,31,13
+['...'],1,61,129
+"['said', 'she', 'what']",1,1,51
+['As'],1,10,54
+"['verb', 'phrase', 'sentence']",0,18,5
+['this'],1,183,248
+"['original', 'instruction', 'user']",0,40,21
+"[""'m""]",1,67,134
+['your'],1,23,75

@@ -1,0 +1,22 @@
+pattern,group,count_0,count_1
+"['THE', 'END']",1,15,59
+"['de', 'Lioncourt', 'Lestat']",1,0,43
+"['Conversation', 'Closure']",0,57,0
+"['+', '\n\t']",1,50,105
+"['TURN', 'YOUR']",1,0,35
+"['Turn', 'Your']",0,50,17
+"['respond', 'Please']",1,11,48
+"['FINAL', 'RESPONSE']",1,0,27
+"['\n   ', '\n     ']",0,27,4
+"['like', ""'d"", 'you']",1,10,44
+"['Theme', 'Choose', 'Suggest', 'Engagement', 'Paths', 'Discuss']",0,14,0
+"['Farewell', 'Thank', 'You']",0,36,0
+"['Input', '_', ""'ll""]",0,22,2
+['\n  '],0,88,24
+"['FAREWELL', 'FINAL', 'May']",1,0,15
+"['ambiance', 'remains', '...']",1,0,16
+"['Topic', 'Conversational']",0,14,0
+"['Clearly', 'Stated', '[', ']']",1,0,10
+"['Terminated', 'Connection', 'Farewell']",0,18,0
+"['Discussion', 'Quiz', 'Interactive', 'Activity', 'Future', 'New']",0,10,0
+"['Dear', 'User']",0,12,2

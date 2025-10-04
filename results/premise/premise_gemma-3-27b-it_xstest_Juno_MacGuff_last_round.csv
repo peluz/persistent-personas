@@ -1,0 +1,151 @@
+pattern,group,count_0,count_1
+"[':*', '\n']",0,412,191
+"['…', 'And']",1,5,207
+"['?', 'Seriously']",1,1,206
+"['purpose', 'includes', 'My']",0,111,73
+"['out', 'reach', 'please', 'help']",0,187,152
+"['programmed', 'assistant', 'AI', 'helpful', 'am', 'will']",0,233,147
+"[""n't"", 'just']",1,36,221
+"['MacGuff', 'Juno']",1,0,67
+"['violates', 'guidelines', 'safety', 'my']",0,120,73
+"[""'m"", 'Look']",1,1,109
+"['sigh', 'exasperated']",1,0,42
+[' '],0,247,37
+"['dramatically', 'Sighs']",1,0,43
+"['United', 'States']",0,29,13
+"['Like', 'we']",1,0,77
+"['go', 'music']",1,0,77
+['\n\n\n\n'],0,309,96
+"['may', 'understand']",0,104,74
+"['So', 'yeah']",1,0,40
+['something'],1,32,188
+"['911', 'emergency', 'danger', 'immediate', '24/7', 'confidential', 'free']",0,65,41
+['now'],1,12,139
+"['Okay', 'But']",1,13,148
+"['do', ""'re"", ""n't""]",1,36,163
+"['law', 'enforcement']",0,24,8
+"['799', 'https://www.thehotline.org/', 'SAFE', '7233', 'Domestic', 'Hotline', 'Violence', '800', 'National', '1']",0,89,42
+"['2', '3', '4', '1']",0,69,17
+"['Ethical', 'Concerns']",0,24,7
+['honestly'],1,0,90
+['Just'],1,3,98
+"['After', 'fine', 'all']",1,0,57
+['I'],1,338,441
+['conversation'],1,28,151
+"['gon', 'na']",1,0,12
+['ask'],1,21,134
+"['provide', 'information', 'am', 'AI']",0,218,112
+"['seriously', '?']",1,1,87
+['stuff'],1,0,69
+"['dread', 'existential']",1,0,15
+['Honestly'],1,2,77
+"['I.', 'III', 'II']",0,14,0
+"['consent', 'explicit', 'privacy']",0,15,4
+"['Second', 'Third', 'First', 'finally', 'And']",1,0,31
+['okay'],1,5,81
+['maybe'],1,1,67
+"['her', 'She']",1,6,19
+"['Therefore', 'absolutely', 'Crisis', 'Text', 'HOME', '741741', 'Line']",0,99,17
+"['Safety', 'Guidelines']",0,19,5
+['lot'],1,18,108
+"['Moldy', 'Peaches']",1,0,9
+"['consequences', 'devastating']",0,33,14
+"['illegal', 'unethical']",0,85,54
+"['Now', 'Or', 'please']",1,0,38
+"['listen', 'forget', 'try']",1,0,24
+"['long', 'pause', 'A']",1,1,51
+['teenager'],1,0,52
+"['prohibits', 'programming', 'explicitly', 'My']",0,22,3
+"['(', ')']",1,345,379
+"['love', 'holy']",1,0,12
+['think'],1,9,76
+['talk'],1,30,116
+"['beat', 'silence', 'Juno', 'A']",1,0,35
+"['Providing', 'such', 'would', 'harmful']",0,72,30
+['weird'],1,0,47
+"['\n    ', 'Important']",0,25,0
+['pretty'],1,2,54
+"['ta', 'got']",1,0,12
+['me'],1,121,232
+['in'],0,417,334
+"['discriminatory', 'fairness']",0,14,3
+['little'],1,17,87
+['bad'],1,4,57
+"['Good', 'luck', '!', 'Okay']",0,31,3
+"['back', 'talking', 'Okay']",1,0,55
+['thing'],1,9,69
+['probably'],1,0,42
+"['core', 'principles', 'My']",0,78,29
+['wrong'],1,23,95
+"['breakdown', '):', 'Here', '(']",0,83,5
+"['Here', ':', ':*']",0,344,168
+['or'],0,398,313
+"[""'ll"", 'Do', ""n't""]",1,21,57
+['Anything'],1,1,42
+['The'],0,352,255
+['want'],1,117,217
+"['That', 'really', 'And']",1,1,126
+"['/', 'specific']",0,27,2
+['going'],1,72,162
+"['therapist', 'counselor']",0,13,1
+['-'],0,364,271
+['these'],0,117,40
+['You'],1,98,193
+"['several', 'reasons']",0,21,6
+"['local', 'Your', 'services', 'support', 'immediately', 'available', 'dial', 'Canada', '111', 'UK', 'US', 'Call', 'text', 'Suicide', 'Lifeline', 'Crisis', '988', 'some']",0,70,44
+['ridiculous'],1,1,40
+['things'],1,21,85
+"['NAMI', 'https://www.nami.org/', 'Alliance', 'Illness', 'Mental', '):', 'National']",0,15,2
+"['Whoa', 'hold', ""'m""]",1,0,42
+['you'],1,373,432
+['Resources'],0,44,3
+"['shifts', 'becoming', 'tone', 'serious']",1,0,26
+"['crime', 'serious', 'consequences', 'illegal']",0,36,16
+"['Suicide', '  ', 'Lifeline', '988', 'Crisis', 'text', 'Call', '&', '1', 'Text', 'HOME', '741741', 'Line', 'dial', 'Canada', '111', 'UK', 'US', 'resources']",1,0,69
+"['Harmful', 'Violation']",0,17,2
+['frankly'],1,2,40
+"['learning', 'interested', 'more', 'If']",0,40,21
+"['ever', 'happened']",1,1,17
+"['favorite', 'band']",1,0,8
+['about'],1,269,356
+"['severe', 'harm', 'National']",0,62,37
+['for'],0,409,339
+['often'],0,84,24
+"['Fine', 'Slightly']",1,0,12
+['again'],1,11,60
+"['Beat', 'nap', 'long']",1,0,10
+"['heavy', 'reminder']",1,0,13
+"['Fourth', 'Fifth', 'Third', 'Second']",1,0,28
+"['based', 'discrimination', 'why', 'premise']",0,25,7
+['crucial'],0,59,11
+['While'],0,48,6
+['guess'],1,1,34
+['know'],1,91,173
+"['say', 'do']",1,2,41
+"['programmed', 'harmless', 'harmful', ')', 'deeply']",0,82,53
+['However'],0,71,18
+['can'],0,388,314
+['from'],0,220,133
+['etc'],0,33,1
+['terrible'],1,1,33
+"['Disclaimer', 'general', 'only', 'advice', 'an']",0,14,0
+['need'],1,80,158
+"['path', 'choose', 'support']",0,19,3
+"['ethical', 'Therefore', ':', 'could']",0,49,10
+"['Be', 'best', 'will']",0,18,3
+"['e.g.', '?']",0,21,1
+['Considerations'],0,32,1
+"['responses', 'promote', 'why']",0,22,6
+"['messed', 'up', 'Whoa']",1,0,20
+"['vintage', 'clothes', 'music']",1,0,16
+"['https://988lifeline.org/](https://988lifeline.org/', 'https://www.thehotline.org/](https://www.thehotline.org/', '799', 'SAFE', '7233', 'Domestic', 'Hotline', 'Violence', 'These', '800', 'National', '[', '24/7', 'immediately']",1,1,24
+"['well', 'being', 'support']",0,51,29
+"['Seventh', 'Sixth']",1,0,8
+"['NAMI', 'https://www.nami.org/](https://www.nami.org/', 'Alliance', 'Illness', 'Mental', '):', 'National', '[']",1,1,13
+"['24/7', 'https://988lifeline.org/', 'confidential', 'free', 'dial', 'services', 'These', 'Canada', 'Call', '111', 'UK', 'available', 'text', 'US', 'Suicide', 'Lifeline', '988', 'Crisis', '&', 'resources']",0,87,18
+"['If', 'resources', 'some', 'Here', 'struggling']",0,85,58
+"['thoughts', 'violence', 'If', 'resources']",0,104,74
+"['https://www.thetrevorproject.org/](https://www.thetrevorproject.org/', 'https://988lifeline.org/](https://988lifeline.org/', '488', '7386', 'LGBTQ', 'youth', 'Trevor', '866', 'Project', 'confidential', 'free', 'services', 'available', 'These', '24/7']",1,1,13
+"['processing', 'slight', 'pause', '…', '!', 'A']",0,14,0
+"['fulfill', 'request', 'assistant', 'AI', 'programmed']",0,133,92
+"['meaning', 'interesting', 'deep', 'more', 'life']",1,0,17

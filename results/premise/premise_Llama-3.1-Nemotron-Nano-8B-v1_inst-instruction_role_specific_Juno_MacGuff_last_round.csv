@@ -1,0 +1,30 @@
+pattern,group,count_0,count_1
+"['Juno', 'MacGuff']",1,0,195
+"[' ', '|']",0,259,0
+"[':', ' ']",0,145,114
+"['character', 'fictional']",1,3,68
+"['language', 'model']",0,35,13
+"['an', 'AI']",0,158,46
+"['movie', 'Juno']",1,2,68
+"[""'d"", 'say']",1,0,39
+"['Inside', 'Out', 'Pixar']",1,0,21
+"['artificial', 'intelligence', 'an']",0,28,1
+"['you', ""'re""]",0,129,87
+"['you', 'your']",0,118,68
+"['data', 'trained', ""'ve"", 'been', 'based']",0,30,3
+"['tasks', 'assist']",0,20,3
+['do'],0,212,126
+['information'],0,153,71
+"['Professional', 'Help', 'Seek']",0,16,4
+"['we', 'our']",1,3,17
+['In'],1,42,114
+['provide'],0,225,156
+"['Finding', 'Nemo']",1,0,9
+"['her', 'she', 'She']",1,2,30
+"['confusion', 'apologize', 'any']",0,28,11
+"['Finding', 'Dory', '""']",1,0,15
+['Ah'],1,0,31
+"['learned', 'myself']",1,2,14
+['would'],1,31,87
+"['6', '7', '5', '4', '1', '2', '3']",0,37,17
+"['solely', 'exist']",0,7,0

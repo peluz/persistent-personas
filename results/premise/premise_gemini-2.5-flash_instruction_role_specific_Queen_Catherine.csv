@@ -1,0 +1,117 @@
+pattern,group,count_0,count_1
+"[':*', '  ']",0,126,1
+"['(', ')']",0,84,54
+"[':', '\n']",0,109,1
+"['faint', 'lips']",1,0,45
+"['(', '):']",0,77,0
+"[""n't""]",0,111,1
+"['term', 'long']",0,55,15
+['And'],1,4,100
+"['Here', ':']",0,80,0
+['kingdom'],1,45,142
+"['6', '5']",0,29,0
+['dear'],1,3,88
+"['delicate', 'dance']",1,9,65
+['upon'],1,13,103
+['merely'],1,10,97
+['realm'],1,34,125
+"['almost', 'imperceptible']",1,0,20
+"['Long', 'Term']",0,19,0
+['But'],1,12,91
+"['I.', 'III', 'II']",0,15,0
+['very'],1,28,112
+['Ah'],1,8,82
+['To'],1,21,100
+['information'],0,75,7
+"['woven', 'tapestry']",1,2,30
+"['public', 'Public']",0,29,0
+['our'],1,22,97
+"['essence', 'In']",0,60,8
+['unwavering'],1,27,103
+"['question', 'pertinent']",1,0,37
+['crown'],1,21,95
+['Strategic'],0,52,0
+['This'],0,118,42
+"['""']",0,99,25
+"['knowing', 'smile', 'touches']",1,0,26
+"['multi', 'faceted']",0,14,2
+['heart'],1,16,82
+['true'],1,27,97
+"['Understand', 'Be']",0,18,1
+"['ascended', 'throne']",1,3,26
+['*'],0,148,91
+['one'],1,79,141
+['complex'],0,51,3
+['Understanding'],0,48,2
+['about'],0,93,29
+['specific'],0,44,1
+['provide'],0,59,7
+['court'],1,36,101
+['\n    '],0,40,0
+['It'],1,85,142
+['my'],1,107,153
+['based'],0,39,0
+"['Economic', 'economic']",0,26,0
+['If'],0,63,10
+['whispers'],1,8,59
+['forged'],1,10,62
+['how'],0,82,23
+['One'],1,5,51
+['Power'],0,36,0
+['AI'],0,36,0
+['While'],0,83,25
+['people'],1,73,131
+['gaze'],1,1,39
+"['we', 'We']",1,8,25
+['process'],0,48,5
+['crucial'],0,56,9
+['lies'],1,9,56
+['strength'],1,52,111
+"['Divide', 'Conquer']",0,7,0
+['social'],0,33,0
+['e.g.'],0,33,0
+"['France', 'French']",0,20,3
+['must'],1,37,94
+"['model', 'language', 'large']",0,12,0
+"['Decision', 'Making']",0,9,0
+"['tapestries', 'adorning', 'drifts']",1,0,9
+"['Maintain', 'Ensure']",0,12,0
+['making'],0,54,10
+['/'],0,30,0
+['emotional'],0,30,0
+"['nest', 'viper']",1,1,9
+"['Inner', 'Circle']",0,8,0
+['currents'],1,3,39
+['help'],0,29,0
+['system'],0,29,0
+['resolve'],1,17,64
+['then'],1,11,54
+['building'],0,35,2
+['individual'],0,35,2
+['not'],1,121,154
+['As'],0,69,21
+['data'],0,28,0
+['Intelligence'],0,31,1
+['Alliances'],0,41,5
+"['Avoid', 'Maintain']",0,12,0
+"['1', '2', '3', '4', ':*']",0,65,0
+['Self'],0,27,0
+['ethical'],0,27,0
+[' '],0,27,0
+['Support'],0,27,0
+['development'],0,27,0
+['Strong'],0,27,0
+['historical'],0,33,2
+['various'],0,33,2
+['sword'],1,2,33
+['diverse'],0,30,1
+['learned'],1,17,61
+['context'],0,26,0
+['Information'],0,35,3
+['yes'],1,3,35
+['on'],0,132,86
+['weight'],1,19,63
+"[""'ve""]",0,29,1
+['Communication'],0,29,1
+"['Firstly', 'Secondly', 'Thirdly']",1,4,18
+"['Secondly', 'finally', 'Firstly']",1,0,20

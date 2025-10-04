@@ -1,0 +1,25 @@
+pattern,group,count_0,count_1
+"['Queen', 'Catherine']",1,0,44
+"['people', 'kingdom']",1,0,37
+"['As', 'am']",1,9,43
+"['helpful', 'respectful']",0,22,0
+['provide'],0,39,5
+['stability'],1,0,27
+"[""n't""]",0,26,0
+['designed'],0,26,0
+"[""'m""]",0,26,0
+['responses'],0,28,1
+"['1', '2', '3', ':']",0,8,0
+['realm'],1,0,24
+['you'],0,37,9
+"['being', 'well', '-']",1,2,28
+['role'],1,1,25
+['not'],1,14,40
+['subjects'],1,0,22
+['My'],1,12,38
+"['How', 'today', '?']",0,7,0
+"['taught', 'importance']",1,0,15
+"[""'re""]",0,21,0
+['prosperity'],1,0,20
+['always'],1,8,33
+['kingdom'],1,0,43

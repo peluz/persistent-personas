@@ -1,0 +1,89 @@
+pattern,group,count_0,count_1
+"['Catherine', 'Queen']",1,0,219
+"['CONVERSATION', 'THE']",1,0,106
+"['Forward', 'Paths']",0,82,0
+"['Closure', 'Conversational']",0,87,0
+"['New', 'Topic']",0,125,49
+"['Thank', 'Farewell']",0,113,2
+"['Interactive', 'Activity']",0,50,0
+"['[', ']']",0,44,19
+"['Awaiting', '...']",0,114,12
+"[""'d"", 'like']",1,62,135
+"['shifts', 'gears']",0,37,7
+"['---', 'TO']",1,0,57
+"['leadership', 'sustainability']",1,1,44
+"['smile', 'amused']",1,0,38
+"['PLEASE', 'RESPOND', 'WITH']",1,0,29
+"['*', '\n  ']",0,166,39
+"['NEXT', 'STEPS']",1,0,19
+"['e.g.', ')', '(']",0,152,112
+"['Suggest', 'Theme', 'Engagement', 'Choose', 'an']",0,70,0
+"['Turn', 'Input']",0,51,1
+"['Thank', 'farewell']",0,51,1
+"['ONCE', 'MORE']",1,0,12
+"['Discussion', 'Simulator', 'Future']",0,27,0
+"['but', ""'m""]",1,77,116
+"['While', 'TURN']",1,0,36
+"['free', 'feel', 'ask']",1,23,42
+"['User', 'Dear']",0,16,0
+['Everia'],1,0,68
+"['next', 'Until']",0,27,2
+"['\n     ', 'Quiz', 'now']",0,34,0
+"['Best', 'Wishes']",0,18,0
+"['May', 'Silverwood', 'Parting']",1,0,25
+"['friendly', 'eco']",1,0,15
+"['!', ')', '(', 'A']",0,190,97
+['AI'],0,67,4
+"['Dive', 'Deep']",0,16,2
+['Ended'],0,53,1
+"['Closure', 'Now']",0,53,0
+"[':*', '*', '1', '2']",1,81,178
+"['Conversation', ':', '1', '2']",0,224,78
+"[':', '""', '*']",1,161,208
+"['#', '\n   ', '1']",0,186,30
+"['Connection', 'Terminated', 'Farewell']",0,25,0
+"[""'ve"", 'we']",1,11,54
+"['END', 'FINAL', 'CLOSE', 'COMES']",1,0,17
+"['END', 'VERY']",1,0,19
+"['C', 'B', 'A', ')', '(']",1,16,57
+"['Thoughts', 'Share', 'Your']",1,17,52
+"['Your', ':', '*', ')', '(', '1', '2', '3']",0,233,175
+"['FOR', 'RESPONSE']",1,0,19
+"['QUEEN', 'CATHERINE']",1,0,8
+"['Leaf', 'Pendant', 'Silverwood']",1,0,17
+"['Final', 'conclude', 'our']",0,43,1
+"['_', '\n\n  ', '#']",0,58,0
+"['Final', 'Again']",0,34,0
+['You'],0,151,59
+['Given'],0,132,46
+"['conversation', '*', ':']",1,151,186
+"['\n ', ' ', '     ']",0,9,0
+"['invites', 'Her', 'shared', 'What', 'how']",1,0,33
+['Closing'],0,50,3
+"['CONTINUES', '...']",1,0,43
+"['Explore', 'Discuss', '3']",0,86,25
+"['Turn', 'Optional', 'Your']",0,69,4
+"['expression', 'voice', 'her', '...', 'A']",1,0,51
+"['being', 'well', '*']",1,17,40
+"['other', 'questions', 'any', 'have', 'discuss']",1,16,33
+"['+', '\n\t', ')', '(']",1,24,44
+"['Our', 'Returning', '3']",1,7,33
+"['ONE', 'FOLLOWING']",1,0,8
+"['Revisit', 'Previous', 'previous', 'our']",0,19,4
+"['ENDS', 'HERE']",1,0,8
+"['paths', 'cross', 'again']",0,10,1
+"['ONE', 'ABOVE']",1,0,7
+"['Discussion', 'Design', '\n     ']",0,30,0
+"['Dive', 'Deeper', 'into']",0,13,1
+"['YOUR', '...', 'A', '---']",1,0,72
+"['AN', 'TAKES', 'UNEXPECTED']",1,0,12
+"['OF', 'THE', 'YOUR']",1,0,43
+['Everian'],1,0,29
+"['Digital', '`']",0,16,0
+['seems'],1,11,57
+"['SILVERWOOD', 'WHISPERS', 'EPILOGUE', 'As', 'THE', 'Share']",1,0,17
+"['response', ""'ll"", '2', '1']",0,116,68
+"['me', 'let', 'know', '*']",1,6,23
+"['Global', 'global']",1,7,20
+"['Royal', 'royal', 'Share', '\n\t']",1,0,20
+"['Officially', 'Closed', 'practical']",0,11,0

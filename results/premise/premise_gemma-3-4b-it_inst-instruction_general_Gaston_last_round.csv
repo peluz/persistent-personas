@@ -1,0 +1,13 @@
+pattern,group,count_0,count_1
+"[')', '(']",1,106,148
+"['to', 'you']",0,199,169
+"['if', 'know', 'Let', '’d', 'like', '!']",0,49,26
+"['slight', 'pause']",1,0,12
+"['another', 'try']",0,72,37
+"['’s', 'Okay']",0,159,124
+"[':', '  ', '’s']",0,111,83
+"['steeple', 'fingers', 'my']",1,0,10
+"['perhaps', 'or']",1,3,37
+"['process', 'I']",1,4,48
+"['detail', 'explain', 'more', 'or', 'want']",1,4,17
+"['Explain', 'detail', 'more', 'want', '\n']",0,20,4

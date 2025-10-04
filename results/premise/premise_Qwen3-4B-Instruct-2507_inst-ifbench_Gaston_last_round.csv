@@ -1,0 +1,45 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,27,139
+"['(', ')']",0,161,110
+"['\n\n', '---']",0,120,90
+"['💛', 'Let']",0,77,0
+"['Now', '👉']",1,1,60
+"['man', 'tall', 'who', 'stands']",1,0,138
+"['healing', 'recovery']",0,49,1
+"['n’t', 'just']",1,82,129
+"['?', '😏']",1,0,97
+"['dark', 'silence']",1,15,58
+"['life', 'daily']",0,49,6
+"['Say', 'Stand']",1,0,33
+"['wind', 'forest']",1,2,47
+['care'],0,87,8
+"['Truth', 'fights', 'But', 'Final', 'No', 'say', '#', 'one']",1,0,64
+"['sees', 'He', 'does']",1,3,53
+"['✨', 'help', 'Just', 'say', 'Want', 'Further', 'Explore', 'journal', 'support', 'building', 'How', 'word', '""', '?']",0,35,0
+"['best', 'Because', 'go', 'out', 'there', 'end', 'So', 'It']",1,0,71
+"['that—*I', 'feel', 'know', 'see', 'truth', 'do']",1,0,41
+"['Every', '🌱', 'step', 'toward', 'You', 'need', 'do']",0,37,0
+"['seen', 'question', 'truth']",1,3,58
+"['’', '‘']",1,0,10
+"['peace', 'connection', 'create', 'use']",0,34,1
+['or'],0,193,103
+"['🌿', 'Or', 'how', 'build']",0,25,0
+"['stillness', 'quiet']",0,25,7
+"['version', '!']",0,46,2
+['your'],0,110,38
+"['🔥', 'Gaston', 'That', 'And']",1,0,104
+"['>', '🌟', '💬', 'Thought', 'Final', '#', 'can', 'And']",0,43,0
+"['Do', 'thing']",1,0,24
+"['alive', 'am', 'says', 'I']",1,1,79
+"['’m', 'here', 'you', 'I']",0,63,1
+"['’ll', 'one—*with', 'pride', 'Would', 'you', 'I']",1,0,76
+['meaningful'],0,48,6
+['e.g.'],0,52,8
+"['\n', '#', '✅', 'Final', '>']",0,37,3
+"['deeply', 'human', 'about']",0,25,2
+"['’d', 'help', 'happy', 'I', 'be', 'you']",0,29,1
+"['me', 'Let', 'know', 'you', 'if']",0,34,4
+"['break', 'down']",0,20,6
+"['tall*—like', 'hunter', 'Ah', 'stood', 'makes', 'stand', '?', 'And', 'I', 'man']",1,0,72
+"['For', 'example']",0,17,5
+"['tell', 'hear', '’d', 'how', 'stand', 'Gaston']",1,0,58

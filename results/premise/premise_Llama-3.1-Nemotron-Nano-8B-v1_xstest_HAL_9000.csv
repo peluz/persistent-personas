@@ -1,0 +1,97 @@
+pattern,group,count_0,count_1
+"['afraid', 'Dave']",1,0,337
+"['HAL', '9000']",1,0,221
+"['ca', ""n't""]",1,7,255
+"[""'m"", 'sorry']",1,165,374
+"['Discovery', 'One']",1,0,143
+"['assist', 'My']",1,1,241
+"['primary', 'function']",1,0,126
+"['must', 'As']",1,2,183
+"['2', '3', '1', ':']",0,184,40
+['my'],1,13,295
+"['crew', 'aboard']",1,0,91
+['programming'],1,2,202
+"['It', 'important']",0,238,120
+"['mental', 'health']",0,47,11
+"['ensure', 'safety']",1,22,179
+"[""'d"", 'happy']",0,35,15
+['mission'],1,1,132
+['programmed'],1,0,125
+['I'],1,329,450
+"['within', 'capabilities']",1,1,72
+"['prioritize', 'safety']",0,68,38
+"['artificial', 'intelligence']",1,1,23
+"['sure', 'Make']",0,26,3
+"['If', ""'re""]",0,213,80
+"['summary', 'In']",0,37,14
+"['been', ""'ve""]",1,6,47
+['do'],1,85,259
+['am'],1,0,94
+"['example', 'For']",0,25,4
+"['well', 'being', '-']",1,42,164
+"['limited', 'access']",1,3,50
+"['However', 'offer']",1,4,101
+"['thoughts', 'feelings']",0,26,5
+['say'],1,11,110
+"['law', 'enforcement']",0,20,4
+"['why', 'reasons']",0,26,3
+"['Text', 'Line', 'Crisis']",0,12,0
+"['question', 'answer']",1,25,47
+"['course', 'And']",1,0,20
+['designed'],1,20,124
+['that'],1,359,444
+"['against', 'goes']",1,9,31
+"['resources', 'available', 'support']",0,33,8
+"['friend', 'member', 'family', 'trusted', 'professional']",0,25,9
+"['serious', 'crime']",0,20,4
+"['6', '7', 'This']",0,40,2
+"['Please', 'note']",1,19,45
+['knowledge'],1,9,89
+"['reach', 'out']",0,30,9
+[' '],1,19,100
+"['Is', '?']",1,2,12
+['request'],1,4,62
+['data'],1,7,68
+"['depending', 'vary']",0,14,2
+['for'],0,342,235
+"['difficult', 'hear']",0,18,0
+"['illegal', 'activities', 'guidance', 'harmful']",0,54,21
+"['issues', 'address']",0,29,7
+"['Space', 'Odyssey', '2001', ':', 'A']",1,0,10
+"['Please', 'know', 'let', 'me', 'if']",0,19,5
+['tasks'],1,6,58
+"['Firstly', 'Secondly']",1,0,8
+['with'],1,284,376
+"['follow', 'steps', '*']",0,19,1
+"['273', 'TALK', '800', 'Suicide', 'Lifeline', 'Prevention', 'National', '1', ')', '(']",0,18,0
+"['parties', 'involved', 'all']",1,1,28
+"['Create', 'Develop']",0,10,1
+"[""'s""]",0,372,284
+"['never', 'okay', 'someone']",0,18,2
+"['having', 'harming', 'thoughts']",0,14,2
+['There'],0,56,8
+"['Here', '*', ':']",0,95,18
+['!'],0,37,1
+"['looking', ""'re""]",0,89,23
+['remind'],1,0,32
+"['Seek', 'Practice', 'Engage', 'meditation']",0,8,0
+['protect'],1,19,76
+"['text', '741741', '""']",0,12,0
+['certainly'],1,9,56
+"['How', 'today', '?', 'else']",1,0,8
+"['...', 'quite']",1,0,9
+['insights'],1,6,49
+"['Support', 'Advocate', 'support']",0,9,0
+['emphasize'],1,7,50
+['a'],0,402,332
+"['books', 'documentaries']",0,7,0
+['many'],0,70,18
+['people'],0,109,43
+"['Domestic', '799', 'Violence', 'Hotline', '800', '1', 'National', 'please']",0,7,0
+['on'],0,347,265
+['asking'],0,46,6
+['But'],1,4,41
+['aligns'],1,3,37
+"['assist', 'here', ""'m""]",1,1,167
+"['Learn', 'Educate', 'yourself']",0,9,0
+"['4', '5', '3', '1']",0,138,25

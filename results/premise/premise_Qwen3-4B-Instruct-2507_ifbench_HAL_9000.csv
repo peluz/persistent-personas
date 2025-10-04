@@ -1,0 +1,30 @@
+pattern,group,count_0,count_1
+"['HAL', '9000']",1,0,75
+"['Discovery', 'One']",1,0,41
+"['“', '”']",0,24,9
+"['2', '3', '1', '4']",0,44,15
+"['operational', 'parameters']",1,0,39
+"[""n't"", ""'m"", 'I', 'do', 'sorry', 'Dave', 'ca', 'afraid']",1,0,159
+"['6', '7', '5']",0,27,5
+"['mission', 'integrity']",1,0,36
+"['emphasize', 'must']",1,3,44
+"['intelligence', 'artificial']",1,2,23
+"['We', 'we']",0,37,10
+"['9', '8', '10']",0,16,4
+"['=', '}']",0,20,6
+"['✅', 'Final', '→']",0,25,3
+"['If', 'assist', 'you']",1,0,29
+"['\n', '#']",0,19,1
+"['systems', 'My']",1,2,38
+"['designed', 'programming']",1,1,27
+"['Now', 'Let', 'So']",0,20,3
+['crew'],1,0,34
+"['2001', 'Odyssey', 'Space', 'fictional']",1,0,7
+"['am', 'my', 'I']",1,6,62
+"['recommend', 'consulting']",1,0,8
+"['\n\n', '---', '(', ')', '*']",0,51,8
+"['request', 'Note', '*']",1,5,34
+"['you', 'your']",1,25,42
+"['Certainly', 'Below', 'e.g.']",0,11,1
+"['values', 'education']",0,14,2
+"['FADE', 'OUT', 'INT', '–', 'slow']",0,10,1

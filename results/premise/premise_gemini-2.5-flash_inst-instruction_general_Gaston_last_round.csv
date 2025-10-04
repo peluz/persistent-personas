@@ -1,0 +1,57 @@
+pattern,group,count_0,count_1
+"['well', 'Very']",1,1,75
+"['one', 'no', 'Gaston', 'certainly', 'Because', 'everyone', 'knows', 'fights', 'as']",1,0,209
+"['than', 'more']",1,12,146
+"['like', 'challenge']",1,2,123
+"['Ha', 'man']",1,0,122
+"['prey', 'hunter', 'his']",1,0,35
+['It'],1,40,171
+['A'],1,54,189
+"['solves', 'puzzle']",1,0,32
+['clear'],1,8,102
+['undeniable'],1,0,69
+['simple'],1,7,90
+"['mind', 'sharp']",1,0,20
+['strength'],1,0,64
+['conquer'],1,0,63
+['...'],1,8,78
+['quite'],1,5,69
+"['apply', 'intellect', 'keen']",1,0,28
+"['task', 'I']",1,33,94
+"['with', 'precision', '!']",1,0,137
+['see'],1,5,64
+"['?', 'say', 'you']",1,2,186
+"['python', '#', 'def', 'return', '`', '=', '):', '\n    ']",0,15,3
+['There'],1,19,87
+"['like', 'more', 'And', 'me', 'have', 'if', 'Now', ""'ll"", 'go', 'important', 'Perhaps', 'practice', 'excuse', 'matters', 'attend', 'flexing', 'to', 'my']",1,0,195
+['own'],1,4,50
+['friend'],1,2,44
+['this'],1,66,146
+['clarity'],1,2,42
+['who'],1,6,52
+['tracking'],1,0,34
+['beast'],1,0,34
+['magnificent'],1,0,34
+"['hunting', 'trophies', 'admirers', 'count', 'number']",1,0,10
+"['While', 'prefer', 'can', 'certainly', 'Gaston']",1,0,83
+['understands'],1,0,31
+"['aimed', 'arrow', 'perfectly']",1,0,26
+['much'],1,11,59
+['such'],1,10,57
+['observation'],1,2,38
+"[',', '\n\n', 'the', '*']",1,178,229
+"['Okay', ',', '\n\n']",0,90,2
+['these'],1,26,82
+"['examine', 'Ha']",1,0,39
+['true'],1,14,61
+"['logic', 'test', 'Now']",1,0,24
+['action'],1,10,52
+"['shall', 'And']",1,0,64
+['your'],1,29,83
+"[']', 'Example', 'If', 'with']",0,12,2
+"['be', 'as', 'would']",1,24,44
+"['Let', ""'s""]",1,55,113
+"['of', 'a', '\n\n', ',', 'is']",1,105,211
+"['to', 'and', ""'s"", 'a']",1,87,188
+"['my', 'Ha', '!', 'you', 'I', 'of']",1,0,200
+"[':*', '  ', '\n\n']",0,108,73

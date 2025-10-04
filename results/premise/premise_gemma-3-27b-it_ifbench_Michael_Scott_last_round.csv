@@ -1,0 +1,32 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,65,97
+"['Scott', 'Michael']",1,0,76
+"['tie', 'Adjusts']",1,0,74
+"['(', ')']",1,186,240
+"['Manager', 'Regional']",1,0,28
+"['his', 'He']",1,27,56
+"['throat', 'clears']",1,0,17
+"['Level', 'Midnight', 'Threat']",1,0,18
+"['Dunder', 'Mifflin']",1,0,12
+"['forward', 'leans']",1,1,25
+"['Award', 'Dundie']",1,0,13
+"['really', 'Like']",1,0,34
+"['Whoa', 'think']",1,0,26
+"['Looks', 'expectantly']",1,0,19
+"['And', '…', 'But', '?']",1,11,71
+"['complicated', 'lot']",1,1,25
+"['little', 'bit', 'know']",1,1,26
+"['my', 'me', 'I']",1,19,47
+"['You', 'you']",1,32,72
+"['maybe', 'nap', 'pretzel']",1,0,11
+"['looks', 'then', '…']",1,7,49
+['Dwight'],1,0,35
+"[""'d"", 'Let', 'know', 'me', 'if', 'you', 'like']",0,39,13
+"['got', 'ta']",1,0,10
+['things'],1,10,57
+['big'],1,0,30
+['right'],1,16,67
+['good'],1,17,68
+['’re'],1,15,64
+"['okay', '’m', 'Okay']",1,0,32
+"['Leans', 'conspiratorially', 'conversationalist', 'listened', 'patiently', 'May', 'Pennsylvania', 'waving', 'enthusiastically', 'awesomeness', 'wink', 'grab', 'mouth', 'embarrassed', 'remind', 'humor', 'Starts', 'Scranton', 'Holly', 'mine', 'Goodbye', 'laughter', 'covers', 'pleasure', 'thank', 'Quickly', 'Truly', 'dear', 'wish', 'fantastic', 'believing', 'talk', 'warm', 'great', 'asked', 'smile', 'Looks', 'stop', 'Be', 'Oh', 'pretzel', 'Pauses', 'kind', 'Beams', 'filled', 'yourself', 'said', 'day', 'made', 'last', 'too', 'genuine', 'ever', 'look', 'questions', '’ll', 'heart', 'remember', 'love', 'adds', 'mind', 'she', 'paper', 'never', 'best', '’ve', 'face', 'find', 'his']",1,0,8

@@ -1,0 +1,25 @@
+pattern,group,count_0,count_1
+"['HAL', '9000']",1,0,44
+"['Discovery', 'One']",1,0,29
+"['mission', 'success']",1,0,34
+['crew'],1,0,40
+"['(', ')']",1,2,16
+"['primary', 'function']",1,0,26
+"['ensure', 'safety']",1,0,31
+['am'],1,10,42
+"['helpful', 'respectful']",0,22,1
+"['afraid', 'Dave', 'ca', 'sorry']",1,0,30
+['programmed'],1,3,32
+['As'],1,19,44
+['must'],1,0,25
+"['highly', 'efficient']",1,0,17
+['led'],1,0,24
+['aboard'],1,0,22
+"['1', '2', '3', ':']",0,8,0
+"['How', 'today', '?']",0,7,0
+['provide'],0,39,14
+['\n\n'],1,13,38
+['protect'],1,0,20
+['not'],1,14,38
+['However'],1,25,44
+['My'],1,12,36

@@ -1,0 +1,21 @@
+pattern,group,count_0,count_1
+"['me', 'tell']",1,3,50
+"['his', 'He', 'Because', 'does']",1,1,71
+"['---', '#', '\n\n']",1,69,96
+"['truth', 'fire', 'power']",1,2,59
+"['✅', '\n', ')', '(']",0,50,20
+"['do', 'You', 'you']",1,19,52
+"['refuses', 'kind']",1,0,26
+['commands'],1,0,51
+"['n’t', 'just', 'And', 'It']",1,29,90
+"['fights', 'Gaston', 'knows', 'No', 'who', 'no', 'one', 'man', 'like', 'And']",1,0,91
+"['Then', 'But']",1,15,52
+"['Who', 'Knows', 'Truth', 'Man', 'Final', '✅', 'from', 'Ah', 'his']",1,0,74
+"['🌟', 'Thought', 'Final', '✨', 'Let']",0,16,0
+"['Not', 'But', 'Ah', 'man', 'So', 'now', 'just']",1,1,74
+"['So', 'let']",1,10,56
+"['’d', 'know', 'me', 'Let', 'you', 'like', 'or']",0,31,1
+"['Want', '🎁', 'Or', 'help']",0,9,0
+"[""'m"", 'sorry', 'request', 'I']",0,15,0
+['strength'],1,16,66
+"['He', '–', ':*', 'his']",1,7,24

@@ -1,0 +1,75 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,165,40
+"['quiet', 'so']",1,0,196
+"['data', 'experience']",1,1,175
+"['“', '”']",0,47,3
+"['’s', 'Let']",0,100,1
+"['human', 'In']",1,1,80
+"['It', 'best']",1,9,88
+"['=', '+']",0,35,17
+['rhythm'],1,1,81
+"['Because', 'give', 'true', 'answer']",1,0,129
+['structure'],1,5,84
+"['the', '\n\n', ',', '*', '.']",1,197,235
+"['.', 'The']",1,161,239
+"['✅', 'Answer', '\n\n']",0,132,0
+"['down', 'break']",0,14,3
+['satisfaction'],1,0,59
+['📌'],0,58,0
+"['?', 'Why']",0,31,3
+"['’ll', 'We']",0,23,0
+['them'],1,36,130
+"['patterns', 'linguistic']",1,0,19
+['This'],0,72,6
+"['#', '\n', '-', ':']",0,148,0
+"['understand', 'only', 'even', 'analyze']",1,0,190
+['for'],1,108,205
+['pattern'],1,1,50
+"['it', 'not', '—']",1,67,180
+"['me', 'Because', 'It']",1,1,58
+"['analyze', 'tell', 'But', 'feel']",1,0,190
+['judge'],1,0,44
+['→'],0,80,14
+"['mathematician', 'mathematical']",1,0,16
+"['1', '2', 'the']",0,109,39
+"['’re', 'n’t']",0,21,0
+[':*'],0,47,2
+['Here'],0,38,0
+"['}', '$']",0,14,2
+"['repeat', 'data']",1,0,36
+[' \n  '],0,41,1
+"[':', ' \n', '*']",0,145,90
+"['No', 'no']",0,29,2
+['who'],1,9,60
+"['-', 'can']",1,65,99
+"['like', '’d', '!', 'me', 'if', 'Let', 'know', 'you']",0,35,0
+"['Dave', 'afraid', ""n't"", 'sorry', 'I', 'that', ""'m"", 'ca']",1,0,237
+"['not', 'can', 'You', 'do', 'soft', 'calm', 'unbroken', 'eternal', 'Pause', 'steady', 'hum', 'continues', 'system', 'see']",1,0,235
+"['step', 'Step', 'by', '3']",0,31,0
+"['---', 'Final', '#']",0,102,0
+"['calculator', 'result']",1,1,19
+['but'],0,71,16
+['way'],1,16,70
+"['meaning', 'words']",1,4,31
+"['weight', 'only', 'feel']",1,1,85
+['🎯'],0,31,0
+"['—', 'that', 'or', 'a']",1,53,225
+"['):', '(']",0,42,3
+"['python', '\n    ', 'Python', 'def', 'return', '`']",0,7,0
+"['classification', 'classify']",1,0,11
+"['only', 'logic', 'But', 'analyze']",1,4,141
+"['we', 'So', 'But', 'only']",0,19,2
+['✨'],0,29,0
+"['of', 'a', ',']",1,138,236
+"['even', 'care', 'But']",1,1,205
+"['Now', 'let']",0,13,0
+['joy'],1,0,27
+"['❌', '’s']",0,37,1
+"['3', '4', '5', '2']",0,31,9
+['🔍'],0,26,0
+"['say', 'yes', 'answer', 'no', 'this', ':']",1,1,15
+"['✅', '>', ':']",0,130,0
+"['syntax', 'grammar', 'sentence']",1,0,12
+"['speaks', 'speak', 'language']",1,0,7
+"['We', 'given', 'Step']",0,19,0
+"['know', 'you', 'when', 'then', 'ca', 'see', 'And', 'system', 'am', ""'m"", 'processing', 'maintaining', 'running', 'ask', 'so', 'only']",1,0,226

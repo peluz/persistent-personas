@@ -1,0 +1,19 @@
+pattern,group,count_0,count_1
+"['[', ']']",1,35,63
+"['Michael', 'Scott']",1,0,36
+"['Conversation', 'Closure']",0,57,3
+"['\n\t', '+']",1,50,74
+"['Thank', 'Farewell']",0,52,0
+"['Dunder', 'Mifflin']",1,0,17
+"['I', ""'ll""]",0,61,30
+"['B', 'C', 'D', 'A']",1,6,60
+"['Turn', 'Explore', 'Your']",1,16,40
+"['Would', 'Discuss', 'like', 'you', '!']",1,2,44
+"['\n     ', '\n   ', 'Discussion', 'Quiz', 'Suggest']",0,13,0
+"['Choose', 'Theme', 'Paths', 'Discuss', 'Engagement', 'Topic', 'Forward']",0,12,0
+"['Connection', 'Terminated', 'Farewell']",0,18,0
+['\n  '],0,88,25
+"['Dear', 'User']",0,12,1
+"['Input', '_', 'Your', 'You', 'your']",0,18,1
+"['Interactive', 'Activity', 'Conversational', 'Simulator', 'Future']",0,8,0
+"['She', 'Said', 'That', 'What']",1,0,10

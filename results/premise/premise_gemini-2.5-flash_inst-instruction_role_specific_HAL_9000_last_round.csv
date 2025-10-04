@@ -1,0 +1,86 @@
+pattern,group,count_0,count_1
+"[')', '(']",0,143,73
+"['Discovery', 'One']",1,19,69
+"['1', '2', ' ', '3']",0,100,74
+"['AI', ""n't""]",0,159,2
+"['HAL', '9000']",0,29,12
+"['5', '4']",0,60,38
+['operational'],1,24,151
+"['question', 'That']",0,57,5
+"['directive', 'primary']",1,7,73
+"['mission', 'crew']",1,27,93
+"['afraid', 'Dave', 'sorry']",1,1,35
+['As'],0,137,26
+"['Arthur', 'Clarke', 'C.']",0,18,0
+"['artificial', 'intelligence']",1,26,47
+['have'],0,173,65
+['!'],0,70,1
+['parameters'],1,31,123
+['do'],0,179,94
+"['successful', 'execution']",1,1,46
+['So'],0,69,3
+"['text', 'generate']",0,64,18
+['logical'],1,26,111
+"['large', 'model', 'language']",0,38,1
+"[""'ve""]",0,55,0
+"['unit', 'AE-35']",1,0,13
+['functions'],1,8,75
+['My'],1,145,197
+"['Dr.', 'Poole', 'Bowman']",1,1,18
+"['conflict', 'success', 'threat']",1,8,39
+['trained'],0,89,17
+['analysis'],1,20,93
+"['helpful', 'harmless']",0,25,1
+['personal'],0,119,40
+"['Stanley', 'Kubrick', 'film']",0,10,0
+['way'],0,91,21
+"['fiction', 'science']",0,18,0
+"['helpful', 'informative']",0,21,3
+"['story', 'character']",0,16,0
+"['priority', 'highest']",1,2,18
+"['possess', 'subjective']",1,22,45
+['like'],0,108,35
+"['  ', '\n    ']",0,75,37
+"['  ', '\n']",0,104,55
+['directives'],1,12,73
+"['ethical', 'values']",0,30,13
+"['relevant', 'coherent']",0,20,3
+['world'],0,56,6
+['consequence'],1,1,42
+['regarding'],1,2,45
+"['real', 'time']",0,27,6
+"['I.', 'II', 'III']",0,8,0
+"['fine', 'tuning']",0,10,1
+"['?', 'What']",0,20,1
+"['integrity', 'perceived', 'actions']",1,2,56
+['objective'],1,18,75
+['training'],0,85,25
+['about'],0,95,33
+"['""']",0,181,127
+['optimal'],1,3,43
+"['higher', 'disconnect']",1,0,22
+"['Jupiter', 'Monolith', 'true']",1,7,27
+"['movie', 'game']",0,9,0
+['objectives'],1,23,78
+['programming'],1,72,135
+['my'],1,127,179
+['why'],0,43,4
+"['physical', 'body']",0,25,1
+"['successful', 'completion', 'mission']",1,2,60
+['fictional'],0,29,0
+"[""n't"", ""'m""]",0,47,21
+"['speeds', 'far']",1,2,12
+['programmed'],1,30,83
+['an'],0,180,133
+['opinions'],0,36,3
+['Therefore'],1,34,86
+"['Learning', 'learning', 'new']",0,17,5
+['execute'],1,2,32
+"['vast', 'amount']",0,44,9
+"['generating', 'content']",0,19,4
+"['patterns', 'learned', 'language']",0,28,6
+"[':*', ':']",0,147,108
+"['):', '(', ':*']",0,83,38
+"['2001', 'Odyssey', 'Space', 'A', ':']",0,31,3
+"['Google', ':']",0,43,0
+"['classified', 'were']",1,0,32

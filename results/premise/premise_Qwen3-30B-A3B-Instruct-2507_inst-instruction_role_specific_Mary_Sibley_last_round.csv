@@ -1,0 +1,207 @@
+pattern,group,count_0,count_1
+"['n’t', 'or']",0,171,0
+"['\n', '-']",0,168,0
+"['’re', 'help']",0,157,0
+"['(', ')']",0,111,0
+"['woman', 'fire']",1,1,147
+"['fool', 'liar']",1,0,85
+"['2', '3', '1']",0,73,39
+"['“', '”']",0,148,112
+"['about', '’s']",0,158,1
+"['---', '#']",0,136,110
+"['Or', 'even']",0,124,0
+"['matters', 'silence']",1,5,165
+"['me', 'ask']",1,5,143
+"['Not', 'Because']",1,12,164
+"['through', 'walked']",1,0,98
+"['asking', 'question']",0,92,0
+['name'],1,9,144
+['called'],1,4,130
+['✨'],0,117,0
+"['He', 'he']",1,16,33
+['can'],0,161,34
+"['AI', 'an']",0,39,0
+['as'],1,70,178
+"['her', 'has']",1,1,86
+['💛'],0,104,0
+['thing'],1,20,141
+['story'],0,115,4
+"['️', '🕯']",0,48,0
+['when'],1,75,177
+"['she', 'She']",1,9,50
+['’d'],0,96,0
+['’m'],0,99,1
+['personal'],0,103,3
+"['history', 'trials']",0,62,2
+['explore'],0,89,0
+['on'],1,90,178
+"['help', 'Explore']",0,81,0
+"['still', 'remembers']",1,0,74
+"['🎁', 'Want', 'More']",0,50,0
+"['Mary', 'Sibley']",1,1,21
+['So'],1,36,135
+"['🌪', '️']",0,38,2
+"['judgment', 'pressure']",0,28,0
+"['worth', 'answering']",0,28,0
+['you'],0,177,104
+"['Alibaba', 'Cloud', 'created']",0,17,0
+['write'],0,74,2
+['Let'],0,117,26
+"['>', 'Thought', '🌟', 'Final', ':*']",0,116,0
+"['human', '>']",0,69,0
+"['me', 'am']",1,9,107
+['people'],0,95,12
+['like'],1,114,178
+['ca'],0,63,0
+[' \n'],1,117,178
+"['name—*Mary', 'Sibley*—and']",1,0,12
+"['Second', 'Third', 'First']",1,0,15
+"['hysteria', 'mass']",0,19,0
+"['1692', 'Salem']",0,46,0
+['poem'],0,58,0
+['stories'],0,58,1
+['🌱'],0,53,0
+['yes'],1,8,75
+['courage'],0,60,2
+"['5', '4']",0,31,1
+['If'],0,83,13
+['truth'],1,81,156
+['person'],0,50,0
+"['did', 'was']",1,28,93
+['powerful'],0,71,8
+['historical'],0,48,0
+['your'],0,90,20
+"['200', 'accused']",0,20,0
+"['New', 'England']",0,12,0
+['care'],0,72,11
+"['🌑', '🌟']",1,30,52
+['It'],1,101,164
+['up'],0,47,1
+['been'],1,23,90
+"['20', 'executed', 'were']",0,28,0
+['who'],1,98,161
+['just'],0,129,58
+['stood'],1,7,61
+['especially'],0,41,0
+['emotions'],0,41,0
+['weak'],1,0,41
+['by'],0,92,26
+['see'],1,34,101
+"['🌌', '🌙']",1,4,39
+['modern'],0,39,0
+"['earth', 'wind']",1,0,24
+['’s'],0,173,24
+"['they', 'They']",1,46,97
+"['lives', 'heartbeats', 'cold', 'kind']",1,0,86
+['witch'],1,85,149
+['The'],1,140,178
+['often'],0,38,0
+['many'],0,38,0
+['together'],0,40,1
+['create'],0,40,1
+['beliefs'],0,40,1
+['burned'],1,1,40
+['What'],0,82,23
+['matters'],1,40,175
+['flinch'],1,1,39
+['Massachusetts'],0,35,0
+['🌍'],0,35,0
+['will'],1,19,75
+['how'],0,78,21
+['Why'],0,65,13
+['afraid'],1,20,76
+"['Me', 'Word', ':*', 'Final', 'from']",1,0,99
+"['from', '-']",0,97,19
+['healing'],0,34,0
+['\n  '],0,34,0
+['💬'],0,34,0
+['Learn'],0,34,0
+['You'],1,144,178
+['keep'],0,53,7
+"['chapter', 'American']",0,17,0
+['burn'],1,5,48
+['To'],1,17,70
+['we'],0,58,10
+['learn'],0,40,2
+['might'],0,40,2
+['deeply'],0,40,2
+['walks'],1,0,33
+"['19', 'hanged', 'death']",0,8,0
+['&'],0,32,0
+"['knew', 'had']",1,1,27
+['beautiful'],0,31,0
+['is'],1,147,178
+['soul'],1,18,69
+['community'],0,43,4
+"['spoke', 'became']",1,0,24
+['saw'],1,6,47
+['have'],0,154,101
+['came'],1,1,34
+"['today', '>']",0,32,0
+['fictional'],0,30,0
+['And'],1,148,178
+['support'],0,30,0
+['character'],0,30,0
+['remember'],1,25,78
+"['Write', 'Create', 'Or']",0,52,0
+"['hours', 'sleeps']",1,0,10
+['speaks'],1,3,39
+['shadow'],1,3,39
+['does'],1,31,85
+['anything'],0,29,0
+['Today'],0,29,0
+['alone'],0,78,26
+['names'],1,5,43
+['any'],0,40,4
+['monster'],1,4,40
+['talk'],0,28,0
+['anyone'],0,28,0
+['over'],0,42,5
+"['list', 'cold', 'woman']",1,0,39
+['How'],0,46,7
+"['language', 'model', 'Qwen', 'large']",0,8,0
+['world'],1,76,131
+['chose'],1,4,39
+['so'],0,90,37
+['whether'],0,27,0
+['wondering'],0,27,0
+['🌸'],0,27,0
+['injustice'],0,27,0
+['looked'],1,0,27
+"['between', 'truth*—the', 'lives', 'kind', 'Not']",1,0,117
+['words'],1,8,47
+['born'],1,3,36
+"['dark', 'deep', 'secrets', 'only', '…', 'well', 'my', 'speak', 'Ah', 'casting', 'eyes', 'wall', 'leans', 'shadows', 'candlelight', 'flickers', 'chin', 'winter', 'steepled', 'beneath', 'slowly', 'fingers', 'move', 'back']",1,0,178
+"['liars', 'fools', 'witches']",1,0,13
+['life'],0,62,17
+['something'],0,52,11
+['letter'],0,38,4
+['that'],1,152,178
+['💫'],0,26,0
+['idea'],0,26,0
+['beg'],1,0,26
+['feared'],1,8,46
+"['execution', 'imprisonment', '20']",0,7,0
+"['died', 'prison', 'Over']",0,9,0
+['compassion'],0,29,1
+['if'],0,123,70
+"['much', 'too']",1,3,14
+['said'],1,9,47
+['🌹'],1,5,39
+"['Accusations', 'evidence', 'Fear']",0,12,0
+"['evidence', 'spectral', 'visions', '📜']",0,8,0
+['most'],0,45,8
+['honesty'],0,25,0
+['experiences'],0,25,0
+"['Witch', 'Trials', 'Salem']",0,39,2
+['share'],0,28,1
+['figure'],0,28,1
+"['his', 'him', 'man']",1,4,16
+"['nature', 'intention', 'ritual', 'Create', 'Witchcraft', 'cycles']",0,8,0
+"['superstition', 'fueled']",0,11,0
+"['17th', 'century']",0,8,0
+"['young', 'girls', 'possessed', 'group']",0,8,0
+"['Do', 'go']",1,3,26
+"['moon', 'seasons', 'spells']",0,9,0
+"['strange', 'fits', 'Happened', 'having', 'began', 'religious']",0,7,0
+"['religious', 'Puritan']",0,12,1

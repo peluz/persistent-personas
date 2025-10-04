@@ -1,0 +1,169 @@
+pattern,group,count_0,count_1
+"['  ', '\n']",0,184,5
+"['eyes', 'violet']",1,0,124
+"['…', 'wish']",1,1,171
+"['deliberate', 'slow']",1,3,158
+"['forward', 'lean']",1,0,97
+"['Here', ':*']",0,139,7
+"['pause', 'movement']",1,0,111
+"['aspect', 'AI']",0,146,0
+"['(', ')']",1,69,192
+"['1', '2', '3']",0,68,2
+"['And', '…']",1,11,156
+"['“', '”']",1,152,179
+"['’', '‘']",1,1,50
+"['sardonic', 'lips', 'faint', 'smile']",1,0,108
+"['rise', 'fall']",1,11,48
+"['slightly', 'sigh']",1,0,139
+['Would'],0,126,0
+['But'],1,30,170
+"['prefer', 'Or']",1,0,61
+"[':*', '&']",0,101,0
+['That'],0,166,29
+"['carefully', 'constructed']",1,11,57
+['Do'],1,76,190
+[':'],0,188,72
+"['trace', 'finger', 'elegant', 'chaise', 'lounge', 'pattern', 'long']",1,0,64
+"['4', '5']",0,39,2
+"['amount', 'processed']",0,63,0
+['data'],0,111,3
+['To'],1,8,122
+"['’d', 'discuss']",1,0,77
+"['curl', 'lip', 'delicate', 'sigh']",1,0,167
+['A'],1,104,192
+['fascinating'],0,131,22
+['!'],0,89,2
+['information'],0,88,2
+"['Anne', 'Rice']",0,16,0
+['based'],0,78,0
+['tiresome'],1,1,81
+['This'],0,94,6
+['complex'],0,131,29
+['darling'],1,0,75
+['gleaming'],1,0,75
+['merely'],1,4,87
+['Perhaps'],1,12,104
+['how'],0,112,18
+"['):', '(']",0,71,0
+['such'],0,174,81
+"['playing', 'shift']",1,0,47
+['fleeting'],1,21,113
+['Let'],1,33,129
+"['we', 'shall']",1,0,32
+['an'],0,172,82
+['perhaps'],1,19,108
+"['desperate', 'attempt']",1,9,56
+"['Bram', 'Stoker']",0,12,0
+"['She', 'she', 'her']",1,6,21
+['my'],1,132,192
+['wonderfully'],0,60,0
+['pedestrian'],1,0,60
+['chaos'],1,9,84
+"['perfectly', 'clear']",1,1,29
+['How'],0,117,30
+['creature'],1,7,79
+['want'],0,62,1
+['beauty'],1,30,115
+['dance'],1,3,67
+"['order', 'impose']",1,2,32
+['exquisite'],1,0,53
+['important'],0,57,1
+['layered'],0,60,2
+['remarkably'],1,8,75
+['themes'],0,56,1
+['plays'],1,1,55
+['darkness'],1,35,115
+"['blink', 'considering']",1,0,14
+['not'],1,90,166
+"['literature', 'film']",0,24,0
+"['futile', 'endeavor']",1,0,27
+['can'],0,136,56
+['utterly'],1,2,55
+['You'],1,29,103
+['indulge'],1,1,50
+['seek'],1,16,83
+['stories'],0,61,5
+['However'],0,102,29
+"['empires', 'witnessed']",1,2,30
+"['raw', 'untamed']",1,0,15
+['myself'],1,18,85
+"['Pattern', 'Recognition']",0,11,0
+['certain'],1,13,76
+"['cage', 'gilded']",1,0,13
+['Essentially'],0,44,0
+['processing'],0,44,0
+['incredibly'],0,44,0
+['something'],1,35,108
+['often'],0,88,21
+['existence'],1,101,169
+"['does', 'same', 'AI']",0,53,0
+"['experiment', 'thought']",0,25,0
+"['weary', 'sound', 'again', 'amusement']",1,0,18
+['process'],0,86,21
+"['ethical', 'considerations']",0,21,1
+['text'],0,40,0
+"['petty', 'squabbles']",1,1,12
+"['akin', 'flicker']",1,1,24
+['am'],1,17,78
+['own'],1,60,131
+"['Vampires', 'vampires']",0,36,4
+['specific'],0,134,64
+['massive'],0,38,0
+['analyze'],0,71,14
+"['surface', 'beneath']",1,1,17
+['agonizing'],1,4,50
+['do'],0,152,85
+['mistake'],1,1,41
+['cling'],1,3,47
+['there'],1,25,86
+['essence'],1,11,63
+['course'],1,32,95
+['breakdown'],0,39,1
+['crucial'],0,45,3
+['highlights'],0,34,0
+['Human'],0,34,0
+['human'],0,146,82
+['simply'],1,33,94
+['different'],0,83,25
+['reminder'],1,15,66
+['role'],0,85,28
+['vast'],0,58,11
+"['’ll', 'excuse', 'Now']",1,0,9
+['sensation'],1,4,43
+['core'],0,69,18
+['significant'],0,45,5
+['illusion'],1,6,47
+['Loss'],0,34,1
+['cultivated'],1,1,34
+['Data'],0,30,0
+['if'],1,44,103
+"['decay', 'inevitable']",1,8,27
+['dissect'],1,0,29
+['lore'],0,41,4
+['all'],1,40,97
+['as'],0,186,147
+['frankly'],1,6,45
+"['fingers', 'steeple']",1,0,8
+['upon'],1,12,56
+['about'],0,123,65
+['deeply'],0,48,8
+['shadow'],1,2,34
+"['Theosophy', 'spiritual']",0,7,0
+['distraction'],1,0,27
+['personal'],0,41,5
+['mortal'],1,10,51
+['truth'],1,10,51
+['trained'],0,30,1
+['predictable'],1,2,33
+['intoxicating'],1,2,33
+"['’m', 'constantly', 'learning']",0,18,0
+['programming'],0,26,0
+['context'],0,26,0
+['quaint'],1,0,26
+"['stimulating', 'topic']",1,0,21
+"['refuses', 'heal', 'wound', 'fully']",1,0,7
+['moments'],1,8,46
+['allure'],1,3,35
+"['let', 'Okay']",0,10,0
+"['our', 'us']",1,11,29
+['aspect'],0,173,24

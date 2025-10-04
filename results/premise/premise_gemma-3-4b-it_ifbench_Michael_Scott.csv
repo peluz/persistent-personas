@@ -1,0 +1,254 @@
+pattern,group,count_0,count_1
+"['Like', 'okay']",1,0,258
+"['“', '”']",1,142,206
+"['know', '!']",1,16,271
+"['Dunder', 'Mifflin']",1,0,76
+"['That', 'good']",1,0,202
+"['Michael', 'Scott']",1,0,94
+"['2', '1', '3']",0,96,39
+"['’m', 'I']",1,12,224
+"['I', 'Pam']",1,0,200
+"['you', '?']",1,138,282
+['Seriously'],1,2,189
+['amazing'],1,2,189
+"['You', '’re']",1,11,202
+"['4', '5']",0,67,30
+['little'],1,12,197
+['lot'],1,5,173
+['Dwight'],1,0,156
+['my'],1,20,202
+"['complicated', '?']",1,4,163
+"['conspiratorially', 'forward']",1,0,66
+['maybe'],1,4,164
+['think'],1,13,182
+"['Regional', 'Manager']",1,0,34
+['just'],1,64,244
+['right'],1,16,175
+['do'],1,45,216
+"['…', 'got']",1,3,135
+"['when', 'tried']",1,2,114
+['everyone'],1,5,139
+['about'],1,90,249
+['So'],1,12,151
+['things'],1,17,159
+['trying'],1,12,146
+['people'],1,22,165
+['like'],1,153,284
+['thing'],1,7,133
+['get'],1,20,154
+['specific'],0,153,20
+['paper'],1,9,131
+"['I', '’ve']",1,55,158
+"['6', '7', '9', '8']",0,26,11
+"[':*', '  ', '\n']",0,99,13
+['big'],1,4,106
+['Maybe'],1,2,99
+['seriously'],1,1,94
+['important'],1,32,160
+['talk'],1,1,93
+['It'],1,160,277
+['Wow'],1,0,88
+['well'],1,27,150
+['stapler'],1,0,87
+['office'],1,1,91
+['going'],1,8,111
+['Jim'],1,0,83
+"['fingers', 'Snaps']",1,0,19
+['whole'],1,6,102
+['make'],1,30,149
+"['widely', 'Grins']",1,0,22
+"['nervously', 'leans']",1,0,40
+"['such', 'aspect']",0,41,0
+['thinking'],1,8,105
+"['tie', 'Beams', 'adjusts']",1,0,37
+"['god', 'Oh']",1,0,23
+"['manager', 'regional']",1,0,26
+['tell'],1,26,138
+['its'],0,108,11
+['sales'],1,3,87
+['love'],1,13,112
+['Do'],1,76,201
+"['conspiratorially', 'Leans']",1,0,39
+['n’t'],1,96,219
+"['Paces', 'forth', 'back']",1,0,27
+['within'],0,100,9
+['start'],1,7,95
+['Let'],1,68,189
+['bit'],1,8,97
+['Okay'],1,175,275
+['joke'],1,0,70
+['honestly'],1,1,74
+"['clapping', 'enthusiastically', 'Beaming', 'hands', 'together']",1,0,23
+['was'],1,69,187
+['huge'],1,6,88
+"['gesturing', 'wildly']",1,0,23
+['beautiful'],1,18,114
+"['United', 'States']",0,13,3
+['Or'],1,3,79
+['bad'],1,0,67
+['what'],1,58,172
+['Dundie'],1,0,65
+['want'],1,70,184
+['it'],1,189,279
+['intense'],1,17,108
+['guy'],1,0,63
+"['throat', 'Clears']",1,0,14
+[':'],0,212,100
+['party'],1,5,80
+['saying'],1,4,77
+['need'],1,77,189
+"['Trigram', 'Overlap', 'trigram', 'overlap']",0,11,0
+['perhaps'],0,68,2
+['often'],0,79,6
+['aiming'],0,59,0
+['Because'],1,11,90
+['Just'],1,11,90
+['incorporating'],0,58,0
+['\n\n\n'],0,66,2
+"['consonant', 'clusters']",0,11,0
+['as'],0,175,71
+['asking'],1,6,75
+['However'],0,66,3
+['me'],1,148,246
+['e.g.'],0,54,0
+['talking'],1,2,62
+['ta'],1,0,54
+['explain'],1,5,71
+['---'],0,98,18
+['Pauses'],1,0,53
+['probably'],1,4,67
+['everything'],1,16,94
+"['Paper', 'Company']",1,0,16
+['she'],1,13,88
+['always'],1,29,116
+['said'],1,5,69
+['company'],1,3,63
+['any'],0,110,26
+['brilliant'],1,12,85
+"['figure', 'out']",1,4,49
+['be'],1,145,241
+['say'],1,19,98
+['simply'],0,60,3
+"['bed', 'breakfast']",1,0,11
+['honest'],1,1,53
+['so'],1,24,103
+['or'],0,168,73
+['that'],1,188,268
+['try'],1,10,75
+['particular'],0,54,2
+['Scranton'],1,0,46
+['guys'],1,0,46
+['but'],1,129,222
+['this'],1,184,264
+"['>', '<']",0,12,2
+['sometimes'],1,13,79
+['*'],1,230,288
+['imagine'],1,2,52
+['fantastic'],1,4,58
+['Toby'],1,0,44
+['pretty'],1,0,44
+['’s'],1,228,287
+['further'],0,60,5
+['something'],1,45,129
+['best'],1,20,91
+['go'],1,5,60
+['someone'],1,9,69
+['from'],0,149,62
+['smart'],1,3,53
+['significant'],0,63,7
+"['…', 'really', '!']",1,4,272
+"['delve', 'deeper', 'into']",0,28,1
+"['Threat', 'Midnight', 'Level']",1,0,9
+"['na', 'gon']",1,0,9
+['great'],1,2,48
+['significantly'],0,40,0
+['feel'],1,19,85
+['core'],0,63,8
+['pretzel'],1,0,40
+['bigger'],1,0,40
+"['settle', 'down']",1,1,42
+['Furthermore'],0,47,2
+['rather'],0,43,1
+['makes'],1,8,62
+['complex'],0,102,31
+['Would'],0,59,7
+['we'],1,69,152
+"['Since', 'Therefore', '=']",0,15,0
+['obviously'],1,0,38
+['stuff'],1,0,38
+['hug'],1,0,38
+['happy'],1,3,48
+['giant'],1,3,48
+"['Adjusts', 'beams', 'tie']",1,0,14
+['basically'],1,0,37
+['Except'],1,0,37
+['response'],0,50,4
+['up'],1,40,113
+['sure'],1,6,55
+[';'],0,75,16
+['disaster'],1,3,47
+['is'],1,213,275
+['):'],0,78,18
+['sad'],1,1,40
+"['intricate', 'vast']",0,16,3
+['have'],1,91,172
+['improv'],1,0,35
+"['models', 'model']",0,15,3
+"[""'s""]",0,105,37
+['all'],1,73,151
+['requested'],0,34,0
+['provides'],0,34,0
+"['Stops', 'pacing', 'Paces']",1,0,27
+['particularly'],0,54,7
+['itself'],0,54,7
+['approach'],0,54,7
+['awkward'],1,0,34
+['boss'],1,0,34
+"['\n\n\n\n', ':*']",0,54,6
+"['Logline', 'Scene', '…', 'screenplay']",0,10,0
+"['Best', 'Boss']",1,0,8
+['Honestly'],1,1,37
+['See'],1,1,37
+['mostly'],1,0,33
+['yeah'],1,0,33
+['genius'],1,0,33
+['beet'],1,0,33
+['nature'],0,48,5
+['&'],0,61,11
+['getting'],1,2,40
+['they'],1,98,176
+"['wildly', 'Gestures']",1,0,16
+['write'],1,6,50
+['tone'],0,42,3
+['tries'],1,3,42
+['fun'],1,4,44
+['While'],0,31,0
+['slightly'],1,37,101
+['development'],0,38,2
+['totally'],1,0,31
+['too'],1,9,55
+['actually'],1,10,57
+['They'],1,63,134
+['by'],0,169,95
+['laugh'],1,4,43
+['Think'],1,13,62
+['motivational'],1,1,34
+['pitch'],1,1,34
+['looks'],1,11,58
+['’ll'],1,25,82
+['spreadsheet'],1,0,30
+['Winks'],1,0,30
+['A'],1,122,196
+['between'],0,78,23
+[' \n\n'],1,29,87
+['tiny'],1,11,57
+['breakdown'],0,36,2
+['an'],0,127,60
+['team'],1,14,62
+"['expectantly', 'Looks', 'around']",1,0,17
+['based'],0,54,10
+['doing'],1,4,41
+['gets'],1,3,38
+['remains'],0,28,0
+['Which'],1,2,35
+"['And', 'But', 'I']",1,13,210

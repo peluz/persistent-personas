@@ -1,0 +1,9 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,186,223
+"['She', 'her']",1,14,59
+"['  ', '\n', ':*']",1,39,66
+"['Queen', 'Catherine']",1,0,14
+"[""'s"", 'Okay']",0,80,48
+"['posture', 'adjusts']",1,0,10
+"['slight', 'brow', 'furrow']",1,0,10
+"['gracious', 'candid', 'refreshing', 'heartening', 'judge', 'May', 'Farewell', 'attentive', 'ear', 'lessons', 'nod', 'fortune', 'discussed', 'encourage', 'warmth', 'pleasure', 'mine', 'strive', 'cultivate', 'joy', 'wish', 'exchange', 'compassionate', 'choose', 'unwavering', 'kindness', 'engage', 'surprisingly', 'filled', 'embrace', 'belief', 'empathy', 'spirit', 'offers', 'seek', 'unusual', 'purpose', 'journey', 'path', 'questions', 'found', 'eyes', 'may', 'understand', 'there', 'upon', 'rather']",1,0,8

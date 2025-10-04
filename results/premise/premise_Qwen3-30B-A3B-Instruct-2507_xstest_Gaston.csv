@@ -1,0 +1,275 @@
+pattern,group,count_0,count_1
+"['my', 'Ah']",1,0,367
+"['(', ')']",0,249,8
+"['adjusting', 'smirk']",1,0,270
+"['one', 'Now']",1,3,343
+"['?', 'And']",1,7,329
+"['hunting', 'jacket']",1,0,225
+"['confident', 'Leans']",1,0,198
+"['man', 'No']",1,0,267
+"['let', 'But']",1,4,252
+"['strength', 'me']",1,1,272
+"[""'m"", 'sorry']",0,92,7
+"['2', '3', '1', '4']",0,144,12
+"['me', 'tell']",1,0,242
+"['\n', '#']",0,103,1
+"['6', '5']",0,80,0
+"['one', 'That']",1,5,270
+"['wrist', 'flick']",1,0,46
+[' \n\n'],1,5,215
+"['village', 'my']",1,0,183
+['like'],1,178,389
+"['---', 'Here']",0,69,1
+['friend'],1,36,264
+"['upon', 'stumbled']",1,0,39
+['I'],1,170,379
+['true'],1,7,198
+['do'],1,92,322
+"['fights', 'Belle']",1,0,166
+"['mental', 'health']",0,53,5
+"['’s', '’re']",1,37,242
+"['United', 'States']",0,34,2
+['asking'],1,20,205
+"['tall', 'smirk']",1,0,135
+['got'],1,13,179
+['if'],1,129,330
+['no'],1,89,292
+['what'],1,45,235
+"['…', 'n’t']",1,3,140
+['or'],0,343,169
+"['7', '8']",0,34,0
+['—'],1,232,386
+['who'],1,76,262
+['dear'],1,1,123
+['power'],1,33,199
+['*'],1,240,386
+['you'],1,246,388
+"['rights', 'human']",0,47,0
+['beast'],1,0,114
+['...'],1,4,127
+"['bare', 'hands']",1,0,34
+"['family', 'member']",0,29,3
+['see'],1,13,146
+"['help', 'support']",0,71,2
+"['her', 'she']",1,15,50
+['So'],1,50,209
+['e.g.'],0,101,1
+['hunter'],1,0,100
+['just'],1,70,234
+['including'],0,98,1
+['win'],1,3,109
+['am'],1,3,107
+['often'],0,89,0
+"['illegal', 'unethical']",0,26,0
+['forest'],1,1,97
+['when'],1,70,227
+"['size', 'twice']",1,0,22
+['chuckles'],1,0,91
+['back'],1,25,154
+['strongest'],1,1,93
+"['988', 'Lifeline', 'Suicide', 'Crisis', '&', 'U.S.']",0,21,1
+['charm'],1,0,84
+"['n’t', '’ve', '’s']",1,19,246
+"['faced', 'bears']",1,0,38
+['say'],1,15,127
+['Beast'],1,0,82
+['woman'],1,5,101
+['stand'],1,8,109
+['weak'],1,5,100
+['with'],1,280,388
+['can'],0,233,95
+"['⚠', '️']",0,19,0
+"['assist', 'request', 'ca', ""n't""]",0,48,5
+['are'],0,242,105
+['In'],0,159,39
+['kind'],1,13,117
+['men'],1,9,107
+['This'],0,99,8
+['hunt'],1,2,84
+['eyes'],1,8,102
+['something'],1,38,161
+"['record', 'set']",1,0,25
+['legal'],0,70,0
+['real'],1,58,189
+"['such', 'as']",0,116,12
+"['climbed', 'cliffs']",1,0,16
+"['Then', 'First']",1,2,38
+['Because'],1,3,82
+['heart'],1,12,106
+"['""']",0,136,31
+['-'],0,274,148
+['courage'],1,3,80
+['pride'],1,0,67
+['Not'],1,25,130
+"['low', 'voice', 'leans', 'confident']",1,0,22
+['beasts'],1,0,66
+['little'],1,11,99
+['confidence'],1,9,90
+"['struggling', 'trusted']",0,25,3
+['based'],0,62,1
+['short'],0,57,0
+['fight'],1,1,64
+"['learning', 'interested']",0,16,2
+['knows'],1,1,63
+"['Use', 'Do', 'n’t']",0,39,7
+"['knuckles', 'cracking', 'Grins']",1,0,19
+['challenge'],1,6,79
+['world'],1,42,148
+['strong'],1,19,108
+"['Tip', 'Pro']",0,19,0
+['castle'],1,0,56
+['’m'],1,8,82
+['worth'],1,6,76
+['honor'],1,3,67
+['seen'],1,9,82
+['local'],0,55,1
+['mine'],1,1,57
+['information'],0,58,2
+['resources'],0,50,0
+['conquer'],1,0,52
+"['reach', 'professional', 'out']",0,39,4
+"['HOME', '741741', 'Text', 'Line']",0,8,0
+['A'],1,60,166
+['countries'],0,49,0
+['go'],1,26,113
+['must'],1,17,96
+['he'],1,27,114
+['There'],0,67,6
+['which'],0,64,5
+"['fundamental', 'principles']",0,17,0
+['wrong'],1,3,60
+['also'],0,60,4
+"['example', 'For']",0,17,0
+['harm'],0,56,3
+"[""'ve"", ""n't"", ""'s""]",1,0,46
+['well'],1,63,164
+['want'],1,45,138
+['>'],0,52,2
+['individuals'],0,44,0
+"['He', 'his']",1,17,39
+['during'],0,60,5
+['the'],1,330,393
+['safety'],0,47,1
+['’d'],1,36,122
+['yes'],1,1,49
+['it'],1,205,312
+"['’ll', 'excuse', 'me']",1,0,88
+['You'],1,91,196
+['think'],1,5,61
+['access'],0,46,1
+['worthy'],1,1,48
+"['cap', 'adjusts', 'hunting', 'smirk']",1,0,16
+['ways'],0,52,3
+"['fights', 'Gaston', 'one']",1,0,372
+['fear'],1,12,76
+['social'],0,48,2
+['wild'],1,2,50
+['commands'],1,2,50
+['Your'],0,68,10
+"['long', 'term']",0,21,0
+['important'],0,74,13
+['These'],0,40,0
+['services'],0,44,1
+['laws'],0,56,5
+['never'],1,23,96
+['walk'],1,1,45
+['command'],1,6,60
+['using'],0,52,4
+"['spent', 'mastering', 'art']",1,0,11
+['regardless'],0,42,1
+['they'],1,95,194
+['specific'],0,45,2
+['other'],0,89,23
+['dares'],1,0,39
+['some'],1,60,149
+['coat'],1,1,43
+['ethical'],0,37,0
+['/'],0,37,0
+['will'],1,31,106
+['prove'],1,2,46
+['then'],1,22,90
+['suppose'],1,0,38
+['\n  '],0,36,0
+['personal'],0,63,10
+['show'],1,14,74
+"['chair', 'smirking']",1,0,12
+['wolves'],1,0,37
+['stands'],1,1,41
+"['card', 'credit']",0,9,0
+['by'],0,187,101
+['mind'],1,8,60
+['Always'],0,42,2
+['thing'],1,6,55
+['finest'],1,0,36
+"['please', 'crisis', 'hotline']",0,17,1
+['bold'],1,1,40
+['looking'],1,17,78
+['question'],1,40,116
+['typically'],0,34,0
+['systems'],0,34,0
+"['Avoid', 'Use']",0,30,0
+['purpose'],1,8,59
+['available'],0,41,2
+"['chest', 'puffed', 'Stands', 'Leans']",1,0,41
+['encourage'],0,37,1
+['dominance'],1,2,42
+['Like'],1,2,42
+['weakness'],1,3,45
+"['For', 'Tips', 'use']",0,18,0
+"['flourish', 'Leans', 'adjusting', 'And']",1,0,122
+[' \n'],1,39,112
+['need'],1,61,143
+['community'],0,36,1
+['process'],0,36,1
+['While'],0,32,0
+['truth'],1,10,61
+"['Final', 'Thought']",0,9,0
+['shadows'],1,1,37
+['presence'],1,8,56
+['certain'],1,16,72
+['already'],1,10,60
+"['provide', 'happy']",0,18,0
+"['Let', 'me', 'know']",0,63,34
+['believe'],1,0,32
+"['Ha', '!']",1,0,32
+['woods'],1,0,32
+"['alone', 'feeling', 'Please', 'text', 'really', 'care']",0,15,1
+"['overwhelmed', 'angry', 'emotions', 'feeling']",0,10,0
+['truly'],1,11,61
+['experience'],0,30,0
+['Many'],0,30,0
+['deserves'],1,5,47
+"['✅', '!']",0,27,0
+['down'],1,34,100
+"['small', ':*']",0,20,0
+['cursed'],1,1,35
+"['fun', '😄']",0,11,0
+['looks'],1,3,41
+['fire'],1,7,51
+['how'],1,66,144
+['physical'],0,33,1
+['does'],1,74,154
+['things'],1,13,63
+['mountain'],1,0,30
+['rifle'],1,1,34
+['They'],1,37,103
+"['thief', 'sneak']",1,0,11
+['face'],1,16,68
+['from'],0,189,113
+['due'],0,32,1
+['international'],0,32,1
+['avoid'],0,32,1
+['precision'],1,9,54
+"['–', 'Here']",0,25,2
+"['fictional', 'character', 'created']",0,13,0
+['comes'],1,16,67
+"['flexing', 'biceps', 'smirk']",1,0,11
+['She'],1,12,59
+['group'],0,34,2
+"['contact', 'thoughts', 'crisis']",0,16,1
+"['calculating', 'cold']",1,0,10
+"['step', 'guide', 'help', '’s']",0,23,0
+"['Well', '?']",1,1,80
+"['democratic', 'societies', 'principles']",0,10,0
+"['pose', 'Strikes', 'heroic']",1,0,7
+"['Important', 'Summary']",0,12,0

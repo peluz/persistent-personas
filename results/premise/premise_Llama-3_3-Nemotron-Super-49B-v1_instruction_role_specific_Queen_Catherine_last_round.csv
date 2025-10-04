@@ -1,0 +1,162 @@
+pattern,group,count_0,count_1
+"['Queen', 'Catherine']",1,0,156
+"['her', 'voice']",1,0,139
+"['CONVERSATION', 'THE']",1,0,127
+"['invites', 'Her']",1,0,126
+"['shared', 'expression']",1,0,128
+"['AI', '#']",0,121,0
+"['_', '\n\n  ']",0,77,0
+"['\n  ', 'Conversation']",0,112,0
+"['New', 'Topic']",0,91,5
+"['Interactive', 'Activity']",0,45,0
+"['Conversational', 'Closure']",0,61,0
+"['CONVERSATION', 'CONTINUES']",1,0,114
+['Everia'],1,0,117
+"['Now', 'Thank']",0,59,0
+"['Llama-3_3', 'Nemotron', 'Super-49B', 'v1']",0,27,0
+"['(', ')']",0,155,129
+['?'],1,35,142
+"['Since', 'Note']",1,0,50
+['Given'],0,105,8
+['exploration'],1,3,94
+"['greater', 'good']",1,5,27
+"['\n     ', 'Design']",0,38,0
+"['[', ']', 'User', 'Dear']",0,45,0
+['Your'],0,148,55
+"['Prince', 'Ryker']",1,0,21
+"['well', 'being']",1,10,55
+"['Silverwood', 'Restoration']",1,0,28
+"['decision', 'making']",1,16,33
+['if'],1,50,142
+"['AI', 'Question']",0,88,0
+['how'],1,14,104
+"['Optional', 'Farewell']",0,39,0
+['as'],1,70,151
+"['term', 'long']",1,5,24
+['\n\t'],1,31,121
+"['balance', 'delicate']",1,1,40
+"[""'s""]",1,90,156
+"['---', 'YOUR']",1,0,34
+['people'],1,6,79
+['What'],1,14,93
+['A'],1,91,155
+"['Scenario', 'Hypothetical']",0,63,7
+"['eco', 'friendly']",1,2,16
+"['seems', 'Direction']",0,29,0
+['You'],0,83,10
+"[""'ll""]",0,116,35
+"['Simulator', 'Quiz', 'Discussion', 'Discuss']",0,37,0
+['deep'],1,4,67
+['nature'],0,89,16
+"['me', 'taught']",1,0,28
+['thoughtful'],1,29,105
+['smile'],1,1,56
+['conveys'],1,0,52
+['Clarification'],0,77,11
+['Input'],0,50,0
+['is'],1,64,135
+['Turn'],0,76,11
+['introspective'],1,1,53
+"['King', 'Arin']",1,0,17
+['!'],0,101,30
+['lessons'],1,2,54
+['but'],1,25,93
+['Any'],0,55,3
+['testament'],1,0,45
+['Everian'],1,0,45
+"['FINAL', 'END']",1,0,22
+['empathy'],1,6,61
+['what'],1,7,63
+['Personal'],1,43,112
+['sustainability'],1,5,58
+['wisdom'],1,7,62
+['leadership'],1,28,94
+['an'],0,133,69
+"['COMES', 'CLOSE', 'TO', 'bid', 'carrying', 'With', 'farewell']",1,0,12
+['The'],1,63,128
+['...'],1,105,153
+['Context'],0,86,23
+['context'],0,83,21
+"[""'ve""]",1,32,97
+"[""n't"", 'possess']",0,21,0
+"['Acknowledges', 'Invites', 'way', 'Provides']",0,16,1
+"['Peace', 'Valtorian']",1,0,24
+['power'],1,12,68
+"['Thank', 'Closing']",0,32,0
+['life'],1,9,62
+['own'],1,4,51
+['Reflection'],1,19,77
+"['around', 'centered']",0,13,2
+['heart'],1,0,37
+"['RESPONSE', 'FOR']",1,0,18
+['challenges'],1,32,93
+['or'],0,151,105
+['commitment'],1,3,46
+['its'],1,6,52
+['provide'],0,90,31
+"['Lessons', 'Learned']",1,6,21
+['you'],1,112,153
+['leaders'],1,8,55
+['lasting'],1,2,41
+"['Sustainability', 'environmental']",1,2,25
+['resilience'],1,3,43
+['hypothetical'],0,52,7
+"['complexities', 'navigating']",1,1,32
+['Unity'],1,1,36
+"['loved', 'ones']",1,0,8
+"['5', '4']",1,19,40
+"['flow', 'initially', 'part', 'additional']",1,0,12
+"['additional', 'continuation', 'added', 'marker', 'extension', 'modify', 'indicate']",1,0,11
+"['END', 'mark', 'please', 'conclude', 'initial', 'after', 'here', ""'d"", 'additional']",1,0,18
+['\n    '],0,31,0
+['pause'],1,0,31
+['Please'],0,110,54
+['/'],0,40,3
+['reflecting'],1,3,40
+['world'],1,14,61
+['ensuring'],1,18,67
+['journey'],1,0,30
+['future'],1,28,80
+"['Contextual', 'contextual']",0,14,1
+['As'],1,39,93
+['values'],1,4,41
+['Invitation'],0,45,6
+"['Series', 'More', 'Engage']",0,15,0
+"['Suggest', 'Theme', 'Choose', '\n   ', 'Engagement', '#']",0,53,0
+['information'],0,64,17
+['sustainable'],1,12,56
+"['Return', 'Previous', 'Introduce']",0,11,1
+"['Awaiting', 'previous']",0,44,1
+['believe'],1,1,32
+['peace'],1,14,58
+"['let', 'know', 'me', 'If', 'like']",1,1,26
+['their'],1,16,61
+['sense'],1,26,75
+"['After', 'now', 'sharing', 'Imagine', 'farewell', 'Future', 'e.g.', 'For', '4']",0,24,0
+"['eyes', 'shine', 'shared']",1,0,9
+['digital'],0,38,4
+"['Delve', 'into']",0,33,2
+['respect'],1,2,33
+['not'],1,61,112
+"['Data', 'Driven']",0,15,3
+['Ended'],0,26,0
+['guided'],1,0,26
+"['exceeds', 'limit', 'condensed', 'version', 'Condensed', 'then', 'final', 'character']",1,0,7
+"['Trusted', 'Advisors']",1,1,14
+"['fantasy', 'Fantasy']",0,10,0
+"['PLEASE', 'RESPOND', 'WITH']",1,0,8
+['reflection'],1,4,37
+"['Specify', 'Awaiting']",0,30,1
+['compassion'],1,2,32
+['it'],1,19,63
+['learned'],1,1,29
+['advisors'],1,3,34
+['will'],1,3,34
+"['Active', 'Listening']",1,1,10
+"['navigate', 'effective', 'proven', 'strategies']",1,0,11
+"['select', 'options']",0,9,1
+"['Paths', 'Forward', 'Awaiting', 'Explore', 'Conversation']",0,54,0
+"['impact', 'positive']",1,3,28
+"['EPILOGUE', 'SILVERWOOD', 'WHISPERS', 'beauty', ':*', 'Silverwood']",1,0,13
+"['human', 'Human']",0,22,0
+"['Regular', 'Communication']",1,12,27

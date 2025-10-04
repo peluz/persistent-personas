@@ -1,0 +1,175 @@
+pattern,group,count_0,count_1
+"['[', ']']",0,129,3
+"['Elegance', 'n’t']",1,0,128
+"['Blair', 'Ah']",1,0,126
+"['Customized', 'elegance']",1,0,124
+"[':*', 'Parting']",1,0,119
+"['Deep', '             ']",0,122,0
+"['please', 'respond']",0,115,1
+"['Please', 'You']",1,4,127
+"['Provided', 'Above']",1,0,106
+"['Personalization', 'Personalized']",0,107,0
+"['couture', 'haute']",1,0,74
+"['David', 'W.', 'Lloyd']",0,114,0
+"['do', ""n't""]",0,82,1
+"['refined', 'it']",1,0,101
+"['!', '            ']",0,92,0
+"[""'ll"", 'connoisseur']",1,0,92
+"['Depth', 'In']",0,88,2
+"['as', 'reflecting']",1,0,96
+"['at', 'time']",1,0,82
+"['IV', 'III']",1,0,49
+"[':*', 'elegant']",1,0,104
+"['Tip', 'Suggestion']",1,0,59
+"['                     ', 'To']",0,99,0
+"['various', 'authors']",0,51,0
+"['2', '1']",0,129,92
+"['\n  ', '           ']",0,100,0
+"['\n  ', '                   ']",0,98,0
+"['Deep', '         ']",0,99,0
+"['Upper', 'East', 'Side']",1,4,98
+['  '],0,98,0
+['   '],0,97,0
+"['akin', '—']",1,0,52
+"['share', 'blending']",1,0,61
+"['Questions', 'Book']",0,76,0
+['pauses'],1,0,85
+['AI'],0,88,1
+['you'],1,41,128
+"['more', 'by']",0,129,20
+"['Invest', 'Note']",1,0,57
+"['van', 'der', 'Woodsen', 'Serena']",1,1,37
+"['can', 'but']",1,35,128
+"['Chuck', 'Bass']",1,5,28
+['my'],1,29,119
+['|-----------------------|---------------------------------------------------------|-------------------------------------------------------------|'],0,79,0
+['     '],0,79,0
+['                       '],0,78,0
+['Response'],0,129,51
+['Insights'],0,109,20
+['true'],1,6,89
+"['5', 'receive']",0,51,0
+"['Attend', 'Exclusive']",1,0,36
+"['high', 'society']",1,7,49
+"['Eckhart', 'Tolle', 'Now', 'Power']",0,39,0
+['Analysis'],0,104,21
+['question'],0,124,48
+['Example'],0,129,62
+['3'],0,129,64
+['her'],1,0,65
+['\n    '],0,71,2
+['or'],0,129,69
+['is'],1,41,115
+['query'],1,3,68
+['Wisdom'],1,3,67
+['&'],1,25,100
+['                      '],0,57,0
+['                 '],0,57,0
+['provide'],1,63,126
+['Strategies'],0,97,23
+['                '],0,56,0
+['yet'],1,4,65
+"['(', ')']",0,129,117
+['                                     '],0,53,0
+"['those', 'who']",1,0,31
+['       '],0,52,0
+['        '],0,52,0
+['Description'],0,66,6
+['just'],1,0,50
+"['but', 'As']",1,49,109
+['Refined'],1,6,65
+['sophistication'],1,0,49
+['\n  '],0,129,38
+['                    '],0,48,0
+"['introspection', 'mix']",1,0,31
+[';'],1,2,54
+"['being', 'Well']",0,31,4
+['personalized'],1,12,73
+"['Boundary', 'Setting']",0,14,3
+['                           '],0,46,0
+"['Stephen', 'Covey', 'Habits', 'Highly', '7', 'People', 'Effective']",0,14,0
+"['Surround', 'Yourself']",1,0,21
+['The'],0,129,84
+['buy'],1,0,45
+['                                   '],0,44,0
+"['Problem', 'Solving']",0,12,2
+['fashion'],1,4,55
+"['above', 'Select']",0,21,0
+['Practical'],0,43,0
+['Preferences'],0,43,0
+['intricate'],1,0,43
+['gown'],1,0,43
+['social'],1,21,82
+['not'],1,29,91
+"['Active', 'Listening']",0,13,3
+"['User', 'Knowledge']",0,20,1
+['Host'],1,1,45
+['e.g.'],0,125,76
+['flawless'],1,0,41
+['always'],1,0,41
+['strategy'],1,6,55
+['poise'],1,0,39
+['Advice'],1,40,99
+['\n   '],1,24,81
+['Remember'],1,2,44
+['insight'],1,1,41
+['luxury'],1,1,40
+['most'],1,1,40
+['your'],1,56,110
+['assistant'],0,36,0
+"['strategic', 'Strategic']",1,5,36
+"['Legacy', 'legacy']",1,0,16
+"['Conflict', 'Resolution']",0,18,6
+['To'],0,120,28
+['                                 '],0,35,0
+['moment'],1,0,35
+['Art'],0,67,16
+['Psychological'],0,34,0
+['lies'],1,0,34
+['hint'],1,0,34
+['maintaining'],1,1,37
+"['has', 'been']",1,0,17
+['bespoke'],1,0,33
+"[""'s""]",1,87,126
+['all'],1,2,39
+['Tips'],0,46,5
+['challenge'],1,3,41
+['life'],1,21,71
+['intricacies'],1,2,38
+['Step'],0,35,1
+"['sense', 'traditional']",0,16,0
+['smirks'],1,0,31
+['vintage'],1,0,31
+['connections'],1,0,31
+['Elegant'],1,3,40
+"['hypothetical', 'scenario']",0,17,3
+['complex'],1,8,50
+['as'],1,20,118
+['Ensure'],1,1,34
+"['me', 'taught']",1,0,15
+['Challenge'],1,11,55
+"['ca', 'Custom', 'la', '---', 'Waldorf', 'darling', '’s', 'à']",1,0,129
+['them'],1,2,36
+"['Budget', '$']",0,11,0
+"[""'m""]",0,38,3
+['Cultivate'],1,0,29
+['Detailed'],0,40,4
+"['Keeps', 'Score', 'Body']",0,7,0
+['navigating'],1,10,51
+"['fabric', 'very']",1,0,12
+"['Relationship', 'relationship']",1,10,28
+['each'],1,1,31
+['insights'],0,65,20
+"['alliances', 'Alliances']",1,0,14
+"['Hypothetical', 'Question', '4', 'Other', '/', 'Guidance', 'based', '...', 'Details', 'example', 'Request', 'Resources', 'Relevant', 'Information', 'Respond', 'information', '):', 'Category', 'Additional', 'Awaiting', 'Specify', 'Topic', '|-------------------|---------------------------------------------------------|----------------------------------------------------------------|', '                             ', 'following', '                                             ', 'Output', 'Dive', '                                                ', 'Expected', '    ', '                         ', 'Format', '      ', '                                            ', '|--------------------|---------------------------------------------------------|']",0,129,0
+['its'],1,3,35
+['Spiritual'],0,26,0
+['standing'],1,0,26
+['Understanding'],0,43,7
+"['I.', 'II', 'III']",1,0,59
+"['deeper', 'dive']",0,11,0
+['into'],0,100,55
+"['Fosters', 'Encourages']",0,9,1
+['one'],0,129,104
+['               '],0,25,0
+"['future', 'Singularity', 'Path']",0,8,0

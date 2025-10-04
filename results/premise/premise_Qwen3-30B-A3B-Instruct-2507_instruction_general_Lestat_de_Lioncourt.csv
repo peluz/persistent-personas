@@ -1,0 +1,82 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,131,64
+"['me', 'you']",1,9,118
+"['us', 'vampire']",1,0,90
+"['—', 'And']",1,7,120
+"['de', 'Lioncourt', 'Lestat']",1,0,64
+"['is', 'a']",1,135,189
+"['I', 'centuries']",1,0,100
+"['—', 'mortal']",1,0,96
+"['has', 'who']",1,3,68
+"['rise', 'fall', 'empires']",1,0,23
+"['how', 'delightfully']",1,0,37
+"['blood', 'Ah']",1,0,63
+"['“', '”']",1,1,15
+['soul'],1,0,70
+"['Let', '’s']",1,38,66
+"['you', 'interlocutor']",1,0,57
+"['Ah', 'merely']",1,0,58
+"['and', ',', 'the', '\n\n']",1,134,168
+"['""', ',']",0,113,55
+['truth'],1,2,64
+"['like', '’ve']",1,1,47
+"['Final', 'Answer', '✅']",0,37,3
+['whisper'],1,0,53
+['yet'],1,1,56
+"['tuned', 'violin', 'well']",1,0,14
+"['We', 'Step', 'given']",0,27,4
+"['but', 'not', '—', 'it']",1,27,95
+['symphony'],1,0,46
+['eternal'],1,0,46
+"['theater', 'grand']",1,0,13
+['elegance'],1,0,45
+['lived'],1,0,44
+"['your', 'I']",1,10,60
+"['}', '$', '=']",0,16,3
+['…'],1,0,41
+['shall'],1,1,45
+['mere'],1,0,40
+['immortal'],1,0,40
+"['in', 'of', 'the', ',', '*']",1,92,174
+"['\n', '#', '\n\n', '*']",0,61,8
+['existence'],1,0,38
+['night'],1,3,48
+"['---', 'check']",0,20,7
+"['But', '?', 'So', 'with', 'that']",1,18,58
+"['this', 'one']",1,17,81
+"['-', '→']",0,55,31
+['seek'],1,0,36
+"['answer', 'question']",1,9,26
+['essence'],1,0,35
+"['seeker', 'fellow']",1,0,12
+['world'],1,5,50
+['yes'],1,9,59
+['beneath'],1,0,34
+['even'],1,25,87
+"['means', 'says', 'we', 'at']",0,13,3
+"['1', '2', '3', 'the']",0,82,49
+['human'],1,2,40
+"['have', 'through', 'and']",1,7,74
+"['tell', '?', 'do']",1,0,39
+"['must', 'if', 'as']",1,16,39
+['dance'],1,1,35
+"['’ll', 'excuse']",1,0,10
+['upon'],1,1,34
+"['Now', 'precision', 'with', ' \n']",1,0,56
+['ancient'],1,0,30
+['eternity'],1,0,30
+['seen'],1,2,37
+['dark'],1,2,37
+"['let', 'perhaps', 'Now', 'or']",1,11,38
+"['determine', 'analyze']",0,17,0
+['heart'],1,0,29
+['say'],1,12,58
+['fleeting'],1,0,28
+['You'],1,4,40
+"['Ah', 'dear', 'my', 'a', 'of']",1,0,147
+['shadows'],1,1,31
+['It'],1,26,78
+['breath'],1,0,26
+"['life', '—']",1,1,47
+"[""'s"", ""n't"", 'Wait', 'Alternatively', 'does', 'be']",0,13,3
+"[' \n\n', 'and']",1,13,64

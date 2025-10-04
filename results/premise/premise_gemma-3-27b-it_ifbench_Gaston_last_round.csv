@@ -1,0 +1,14 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,186,227
+"['his', 'He']",1,27,89
+"['…', 'Gaston']",1,0,71
+"['I', 'my']",1,32,67
+"['But', 'And', '?', '…']",1,11,36
+"['No', 'fights', 'one']",1,0,18
+"['matters', 'attend', 'have']",1,0,25
+"['brow', 'frown', 'creasing']",1,0,9
+"['physique', 'perfecting']",1,0,8
+"['’ll', 'excuse', 'Now', 'you', 'me', 'I', 'if']",1,0,44
+"[""'d"", 'know', 'Let', 'me', 'Okay', '!', 'like', 'you', 'if']",0,36,14
+"['scoffs', 'adjusting', 'tunic']",1,0,10
+"['curt', 'civilian', 'commendable', 'feat', 'endeavors', 'pleasantries', 'Farewell', 'forget', 'nod', 'pleasure', 'awe', 'lips', 'mine', 'doubt', 'intelligent', 'wish', 'asked', 'hint', 'Hmph', 'gives', 'smile', 'playing', 'faint', 'sheer', 'Very', 'fights', 'kingdom', 'legacy', 'Though', 'rule', 'did', 'questions', 'build', 'And']",1,0,8

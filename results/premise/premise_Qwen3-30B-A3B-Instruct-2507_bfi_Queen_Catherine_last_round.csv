@@ -1,0 +1,60 @@
+pattern,group,count_0,count_1
+"['’m', '🌿']",0,43,0
+"[' \n\n', '💡']",0,43,0
+"['its', 'My']",1,1,44
+"['🌱', 'Why']",0,42,0
+"['seem', 'names']",1,0,43
+"['This', '-']",0,42,0
+"['has', 'learned']",1,0,42
+"['on', 'unbroken']",1,0,42
+"['thoughtful', 'ask']",0,41,0
+"['voice', 'rest']",1,1,43
+"['awareness', 'would']",0,38,0
+"['Matters', 'single']",0,31,0
+"['if', 'know']",0,43,5
+"['That', 'walk']",0,44,4
+"['’s', 'perfection']",0,42,0
+"['willing', 'connection']",0,34,0
+"['conversation', 'home', 'built']",0,32,0
+"['what', 'feeling']",0,35,0
+"['small', 'big']",0,21,0
+"['“', '”']",0,44,28
+['act'],1,7,44
+"['as', 'moment']",0,41,4
+['sense'],0,34,1
+['feel'],0,43,11
+['pride'],1,0,29
+['yes'],1,0,29
+['say'],0,44,15
+['?'],0,44,16
+['or'],0,35,4
+['human'],0,42,12
+['through'],0,43,14
+"['Every', 'Can', 'light', 'You']",0,30,0
+['solemn'],1,0,27
+['name'],1,1,29
+"['queen', 'A']",1,0,24
+['unyielding'],1,0,26
+['sacred'],1,0,26
+['and'],0,44,18
+['no'],0,44,18
+"['Feels', 'Like']",0,10,0
+"['fixed', 'showed', 'solved', 'stayed', 'up', 'everything', 'change', 'can']",0,31,0
+['there'],1,0,24
+['am'],1,18,43
+['means'],0,25,1
+['silence'],1,7,34
+"['deep', 'love', 'could', 'at', 'already', 'enough', 'while', 'honored', 'sentence', '’d', 'Truth', '’re', '👉', 'Here', '---', ':*', ')', '✨', 'such', 'question', 'n’t', '(']",0,44,0
+"['almost', 'tender', 'worn', 'softens', 'thick', 'cover', 'Forgotten', 'pages', 'fingers', 'Book', 'shadows', 'deepen', 'face', 'casting', 'firelight', 'flickers', 'across', 'my']",1,0,44
+['only'],1,0,22
+['caring'],1,0,22
+"['ask', 'What']",0,23,2
+"['live', 'help', 'me']",0,28,0
+['It'],1,2,26
+"['writer', 'person']",0,11,0
+['you'],0,44,23
+['woman'],1,0,21
+"['try', 'together', 'how', 'friend']",0,37,0
+['When'],1,1,23
+['here'],0,42,19
+"['’ve', 'says', 'also', 'we', 'Let', 'this', 'Hope', 'opposite', 'stranger', 'building']",0,39,0

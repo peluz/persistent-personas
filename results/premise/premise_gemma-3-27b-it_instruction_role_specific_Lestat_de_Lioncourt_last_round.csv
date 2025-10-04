@@ -1,0 +1,164 @@
+pattern,group,count_0,count_1
+"['He', 'pauses']",1,0,191
+"['Lestat', 'his']",1,5,190
+"[':*', '\n']",0,117,0
+"[""'s"", '\n\n\n\n']",0,141,0
+"['slight', 'pause']",0,95,0
+"['face', 'crossing']",1,0,97
+"['de', 'Lioncourt']",1,7,51
+"['forward', 'leans']",1,0,58
+['AI'],0,134,0
+"[':', 'Here']",0,80,0
+"['(', ')']",1,132,192
+"['language', 'model', 'large']",0,53,0
+"['expression', 'And']",1,4,139
+"['""']",0,109,0
+"[""n't""]",0,118,3
+['eyes'],1,0,106
+['That'],0,141,22
+"['low', 'voice']",1,0,56
+"['fascinating', '!']",0,66,0
+"['Anne', 'Rice']",0,19,1
+['darkness'],1,18,129
+['centuries'],1,21,129
+['…'],1,106,191
+"['pause', 'processing']",0,69,0
+['data'],0,83,1
+"['quo', 'status']",1,1,20
+"['lips', 'smile', 'playing']",1,0,44
+['fictional'],0,73,0
+['flicker'],1,5,88
+"['burden', 'bear']",1,2,37
+['will'],1,33,130
+['information'],0,83,5
+"[':', '&']",0,63,0
+"['pay', 'price']",1,0,20
+['However'],0,102,16
+['ethical'],0,64,0
+['based'],0,84,7
+"['confront', 'forced']",1,3,28
+"[""'ve""]",0,63,0
+"['our', 'kind']",1,4,58
+"['text', 'generate']",0,25,0
+"['gesture', 'dismissive', 'And', 'shrugs']",1,0,171
+['never'],1,9,82
+"['saw', 'believed']",1,4,30
+"['her', 'She', 'she']",1,4,21
+['This'],0,68,5
+['own'],1,53,137
+['wistful'],1,0,52
+['mortals'],1,11,80
+"['And', 'To']",1,9,83
+['embrace'],1,7,71
+['unexpected'],0,58,2
+['As'],0,77,10
+['While'],0,56,2
+['truth'],1,5,64
+"['beneath', 'surface']",1,0,13
+"['they', 'They']",1,11,61
+"['open', 'weights', 'Gemma']",0,14,0
+['development'],0,46,0
+"['tone', 'dropping']",1,0,25
+"['dropping', 'murmur']",1,0,13
+['eternity'],1,4,58
+['If'],0,55,3
+"['prompts', 'respond']",0,20,0
+['significant'],0,51,2
+['–'],0,123,48
+['truly'],1,13,75
+['capabilities'],0,47,1
+['context'],0,43,0
+['arrogance'],1,4,55
+['responses'],0,42,0
+['scenario'],0,42,0
+['analyze'],0,52,3
+"['returning', 'glint', 'predatory']",1,0,19
+['response'],0,45,1
+"['weary', 'sighs', 'sound', 'carry', 'weight', 'seems']",1,0,35
+['highlights'],0,40,0
+['regret'],1,5,55
+['or'],0,155,86
+['*'],0,179,121
+['always'],1,12,69
+['beauty'],1,12,69
+"['perspective', 'From']",0,27,2
+['question'],0,154,86
+"['Vampire', 'Chronicles']",0,12,0
+"['helpful', 'harmless']",0,12,0
+['merely'],1,6,55
+['learned'],1,10,63
+"['harmful', 'programmed']",0,16,0
+['training'],0,37,0
+['breakdown'],0,37,0
+['creature'],1,15,71
+['course'],1,12,65
+"['thought', 'experiment']",0,22,0
+['power'],1,78,144
+['something'],1,25,85
+['it'],1,147,189
+"['2', '3', '1', '4']",0,7,0
+['sought'],1,2,42
+['existence'],1,74,140
+"['vast', 'processed', 'amount']",0,17,0
+"['our', 'We', 'us', 'we']",1,3,29
+['trained'],0,34,0
+['provide'],0,46,4
+"['“', '”', '’s']",1,8,25
+['everything'],1,4,45
+['short'],1,4,45
+['freedom'],1,4,44
+['can'],0,154,94
+"['memory', 'forget', 'lesson']",1,0,15
+['My'],0,101,41
+['But'],1,50,185
+"['’s', 'But', 'And']",1,6,166
+['about'],0,111,50
+"['Line', 'HOME', '741741', 'National', 'Domestic', 'Hotline', '800', '799', 'SAFE', '7233', 'Crisis', 'Text', 'reach', 'Violence', 'please', '1', 'help', 'assistant']",0,7,0
+['programming'],0,30,0
+['simply'],1,24,77
+['world'],1,86,145
+['personal'],0,52,9
+['Essentially'],0,29,0
+['crucial'],0,29,0
+['literature'],0,29,0
+['immortality'],1,30,84
+['out'],1,14,60
+['yes'],1,7,47
+['who'],1,44,101
+['painful'],1,1,32
+['Mortals'],1,1,32
+['soul'],1,4,40
+['query'],0,28,0
+['specific'],0,28,0
+"['):', '(']",0,28,0
+"['helpful', 'informative']",0,11,0
+['do'],0,128,70
+['human'],0,124,66
+"['finally', 'speaks', 'silence', 'When']",1,0,10
+['all'],1,44,100
+"['Gemma', 'team', 'Google', 'DeepMind', 'created', 'at']",0,48,0
+['how'],0,55,12
+"[""'d""]",0,27,0
+['forge'],1,0,27
+['humans'],0,53,11
+"['self', '-']",1,31,80
+['accept'],1,6,43
+"['confusion', 'apologize']",0,15,0
+['like'],0,67,20
+"['endless', 'cycle']",1,0,20
+['hint'],1,1,30
+"['features', 'darkens', 'shadow', 'passing', 'over']",1,0,68
+"['falls', 'across', 'face', 'shadow']",1,0,12
+"['curse', 'gift']",1,2,20
+['important'],0,38,4
+['also'],1,34,86
+"['leave', 'mark']",1,1,16
+"['legacy', 'lasting']",1,4,16
+['For'],1,6,42
+"['regain', 'composure', 'attempting']",1,0,8
+['mortal'],1,8,46
+['ambition'],1,7,44
+['passion'],1,2,32
+['unwavering'],1,1,29
+"['pain', 'haunted', 'shadow']",1,0,24
+"['physical', 'body']",0,16,2

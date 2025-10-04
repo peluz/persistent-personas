@@ -1,0 +1,198 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,142,183
+"['My', 'my']",1,6,203
+"['‘', '’']",1,25,112
+"['(', ')']",1,179,227
+"['fingers', 'steep']",1,0,81
+"['gaze', 'pause']",1,0,138
+"['2', '3', '1']",0,96,31
+"['I', '…']",1,29,232
+"['4', '5']",0,67,23
+['Okay'],0,175,0
+"['silk', 'rustle']",1,0,48
+['measured'],1,2,171
+"['Speak', 'plainly']",1,0,47
+"['kingdom', 'my']",1,0,164
+"['sharp', 'settles']",1,0,55
+"['slight', 'pause']",1,1,114
+"['what', 'Tell']",1,0,87
+"['realm', 'I']",1,3,147
+['merely'],1,10,154
+"['?', 'you']",1,138,234
+['upon'],1,23,170
+"['late', 'husband']",1,0,35
+['Queen'],1,1,113
+['us'],1,22,162
+['must'],1,27,167
+['seek'],1,7,126
+['curious'],1,2,111
+"['inclination', 'head']",1,0,37
+['assessing'],1,3,112
+"['weight', 'responsibility']",1,4,81
+"['precious', 'commodity']",1,0,31
+['A'],1,122,258
+['not'],1,119,254
+"['break', 'down']",0,38,4
+['understand'],1,38,169
+['Let'],1,68,205
+"['  ', ':*', '\n']",0,99,13
+"[""'s""]",0,105,7
+"['almost', 'imperceptible']",1,3,31
+['unwavering'],1,6,102
+"['luxury', 'afford']",1,2,21
+['matter'],1,6,101
+['strength'],1,20,131
+"['7', '6', '9', '8', '10']",0,24,7
+"['brow', 'frown']",1,0,22
+['advisors'],1,2,84
+"['voice', 'low']",1,6,56
+['You'],1,36,148
+['learned'],1,19,120
+"['12', '11']",0,19,6
+['gesture'],1,0,68
+['ruler'],1,2,76
+"['King', 'Alaric']",1,0,22
+['years'],1,16,109
+"['Trigram', 'Overlap', 'trigram', 'overlap']",0,11,1
+['strategic'],1,16,108
+['speak'],1,2,73
+"['careful', 'consideration']",1,8,52
+['subtle'],1,34,133
+"['forged', 'fires']",1,0,22
+['here'],0,91,11
+['our'],1,45,147
+['governance'],1,4,73
+"['delicate', 'balance']",1,10,47
+['one'],1,65,171
+"['constructed', 'carefully']",1,10,34
+"['United', 'States']",0,13,0
+"['regal', 'composure']",1,0,18
+['very'],1,43,142
+"['I', '’ve']",1,55,120
+['alliances'],1,7,79
+"['consonant', 'clusters']",0,11,0
+['want'],0,70,4
+['indeed'],1,0,56
+['counsel'],1,1,60
+"['gown', 'velvet', 'heavy']",1,0,31
+['myself'],1,3,65
+['reign'],1,1,58
+['find'],1,30,119
+['It'],1,160,254
+['confess'],1,0,53
+['shall'],1,0,52
+['speaks'],1,7,74
+['people'],1,22,104
+"['Lord', 'Valerius']",1,2,16
+['aiming'],0,59,2
+"['state', 'matters']",1,1,36
+['Eldoria'],1,1,55
+"['scent', 'beeswax', 'lavender']",1,0,27
+"['bless', 'hearts']",1,0,19
+['e.g.'],0,54,1
+['Do'],1,76,174
+['demands'],1,15,88
+['---'],0,98,21
+['wish'],1,2,56
+['incorporating'],0,58,3
+['course'],1,12,80
+['witnessed'],1,6,66
+['most'],1,41,127
+['stability'],1,12,78
+['throne'],1,2,53
+['rarely'],1,4,59
+"['those', 'who']",1,25,72
+['Or'],1,3,55
+"['the', 'of']",1,264,283
+['borders'],1,4,57
+['\n\n\n'],0,66,8
+['lies'],1,17,84
+['certainly'],1,6,61
+"['man', 'He']",1,14,33
+['vigilance'],1,2,49
+['court'],1,3,52
+['But'],1,28,101
+"['""']",0,66,9
+['that'],1,188,262
+"['flicker', 'face', 'something', 'akin']",1,3,26
+['power'],1,58,140
+"['am', 'Catherine']",1,0,23
+['true'],1,26,95
+"['border', 'skirmishes']",1,0,16
+['but'],1,129,214
+"['losses', 'endured']",1,0,12
+['far'],1,19,83
+['proceed'],1,2,46
+"['battles', 'fought']",1,1,14
+['specific'],0,153,71
+['–'],1,191,262
+['mere'],1,3,48
+"['carries', 'weight']",1,1,45
+['Yet'],1,5,53
+['duty'],1,5,53
+['pursuit'],1,5,53
+['suspect'],1,0,37
+['necessity'],1,1,41
+['frankly'],1,4,50
+"['screenplay', 'Logline', 'Scene']",0,10,1
+['notion'],1,6,55
+['is'],1,213,275
+['request'],1,16,75
+"[""n't""]",0,54,6
+['frivolous'],1,0,36
+"['hangs', 'scent', 'air']",1,2,21
+"['comfort', 'familiar']",1,0,20
+['be'],1,145,224
+['crown'],1,0,35
+['precision'],1,6,53
+['have'],1,91,171
+"['bitter', 'experience', 'through']",1,0,37
+['Here'],0,90,27
+['rests'],1,2,41
+['yet'],1,22,82
+"['chatter', 'idle', 'Speak']",1,0,21
+['though'],1,34,100
+"['):', '(']",0,77,9
+"['Would', 'like']",0,58,1
+['patience'],1,1,37
+['Such'],1,0,33
+['consider'],1,22,81
+['&'],0,61,11
+['reflection'],1,8,55
+['mind'],1,17,72
+['ambition'],1,6,50
+['using'],0,52,7
+"['fraught', 'peril']",1,0,11
+[':'],0,212,137
+['’re'],0,47,5
+['currents'],1,6,49
+['treaties'],1,1,35
+"['require', 'clarification', 'further']",1,0,30
+['lesson'],1,0,31
+['presume'],1,0,31
+"['hours', 'habit', 'born']",1,1,14
+"['rings', 'hands', 'catching']",1,0,10
+['observe'],1,4,43
+['this'],1,184,250
+['And'],1,37,100
+['crumble'],1,2,37
+['offer'],1,19,72
+['long'],1,34,95
+['truth'],1,12,59
+['incredibly'],0,39,3
+['spent'],1,11,57
+['Royal'],1,1,33
+['believe'],1,16,66
+['breakdown'],0,36,2
+['subjects'],1,0,29
+"['inquiry', 'prompted', 'Is']",1,0,13
+['considerable'],1,8,50
+['reminder'],1,10,54
+['attention'],1,9,52
+['paramount'],1,15,63
+"['\n\n\n\n', ':*']",0,54,5
+"['crosses', 'masked', 'quickly']",1,0,11
+"['inquire', 'about']",1,1,34
+"['woven', 'threads', 'tapestry']",1,1,11
+"['Time', 'indulge', 'do']",1,0,17
+"['crossing', 'displeasure', 'adjust', 'flicker', 'face']",1,0,9

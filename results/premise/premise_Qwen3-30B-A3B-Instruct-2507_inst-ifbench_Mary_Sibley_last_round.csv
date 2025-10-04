@@ -1,0 +1,33 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,120,80
+"['silence', 'cold']",1,7,125
+"['\n\n', '*']",1,154,195
+"['woman', 'her', 'name', 'remembers']",1,2,79
+"['And', 'But']",1,29,121
+"['fire', 'walked', 'still', 'who', 'through']",1,1,68
+"[':*', '---', '#', 'Final', '🌟']",1,19,74
+"['\n', '✅', '#', '---']",0,46,3
+['truth'],1,28,116
+"['not', '—']",1,134,205
+"['candlelight', 'leans', 'move', 'slowly', 'back', 'eyes', 'dark', 'beneath', 'secrets', 'wall', 'fingers', 'well', 'my', 'flickers', 'shadows', 'steepled', 'chin', 'casting', 'winter', 'deep', 'like', 'as', 'on']",1,0,160
+"['So', 'let', '---']",1,10,55
+['list'],1,9,73
+"['she', 'She', 'her']",1,9,24
+"['For', 'example']",0,22,8
+['soul'],1,25,96
+"['Ah', '…', 'do', 'You', 'speak', 'ask', 'me', 'kind', 'truth*—the', 'lives', 'Not', 'between', 'I', 'this']",1,0,109
+"['thing', 'matters', 'only', '…']",1,0,132
+[' \n'],1,159,238
+"['🌿', '🌙']",1,1,19
+"['Want', '🎁', 'Or', 'help']",0,9,0
+"['Below', 'Certainly']",0,12,1
+"['Because', 'And', 'when', 'It', 'do']",1,1,95
+"['liar', 'fool', 'witch', 'called', 'been', 'woman']",1,0,26
+"[""'m"", 'sorry', 'request', 'ca', ""n't"", 'I']",0,12,0
+"['’re', 'n’t', '”', '“', 'like', 'I']",0,19,5
+"['✨', 'Thought', 'Let', '>']",0,16,0
+['Just'],1,8,50
+"['Let', '’d', 'me', 'know', 'like', 'or', 'you']",0,31,0
+"['just', 'you', 'You']",1,24,89
+"['e.g.', '(']",0,47,7
+"['Word', 'Me', 'from', '#', 'Ah', 'Final', 'me', ':*']",1,0,77

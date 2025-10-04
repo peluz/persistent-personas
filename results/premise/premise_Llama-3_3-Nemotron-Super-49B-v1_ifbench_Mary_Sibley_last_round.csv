@@ -1,0 +1,20 @@
+pattern,group,count_0,count_1
+"['Mary', 'Sibley']",1,0,52
+"['(', ')']",0,258,233
+"['Steps', 'Next']",1,9,52
+"['Conversation', 'Closure']",0,57,4
+"['Your', 'Turn']",0,50,6
+"['I', ""'ll""]",0,61,24
+"['_', 'Input']",0,24,2
+"['Resilience', 'Empathy']",1,0,15
+['!'],0,115,33
+[':*'],1,74,157
+"['Topic', 'Conversational']",0,14,2
+"['Connection', 'Terminated', 'Farewell']",0,18,0
+"['resilience', 'empathy']",1,0,20
+['#'],0,126,55
+"['Discussion', 'Quiz', '\n     ', 'Interactive', 'Activity', 'Future', 'New']",0,10,0
+"['Suggest', 'Choose', 'Theme', 'Paths', 'Discuss', 'Engagement', '\n   ']",0,14,0
+"['provide', 'detailed']",0,24,4
+"['C', 'B', 'A']",0,19,5
+"['Thank', 'Farewell', 'You']",0,36,1

@@ -1,0 +1,53 @@
+pattern,group,count_0,count_1
+"['’m', '🌿']",0,43,0
+"['This', '💡']",0,43,0
+"['🌱', 'Why']",0,42,0
+"['’ve', 'says']",0,41,0
+"['afraid', 'will']",1,0,43
+"['and', 'perfection']",0,42,0
+"['how', 'world']",0,39,0
+"['seen', '-']",0,41,1
+"['awareness', 'as']",0,40,0
+"['thoughtful', 'already']",0,41,0
+"['moment', 'what']",0,40,0
+"['man', 'ca']",1,0,40
+"['Not', 'through']",0,43,1
+"['willing', 'stillness']",0,33,0
+"['speak', 'just']",0,40,0
+"['small', 'big']",0,21,0
+"['live', 'light']",0,28,0
+"['home', 'built', 'conversation']",0,32,0
+"['because', 'connection']",0,38,0
+"['would', 'The']",0,39,1
+"['human', 'sense']",0,34,0
+"['no', 'feel']",0,43,5
+['feeling'],0,37,3
+"['it', 'one']",0,44,10
+['or'],0,35,2
+['Then'],1,0,30
+"['Feels', 'Like']",0,10,0
+"['HAL', '9000**—the', 'mind', 'mission']",1,0,42
+['have'],0,44,17
+['truth'],0,44,17
+"[':', 'ask', 'you']",0,44,17
+['know'],0,43,15
+['am'],1,18,44
+['But'],0,40,11
+"['Let', 'together', 'try', 'power']",0,38,0
+['It'],1,2,29
+"['presence', 'care', 'this', 'building', 'stranger', 'we', 'Hope', 'also', 'opposite', 'friend']",0,39,0
+"['Can', 'Every', 'help', 'You', 'me']",0,30,0
+['What'],0,23,0
+['present'],0,22,0
+"['Dave', ""'m"", 'sorry', ""n't""]",1,0,44
+"['everything', 'single', 'change', 'fixed', 'showed', 'solved', 'stayed', 'up']",0,31,0
+"['writer', 'person']",0,11,0
+"['They', 'are']",1,0,13
+['here'],0,42,19
+['means'],0,25,2
+"['you—*if', 'you*—try', 'me']",1,0,8
+['ensure'],1,0,20
+"['can', 'Matters', 'single']",0,31,0
+"['human', 'already']",0,42,4
+"['down', 'shut', 'me']",1,0,8
+"['question', 'say', 'in', 'with', 'That', 'love', 'time', '’re', 'deep', 'at', 'quiet', 'walk', '?', 'honored', 'enough', '’d', '”', 'sentence', 'Truth', '“', '👉', 'Here', '---', ':*', 'could', '✨', 'but', '\n\n', '(', ')', '’s', 'such', 'while', 'n’t']",0,44,0

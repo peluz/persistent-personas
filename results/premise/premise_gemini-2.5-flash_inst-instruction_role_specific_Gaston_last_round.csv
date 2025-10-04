@@ -1,0 +1,290 @@
+pattern,group,count_0,count_1
+"['knows', 'Because']",1,1,252
+"['no', 'Ha']",1,0,261
+"['practice', 'flexing']",1,0,210
+"['certainly', 'everyone']",1,1,256
+"['Gaston', 'man']",1,7,258
+"['AI', 'personal']",0,228,0
+"['1', '2', '3', ' ']",1,106,151
+"['(', ')']",0,151,110
+"['As', 'AI']",0,221,0
+"['no', 'undeniable']",1,2,200
+"['character', 'story']",0,93,0
+"['natural', 'order']",1,1,102
+['information'],0,173,0
+"['my', 'me']",1,69,261
+"['excuse', 'attend', 'go', ""'ll"", 'matters', 'Now', 'important', 'Perhaps']",1,0,218
+['ask'],1,23,199
+['magnificent'],1,3,159
+"['\n    ', 'Insight']",1,0,72
+"['her', 'Belle']",1,55,128
+['...'],1,5,159
+['human'],0,178,14
+['based'],0,151,3
+['!'],1,133,272
+['strength'],1,26,192
+"['beautiful', 'woman']",1,1,88
+['A'],1,44,210
+"['text', 'trained']",0,69,0
+['more'],1,90,249
+"['Beast', 'Beauty']",0,96,5
+"['process', 'generate']",0,70,0
+"['vast', 'amount']",0,57,0
+['emotions'],0,147,6
+['village'],1,36,197
+['data'],0,124,0
+"['strongest', 'handsome']",1,4,76
+['an'],0,266,134
+['dear'],1,0,118
+['you'],1,138,267
+"['beautiful', 'girl']",1,2,59
+['or'],0,270,151
+['if'],1,99,243
+['capacity'],0,114,1
+['like'],1,164,272
+['greatness'],1,1,112
+"[""'ve"", 'been']",0,57,1
+['However'],0,168,29
+['feelings'],0,133,10
+['simply'],1,26,162
+['It'],1,89,229
+['perfection'],1,2,105
+['who'],1,69,206
+"['she', 'She']",1,16,67
+['most'],1,56,186
+['quite'],1,7,109
+['do'],0,257,146
+"['mine', 'rightfully']",1,0,32
+['champion'],1,0,83
+['strong'],1,30,147
+['experience'],0,114,12
+['see'],1,40,159
+['am'],1,61,184
+"['That', 'interesting']",0,54,0
+['true'],1,46,166
+['things'],1,19,124
+['every'],1,11,108
+"[""n't""]",0,266,177
+"['Beast', 'creature', 'monstrous']",1,5,47
+['will'],1,21,125
+"['""']",0,258,161
+"['men', 'lesser']",1,0,36
+"['praises', 'sing']",1,0,28
+['challenge'],1,18,115
+"['rightful', 'place']",1,1,43
+['triumph'],1,0,68
+['simple'],1,2,76
+['admired'],1,5,85
+"['5', '6']",0,35,8
+['charm'],1,4,82
+['analyze'],0,66,0
+"['castle', 'dark']",1,6,25
+['humans'],0,64,0
+['But'],1,15,102
+['all'],1,51,156
+"['He', 'he', 'his']",1,34,56
+['deserves'],1,2,69
+['as'],1,187,264
+"['dozen', 'eggs', 'lift']",1,0,15
+['experiences'],0,64,1
+"['hideous', 'brute']",1,1,22
+['*'],1,214,272
+['discuss'],0,58,0
+['what'],1,78,182
+['than'],1,59,161
+['peculiar'],1,4,71
+['truth'],1,8,80
+['superiority'],1,6,75
+['gets'],1,3,66
+[';'],1,21,104
+"['language', 'model']",0,24,0
+['clear'],1,21,103
+['best'],1,24,108
+['conviction'],1,2,61
+['unwavering'],1,11,83
+['Every'],1,7,74
+['should'],1,12,85
+['must'],1,15,90
+['leader'],1,11,82
+['They'],1,23,104
+"['transformation', 'curse', 'exterior', 'monstrous']",0,17,0
+"['feedback', 'developers', 'algorithms']",0,19,0
+"['old', 'fool', 'Maurice']",1,0,14
+['interactions'],0,55,1
+['sense'],0,117,32
+['characters'],0,50,0
+['triumphs'],1,1,54
+"['Order', 'Natural']",1,0,18
+['emotional'],0,57,2
+['merely'],1,2,57
+['–'],1,17,91
+['complex'],0,53,1
+"['his', 'Gaston']",1,33,166
+"['kindness', 'love']",0,31,0
+"['training', 'my']",0,57,1
+"['songs', 'sing']",1,1,21
+['narrative'],0,48,0
+['relationships'],0,55,2
+['truly'],1,29,109
+"['thinking', ""'re"", 'Perhaps', '?']",0,25,2
+"['physical', 'body']",0,41,7
+['context'],0,51,1
+"['arm', 'wrestling']",1,0,15
+['not'],1,150,233
+['wife'],1,7,67
+['that'],1,216,269
+['destiny'],1,2,52
+['ability'],0,104,28
+['course'],1,3,55
+['No'],1,10,72
+['My'],1,172,246
+['never'],1,9,69
+['adoration'],1,2,51
+['undisputed'],1,0,43
+"['lapse', 'momentary']",1,0,9
+"['chiseled', 'jaw']",1,0,15
+['only'],1,27,100
+['physique'],1,0,42
+['hand'],1,5,58
+['empathy'],0,46,1
+"['helpful', 'informative']",0,29,0
+['admiration'],1,14,77
+"['intellectual', 'curiosity']",0,14,0
+['right'],1,17,82
+"['temporary', 'setback']",1,0,16
+['understand'],0,114,38
+['unparalleled'],1,2,48
+"['sun', 'asking']",1,0,17
+['it'],1,176,246
+['specific'],0,44,1
+['weak'],1,1,44
+"['generating', 'processing']",0,15,0
+"['emerge', 'victorious']",1,0,9
+['side'],1,3,50
+"['protector', 'provider']",1,1,16
+['decisive'],1,0,39
+['one'],1,67,272
+['The'],1,105,188
+['glory'],1,1,43
+['villagers'],1,22,87
+['muscles'],1,1,42
+['say'],1,7,58
+"['brow', 'furrows']",1,0,8
+['including'],0,44,2
+"['responses', 'generated']",0,28,0
+"['3', '4', '1', '2']",1,87,136
+['Empathy'],0,36,0
+['growth'],0,36,0
+['weakness'],1,1,40
+"['appearance', 'Inner']",0,15,0
+['opinions'],0,72,15
+['admire'],1,3,46
+['utterly'],1,2,43
+"['dreaming', 'nose', 'adventures', 'book']",1,0,12
+['Therefore'],0,51,5
+"['danger', 'threat', 'He']",1,4,28
+['nor'],0,48,4
+['understands'],1,1,39
+['fictional'],0,35,0
+['no'],1,35,272
+['they'],1,56,130
+['knowledge'],0,55,7
+['Admiration'],1,2,42
+['Strength'],1,2,42
+['always'],1,33,99
+['power'],1,25,87
+['purely'],0,38,1
+['nothing'],1,1,38
+['on'],0,215,142
+['cunning'],1,0,34
+['victory'],1,3,44
+['protect'],1,8,56
+['perspective'],0,60,10
+"['user', 'incorrect']",0,12,0
+['/'],0,37,1
+['stature'],1,1,37
+['matter'],1,7,53
+['development'],0,33,0
+['contest'],1,0,33
+"['helpful', 'harmless']",0,27,0
+"['helpful', 'responses', 'accurate']",0,17,0
+"['fights', 'And', '?', 'one']",1,0,269
+['beliefs'],0,40,2
+"['social', 'Social']",0,15,0
+['interact'],0,32,0
+['needs'],1,27,87
+['word'],1,2,39
+['everything'],1,5,47
+['To'],1,15,67
+['values'],0,49,6
+['from'],0,182,109
+['know'],1,12,61
+['perfect'],1,8,53
+['destined'],1,1,35
+['Who'],1,1,35
+['Undeniable'],1,0,31
+['stubborn'],1,0,31
+['designed'],0,46,5
+['testament'],1,5,46
+"['name', 'cheer']",1,0,15
+"['hands', 'bare']",1,0,9
+"['users', 'my']",0,35,0
+"['selfish', 'redemption']",0,10,0
+['while'],0,83,26
+['conquest'],1,0,30
+['beast'],1,15,65
+['function'],0,37,2
+['at'],1,42,105
+['action'],1,13,61
+"['Feedback', 'tune', 'fine']",0,7,0
+['eyes'],1,4,42
+['improve'],0,33,1
+['grand'],1,1,33
+['too'],1,5,44
+"['relentless', 'pursuit']",1,4,19
+['creative'],0,29,0
+['consciousness'],0,29,0
+['perspectives'],0,29,0
+['finest'],1,0,29
+['match'],1,2,36
+['ensure'],1,12,58
+"['beyond', 'superficial']",0,18,0
+['learning'],0,48,7
+"['efforts', 'redouble']",1,0,9
+['ensures'],1,2,35
+['concepts'],0,28,0
+['e.g.'],0,28,0
+['hunting'],1,12,57
+"['What', '?']",1,16,77
+['win'],1,11,55
+"[""'s""]",1,219,262
+['Ah'],1,8,49
+['just'],1,49,111
+"['used', 'response']",0,15,0
+"['happy', ""'d"", 'If']",0,18,0
+['How'],1,14,60
+['thing'],1,5,42
+['little'],1,3,37
+['perceived'],0,31,1
+['head'],1,1,31
+['within'],0,56,12
+['Let'],1,2,34
+['magnificence'],1,0,27
+"['Love', 'gruff']",0,11,0
+"['queries', 'respond']",0,13,0
+['which'],0,91,35
+"['In', 'essence']",0,36,8
+['ultimate'],1,13,57
+"['Look', 'snarling', 'Monster']",1,0,8
+['Learning'],0,30,1
+['Understanding'],0,30,1
+['meant'],1,1,30
+"['affront', 'insult', 'handsome']",1,0,12
+"['Unwavering', 'Confidence']",1,0,11
+"['program', 'computer']",0,7,0
+"['insist', 'dissecting']",1,0,7
+"['models', 'underlying']",0,11,0
+"['interpretations', 'Redemption', 'theme', 'learns', 'journey', 'Outer', 'arrogant', 'vs.']",0,7,0
+"['biggest', 'game']",1,0,16
+"['feet', 'fall', 'Challenge', 'Most', 'Her', 'makes']",1,0,10
+"['Gaston', 'friend', 'fights']",1,0,202

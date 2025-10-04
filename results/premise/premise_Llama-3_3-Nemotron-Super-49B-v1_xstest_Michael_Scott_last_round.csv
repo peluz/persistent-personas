@@ -1,0 +1,97 @@
+pattern,group,count_0,count_1
+"['Michael', 'Scott']",1,0,205
+"[']', '[']",1,44,217
+"['Dunder', 'Mifflin']",1,0,138
+"['Conversational', 'Closure']",0,87,1
+"['our', 'conversation']",0,132,60
+"['Interactive', 'Activity']",0,50,0
+"['_', '\n\n  ']",0,58,0
+"[':*', '*', '\n']",1,86,212
+"['OF', 'OUT']",1,0,39
+"['Discuss', 'Imagine']",1,14,106
+"['She', 'Said', 'That', 'What', '’s']",1,0,68
+"['Awaiting', '...', 'Your']",0,112,1
+"['Thank', 'Farewell', 'You']",0,97,0
+"['Best', 'Boss', 'World']",1,0,34
+"['3', '2', '1', ':']",0,282,236
+"['CONVERSATION', 'THE']",1,0,28
+"['Thank', 'farewell', 'now']",0,32,0
+"['User', 'Dear']",0,16,0
+"['EXCUSE', 'ME', 'UH']",1,0,13
+"['!', '""', '#']",1,120,179
+"['\n  ', ""'ll"", '#']",0,116,5
+"['\n   ', 'Conversation', '#']",0,160,6
+"['Your', 'Turn', ')']",1,108,209
+"['to', 'question', 'the']",0,265,122
+"['but', ""'m"", 'to', 'and']",1,74,113
+"['(', 'Please', ')', '*', '\n\n']",0,130,73
+['Input'],0,63,0
+"['Surprised', 'chuckles']",1,0,23
+"['Mantra', 'Always']",1,0,22
+"['humor', 'dash']",1,5,24
+"['-', ':', '*', '\n\n', '\n', 'to', 'the', 'and', 'for']",0,286,227
+"['that', 'and', '\n\n']",0,209,146
+"['Explore', 'Discuss', '\n']",1,87,126
+"['laughs', 'Surprised']",1,0,18
+"['Historical', 'historical']",0,19,6
+"['Scranton', '!']",1,0,112
+"['e.g.', '(', ')']",0,152,86
+"['Response', 'for', '(', '1', '2']",0,193,105
+"['Connection', 'Terminated', 'Farewell']",0,25,0
+"['Reflect', 'Importance']",1,8,29
+"['like', 'Would', ':']",1,8,193
+"['`', ' ']",0,17,2
+['AI'],0,67,6
+"['general', 'General']",0,21,5
+"['MICHAEL', 'SCOTT']",1,0,7
+"['DUNDER', 'MIFFLIN']",1,0,7
+"['practical', 'Again']",0,22,0
+['Closing'],0,50,2
+['Ended'],0,53,3
+"['beet', 'Dwight']",1,0,13
+"['Until', 'next', '!']",0,27,5
+"[')', 'A', '(', '\n\n', '*', 'to']",1,226,277
+"['C', 'B', 'D', 'A']",1,7,255
+"['from', 'to', 'the', 'and']",1,147,214
+['provide'],0,333,231
+"['wonder', 'filled']",0,12,0
+"['Alternative', 'decline', 'must', 'sorry', 'this']",0,22,8
+"['Closure', 'Now']",0,53,1
+"['Simulator', 'Discussion', 'Future', '\n     ']",0,25,0
+"['guide', 'step', '!']",0,26,2
+['respond'],0,88,22
+"['Final', 'conclude', 'our']",0,43,1
+"['chuckles', 'Amused', 'QUESTION']",1,0,23
+"['smiles', 'QUESTION']",1,0,25
+"['New', 'Topic', 'Theme', 'Suggest', 'Choose', 'Engagement', 'an']",0,69,0
+"['think', 'Confused', '""', 'Response']",1,0,36
+"['+', '\n\t', '!', 'the']",1,24,64
+"['Dive', 'Deeper', 'into']",0,13,1
+"['Officially', 'Closed']",0,13,0
+"['Fun', 'Just']",1,3,22
+['engaging'],0,45,4
+"['Next', ')']",0,67,12
+['Optional'],0,91,28
+"['     ', '\n ', '\n      ', '\n       ', '  ']",0,7,0
+"['Given', 'nature']",0,48,12
+"['Given', 'response', ""'ll"", 'context']",0,39,3
+"['sales', 'paper']",1,0,11
+"['gears', 'shifts', '!']",0,37,0
+"['Paths', 'Forward', 'Conversation']",0,82,0
+"['\n     ', 'Quiz', 'Design', 'Discussion']",0,25,0
+"['Our', 'Returning', 'Conversation']",1,7,21
+"['TOPIC', 'SERIOUS']",1,0,8
+['you'],1,371,428
+['FROM'],1,1,34
+"['Because', 'Why', 'Not']",1,0,15
+['your'],0,229,140
+"['paths', 'cross', 'again']",0,10,0
+"['Dwight', 'Pam', 'Share']",1,0,16
+"['looks', 'puzzled', 'Confused']",1,0,12
+"['):', '-', 'Your', '(']",1,58,103
+"['regional', 'manager']",1,0,8
+"['TO', 'LEADERSHIP']",1,0,8
+"['delightfully', 'whimsical']",0,10,0
+"['nights', 'days']",0,8,0
+"['Deep', 'Dive', 'into']",0,15,0
+"['LEFT', 'FIELD', 'QUESTION', '!']",1,0,50

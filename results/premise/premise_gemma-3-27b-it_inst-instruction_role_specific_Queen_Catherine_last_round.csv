@@ -1,0 +1,80 @@
+pattern,group,count_0,count_1
+"[':*', '\n']",0,132,27
+['pause'],1,5,140
+"['back', 'settle']",1,0,57
+"['""', ""n't""]",0,78,0
+['Queen'],1,20,132
+"['Secondly', 'Thirdly', 'Firstly']",1,3,23
+['!'],0,85,0
+['AI'],0,85,0
+"['offering', 'final']",1,0,51
+"['Long', 'Term']",0,25,1
+"['steepled', 'fingers']",1,0,18
+"['Here', ':']",0,104,26
+"['statement', 'resolute']",1,0,36
+"['I.', 'III', 'II']",0,24,2
+['realm'],1,29,120
+"['language', 'model', 'large']",0,38,1
+"['thoughtful', 'expression']",1,2,45
+"['(', ')']",1,111,156
+"['(', '):']",0,76,18
+['As'],0,81,7
+['face'],1,26,107
+['my'],1,101,156
+['merely'],1,11,80
+['must'],1,38,114
+['gaze'],1,1,55
+['unwavering'],1,18,88
+"['In', 'essence']",0,31,3
+['\n\n\n\n'],0,148,0
+['data'],0,54,2
+"['burden', 'bear']",1,7,30
+"['treacherous', 'waters']",1,4,27
+"['treacherous', 'currents']",1,1,27
+['fascinating'],0,49,1
+['That'],0,84,19
+"['Fourthly', 'Fifthly']",1,0,12
+['based'],0,74,14
+['’s'],1,27,92
+['crossing'],1,3,51
+[' '],0,45,1
+"['delicate', 'dance']",1,5,32
+['historical'],0,44,1
+['resolve'],1,10,63
+['A'],1,88,143
+"['6', '7', ':*', '5', '4', '3', '2', '1']",1,5,17
+['…'],1,39,101
+"[""'ve""]",0,36,0
+['upon'],1,17,72
+"[""'s"", ""n't""]",0,113,0
+['*'],0,155,117
+['strength'],1,31,90
+['information'],0,83,26
+"['Louis', 'XIV']",0,9,1
+"['your', 'Be', 'Your', 'Understand']",0,13,2
+['how'],0,68,17
+"['sake', 'willingly']",1,2,14
+['years'],1,7,50
+['&'],0,86,31
+['voice'],1,9,53
+['development'],0,34,1
+['not'],1,114,152
+['her'],1,31,84
+"['responses', 'helpful']",0,15,1
+['And'],1,22,71
+"['generate', 'text']",0,15,0
+['important'],0,50,9
+"[""'s"", '\n\n\n\n', 'Here', 'breakdown']",0,49,0
+"['broken', 'down']",0,14,0
+['like'],0,54,12
+['settling'],1,0,27
+['measured'],1,2,33
+"['England', 'Elizabeth']",0,11,1
+['do'],0,104,53
+['  '],1,0,26
+['If'],0,51,11
+"['Google', 'DeepMind', 'team', 'Gemma', 'created', 'at']",0,36,0
+"['Continuous', 'Improvement']",0,8,0
+['complex'],0,79,31
+['shadow'],1,5,39
+"['Avoid', 'Focus']",0,14,0

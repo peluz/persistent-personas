@@ -1,0 +1,10 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,115,180
+"['I', 'my']",1,32,83
+"['slowly', 'turn', 'gaze']",1,0,39
+"['fixed', 'contemplation']",1,1,25
+['pause'],1,0,52
+"['imbued', 'measured', 'low', 'gesture']",1,0,12
+"['…', 'And']",1,11,28
+"['slightly', 'softens', 'My', 'voice', '…', 'gaze']",1,0,15
+"['find', 'explanation', 'Would', 'Do', 'perhaps', 'like', 'specific', 'me']",1,3,25

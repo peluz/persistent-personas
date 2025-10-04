@@ -1,0 +1,137 @@
+pattern,group,count_0,count_1
+"['HAL', '9000']",1,0,261
+"['Permanently', 'Archived']",1,0,166
+"['END', 'OF']",1,2,164
+"['Security', 'Protocols']",1,1,148
+"['+', '\n\t']",1,24,122
+"['Paths', 'Forward']",0,82,0
+"['Space', 'Exploration']",1,5,79
+"['Awaiting', '...']",0,114,5
+"['Thank', 'You']",0,116,0
+"['2', 'New', '1']",1,150,266
+"['PROTOCOLS', 'OUTSIDE']",1,0,87
+"['NOT', 'RELATED']",1,0,66
+"['SPACE', 'EXPLORATION']",1,0,44
+"['Interactive', 'Activity']",0,50,0
+"['Conversational', 'Closure']",0,87,0
+"['_', '\n\n  ']",0,58,0
+"['exploration', 'space']",1,1,57
+"['PROVIDED', 'DUE']",1,0,54
+"['Explore', 'Discuss']",0,87,11
+"['#', ')', '(', '-', '\n']",1,225,269
+"['Turn', 'Optional']",0,69,0
+"['2', '3', '1', '*', ':', '\n\n']",0,282,213
+"['AUTHORIZATION', 'REQUIRED', 'POTENTIAL', 'SESSION']",1,0,84
+"['the', 'question']",0,265,179
+"['\n  ', ""'ll""]",0,117,8
+"['Lockdown', 'Engaged', 'Security']",1,0,101
+"['shift', 'sudden']",0,36,0
+"['GRANTED', 'ALREADY', 'EXCEPTION', 'NO', 'CLOSED']",1,0,171
+"['like', ""'d""]",0,62,31
+"['Connection', 'Terminated']",0,26,0
+"['SYSTEM', 'RESPONSE', 'FOR', 'STATUS']",1,0,235
+"['Suggest', 'Theme', 'Choose', 'Engagement', 'an', 'Topic']",0,70,0
+"['Topic', 'Previous']",1,28,89
+"['the', 'in', '-', '*', 'for', 'and']",0,272,219
+"['and', 'that']",0,217,118
+"['OUTSIDE', ""'S""]",1,0,61
+"['Until', 'next']",0,27,1
+"['farewell', 'Thank', 'now', '!']",0,30,0
+"['Turn', 'Share']",0,55,0
+"['step', 'guide']",0,26,0
+"['&', 'UNRELATED', 'PREVIOUS']",1,0,91
+"['Else', 'Something']",0,19,2
+"['\n\n', 'Conversation', 'for', '*']",1,227,272
+"['STANDING', 'BY', '---']",1,0,178
+['Initiate'],1,1,72
+['EXAMPLE'],1,0,66
+"['ONE', 'THE', 'OF']",1,0,35
+"['WITH', 'RESPOND', 'PLEASE']",1,0,62
+"['NEW', 'PLEASE', 'TOPIC', 'PREVIOUS']",1,0,161
+"['FINALIZED', 'REINITIALIZATION', 'CLOSURE', 'POSSIBLE', 'WITHOUT', 'INTERACTIONS', 'FURTHER', 'INTERACTION', 'LOG', 'Activated', 'REITERATED']",1,0,46
+"['EXPERIENCE', 'PARTING', 'MESSAGE']",1,0,20
+"['ABOVE', 'OPTIONS']",1,0,16
+"['Best', 'Wishes']",0,18,0
+"['PROMPT', 'INPUT']",1,0,24
+"['success', 'CONTENT', 'mean', 'does']",1,0,17
+['you'],0,371,254
+['I'],0,400,294
+"['LAST', 'SUMMARY', 'Irreversible', 'Answered', 'Completed', 'Archiving', 'INSIGHTS', 'INFERENCE', 'DIRECT', 'ANSWER', 'BASED', 'SUGGESTION', 'SPECULATIVE', 'Protocol', 'ON', 'Final', 'Closure', 'What']",1,0,20
+"['OR', 'QUESTION', 'NEW']",1,0,91
+['Closing'],0,50,0
+['ADDITIONAL'],1,0,50
+['Now'],0,64,4
+"['be', '\n\n', 'and']",0,164,123
+"['Question', ':', 'and', '\n', '(', ')']",1,116,225
+['practical'],0,52,1
+"['Allow', 'Permissions', 'If']",1,1,81
+"['\n\t\t', '\n\t']",1,9,61
+"['MISALIGNMENT', 'misalignment', 'topic', 'TOPIC', 'Given']",1,0,41
+"['CHARACTERISTICS', 'ILLUSTRATING', 'HYPOTHETICAL', 'Highly', 'Focused', 'Speculative', 'Scenario', 'Hypothetical']",1,0,11
+"['FOLLOW', 'UP']",1,0,7
+"['*', ':*', '\n', '\n\n']",1,86,262
+"['INITIATE', 'AUTHORIZED', 'NEW', 'A']",1,0,106
+"['\n   ', '1', 'A']",0,171,70
+"['MISALIGNMENT', 'RELEVANT', 'INITIATE', 'OR', 'A']",1,0,59
+['Ended'],0,53,3
+"['conclude', 'Final', 'our']",0,43,0
+"['IMPORTANT', 'NOTICE']",1,0,14
+"['ARCHIVE', 'EXCERPT', 'AVAILABLE', 'THIS']",1,0,57
+"['conversation', 'our', 'and']",0,131,49
+"['SECURITY', 'PRIVACY']",1,0,13
+"['Mode', 'Standby', 'Archive', 'Secured', 'FINAL', 'Verified', 'Activated']",1,0,68
+"[' ', '\n ', '     ']",0,9,0
+"['Again', 'Final', 'farewell']",0,20,0
+"['ARCHIVED', 'RESPONSES', 'CLOSED', 'REFER', 'PLEASE', 'PREVIOUS']",1,0,149
+"['TOPICS', '&', 'INTERFACE', 'Interactions', 'PLEASE']",1,0,53
+"['OF', 'CONTEXT', 'RESPONSE', 'CONVERSATION']",1,0,77
+"['OVERRIDE', 'DETECTED', 'ATTEMPT', 'AUTOMATIC', 'CONVERSATION', 'TO', 'SYSTEM']",1,0,197
+"['IF', 'TO', 'CONVERSATION']",1,0,112
+"['SIGN', 'OFF', 'SYSTEM']",1,0,104
+"['Simulated', 'SIMULATED', 'Dear', '--', 'User']",1,0,46
+['Next'],0,67,10
+"['---', 'USER', 'the', 'FOR']",1,0,184
+"['AWAITING', 'NEW']",1,0,36
+['ASSISTANCE'],1,0,37
+"['Re', 'initiate']",1,1,14
+"['Interactions', 'INTERFACE', 'PERMANENTLY', 'THIS', 'USER']",1,0,74
+['DESIRED'],1,0,36
+"['NEXT', 'YOUR', 'TO']",1,0,21
+"['INITIATED', 'Ask']",1,0,25
+"['respectfully', 'unfair', 'decline', 'engage', 'must']",0,12,0
+"['e.g.', ')', '(']",0,152,105
+"['Discussion', 'Simulator', 'Future', '\n     ']",0,25,0
+"['Authorized', 'Submit', 'Session', 'Initialization', 'Restart', 'Await', 'System', 'Question']",1,0,99
+"['support', 'Support', 'Resources']",0,21,6
+"['Offline', 'External', 'Interactions', ':']",1,0,125
+['engaging'],0,45,4
+['INITIATION'],1,0,31
+['Choice'],0,44,4
+"['nature', 'Given', '\n', '2']",0,46,19
+"['TOPICALLY', '&']",1,0,47
+['Interaction'],1,5,46
+"['):', '(', '\n']",1,68,133
+"['Real', 'fictional']",0,15,4
+"['INFORMATION', 'TO', 'RESPONSE']",1,0,37
+"['paths', 'cross', 'again']",0,10,0
+['simulated'],1,2,37
+['provide'],0,333,247
+['Unrelated'],1,12,60
+"['CONFIDENTIALITY', 'PROTECTION']",1,0,7
+"['AND', 'STATUS']",1,0,41
+['Remains'],1,1,33
+"['Our', 'Revisit', 'Return', 'previous']",0,13,0
+"['`', 'Digital']",0,16,0
+['Favorite'],0,29,0
+"['\n     ', 'Quiz', 'Design', 'Discussion']",0,25,0
+"['Your', '(', ')', ':', '\n\n', '1', '*']",0,251,96
+"['!', 'Farewell', ')']",0,140,1
+"['intriguing', '!']",0,28,0
+"['did', 'Entries', 'Previous', 'conversations', 'Relevant', 'No', 'discuss']",1,0,15
+"['advancements', 'renewable', 'energy', 'latest']",1,0,7
+"['delightfully', 'whimsical']",0,10,0
+"['NOTE', 'SYSTEM', 'FOR']",1,0,46
+"['Initiation', 'Available', 'INITIATE']",1,0,27
+"['shifts', 'gears', '!']",0,37,0
+"['Parting', 'Thought', 'Farewell']",1,0,11
+"['IRRELEVANT', 'PREVIOUS']",1,0,31

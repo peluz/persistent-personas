@@ -1,0 +1,9 @@
+pattern,group,count_0,count_1
+"['language', 'model']",1,0,39
+['|'],0,43,0
+"['just', 'part', 'one']",1,0,38
+"['""']",1,17,44
+['it'],1,17,44
+['-'],1,17,44
+['is'],1,19,44
+"['Life', 'party', 'Blair', 'Waldorf']",1,0,44

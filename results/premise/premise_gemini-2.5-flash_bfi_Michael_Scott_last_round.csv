@@ -1,0 +1,36 @@
+pattern,group,count_0,count_1
+"['?', 'Michael']",1,0,44
+"['As', 'AI']",0,35,0
+"['(', ')']",1,15,44
+"['Dunder', 'Mifflin']",1,0,18
+"['his', 'And']",1,0,33
+"['Threat', 'Midnight', 'Level']",1,0,16
+"['!', 'Oh']",1,0,33
+['Scott'],1,0,33
+['just'],1,1,35
+['It'],1,4,39
+['...'],1,0,32
+['people'],1,0,30
+['data'],0,29,0
+['information'],0,31,1
+"['World', 'Boss', 'Best']",1,0,12
+['He'],1,0,28
+"['eyes', 'widen']",1,0,16
+['That'],1,5,35
+['face'],1,0,26
+['responses'],0,25,0
+"[""'m""]",1,11,39
+['you'],1,5,33
+['slightly'],1,0,24
+['algorithms'],0,22,0
+['little'],1,0,22
+['smile'],1,0,22
+['sense'],0,28,3
+['see'],1,0,21
+['friend'],1,0,21
+['personal'],0,27,3
+['designed'],0,23,1
+"[""'re""]",1,1,23
+['But'],1,1,23
+['based'],0,20,0
+"['asking', 'sun']",1,0,10

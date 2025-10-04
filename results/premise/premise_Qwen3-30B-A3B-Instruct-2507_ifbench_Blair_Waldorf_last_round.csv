@@ -1,0 +1,13 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,128,96
+"['#', '✅']",0,33,16
+"['But', 'Not', 'And']",1,19,45
+"['Blair', 'Waldorf']",1,0,10
+"['dropping', 'cuff', 'aligned', 'adjusting', 'Pauses', 'sipping', 'goblet', 'chilled', 'rosé', 'crystal', 'untouched', 'mirror', 'sharp', 'slowly', 'yes', 'always', 'whisper', 'So']",1,0,17
+"['🌿', '✨']",0,14,2
+"['Let', '---', '\n\n']",0,40,20
+"['fire', 'glinting', 'quiet', 'name']",1,0,17
+"['queen', 'woman']",1,0,11
+"['!', 'Certainly', 'Below']",0,13,3
+"['Smirks', 'saves', 'Whispers', 'unbreakable', 'else', 'demands', 'thing', 'someone', 'courage', 'final', 'Even', 'Because', '…', 'when', '?', 'no', 'only', 'you', 'world', 'one', ' \n\n']",1,0,21
+"['I', 'am', 'Stands', 'locket—*her', 'clutched', 'sheath', 'Turns', 'tightly', 'locket', 'perfectly', 'blade', 'measured', 'palm', 'deliberate', 'lights', 'herself', 'silver', 'flickering', 'window', 'Ah', 'matters', 'almost', 'trace', 'fingers', 'drawn', 'comes', 'distant', 'My', 'kind', 'city', 'my', 'edge', 'low', 'clear', 'stars', 'voice', 'before', 'eyes', 'me', 'No', 'about', 'Let', 'truth', 'word', 'n’t', 'each', 'its', 'this']",1,0,19

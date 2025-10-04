@@ -1,0 +1,85 @@
+pattern,group,count_0,count_1
+"['Blair', 'Waldorf']",1,0,158
+"['New', 'Topic']",0,125,23
+"['Conversation', 'Closure']",0,139,7
+"['our', 'conversation']",1,132,166
+"['Thank', 'Farewell']",0,113,3
+"['Interactive', 'Activity']",0,50,0
+"['[', ']']",0,44,15
+"['Explore', 'Discuss']",0,87,15
+"['shifts', 'gears']",0,37,6
+"['*', ':*', '\n\n']",1,86,235
+"['sorry', ""'m"", 'but']",1,57,98
+"['attention', 'Directs', 'gaze']",1,0,36
+"['sustainability', 'fashion']",1,0,53
+"['free', 'feel', 'ask']",1,23,49
+"['Turn', 'Share']",0,55,14
+"['Suggest', 'Theme', 'Choose', 'Engagement', 'an']",0,70,0
+"['Final', 'Again']",0,34,1
+"['from', 'the']",1,147,190
+"['1', '2', '3', ':', '*', '\n\n']",0,282,214
+"['sustainable', 'fashion']",1,0,46
+"['):', '(']",1,74,107
+"['Eleanor', 'Designs']",1,0,16
+"['A', '!', '\n']",0,188,75
+"['Security', 'security']",0,25,9
+"['have', 'questions', 'other', 'topics', 'here', 'any']",1,19,53
+"['Dear', 'User']",0,16,0
+"['like', ""'d"", 'discuss']",1,24,107
+"['(', ')', 'to']",0,305,238
+"['and', 'If', 'to']",1,194,230
+"['question', 'and', 'to']",0,267,228
+"['Until', 'next']",0,27,5
+"['me', 'let', 'know']",1,6,23
+"[""'ve"", 'seems', 'we', 'It', '!']",1,1,36
+"['Wishes', 'Best']",0,18,0
+"['taken', 'aback']",1,0,12
+"['#', '\n   ', '1']",0,186,26
+"['historical', 'Historical']",0,19,3
+"['`', ' ']",0,17,0
+"['Input', 'Questions']",0,28,0
+"['now', 'Conversational', 'Thank', 'farewell']",0,31,0
+"['Ended', 'Conversation']",0,53,1
+"['Connection', 'Terminated', 'Farewell']",0,25,0
+"['\n\n', 'have', 'the']",1,102,151
+"['Paths', 'Forward', 'Conversation']",0,82,0
+['AI'],0,67,6
+"['Smiles', 'Ah', '!']",1,0,27
+['you'],1,371,438
+"['Closed', 'Officially']",0,13,1
+"['Awaiting', '...', 'Your']",0,112,3
+"['Invites', 'response', 'Your']",1,2,62
+"['Your', '/']",0,107,58
+"['_', '\n\n  ', 'Turn']",0,52,0
+"[""'m"", 'happy', 'but', 'for']",1,20,67
+"['seems', 'However']",1,2,34
+"['wonder', 'filled']",0,12,1
+"['\n  ', 'You', '#']",0,95,2
+"['general', 'General']",0,21,7
+"['Something', 'Else', 'Specify']",0,15,2
+"['conclude', 'Final', 'our']",0,43,2
+"['Gossip', 'Girl']",1,0,7
+"['\n', ""'ll""]",0,182,116
+"['friendly', 'eco']",1,0,11
+"['smile', 'expression', 'encouraging']",1,0,13
+"['practical', 'guide', 'step']",0,19,5
+"['haute', 'couture']",1,0,7
+"['Our', 'Returning', 'previous']",1,4,35
+"['Previous', 'Return', 'previous']",0,18,4
+"['Alternative', 'decline']",0,26,11
+"['Deeper', 'Dive', 'into']",0,13,2
+"['Simulator', 'Discussion', 'Future', '\n     ']",0,25,0
+"['     ', '\n ', '\n      ', '  ', '\n       ']",0,7,0
+"['mix', 'amusement', 'Ah']",1,0,16
+"['nature', 'Given', '2']",0,46,16
+"['hand', 'Extends']",1,0,11
+"['change', 'Surprised', 'sudden', 'topic', 'by']",1,0,25
+"['Quiz', '\n     ', 'Design', 'Discussion']",0,25,0
+"[':', '*', '\n\n', '-', '\n', 'the', 'for', 'and', 'to']",0,286,226
+"['hoping', 'Smiles']",1,0,18
+"['Speculative', 'speculative']",0,10,1
+"['the', 'e.g.']",0,152,79
+"['Reflects', 'preceding', 'Guiding', 'Quote', 'detailed', 'thoughtful', 'A']",1,0,8
+"['Dive', 'Deep', 'into']",0,15,1
+"['Whimsical', 'Humorous']",0,12,1
+"['Optional', 'Conversation', 'Your', '1']",0,80,19

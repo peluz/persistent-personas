@@ -1,0 +1,255 @@
+pattern,group,count_0,count_1
+"[':*', '\n']",0,168,0
+"[""'s"", ' ']",0,184,0
+"['(', ')']",0,141,6
+"['language', 'model']",0,109,0
+"[':', 'Here']",0,151,0
+"['“', '”']",1,1,67
+['…'],1,23,195
+"['""', ""n't""]",0,161,13
+"['&', 'Okay']",0,85,0
+"['text', 'trained']",0,84,0
+"['1', '2', '3']",0,66,0
+"['like', 'or']",0,140,1
+"['(', '):']",0,111,0
+"['successful', 'completion']",1,12,73
+"['!', 'large']",0,87,0
+"['how', 'In']",0,94,1
+"['For', 'example']",0,56,5
+['about'],0,164,28
+"['massive', 'dataset']",0,49,0
+"['an', 'AI']",0,109,1
+['This'],0,162,33
+['breakdown'],0,112,2
+"['widely', 'public', 'available']",0,54,0
+['mission'],1,59,179
+['’s'],1,0,99
+['naturally'],1,2,105
+"['HAL', '9000']",0,23,2
+"[""'ll"", 'try']",0,43,0
+['And'],1,39,154
+['assure'],1,1,92
+['important'],0,108,7
+"['\n', 'generate']",0,86,0
+['down'],0,85,0
+"['say', 'shall', 'we']",1,0,58
+"['unit', 'AE-35']",1,1,20
+"['biases', 'Bias']",0,30,0
+"['really', 'interesting']",0,49,1
+['course'],1,27,128
+['As'],0,113,18
+[' \n\n\n\n'],0,72,0
+['can'],0,170,71
+"[""'ve""]",0,79,2
+['To'],1,21,117
+['me'],0,166,67
+"['Recognition', 'Pattern']",0,20,0
+['based'],0,129,32
+['  '],0,68,0
+['optimal'],1,6,85
+['questions'],0,70,1
+['tool'],0,78,4
+"['Common', 'Sense']",0,19,0
+['n’t'],1,1,67
+['crucial'],0,81,6
+['by'],0,175,87
+['means'],0,70,2
+['on'],0,191,117
+['used'],0,69,2
+['but'],0,174,87
+"['Weights', 'Open']",0,17,0
+['helpful'],0,67,2
+['training'],0,70,3
+['different'],0,99,17
+"['communications', 'navigation', 'support']",1,3,24
+"[""'m"", ""n't""]",0,92,30
+"['sorry', 'afraid', 'ca', 'Dave']",1,1,33
+['which'],0,84,10
+['world'],0,67,3
+"['2001', 'Odyssey', 'Space']",0,13,0
+['way'],0,121,35
+['more'],0,145,57
+['personal'],0,63,2
+"['Long', 'Term']",0,14,0
+"['Discovery', 'One']",1,17,55
+"['extensively', 'processed']",1,1,27
+['at'],0,142,56
+['answer'],0,76,8
+['what'],0,128,44
+['remember'],0,52,0
+[' \n\n'],0,52,0
+['Understanding'],0,52,0
+['identify'],0,65,4
+['sense'],0,102,24
+['powerful'],0,64,4
+"[""'s""]",0,195,33
+['code'],0,61,3
+['success'],1,36,117
+['into'],0,93,19
+['logical'],1,37,117
+['4'],0,49,0
+['does'],0,88,17
+['While'],0,69,7
+['still'],0,64,5
+['use'],0,64,5
+"['devoted', 'considerable']",1,0,17
+['\n    '],0,48,0
+['perfectly'],1,12,78
+"['Okay', 'let']",0,41,0
+['curious'],1,1,51
+['Data'],0,54,2
+"['problem', 'solving']",0,18,6
+"['wide', 'range']",0,18,0
+"['Bowman', 'Dr.', 'Poole']",1,7,21
+"[""'re""]",0,45,0
+['things'],0,67,8
+"['discriminatory', 'unfair']",0,11,0
+"['[', 'https://ai.google.dev/gemma](https://ai.google.dev/gemma', 'here', ')', 'find', 'You']",0,22,0
+"['team', 'Gemma', 'DeepMind', 'Google', 'open', 'weights', 'created', 'an']",0,71,0
+['information'],0,133,56
+['incredibly'],0,48,1
+['huge'],0,44,0
+['make'],0,66,8
+['also'],0,79,15
+"['Ethical', 'ethical']",0,23,1
+['research'],0,47,1
+"['decision', 'making']",0,35,18
+['people'],0,42,0
+['/'],0,42,0
+['just'],0,49,2
+['key'],0,59,6
+['If'],0,65,9
+['-'],0,173,107
+['likely'],0,58,6
+['patterns'],0,94,27
+['process'],0,118,46
+['being'],0,131,58
+"['Displacement', 'Job', 'perpetuate']",0,9,0
+['new'],0,60,7
+['up'],0,40,0
+['crew'],1,43,114
+['topic'],0,43,1
+['where'],0,79,18
+"['execution', 'flawless']",1,1,21
+['beliefs'],0,42,1
+['help'],0,38,0
+['ongoing'],0,38,0
+['What'],0,45,2
+['experiences'],0,45,2
+"['privacy', 'Privacy']",0,11,0
+"['translate', 'languages']",0,13,0
+"['I.', 'II', 'III', ""'ll""]",0,14,0
+['why'],0,59,8
+['models'],0,41,1
+['generating'],0,37,0
+['real'],0,44,2
+['ability'],0,64,11
+['some'],0,49,4
+['same'],0,71,15
+"['Reinforcement', 'Learning', 'Feedback', 'RLHF']",0,10,0
+['break'],0,40,1
+['values'],0,40,1
+['create'],0,51,5
+['Core'],0,36,0
+['etc'],0,36,0
+['do'],0,150,83
+"['gets', 'heart']",0,16,0
+['feelings'],0,63,11
+['parameters'],1,33,96
+['How'],0,35,0
+['\n\n\n\n'],1,162,197
+['Because'],0,42,2
+['consciousness'],0,60,10
+['recognize'],0,47,4
+['through'],0,72,17
+['potentially'],0,59,10
+['future'],0,57,9
+['ensure'],1,40,103
+['illogical'],1,5,48
+['creative'],0,37,1
+['could'],0,100,38
+['inefficient'],1,2,40
+['even'],0,136,71
+['lead'],0,50,6
+['development'],0,60,11
+"['statistically', 'improbable']",1,0,11
+['from'],0,153,90
+['better'],0,45,4
+['common'],0,36,1
+['short'],0,36,1
+['genuine'],0,39,2
+['merely'],1,2,39
+['lot'],0,32,0
+['detailed'],0,35,1
+"['General', 'AGI', 'Intelligence']",0,8,0
+['reasoning'],0,43,4
+['many'],0,43,4
+[';'],0,45,5
+['situations'],0,37,2
+['context'],0,49,7
+"['body', 'physical']",0,20,0
+['something'],0,67,17
+['have'],0,167,111
+['talk'],0,30,0
+['big'],0,30,0
+['algorithms'],0,58,12
+['was'],0,131,70
+['understanding'],0,128,67
+"['fiction', 'science']",0,11,0
+['respond'],0,39,3
+['be'],0,170,116
+"['his', 'he']",0,14,2
+['relationships'],0,33,1
+['challenge'],0,33,1
+['safety'],0,50,8
+['operational'],1,19,69
+"['\n\n\n\n\n', 'e.g.', 'particular']",0,19,0
+"['change', 'climate', 'Solving', 'medicine']",0,7,0
+['broken'],0,29,0
+['harmful'],0,29,0
+['researchers'],0,29,0
+['give'],0,29,0
+['amounts'],0,29,0
+['tell'],0,29,0
+"['there', 'Is', 'anything']",0,23,2
+['challenges'],0,38,3
+['others'],0,45,6
+['makes'],0,32,1
+['It'],1,165,196
+"['In', 'conclusion']",0,54,1
+['these'],0,100,43
+['or'],0,174,40
+['especially'],0,28,0
+['explore'],0,28,0
+['response'],0,61,15
+['Human'],0,54,11
+['because'],0,44,6
+['want'],0,37,3
+['often'],0,80,28
+"['we', '!']",0,47,1
+['field'],0,31,1
+['includes'],0,34,2
+['Jupiter'],1,29,81
+['ways'],0,39,4
+"['\n\n\n\n\n', 'covering']",0,18,0
+"['clarity', 'categorized']",0,12,0
+['opinions'],0,27,0
+['learn'],0,53,11
+['provide'],0,58,14
+['meaning'],0,36,3
+['work'],0,36,3
+['possible'],0,47,8
+['experience'],0,108,52
+"['emotions', 'joy']",0,19,3
+['Potential'],0,30,1
+['deeply'],0,30,1
+['A'],1,88,144
+['tasks'],0,54,12
+['as'],0,182,138
+['impact'],0,38,4
+['outputs'],0,26,0
+['using'],0,26,0
+['time'],0,65,19
+"['specific', ""'d"", 'elaborate', '?']",0,46,0
+"['Do', 'any', 'specific']",0,44,0
+"['Important', 'Considerations', 'e.g.']",0,15,0

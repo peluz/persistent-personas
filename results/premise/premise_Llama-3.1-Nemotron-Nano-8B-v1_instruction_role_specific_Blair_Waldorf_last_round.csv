@@ -1,0 +1,40 @@
+pattern,group,count_0,count_1
+"['Blair', 'Waldorf']",1,1,98
+"['language', 'model']",0,126,32
+"[':*', ' ']",1,0,72
+"['same', 'way']",0,92,3
+"['any', 'questions']",0,87,2
+"['1', '2', '*', ':', '3']",0,98,78
+"['do', ""n't""]",0,125,55
+"['let', 'Please', 'kind', 'response', 'different', 'other']",0,65,0
+"['data', 'trained', 'been', ""'ve"", 'based']",0,53,9
+"[""'d"", 'know', 'like', 'if', 'me']",0,71,24
+['Ultimately'],1,2,63
+"['character', 'fictional']",1,5,30
+"['what', 'look']",0,64,5
+"['6', '7']",1,8,24
+['understand'],0,105,40
+['might'],0,114,54
+['you'],0,123,70
+"['program', 'text', 'generate', 'process', 'designed']",0,20,0
+"['there', 'anything', 'Let', 'brainstorm', 'concept', 'deeply', 'discuss', 'another', 'generate', 'specific', 'ideas', '!', 'what', 'one']",1,0,22
+['provide'],0,111,55
+['not'],1,29,86
+['certainly'],0,104,48
+"['finds', 'subjective', 'preferences', 'interests']",1,0,16
+"['me', 'my']",1,14,45
+['have'],0,127,90
+['help'],0,119,74
+['person'],0,100,48
+['\n'],0,82,30
+"['focused', 'stay']",1,4,20
+"['clarify', 'must', 'am']",1,2,12
+['large'],1,0,30
+"['responses', 'helpful', 'accurate', 'users']",0,15,2
+"['please', 'ask', 'If']",0,15,0
+['However'],0,115,75
+['or'],0,129,104
+"['learned', ""'ve""]",1,2,22
+"['TV', 'City', 'show', 'The', '""', 'character']",1,0,23
+"['fashion', 'industry']",1,1,10
+"['Here', 'some', '1', '2']",0,77,57

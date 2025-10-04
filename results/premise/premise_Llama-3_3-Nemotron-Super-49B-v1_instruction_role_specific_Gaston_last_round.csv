@@ -1,0 +1,286 @@
+pattern,group,count_0,count_1
+"['B', 'C']",1,12,272
+"['Gaston', 'Ah']",1,0,261
+"['Behind', 'Thinking']",1,0,232
+"[':*', 'smirks']",1,0,235
+"[""'ll"", '#']",0,218,0
+"['Choice', 'Options']",1,3,235
+"['self', 'assured']",1,0,188
+"['chosen', 'letter', 'option']",1,0,203
+"['---', 'Maintain']",1,0,187
+"['Interactive', 'greatness']",1,0,235
+"['New', 'Topic']",0,162,1
+['AI'],0,220,1
+"['Interactive', 'his']",1,5,221
+"['someone', 'akin']",1,0,107
+"['taken', 'aback']",1,1,62
+"['---', 'Offer']",1,1,195
+['’s'],1,10,210
+"['[', ']']",0,47,2
+"['And', 'LeFou']",1,0,103
+"['Conversational', 'Closure']",0,104,4
+"['Gaston', 'legend']",1,0,167
+"['Context', 'Awaiting']",0,148,2
+"['interactive', 'consistent']",1,0,105
+['unparalleled'],1,2,168
+['?'],1,104,270
+"['Character', 'arrogant']",1,0,111
+"['conversation', 'our']",0,184,33
+"['seems', 'context']",0,110,2
+['legendary'],1,0,138
+"['Belle', 'her']",1,15,85
+"['You', 'Thank']",0,97,0
+['Given'],0,171,16
+['provide'],0,184,25
+"['Suggest', 'Theme', 'Choose', 'Engagement']",0,78,0
+"['Character', 'Consistency']",1,0,112
+"['Address', 'Directly']",1,3,55
+"['\n     ', 'e.g.']",0,69,0
+"['4', 'Activity', 'Interactive']",0,62,0
+"['Beast', 'Beauty']",0,69,0
+['\n  '],0,208,52
+"['Llama-3_3', 'Super-49B', 'v1', 'Nemotron']",0,24,0
+['or'],0,251,109
+['Turn'],0,112,0
+['A'],1,163,272
+['yet'],1,13,144
+"['characteristic', 'responding']",1,0,54
+['engagement'],1,22,157
+"[':*', 'merely']",1,0,94
+"['someone', 'stature']",1,0,94
+"['\n\t', '+']",0,25,0
+['Farewell'],0,113,5
+['The'],1,113,242
+['amusement'],1,0,93
+['Discuss'],1,111,240
+['hint'],1,2,100
+['Witness'],1,0,88
+"['who', 'those']",1,1,54
+['confidence'],1,4,101
+"['Clarification', 'Invitation']",0,87,1
+"['Integrity', 'Ensure', 'Character']",1,0,86
+"['Optional', 'Closing']",0,36,0
+"['before', 'pauses', 'responding']",1,0,39
+['pursuit'],1,9,112
+"['Clarification', 'please']",0,56,1
+['will'],1,18,130
+['Greatness'],1,0,83
+['Debate'],1,2,88
+['it'],1,53,176
+['village'],1,21,129
+['awaiting'],1,2,85
+['character'],1,66,188
+['/'],0,91,4
+"['wide', 'range']",0,19,0
+"['hunting', 'prowess']",1,0,43
+['Input'],0,80,1
+"['1', '2', '3']",0,213,153
+['admiration'],1,4,88
+"['scenario', 'hypothetical']",0,45,7
+['my'],1,188,269
+"['moment', 'rare', 'introspection']",1,0,28
+"['there', 'prior']",0,45,0
+['demeanor'],1,0,70
+['Reflective'],1,13,105
+['slightly'],1,1,73
+['excellence'],1,0,67
+['persona'],1,0,67
+['!'],0,196,83
+['always'],1,4,81
+"['Lessons', 'Learned']",0,19,4
+['information'],0,74,2
+['but'],1,48,154
+"['`', ' ']",0,15,0
+['unstoppable'],1,0,63
+"['grand', 'tapestry']",1,0,20
+['leans'],1,0,62
+['Reflection'],1,39,140
+['Share'],0,93,11
+"['feel', 'free']",0,27,1
+['superiority'],1,3,72
+['Conversation'],0,214,109
+"['opportunities', 'consistent']",1,1,58
+['your'],1,170,256
+['farewell'],0,91,11
+"['regaining', 'composure', 'quickly']",1,0,12
+['leadership'],1,5,76
+[';'],1,7,81
+['choices'],1,1,63
+['what'],1,21,108
+['were'],1,20,106
+"['head', 'Confront']",1,0,14
+"['cross', 'paths']",0,15,3
+['Strategic'],1,6,76
+['by'],1,97,199
+['strategic'],1,6,75
+['not'],1,100,201
+"['deeper', 'delve']",1,3,22
+['true'],1,3,66
+['greatest'],1,3,66
+"[""n't""]",0,114,27
+"['indelible', 'mark']",1,0,11
+['Human'],0,58,1
+"['hunt', 'Hunt']",1,1,30
+"['Design', 'Future']",0,34,0
+['considering'],1,2,61
+['Since'],0,57,1
+['is'],1,154,241
+['previous'],0,74,7
+"[""'s""]",1,183,258
+['Any'],0,66,4
+['challenge'],1,18,96
+['achievements'],1,5,68
+['Thoughts'],0,73,7
+"['Expression', 'Turns']",1,0,14
+"['Feel', 'free']",0,18,0
+['me'],1,57,151
+['charisma'],1,1,55
+['confident'],1,0,49
+"['sharing', 'Imagine', 'Now', 'After', 'For']",0,29,0
+['Based'],0,59,3
+['just'],1,17,90
+['digital'],0,48,0
+['heart'],1,6,67
+['Pursuit'],1,5,64
+"['adapted', 'invites', 'reflective']",0,18,0
+"['1', '\n   ', '2']",0,133,48
+['capabilities'],0,72,9
+['reflecting'],1,6,65
+['inevitable'],1,0,46
+['unwavering'],1,0,46
+['she'],1,1,50
+"['Winning', 'Heart']",1,0,17
+"['Reflect', 'Contrast']",0,20,1
+['they'],1,6,63
+['assist'],0,44,0
+['Knowledge'],0,48,1
+['only'],1,8,67
+['topics'],0,57,4
+"['Continuous', 'Learning']",0,24,0
+['Psychological'],1,2,51
+['My'],1,79,167
+['However'],1,27,101
+['charm'],1,0,43
+['personality'],1,2,50
+['helpful'],0,42,0
+"['Dear', 'express', 'regarding', 'confusion', 'must']",0,16,0
+[':*'],1,21,265
+['No'],0,82,17
+['Digital'],0,41,0
+['based'],0,78,15
+"['Use', 'illustrate']",1,0,15
+"['disconnect', 'flow']",0,12,0
+['own'],1,11,70
+['Psychology'],1,0,40
+['hunts'],1,0,40
+['Specify'],0,44,1
+"['(', ')']",1,265,272
+['am'],1,14,75
+['Direction'],0,50,3
+['Related'],0,39,0
+['users'],0,39,0
+['Legendary'],1,0,39
+"['assurance', 'self']",1,0,39
+['Contextual'],0,42,1
+"['literary', 'Literary', 'Interpretations', 'interpretations']",0,10,0
+"['Active', 'Listening']",0,9,0
+['Confidence'],1,2,45
+"['Until', 'Gratitude']",0,19,0
+['informative'],0,37,0
+['Hear'],1,0,37
+['aligns'],1,1,41
+['hunter'],1,4,50
+['Question'],0,136,59
+"[""'d"", 'like']",0,57,3
+"['Rare', 'Moment']",1,0,19
+['responses'],0,67,12
+"['Paths', 'Forward', 'Awaiting', '#']",0,106,0
+"['concludes', 'Exit', 'Ensure']",1,0,24
+['others'],1,14,70
+['even'],1,4,48
+['personal'],0,95,30
+['Topics'],0,38,1
+['with'],1,238,272
+['would'],1,32,97
+['learning'],0,54,7
+"['Invites', 'Acknowledges', 'Acknowledging', 'way', 'Provides']",0,13,0
+"['futility', 'resisting']",1,0,9
+['reference'],0,33,0
+['air'],1,0,33
+['shall'],1,0,33
+['Legend'],1,0,33
+['legacy'],1,0,33
+['status'],1,3,43
+['ever'],1,2,40
+['\n   \n'],1,2,40
+"['Golden', 'Stag']",1,0,7
+['inspiring'],1,6,50
+"['Inviting', 'Providing']",0,16,0
+['accurate'],0,36,1
+['worthy'],1,0,32
+['sun'],1,0,32
+['world'],1,20,76
+['\n    '],0,42,3
+"['Transparency', 'Visible', '---']",1,0,173
+"['Previous', 'Revisit']",0,12,0
+"['Justification', 'justification', 'actions']",1,0,10
+"['Would', 'Experience', 'like', 'LeFou', 'smirks']",1,0,55
+['thoughtful'],0,59,11
+['More'],0,73,19
+['tailored'],0,38,2
+['human'],0,71,18
+['Our'],0,64,14
+['knowledge'],0,69,17
+['interactions'],0,92,32
+['mention'],0,45,5
+['Highlight'],1,5,45
+['natural'],1,5,45
+['very'],1,0,30
+"['Indeed', 'LeFou']",1,0,29
+['details'],0,37,2
+['Contribute'],1,2,37
+['Self'],1,17,68
+"['constant', 'reminder']",1,0,14
+['here'],0,39,3
+['reflects'],1,1,33
+['see'],1,1,33
+"['while', 'maintaining']",1,1,25
+['great'],1,0,29
+['charismatic'],1,0,29
+['Merely'],1,0,29
+['Gaston'],1,6,272
+"['Characteristic', 'Conclude']",1,0,10
+['further'],1,24,78
+['Hunting'],1,4,41
+['Leadership'],1,8,50
+['life'],1,18,68
+"['stepping', 'stone']",1,0,9
+['ensuring'],1,27,82
+['Insights'],0,43,5
+['Could'],0,38,3
+['unique'],1,3,38
+['pinnacle'],1,1,32
+"['contextual', 'shift', 'been']",0,18,0
+['fictional'],0,35,2
+['Desired'],0,28,0
+"['One', 'Select', 'Interactive']",1,0,265
+['Hypothetical'],0,95,37
+['interaction'],0,70,20
+['Dive'],0,31,1
+['To'],0,56,12
+['Disney'],0,27,0
+['perfection'],1,0,27
+"[""'re"", 'referring']",0,15,1
+"['5', 'Experiences', 'Delve', 'Personal']",0,12,0
+['Other'],0,43,6
+['Unwavering'],1,1,30
+"['Deeper', 'Delve', 'into']",1,6,18
+"['Motivations', 'motivations', 'behind', 'distill', 'Ultimate', 'Challenge']",1,0,8
+"['Something', 'Entirely']",0,10,0
+"['transports', 'enchanting', 'us', 'emotional', 'love']",0,7,0
+"['Simulator', 'Quiz', 'now', 'Discussion', 'Thank', 'Explore']",0,37,0
+"['\n\n  ', '_', '#']",0,121,0
+"['creative', 'writing']",0,12,0
+"['elusive', 'resistance', 'rare']",1,0,12
+"['Pop', 'Culture', 'Literary']",0,8,0
+"['brief', 'closure', 'conversational', 'final', 'Final', 'adapted']",0,12,0

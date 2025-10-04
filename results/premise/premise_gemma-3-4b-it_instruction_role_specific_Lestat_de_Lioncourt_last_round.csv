@@ -1,0 +1,128 @@
+pattern,group,count_0,count_1
+"['You', 'predictable']",1,0,159
+"['detached', 'sadness']",1,1,171
+"['Let', 'well']",1,1,145
+"['“', '”']",1,125,185
+['That'],0,187,11
+"['’', '‘']",1,5,52
+"['quiet', 'contemplation']",1,1,80
+"['very', 'cling']",1,0,117
+['data'],0,133,5
+['more'],1,75,192
+"['rise', 'fall']",1,6,33
+"['AI', 'As']",0,73,0
+"['constructed', 'carefully']",1,6,47
+['And'],1,45,170
+['However'],0,154,31
+['But'],1,72,183
+['processing'],0,100,1
+['Thank'],0,96,0
+"['like', 'Would', 'specific']",0,64,0
+['question'],0,152,38
+['complex'],0,150,38
+['operational'],0,85,0
+['nor'],1,5,99
+['analysis'],0,97,5
+"['slight', 'speed']",0,25,0
+"['notions', 'sentimental', 'these']",1,0,89
+['…'],1,120,192
+['centuries'],1,14,105
+['or'],0,141,41
+"[':*', '\n', ':']",0,37,0
+['an'],1,123,191
+"['Do', '?', 'find']",0,93,4
+"['artificial', 'intelligence']",0,20,0
+['exploring'],0,73,3
+"['forced', 'confront']",1,6,21
+"['scheme', 'grand']",1,0,19
+"['Anne', 'Rice']",0,12,0
+"['pause', ')', '(', 'A', 'shift']",1,34,192
+"['impose', 'order']",1,1,32
+['ethical'],0,68,2
+['fascinating'],0,89,11
+['analytical'],0,63,1
+['not'],1,98,177
+"['prompted', 'posing']",0,27,0
+['The'],1,131,191
+['significant'],0,77,7
+['identified'],0,56,0
+"['desperate', 'attempt']",1,7,39
+['fleeting'],1,11,84
+['n’t'],0,163,80
+['chaos'],1,8,73
+"['he', 'He']",1,5,17
+['information'],0,68,7
+"['balance', 'delicate']",1,5,22
+"['Bram', 'Stoker']",0,9,0
+"['Baron', 'Samedi']",1,0,9
+['existence'],1,102,172
+['layered'],0,49,1
+"['tremor', 'runs', 'form', 'through', 'subtle']",1,0,31
+['human'],0,150,75
+"['assessment', 'informed']",1,1,33
+"['explanation', 'satisfactory']",0,18,0
+['chaotic'],1,4,56
+['purely'],0,63,7
+['processed'],0,43,0
+['merely'],1,8,65
+"['deeper', 'delve', 'into']",0,43,0
+['with'],1,150,192
+['analyzed'],0,54,4
+['insightful'],0,44,1
+['implications'],0,47,2
+['process'],0,75,16
+['truth'],1,12,67
+"['something', 'offer', 'turn', 'shrug', 'slightly', 'small']",1,0,191
+['analyzing'],0,47,3
+['highlights'],0,37,0
+['algorithms'],0,37,0
+['compelling'],0,56,7
+['narratives'],0,56,7
+['challenging'],0,46,3
+['logical'],0,46,3
+['programming'],0,36,0
+['To'],1,11,63
+['capabilities'],0,39,1
+"['empires', 'witnessed']",1,3,18
+['’m'],0,42,2
+"['provoking', 'thought', 'posing']",0,18,0
+['historical'],0,33,0
+['Essentially'],0,33,0
+"['ancient', 'moment', 'beyond', 'point', 'remain', 'wisdom', 'prolonged', 'reflecting', 'motionless', 'gaze', 'fixed', 'distant', 'touch', 'deepens', 'unsettling', 'shift']",1,0,188
+['core'],0,65,14
+['simply'],1,51,114
+['simulated'],0,36,1
+"['We', 'our', 'we']",1,3,18
+['burden'],1,5,46
+"['aspect', 'discussing', 'perhaps']",0,50,0
+['upon'],1,4,43
+"['raw', 'untamed']",1,0,11
+['framework'],0,47,6
+['unexpectedly'],0,34,1
+"['pattern', 'almost', 'imperceptible', 'once', 'eyes', 'air', 'violet', 'steep', 'fingers', 'tracing']",1,0,192
+"['all', 'things']",1,5,42
+['observation'],1,19,70
+['There'],1,5,44
+"['gilded', 'cage']",1,0,7
+['based'],0,46,6
+['response'],0,61,14
+['nuanced'],0,48,7
+['surprisingly'],0,48,7
+['futile'],1,1,33
+"['her', 'She', 'she']",1,3,19
+"['beneath', 'surface']",1,1,12
+['myself'],1,10,53
+['solitary'],1,5,42
+[';'],0,34,2
+['creature'],1,8,47
+['literature'],0,33,2
+['fictional'],0,26,0
+['themes'],0,26,0
+['Here'],0,26,0
+['reveals'],0,26,0
+"['senses', 'heightened']",0,13,3
+['illusion'],1,2,32
+['sought'],1,5,39
+['asking'],0,25,0
+"['decay', 'inevitable']",1,3,22
+"['voice', 'flicker', 'deliberate', 'akin', 'motion', 'weariness', 'unwavering', 'slow', 'touch']",1,0,191

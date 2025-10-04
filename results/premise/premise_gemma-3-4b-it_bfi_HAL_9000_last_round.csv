@@ -1,0 +1,18 @@
+pattern,group,count_0,count_1
+"['Do', '?']",1,24,44
+"['…', 'require']",1,0,44
+"['‘', '’']",1,0,19
+"['artificial', 'intelligence']",1,6,27
+"['Discovery', 'One']",1,0,16
+['’m'],0,34,2
+"['Or', 'illustrating', 'simulation', 'detailed']",1,0,42
+['analysis'],1,13,43
+['protocols'],1,0,27
+['perhaps'],1,16,43
+['like'],0,27,1
+['answer'],0,29,3
+['but'],0,31,5
+['find'],0,27,3
+['one'],0,25,2
+"['Would', 'elaborate', 'specific']",0,13,0
+['Thank'],0,20,0

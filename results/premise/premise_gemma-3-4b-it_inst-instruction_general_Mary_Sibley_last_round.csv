@@ -1,0 +1,13 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,107,175
+"['(', ')']",1,102,187
+"['‘', '’']",1,6,49
+"['pause', 'analytical', 'subtle', 'almost', 'expression', 'A']",1,0,116
+"['know', 'if', 'Let', '’d', 'like']",0,53,12
+"['Analyzing', '…']",1,0,28
+"['another', 'you']",0,136,98
+"['!', 'you']",0,130,33
+"['Okay', 'let', '’s']",0,128,85
+['try'],0,73,17
+"['you', 'or', '’s', '?', 'Do', 'want']",1,33,59
+"['perhaps', 'you', 'or']",1,2,37

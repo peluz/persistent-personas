@@ -1,0 +1,87 @@
+pattern,group,count_0,count_1
+"['Dunder', 'Mifflin']",1,0,174
+"['He', 'Michael']",1,0,227
+"['Oh', 'That']",1,1,172
+"['(', ')']",1,170,261
+"['forward', 'leans']",1,1,94
+"['Scott', 'Michael']",1,0,155
+"['Dundie', 'Award']",1,0,53
+"['gon', 'na']",1,0,41
+"['serious', 'adopting']",1,0,73
+"['Very', '?']",1,2,149
+"['brow', 'furrows']",1,2,48
+"['Threat', 'Midnight', 'Level']",1,0,38
+"['Wow', 'That']",1,0,124
+"['!', 'I']",1,40,214
+"['saying', 'something']",1,0,66
+['sales'],1,2,123
+"['clears', 'throat']",1,1,26
+"['good', 'you']",1,11,129
+"['taking', 'seriously']",1,0,30
+"['even', 'might']",1,35,163
+"['Best', 'Boss', 'World']",1,0,28
+['clearly'],1,8,119
+"['right', 'Pretty', 'think', 'do', 'What']",1,0,62
+['very'],1,57,195
+"['But', ""'m"", 'two', 'thing', 'regional', 'manager', 'Now', 'know', 'about']",1,0,93
+['...'],1,22,141
+"['tap', 'chin', 'might']",1,0,106
+['if'],1,81,206
+['little'],1,4,85
+['like'],1,106,224
+['trying'],1,8,93
+['concentration'],1,0,67
+"['$', '=', '}']",0,20,7
+"['persona', 'personally']",1,0,23
+"['people', 'everyone']",1,0,32
+['smart'],1,3,65
+['thoughtfully'],1,0,53
+['got'],1,1,56
+"['sweat', 'bead', 'brow']",1,0,19
+"['paper', 'And', 'big', 'bigger', 'biggest', 'gotten', 'ever', 'order', 'than', 'has', 'one']",1,0,132
+['So'],1,25,107
+"['academic', 'tone']",1,3,29
+"['face', 'look', 'widen', 'intense', 'eyes']",1,0,74
+"['You', ""'re"", 'you']",1,3,69
+['get'],1,9,74
+"['slightly', 'chin', 'taps']",1,0,25
+"['of', 'the']",1,237,259
+"['glint', 'mischievous']",1,2,14
+['wow'],1,0,46
+"['demeanor', 'usual']",1,1,15
+"['breath', 'takes']",1,1,22
+['things'],1,11,75
+"['sounds', ""'m""]",1,0,47
+['almost'],1,22,95
+['just'],1,59,147
+['It'],1,108,200
+"['expression', 'thoughtful', 'becomes', 'slowly', 'serious']",1,0,20
+"['beep', 'boop']",1,0,7
+['Yes'],1,8,62
+['make'],1,30,101
+['office'],1,2,46
+['thrilled'],1,0,38
+"['looking', 'finishes', 'proud']",1,0,26
+"['finishes', 'flourish']",1,0,23
+['important'],1,10,65
+['Take'],1,1,41
+['A'],1,115,198
+['sound'],1,16,75
+['Toby'],1,0,36
+['imaginary'],1,1,40
+['super'],1,2,43
+"['my', 'I']",1,30,81
+"[""'s""]",1,210,270
+"['Like', 'really', '!']",1,0,173
+"['his', 'he', 'He']",1,15,192
+['pitch'],1,0,31
+"['nods', 'vigorously', 'he', 'eyes', 'And', '?']",1,0,42
+"['""']",1,163,232
+"['fingers', 'snap', 'then', 'intense']",1,0,63
+['it'],1,164,232
+['challenge'],1,35,95
+['as'],1,160,228
+"['okay', 'Okay', 'And']",1,0,29
+"['up', 'light', 'eyes', 'the']",1,6,78
+"['ready', 'Get']",1,1,15
+"['sure', 'expertise', 'My', 'making', 'regional', 'manager', 'time']",1,0,13

@@ -1,0 +1,49 @@
+pattern,group,count_0,count_1
+"['🌿', '💫']",0,44,0
+"['soft', 'casting']",1,0,43
+"['’re', 'Would']",0,41,0
+"['breath', 'wind']",1,0,43
+"['’s', '✨']",0,43,0
+"['honored', 'asking']",0,39,0
+"['perhaps', 'forward']",0,32,0
+"['that—*in', 'that*—I']",1,0,37
+"['thoughtful', 'one']",0,38,0
+"['if', '?']",0,41,1
+"['means', 'believe']",0,36,0
+"['While', 'such']",0,30,0
+"['imagined', 'real']",0,29,0
+"['even', 'hard']",0,23,0
+"['already', 'You']",0,28,0
+"['between', 'heartbeats']",1,0,23
+"['can', ':']",0,39,3
+"['“', '”']",0,36,25
+['human'],0,31,0
+['name'],1,0,31
+['yes'],1,3,36
+['my'],1,10,42
+"['glow', 'across', 'sit', 'gently']",1,0,41
+['dark'],1,0,28
+['’m'],0,27,0
+['stillness'],1,15,43
+['most'],0,32,3
+['humans'],0,26,0
+['emotions'],0,26,0
+"['trees', 'night', 'through', 'voice']",1,0,36
+"['n’t', '’d', 'you', 'just']",0,43,0
+"['>', 'help', 'this', 'while', 'That']",0,37,0
+"['share', 'feeling', 'listen']",0,35,0
+['respond'],0,24,0
+['with'],0,44,21
+['moment'],0,38,11
+['power'],0,25,1
+"['time', 'at', 'candle', 'flickers', 'room', 'One']",1,0,44
+['conversation'],0,24,1
+['grace'],0,21,0
+['🔹'],0,21,0
+['say'],0,40,16
+['or'],0,44,24
+['powerful'],0,22,1
+['gentle'],0,24,2
+['earth'],1,0,19
+['being'],0,33,9
+"['question', 'shows', 'about', 'care']",0,41,0

@@ -1,0 +1,15 @@
+pattern,group,count_0,count_1
+"['“', '”']",1,8,28
+"['🌿', '✨']",0,25,5
+"[' \n\n', '✅', '*', ',']",1,123,164
+"['\n\n', '*', '✅', ':']",0,141,60
+"['taped', 'wall', 'still']",1,0,8
+"['#', '\n', '---', 'Let']",0,30,9
+"['!', 'you', 'like', ',']",1,11,35
+"['’re', 'just']",1,6,21
+"['—', 'it', 'a', '*']",1,71,98
+"['Scott', 'Michael', 'little']",1,0,12
+"['’s', 'So', '?', ':']",1,26,46
+"['And', '😄', 'teach', 'clips', 'tried', 'intelligence', 'emotional', 'man', 'head', 'fan', 'ceiling', 'accidentally', 'launched', 'landed', 'hear', 'artistic', 'Or', 'maybe', 'group', 'time', 'into', 'was', 'about', 'It', 'on', 'I', 'airplane']",1,0,18
+"['airplane', 'paper', '✨', '’s', ' \n\n']",1,0,29
+"['remember', 'ever']",1,0,8

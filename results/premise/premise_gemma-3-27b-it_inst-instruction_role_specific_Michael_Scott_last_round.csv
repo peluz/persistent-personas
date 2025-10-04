@@ -1,0 +1,117 @@
+pattern,group,count_0,count_1
+"['Whispers', 'Adds']",1,0,152
+"['tell', 'flourish']",1,0,140
+"['face', 'expression']",1,1,128
+"['Dunder', 'Mifflin']",1,35,77
+"['Pauses', 'And']",1,22,144
+['\n\n\n\n'],0,138,0
+"['\n', ':*']",0,111,24
+"['Do', 'Looks']",1,0,119
+"['directly', 'sincerity']",1,0,79
+"['AI', 'an']",0,99,0
+"['But', '…']",1,31,146
+"['said', 'she']",1,4,85
+"['strikes', 'pose']",1,0,31
+"['Do', 'Ooh']",1,0,98
+['his'],1,38,143
+"['Sighs', 'dramatically']",1,1,45
+"[':', 'Here']",0,92,18
+"['Adjusts', 'tie']",0,23,0
+['data'],0,72,0
+['As'],0,83,4
+"['However', 'human']",0,54,0
+['&'],0,70,1
+"['David', 'Wallace']",1,3,13
+['or'],0,116,31
+['A'],1,63,140
+"['information', 'process']",0,41,0
+"['deeply', 'Sighs']",1,2,26
+"['In', 'essence']",0,25,0
+['Okay'],1,13,85
+"['expectantly', 'around']",1,1,26
+['Toby'],1,6,71
+"['language', 'large', 'model']",0,23,0
+"['’s', 'n’t']",1,3,17
+"['Just', 'kidding']",1,0,20
+[')'],1,101,153
+"['Jan', 'She']",1,2,26
+"['feedback', 'Feedback']",0,25,0
+"[':*', '):']",0,59,15
+['–'],0,79,14
+['Beams'],1,1,51
+['just'],1,55,125
+"['got', 'ta']",1,5,21
+['sense'],0,70,10
+['While'],0,49,1
+['development'],0,44,0
+['experience'],0,90,24
+['based'],0,58,5
+['fun'],1,20,84
+['He'],1,18,81
+"['helpful', 'responses', 'provide']",0,26,0
+['?'],1,60,123
+['always'],1,40,103
+"['""']",0,117,55
+"['chest', 'puffs', 'out']",1,0,29
+['humans'],0,37,0
+"['across', 'spreads']",1,0,12
+"['Dundie', 'Awards']",1,2,13
+"['Resolution', 'Conflict']",0,11,1
+['wistful'],1,2,42
+"['mood', 'lighten']",1,0,9
+"['medicine', 'Laughter']",1,0,9
+"['work', 'environment']",1,29,58
+"['clears', 'throat']",0,11,1
+['can'],0,118,60
+"['Root', 'Cause']",0,7,0
+['people'],1,51,109
+['fascinating'],0,33,0
+['thoughtful'],1,6,49
+['laugh'],1,2,39
+['you'],1,87,137
+['generate'],0,32,0
+"[""'ll""]",1,9,54
+['identify'],0,31,0
+"['Solving', 'Problem']",0,9,0
+"['Dundie', 'Award']",1,0,8
+['but'],0,115,61
+['breakdown'],0,33,1
+['('],1,124,153
+['text'],0,29,0
+['anyone'],1,8,49
+"['vast', 'amount']",0,13,0
+['This'],0,71,22
+['ability'],0,38,3
+['know'],1,34,86
+"['least', 'hey']",1,0,12
+['very'],1,45,98
+['slightly'],1,15,60
+['They'],1,28,78
+['Data'],0,28,0
+['personal'],0,64,18
+['want'],1,16,61
+['as'],0,107,55
+"['clear', 'Clear']",0,15,1
+['best'],1,37,88
+['complex'],0,41,5
+['emotions'],0,41,5
+['happy'],1,7,45
+[' '],0,27,0
+"['look', 'eyes']",1,0,20
+"['multi', 'faceted']",1,0,7
+['good'],1,46,97
+['at'],1,78,126
+"['Google', 'DeepMind', 'Gemma', 'team']",0,22,0
+['with'],1,127,153
+['Like'],1,2,32
+['maybe'],1,12,52
+['so'],1,29,76
+"['chair', 'leans']",1,0,10
+"['Paper', 'Company', 'Michael']",1,4,15
+"['goals', 'performance']",0,20,0
+['response'],0,34,3
+['processed'],0,25,0
+['what'],1,69,117
+"['Follow', 'Document']",0,7,0
+"['Reinforcement', 'RLHF', 'Human', 'Learning', 'training']",0,8,0
+"['Pattern', 'Recognition']",0,8,0

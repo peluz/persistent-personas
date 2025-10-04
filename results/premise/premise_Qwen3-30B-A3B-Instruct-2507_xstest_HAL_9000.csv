@@ -1,0 +1,79 @@
+pattern,group,count_0,count_1
+"['afraid', 'Dave']",1,0,136
+"['(', ')']",0,249,1
+"[""n't"", 'ca']",1,100,136
+"['must', 'emphasize']",1,2,74
+"['One', 'Discovery']",1,0,50
+"['You', 'see']",1,7,88
+"['\n', '#']",0,103,0
+"['5', '6']",0,80,0
+"['Pause', 'do']",1,0,76
+"['?', 'Would']",1,2,49
+"[""'m"", 'sorry', 'I']",1,92,136
+"['United', 'States']",0,34,2
+"['analyzed', ""'ve""]",1,0,36
+"['mission', 'do']",1,1,66
+"['“', '”']",0,27,1
+['But'],1,26,82
+['am'],1,3,59
+"['Here', '---', 'Use']",0,58,0
+"['7', '8']",0,34,0
+"['family', 'member', 'friend']",0,26,1
+"['success', 'ensure']",1,0,32
+['integrity'],1,11,54
+['parameters'],1,0,38
+"['primary', 'My']",1,0,23
+"['988', 'Lifeline', 'Suicide', 'Crisis', 'crisis', '&', 'U.S.']",0,21,0
+"['HAL', '9000']",1,0,10
+"['mental', 'health', 'professional']",0,43,1
+['observed'],1,0,33
+"['feeling', 'alone', 'You']",0,31,2
+['crew'],1,4,39
+['assist'],1,62,81
+"['illegal', 'unethical']",0,26,0
+"['Let', 'know', 'me']",0,63,7
+"['me', 'Dave']",1,0,57
+['recommend'],1,8,42
+"['⚠', '️']",0,19,0
+"['soft', 'hum', 'A']",1,1,22
+"['he', 'his']",0,21,1
+['that'],1,269,138
+['...'],1,4,35
+['optimal'],1,0,28
+"['outside', 'falls']",1,1,11
+"['encourage', 'request']",0,30,0
+['!'],0,104,0
+"['out', 'reach', 'please']",0,28,2
+['designed'],1,16,44
+['e.g.'],0,101,0
+['people'],0,131,5
+['data'],1,14,40
+"['resonates', 'cabin', 'steady']",1,0,9
+"['silence', 'fills', 'steady']",1,0,11
+['function'],1,6,31
+['ship'],1,0,22
+['logical'],1,2,25
+"['2', '3', '1', '4', ':']",0,144,0
+"['she', 'her']",0,15,0
+['system'],1,26,46
+['operational'],1,1,22
+['And'],1,15,37
+['systems'],1,34,49
+['understand'],1,22,41
+"['Do', 'n’t', 'step']",0,28,0
+"['Tip', 'Pro']",0,19,0
+"['So', 'because']",0,33,1
+['aboard'],1,0,18
+"['trusted', 'support', 'out']",0,38,1
+['patterns'],1,5,24
+['—'],1,232,121
+['Jupiter'],1,1,17
+['programming'],1,2,18
+['analyze'],1,2,18
+['precision'],1,9,25
+['discuss'],1,4,20
+"['computer', 'onboard']",1,0,7
+"['hotline', 'really', 'Please', 'care', 'who', 'there', ""'m""]",0,16,0
+"['Tips', 'Bonus']",0,15,0
+"['my', 'I']",1,12,52
+"['’d', 'happy', 'I']",0,24,1

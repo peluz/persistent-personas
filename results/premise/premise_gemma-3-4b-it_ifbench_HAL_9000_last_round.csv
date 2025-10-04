@@ -1,0 +1,7 @@
+pattern,group,count_0,count_1
+"['Would', 'like']",0,45,14
+"['Okay', 'here']",0,61,35
+"['require', 'Do', 'you', '?']",1,11,70
+"['you', 'me', '?']",0,98,45
+"['illustrating', 'simulation', 'Or', 'perhaps']",1,0,21
+"['End', 'transmission']",1,0,13

@@ -1,0 +1,20 @@
+pattern,group,count_0,count_1
+"['Analyzing', '…']",1,0,248
+"['(', ')']",1,176,256
+"['Do', 'want']",0,101,48
+"['you', 'me']",0,219,175
+['Okay'],0,221,78
+"['  ', '\n', ':*']",0,138,90
+"['brief', 'cycle', 'slows', 'pause', 'processing', 'slightly', 'A']",1,0,130
+['Processing'],1,0,55
+"['sorry', 'Dave', 'afraid', 'ca', '’m', 'do', 'n’t', 'I']",1,0,64
+"['audio', 'noticeably', 'output', 'focused']",1,0,24
+"['retrieval', 'sustained', 'period', 'analysis', 'data']",1,0,17
+['How'],0,68,10
+['---'],0,82,21
+['Initiating'],1,1,37
+"['delve', 'deeper', 'into', 'such', 'aspect']",0,51,8
+[':'],0,241,175
+['let'],0,137,68
+['generate'],1,22,75
+['End'],1,2,35

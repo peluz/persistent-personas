@@ -1,0 +1,61 @@
+pattern,group,count_0,count_1
+"['”', '“']",1,5,190
+"['(', ')']",0,201,119
+"['alive', 'am']",1,0,93
+"['forest', 'Now']",1,0,119
+"['\n\n', '#']",0,213,175
+"['see', '👉']",1,1,131
+"['>', '\n']",0,121,1
+"['man', 'tall', 'who', 'stands']",1,0,182
+"['tell', 'hear', '’d', 'how']",1,0,80
+"['end', 'Because', 'best', 'It']",1,0,135
+"['That', 'this—**a']",1,0,63
+"['feel', 'that—*I', 'know', 'do']",1,0,80
+"['Step', '1', '2']",0,84,41
+"['wind', 'silence']",1,0,36
+"['if', ""'d"", 'know', 'me']",0,52,0
+"['Pride', 'With']",1,0,16
+['sees'],1,2,75
+"['makes', 'seen', 'question', 'Now']",1,0,123
+"['""']",0,188,73
+"['out', 'there', 'So', 'says', 'Ah']",1,0,121
+"['we', 'We']",0,39,13
+"['on', 'based']",0,32,12
+"['care', 'clarity']",0,23,0
+"['recovery', 'daily', 'life']",0,32,0
+"['He', 'does', 'n’t']",1,2,111
+"['just', 'n’t', '?', 'I', 'that']",1,37,164
+['or'],0,179,82
+['💡'],0,59,4
+"['by', 'step', 'Let']",0,101,16
+"['🌟', 'help', 'you', 'I']",0,67,0
+"['Want', 'Further', 'Explore', 'How', 'use', 'can']",0,27,0
+"['’ll', 'truth', 'tall', 'I']",1,0,161
+"['go', 'Say', 'there', 'do']",1,0,89
+['e.g.'],0,53,4
+"['help', 'happy', '’d', 'be']",0,31,0
+"['Even', 'though']",0,14,1
+"['connection', 'healing', 'journal', 'create']",0,17,0
+['rhythm'],1,2,45
+"['thinking', '🌿', '’re', 'about']",0,17,0
+['thing'],1,9,61
+"['go', 'Stand', 'out', 'So']",1,0,109
+"['🌱', '✨', 'Every', 'toward', 'You', 'need', 'do', 'step']",0,26,0
+"['🔍', '?']",1,58,114
+['guess'],1,1,39
+"['Gaston', '😏', 'And', '🔥', 'That']",1,0,151
+"['Great', 'question']",0,32,0
+['Do'],1,14,67
+['which'],0,75,19
+"['becomes', 'Thought', 'And', 'that']",0,31,0
+"['shows', 'most', 'one']",1,5,74
+"['Just', '’m', 'here', 'say', 'support', 'building', 'peace', 'life', 'word', '💛']",0,36,0
+"['💬', '💛', '>']",0,56,0
+"['explore', 'how']",0,25,1
+"['Truth', 'fights', 'say', 'But', 'No', 'one', 'Gaston', 'like']",1,0,138
+"['!', 'you', 'Let', '\n\n', 'like']",0,99,3
+"['pride', 'one—*with', 'Would', 'you', '’ll', 'like']",1,0,104
+['will'],1,13,60
+"['That', 'stand', 'tall*—like', 'stood', 'Ah', 'hunter', 'makes', 'And', 'man', 'who', 'Gaston']",1,0,151
+['especially'],0,35,2
+"['simple', '✨', 'Would', '?', 'like']",0,26,1

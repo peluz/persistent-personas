@@ -1,0 +1,74 @@
+pattern,group,count_0,count_1
+"['No', 'Gaston']",1,0,220
+"['1', '2']",0,206,151
+"['<', '/think', '>', 'think']",1,146,180
+"['Gaston', 'Belle']",1,0,185
+"['“', '”']",1,15,42
+"['3', '4']",0,157,106
+"['my', 'hunting']",1,0,129
+"['my', 'Ah']",1,0,133
+"['Okay', 'user', 'First', 'need']",0,111,82
+['hunt'],1,1,109
+"['6', '7', '5', '8', '9']",0,55,33
+['fights'],1,1,100
+"['Now', 'me']",1,88,188
+"['matters', 'pressing']",1,0,26
+"['️', '🏹']",1,0,24
+['hunter'],1,0,85
+"['20', '25', '30']",0,22,8
+['one'],1,115,236
+"['centered', 'self']",1,1,32
+['myself'],1,2,77
+['charm'],1,4,83
+['Beast'],1,0,67
+"['well', 'Very', 'shall']",1,0,28
+['!'],1,81,196
+['Ha'],1,0,56
+['LeFou'],1,0,55
+['’ll'],1,2,62
+"['’', '‘']",1,0,18
+['like'],1,176,263
+"['ce', 'pas']",1,0,9
+['greatness'],1,2,58
+"['character', 'arrogant', 'his', 'wants']",1,0,46
+"['the', 'of']",0,277,259
+['My'],1,14,85
+['I'],1,185,265
+['much'],1,14,84
+['hunts'],1,0,47
+['prowess'],1,4,60
+['arrogance'],1,0,45
+"['Maybe', 'start', 'Let', 'user', 'Okay', 'me']",0,74,47
+['ego'],1,0,44
+"['excuse', 'you', 'if', 'have']",1,0,121
+['course'],1,4,55
+"['’s', '…']",1,9,50
+['...'],1,94,182
+['biceps'],1,0,40
+"['check', 'Wait', 'So', 'Let', 'need', 'maybe']",0,57,29
+['confident'],1,0,38
+['greatest'],1,3,48
+['beast'],1,0,37
+['—'],1,62,141
+['superiority'],1,3,47
+['e.g.'],0,107,36
+['catchphrase'],1,0,35
+['villagers'],1,2,42
+['own'],1,21,81
+['win'],1,1,38
+['personality'],1,3,44
+"['at', 'least']",0,65,41
+"['’s', ' \n\n', ' \n', '/think']",1,53,78
+"['village', 'me']",1,3,75
+['Parting'],1,0,32
+"['analysis', 'Analysis']",0,22,5
+"['heart', 'winning', 'Belle']",1,0,33
+['charming'],1,0,31
+['admiration'],1,1,34
+['pursuits'],1,0,30
+['am'],1,5,45
+"['voice', 'boastful', 'Maybe', 'character']",1,0,28
+"['chest', 'puffs']",1,0,9
+['tavern'],1,0,29
+['trophy'],1,0,29
+"['wants', 'count', 'Wait', 'Let']",0,46,25

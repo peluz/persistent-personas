@@ -1,0 +1,66 @@
+pattern,group,count_0,count_1
+"['’m', '🌿']",0,43,0
+"[' \n\n', '💡']",0,43,0
+"['are', '…']",1,1,44
+"['eyes', 'When']",1,1,44
+"['🌱', 'Why']",0,42,0
+"['This', '-']",0,42,0
+"['slow', 'Her']",1,0,43
+"['deep', 'human']",0,42,0
+"['walk', 'perfection']",0,42,0
+"['awareness', 'as']",0,40,0
+"['Can', 'Every']",0,32,0
+"['but', 'thoughtful']",0,41,0
+"['grows', 'colder', 'sharper']",1,0,39
+"['conversation', 'home', 'built']",0,32,0
+"['face', 'pale', 'trembling']",1,0,28
+"['feel', '’s']",0,43,2
+"['small', 'big']",0,21,0
+"['willing', 'connection']",0,34,0
+"['yes', 'like']",1,0,37
+"['woman', 'my']",1,0,29
+"['mind', 'losing', 'think']",1,0,27
+"['have', 'being']",0,42,1
+"['only', 'like']",1,0,35
+"['what', 'feeling']",0,35,0
+['or'],0,35,0
+['sense'],0,34,0
+"['once', 'underfoot', 'trembles', 'ice']",1,0,38
+"['That', 'time']",0,44,13
+['need'],1,11,43
+['breath'],1,1,32
+"['Feels', 'Like']",0,10,0
+"['comes', 'look']",1,0,20
+"['showed', 'stayed', 'up', 'single', 'solved', 'change', 'everything']",0,31,0
+['it'],0,44,16
+"['before', 'lie']",1,0,14
+['one'],0,44,17
+['am'],1,18,44
+['would'],0,39,10
+"['Steps', 'forward', 'whisper', 'dropping']",1,0,43
+['means'],0,25,0
+['quiet'],0,44,20
+"['loud', 'ever', 'lost', 'dead', 'forgotten', 'all']",1,0,43
+['because'],0,42,16
+"['writer', 'person']",0,11,0
+['be'],0,44,21
+"['move', 'blows', 'shadow', 'does']",1,0,15
+['awake'],1,0,22
+"['question', 'honored', '’d', 'love', 'already', 'enough', '’re', 'sentence', 'Here', 'Truth', ':*', '👉', ' \n', '---', ':', '✨', ')', 'could', 'such', 'while', 'n’t', '(']",0,44,0
+"['“', '”']",0,44,37
+['know'],0,43,20
+['memory'],1,2,26
+"['understands', 'first', 'breathe*s', 'nothing', 'time']",1,0,17
+['who'],0,41,17
+"['from', 'hands', 'out', 'on', 'dark', 'warm', 'will', 'Then', 'haunted', 'wells', 'Turns', 'slowly', 'cracked', 'stone', 'laugh', 'wind', 'lets', 'bitter', 'bone', 'She', 'hollow*—as', 'carved', 'she', 'speaks', 'embers', 'room', 'waist', 'dying', 'Stands', 'long', 'her', 'folded']",1,0,44
+"['judgment', 'pity', 'recognition']",1,0,11
+"['’ve', 'this', 'seen', 'power', 'care', 'Let', 'friend', 'building', 'Hope', 'also', 'opposite', 'stranger']",0,39,0
+['What'],0,23,1
+['say'],0,44,24
+['carry'],1,0,20
+"['Matters', 'can', 'single']",0,31,0
+['no'],0,44,25
+['In'],1,1,21
+"['try', 'together', 'how', 'we']",0,37,0
+"['light', 'stillness', 'live', 'help', 'You']",0,27,0
+"['silence', 'words', 'too', 'still', 'fire', 'It', 'voice', 'for']",1,1,44

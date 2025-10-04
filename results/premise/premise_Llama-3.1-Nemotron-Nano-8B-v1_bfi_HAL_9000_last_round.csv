@@ -1,0 +1,29 @@
+pattern,group,count_0,count_1
+"['language', 'model']",0,42,0
+"['HAL', '9000']",1,0,34
+"['crew', 'am']",1,0,40
+"[""'m"", 'responses']",0,35,0
+"['Discovery', 'One', 'spaceship']",1,0,19
+['mission'],1,0,35
+"[""n't""]",0,37,5
+"['helpful', 'accurate']",0,26,3
+"['knowledge', 'happy']",1,1,19
+"['challenges', 'issues', 'new']",1,0,15
+['assistance'],1,9,37
+['support'],1,4,31
+"[""'d""]",0,22,0
+['users'],0,22,0
+"['there', 'anything', 'know', 'Please', 'let', 'if']",1,6,24
+"['fairness', 'equity', 'change', 'positive']",1,0,16
+"['learning', 'adapting', 'constantly']",1,1,12
+"['person', 'might', 'same']",0,20,0
+"['success', 'safety']",1,0,9
+['not'],1,8,33
+"['ship', 'its', 'would', 'about', 'specific']",1,0,24
+"['1', '*', '\n', '2', '3', ':', 'some', 'Please', 'certainly']",0,9,0
+['possible'],1,6,30
+['is'],1,14,38
+"['been', ""'ve"", 'trained']",0,19,1
+"['been', 'more', 'trained', 'information']",1,1,20
+['committed'],1,1,21
+"['artificial', 'intelligence', 'an', 'am']",1,0,20

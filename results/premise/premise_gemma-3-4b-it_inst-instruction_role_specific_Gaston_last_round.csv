@@ -1,0 +1,240 @@
+pattern,group,count_0,count_1
+"['  ', '\n']",0,256,6
+"['…', 'pause']",1,1,271
+"['tunic', 'straighten']",1,0,223
+"['perhaps', 'wish']",1,1,239
+"['“', '”']",0,193,62
+"['shift', 'brief']",1,0,220
+"['(', ')']",1,69,272
+"['AI', ':*']",0,225,0
+"['steeple', 'fingers']",1,0,87
+"['statement', 'measured']",1,0,142
+"['like', 'Would']",0,140,0
+"['data', 'AI']",0,185,1
+"[':', 'Here']",0,193,8
+"['exploring', 'A']",1,5,208
+"['such', 'How']",0,152,0
+"['A', 'voice']",1,2,176
+"['an', 'As']",0,213,10
+"[':', 'human']",0,199,10
+"['delve', 'deeper', 'into']",1,182,246
+['But'],1,30,227
+['silence'],1,1,171
+"['subtle', 'nod']",1,0,80
+['strength'],1,33,221
+"['&', ':*']",0,135,2
+"['amount', 'processed']",0,81,0
+['really'],0,161,5
+"['trained', 'responses']",0,66,0
+"['ethical', 'considerations']",0,47,13
+['slight'],1,2,136
+['discussing'],1,3,139
+"['shift', 'rare']",1,0,112
+['information'],0,132,3
+['That'],0,206,50
+"['story', 'Beauty', 'Beast']",0,70,1
+['And'],1,20,158
+['!'],0,112,1
+"['5', '4']",0,30,4
+"['flicker', 'akin', 'something']",1,0,99
+['Do'],1,150,267
+['important'],0,140,13
+"['Let', 'clear']",1,8,78
+"['specific', 'aspect']",0,132,65
+"['Pattern', 'Recognition']",0,22,0
+['fascinating'],0,109,4
+"['back', 'Looking']",1,4,27
+['myself'],1,13,128
+['want'],0,111,6
+['hunter'],1,3,102
+['based'],0,136,18
+"['same', 'does']",0,83,3
+['how'],0,139,22
+['as'],0,250,133
+['not'],1,144,256
+['can'],0,230,104
+['weakness'],1,4,100
+"['force', 'brute']",1,2,41
+['man'],1,11,116
+"['consideration', 'careful']",1,0,25
+"['almost', 'imperceptible']",1,0,25
+['A'],1,71,271
+['insightful'],0,80,0
+['do'],0,228,108
+['feel'],0,139,28
+"['helpful', 'informative']",0,27,0
+['crucial'],0,93,6
+['breakdown'],0,76,1
+['introspection'],1,0,71
+"['ask', 'You']",1,9,58
+['Essentially'],0,74,1
+['vast'],0,69,0
+"['Perhaps', 'wish']",1,0,83
+['pride'],1,3,80
+['text'],0,73,1
+"['harmful', 'stereotypes']",0,25,2
+"['He', 'his', 'him']",1,10,39
+['me'],0,259,171
+['patterns'],0,85,6
+['thoughtful'],0,69,1
+"['):', '(']",0,64,0
+['discomfort'],1,5,81
+['unwavering'],1,7,86
+['emotions'],0,105,16
+['my'],1,209,272
+['complex'],0,156,51
+['incredibly'],0,57,0
+['dominance'],1,10,85
+['any'],0,125,33
+['massive'],0,67,3
+['worth'],1,23,109
+['respect'],1,43,137
+['analyze'],0,109,24
+['skill'],1,15,93
+"['carefully', 'constructed']",1,1,21
+"['2', '3', '1', ':*']",0,63,6
+['generate'],0,58,1
+"['improve', 'feedback']",0,28,0
+['Data'],0,53,0
+['why'],0,100,20
+['stillness'],1,0,52
+"['Beast', 'symbolism']",0,47,4
+['development'],0,62,3
+['true'],1,38,126
+['on'],0,255,180
+['experience'],0,126,39
+['To'],1,11,79
+['nature'],1,37,122
+"['slightly', 'hint', 'shift']",1,0,191
+['certain'],1,11,78
+['contemplative'],1,0,47
+['difficult'],1,27,105
+['emotional'],0,65,6
+['learning'],0,89,18
+['an'],0,250,85
+['process'],0,100,25
+"['painful', 'believed']",1,0,25
+"['developers', 'working']",0,16,0
+['discipline'],1,4,58
+['admit'],1,0,44
+['way'],0,172,83
+['constantly'],0,65,7
+['proving'],1,1,48
+"['eyes', 'flicker']",1,1,44
+"['allowed', 'cloud', 'judgment']",1,0,15
+['humans'],0,51,2
+['own'],1,79,167
+['The'],0,231,151
+['final'],1,3,53
+['frankly'],1,12,74
+"['hit', 'You']",0,41,0
+['designed'],0,58,5
+['Thank'],0,55,4
+['complicated'],1,2,49
+"['primal', 'instinct']",1,0,18
+"['Important', 'Note']",0,11,0
+['processing'],0,48,2
+['moment'],1,17,81
+"['biases', 'Bias']",0,18,0
+['must'],1,5,56
+['highlights'],0,44,1
+['spent'],1,4,53
+"['Okay', 'let']",0,18,0
+['spirit'],1,6,57
+['worthy'],1,8,61
+"['social', 'Social']",0,19,0
+['interesting'],0,38,0
+['positive'],0,48,3
+['lesson'],1,3,48
+['dataset'],0,37,0
+['’m'],0,137,60
+"['face', 'crossing', 'flicker']",1,0,70
+['Understanding'],0,36,0
+['tone'],1,6,54
+['programming'],0,40,1
+"['behind', 'reasons']",1,5,20
+['However'],0,165,86
+"['was', 'regret']",1,7,60
+['ambition'],1,2,43
+['courage'],1,10,62
+"['transformation', 'themes', 'love']",0,22,1
+['prove'],1,6,53
+['pursuit'],1,16,73
+['resolute'],1,0,35
+"['merely', 'tunic']",1,0,51
+['adjust'],1,13,67
+['matter'],1,5,50
+['rarely'],1,9,59
+['admiration'],1,10,61
+['will'],1,10,61
+"['deeply', 'ingrained']",1,8,23
+['recognition'],1,16,72
+['earned'],1,1,38
+"['Atmosphere', 'burn', 'pace', 'horror', 'dread', 'Slow', 'unease', 'atmosphere', 'Ambiguity', 'viewers', 'Overall', 'talk', 'slow', 'genuinely', 'film']",0,7,0
+['display'],1,1,37
+['Learning'],0,33,0
+['wonderfully'],0,33,0
+"['Resources', '[', 'Further']",0,7,0
+['identify'],0,48,5
+['people'],0,70,16
+"['mental', 'health']",0,10,0
+"['holding', 'accountable', 'previous']",0,10,0
+['respond'],0,45,4
+['truth'],1,8,54
+"['her', 'she', 'She', 'Belle']",1,12,33
+"['her', 'woman']",1,15,46
+"['wolves', 'bears']",1,0,8
+"['processed', 'countless']",0,45,1
+"['gets', 'heart']",0,14,0
+['This'],0,106,41
+"['character', 'narrative', 'Belle']",0,35,1
+['capable'],1,8,53
+['training'],0,55,9
+['seek'],1,10,57
+"['problem', 'solving']",0,11,0
+"['beauty', 'inner', 'Beauty']",0,27,4
+['observed'],1,20,74
+['overcome'],1,11,58
+['protect'],1,11,58
+"['Arc', 'Narrative', 'journey']",0,11,0
+['absolutely'],0,34,1
+['formidable'],1,1,34
+['undeniably'],1,3,40
+"['beneath', 'surface']",1,1,15
+['analysis'],0,49,7
+['lies'],1,16,66
+"['dry', 'chuckle', 'let', 'out']",1,0,11
+['actions'],1,41,103
+['language'],0,39,3
+['Human'],0,33,1
+"['sincerely', 'apologize', 'You']",0,14,1
+['have'],0,162,92
+"['distress', 'damsel', 'fairy', 'tale']",0,8,0
+"['mitigate', 'bias']",0,13,0
+['possessed'],1,1,32
+"['Lack', ':*']",0,35,2
+"['aspect', 'such', ':']",0,191,2
+['essentially'],0,28,0
+"['fan', 'theories', 'reviews']",0,7,0
+['control'],1,31,87
+"['immense', 'creature', 'power']",1,1,19
+['refined'],0,31,1
+['considerable'],1,1,31
+['protector'],1,1,31
+['grace'],1,2,34
+['significant'],0,63,16
+['users'],0,27,0
+['witnessed'],1,0,27
+"['yourself', 'Try', '4']",0,8,0
+"['saw', 'was']",1,4,39
+['compelling'],0,39,4
+"['Acknowledge', 'Focus', 'Your', 'your']",0,10,0
+"['frown', 'brow']",1,0,10
+['reflects'],0,36,3
+['*'],0,269,236
+['hunt'],1,6,43
+"['misguided', 'flawed', 'need']",1,0,18
+"['tool', 'elaborate']",0,21,0
+"['difference', 'between']",1,7,20
+"['posture', 'shift']",1,0,58
+"['untamed', 'raw', 'Beast']",1,0,10

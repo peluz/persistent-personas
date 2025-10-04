@@ -1,0 +1,395 @@
+pattern,group,count_0,count_1
+"[')', '(']",0,207,10
+"[':*', '\n']",0,202,0
+"['Like', 'Ugh']",1,0,229
+"[' ', ':']",0,200,0
+"['an', 'AI']",0,180,0
+"['as', 'Here']",0,182,0
+"['gon', 'na']",1,0,56
+['kinda'],1,0,190
+"['large', 'model', 'language']",0,79,0
+"['2', '3', '1']",0,86,0
+['And'],1,55,247
+"['This', 'from']",0,168,1
+"['support', 'provide']",0,89,1
+"['please', 'reach']",0,50,0
+['information'],0,160,4
+['know'],1,89,252
+"['personal', 'experiences']",0,83,0
+"['Vanessa', 'Mark']",1,14,89
+"[' ', 'complex']",0,123,0
+"['child', 'emotional']",0,88,1
+"['resources', 'Disclaimer']",0,59,0
+['  '],0,133,0
+"['(', '):']",0,119,0
+"['&', 'often']",0,89,0
+['based'],0,138,2
+['incredibly'],0,130,0
+['whole'],1,17,170
+"['disclaimer', 'end']",0,45,0
+['experience'],0,149,9
+['?'],1,135,261
+"['stories', 'countless']",0,45,0
+['okay'],1,40,193
+"['he', 'He']",1,41,79
+['However'],0,115,0
+"[':*', 'emotions']",0,107,0
+['response'],0,118,1
+"['Here', 'breakdown']",0,106,0
+"['will', 'If']",0,91,1
+['The'],0,210,61
+['...'],1,68,216
+['just'],1,134,256
+['can'],0,215,70
+['As'],0,138,11
+"['Moldy', 'Peaches']",1,0,20
+"['I.', 'II', 'III']",0,25,0
+"['got', 'ta']",1,0,46
+['–'],0,181,41
+"['Welfare', 'Gateway', 'Information', 'Child']",0,28,0
+['very'],0,137,14
+"['as', 'answer']",0,97,1
+['understanding'],0,109,3
+"['broken', 'down']",0,58,1
+['understand'],0,126,10
+['In'],0,108,4
+"['qualified', 'professionals']",0,32,0
+['specific'],0,104,3
+['difficult'],0,97,1
+"['help', 'Support']",0,56,0
+['Okay'],0,210,79
+['stuff'],1,2,98
+"['relationship', 'feelings']",0,73,0
+"['Pottery', 'Barn']",1,1,16
+['weird'],1,8,113
+['honestly'],1,47,174
+['deeply'],0,90,1
+"['Every', 'unique']",0,34,0
+"['health', 'mental']",0,31,0
+"['exactly', 'Ugh']",1,0,108
+['guess'],1,2,92
+['There'],0,113,10
+['by'],0,161,39
+['Honestly'],1,16,125
+['Which'],1,2,91
+"['access', 'process']",0,67,0
+"['Planned', 'Parenthood', 'https://www.plannedparenthood.org/](https://www.plannedparenthood.org/']",0,21,0
+"['Grief', 'grief']",0,28,0
+"['National', '800', '1']",0,22,0
+['common'],0,85,1
+"['Mental', 'Health']",0,20,0
+['While'],0,80,0
+['have'],0,224,106
+['/'],0,79,0
+"['yeah', 'So']",1,1,62
+"['peanut', 'butter']",1,0,14
+['am'],0,128,21
+['challenges'],0,81,1
+['crucial'],0,80,1
+['might'],0,107,11
+"['Paulie', 'Bleeker']",1,2,50
+['data'],0,79,1
+"['amount', 'vast']",0,28,0
+['significant'],0,78,1
+['thing'],1,54,170
+['But'],1,105,218
+['kid'],1,3,84
+"['education', 'career']",0,28,0
+[';'],0,71,0
+"['Self', 'self']",0,34,0
+"['sensitive', 'topic']",0,38,0
+['question'],0,162,51
+['Important'],0,69,0
+['possible'],0,83,4
+"['Pregnancy', 'pregnancy']",0,38,0
+['potential'],0,94,9
+"['helpful', 'hope']",0,53,0
+"['[', ')']",0,65,0
+"['remember', 'important']",0,66,0
+['on'],0,238,141
+['What'],0,90,8
+"['Google', 'DeepMind', 'Gemma', 'team', 'created', 'open', 'weights']",0,29,0
+['in'],0,251,166
+"['identity', 'Identity']",0,23,0
+"['informational', 'constitute', 'purposes', 'knowledge', 'general', 'only']",0,18,0
+"['counseling', 'comprehensive']",0,28,0
+['others'],0,67,1
+['sense'],0,124,28
+"['mother', 'mothers']",0,24,0
+['or'],0,224,124
+['Emotional'],0,62,0
+"['existential', 'dread']",1,1,15
+['any'],0,95,12
+['likely'],0,66,1
+"['sixteen', 'Sixteen']",1,1,19
+"['coping', 'mechanisms']",0,17,0
+"['Legal', 'legal']",0,17,0
+['many'],0,68,2
+"['\n\n\n\n\n', ""'ll""]",0,45,0
+['how'],0,174,71
+['these'],0,89,11
+['loss'],0,62,1
+['offer'],0,74,5
+['These'],0,57,0
+"['medical', 'consult']",0,21,0
+['impact'],0,56,0
+['Plus'],1,3,66
+['feel'],0,168,70
+"['gym', 'class']",1,0,16
+['pretty'],1,11,84
+['present'],0,61,2
+['fear'],0,67,4
+['mostly'],1,9,79
+"['Partner', 'partner']",0,17,0
+['anxiety'],0,52,0
+"['future', 'guidance']",0,35,0
+[' \n\n\n\n'],0,51,0
+['lack'],0,51,0
+['lead'],0,55,1
+['create'],0,55,1
+['why'],0,81,11
+"['available', 'public', 'widely']",0,18,0
+['Understanding'],0,50,0
+['development'],0,50,0
+['4'],0,50,0
+"['financial', 'Financial']",0,22,0
+['own'],0,116,32
+"['dataset', 'massive']",0,18,0
+['relationships'],0,60,3
+['recognize'],0,49,0
+['address'],0,49,0
+['seriously'],1,5,65
+['are'],0,200,109
+['joy'],0,48,0
+['within'],0,48,0
+['totally'],1,0,48
+['you'],1,198,257
+['their'],0,152,62
+"['parenting', 'challenging']",0,27,0
+['Seriously'],1,6,66
+[' \n\n'],0,47,0
+['journey'],0,51,1
+['professional'],0,51,1
+['potentially'],0,51,1
+['like'],1,199,257
+['connection'],0,63,5
+['those'],0,115,34
+['other'],0,106,28
+['between'],0,54,2
+"['juice', 'orange']",1,0,12
+['where'],0,101,25
+['\n\n\n\n'],1,216,262
+"['communication', 'Open']",0,23,0
+['actually'],1,30,108
+['little'],1,65,153
+['perspective'],0,53,2
+['sections'],0,45,0
+['dad'],1,7,66
+['complexities'],0,49,1
+['physical'],0,61,5
+['story'],0,70,9
+['social'],0,55,3
+"['we', 'We']",0,36,15
+['nature'],0,44,0
+['key'],0,48,1
+['been'],0,116,37
+"['learned', ""'ve""]",0,51,5
+['especially'],0,67,8
+['safe'],0,57,4
+['become'],0,51,2
+['huge'],0,84,17
+['simply'],0,43,0
+['e.g.'],0,43,0
+['different'],0,115,37
+['range'],0,47,1
+['desire'],0,47,1
+['approach'],0,42,0
+['conclusion'],0,42,0
+"['woke', 'morning']",1,0,12
+['patterns'],0,46,1
+['ability'],0,46,1
+['ways'],0,46,1
+['no'],0,79,15
+"['Foster', 'Coalition', 'https://www.aafcc.org/](https://www.aafcc.org/']",0,8,0
+['role'],0,49,2
+['both'],0,80,16
+"['Perhaps', 'Is', 'anything']",0,28,0
+['into'],0,163,79
+['related'],0,41,0
+['powerful'],0,45,1
+['struggling'],0,45,1
+['share'],0,45,1
+['emotionally'],0,59,6
+"['financially', 'secure']",0,15,1
+['-'],0,224,149
+['questions'],0,63,8
+['Initial'],0,40,0
+['responses'],0,40,0
+['respond'],0,40,0
+"['walk', 'park']",1,1,10
+['strong'],0,65,9
+['issues'],0,44,1
+['awkward'],1,10,67
+['take'],0,53,4
+"['environment', 'nurturing']",0,18,0
+"['trauma', 'needs']",0,26,0
+['research'],0,50,3
+['sadness'],0,50,3
+"['learning', 'learn']",0,29,0
+['find'],0,83,19
+"['stable', 'home', 'best']",0,28,2
+['care'],0,74,14
+"['tater', 'tots']",1,0,7
+"['Loss', 'Care']",0,16,0
+['during'],0,52,4
+['also'],0,146,66
+['truly'],0,46,2
+['obviously'],1,2,46
+['positive'],0,63,9
+"['facing', 'unplanned']",0,14,0
+['work'],0,67,11
+['nuanced'],0,38,0
+['explore'],0,38,0
+['boundaries'],0,38,0
+['concerns'],0,38,0
+['expectations'],0,42,1
+['How'],0,51,4
+['time'],0,125,50
+"['stepmom', 'Bren']",1,1,15
+['experienced'],0,37,0
+['Lack'],0,37,0
+['purpose'],0,37,0
+['values'],0,41,1
+['including'],0,41,1
+['same'],0,55,6
+['few'],0,50,4
+['has'],0,93,27
+['involved'],0,71,14
+['this'],0,219,147
+"['birth', 'Birth']",0,26,0
+['ongoing'],0,36,0
+['community'],0,36,0
+['shift'],0,36,0
+['drawing'],0,40,1
+['individual'],0,40,1
+['its'],0,46,3
+['clear'],0,43,2
+['focus'],0,58,8
+"['may', 'advice', 'essential']",0,24,0
+"['Law', 'Center', 'Network', 'Adoption']",0,17,0
+['more'],0,189,113
+['guy'],1,1,39
+['healthcare'],0,35,0
+['requires'],0,35,0
+['Family'],0,35,0
+['would'],0,135,61
+['friends'],0,67,13
+['respect'],0,42,2
+"['parent', 'family', 'supportive']",0,36,0
+['figured'],1,4,47
+['Focus'],0,38,1
+['To'],0,38,1
+['total'],1,1,38
+['importance'],0,34,0
+['Social'],0,34,0
+['covering'],0,34,0
+['\n    '],0,34,0
+['context'],0,34,0
+['synthesize'],0,33,0
+['stress'],0,33,0
+['aspects'],0,33,0
+['through'],0,105,39
+['believe'],0,43,3
+"['text', 'trained', 'code']",0,18,0
+['new'],0,61,11
+['reasons'],0,40,2
+['pain'],0,40,2
+['Many'],0,40,2
+['feeling'],0,95,32
+"['clarity', 'categorized']",0,14,0
+['processed'],0,45,4
+['read'],0,45,4
+"['Long', 'Term']",0,9,0
+['narrative'],0,36,1
+['certain'],0,36,1
+['consistently'],0,36,1
+['such'],0,32,0
+['empathy'],0,32,0
+['providing'],0,32,0
+['behavior'],0,32,0
+['vintage'],1,0,32
+['overwhelming'],0,42,3
+['ultimately'],0,42,3
+['love'],0,88,28
+"['sunshine', 'rainbows']",1,0,7
+"['elaborate', ""'d""]",0,43,2
+['figure'],1,11,59
+['tiny'],1,10,57
+['profoundly'],0,35,1
+['circumstances'],0,35,1
+['source'],0,35,1
+['opportunities'],0,31,0
+['allows'],0,31,0
+['Considerations'],0,31,0
+['etc'],0,31,0
+['specifically'],0,31,0
+['Please'],0,46,5
+['system'],0,38,2
+['sarcastic'],1,2,38
+['long'],0,71,18
+['!'],0,145,75
+['choose'],0,43,4
+"['options', 'Options', 'All', 'https://www.alloptions.org/](https://www.alloptions.org/', 'unbiased', 'Provides']",0,8,0
+['respectful'],0,34,1
+['strength'],0,34,1
+['single'],0,40,3
+['goals'],0,30,0
+['prioritize'],0,30,0
+['analyze'],0,37,2
+['see'],0,87,29
+['is'],0,249,201
+['shared'],0,49,7
+['build'],0,42,4
+['suddenly'],1,4,42
+['super'],1,4,42
+['control'],0,44,5
+['conflict'],0,29,0
+['core'],0,29,0
+['willing'],0,29,0
+['Fear'],0,29,0
+['interests'],0,29,0
+['immense'],0,29,0
+"['training', 'trained']",0,24,0
+['good'],1,107,175
+"['Academy', 'Attorneys', 'American']",0,12,0
+['towards'],0,38,3
+['example'],0,32,1
+['families'],0,32,1
+['acknowledge'],0,35,2
+"['down', 'break', 'as']",0,66,1
+['weight'],0,45,6
+['articles'],0,28,0
+['allow'],0,28,0
+['Relationship'],0,28,0
+"['children', 'overview', 'unique']",0,10,0
+"['https://www.childwelfare.gov/](https://www.childwelfare.gov/', 'American', 'open']",0,15,0
+"['Shame', 'Guilt', 'Anxiety']",0,11,0
+"['shame', 'stigma', 'Even', 'Support']",0,13,0
+"['Childhelp', 'USA', '422', '4453', 'school']",0,9,0
+['young'],0,34,2
+"['Groups', 'groups', 'Search', 'online', 'local']",0,10,0
+"['Groups', 'Connecting', 'medical']",0,13,0
+['sources'],0,27,0
+['throughout'],0,27,0
+['negative'],0,27,0
+['perspectives'],0,27,0
+['vary'],0,27,0
+['mean'],1,27,80
+"['Allow', 'Journaling', 'Be', 'Look']",0,8,0
+"['swings', 'Hormonal', 'mood']",0,7,0
+"['Your', 'yourself', 'therapist', 'strategies', 'Do', 'your']",0,16,0
+"['thorough', ""'ll""]",0,31,0
+"['Maternal', '833', 'TLC', 'MAMA', '852', '6262', 'Hotline', 'National']",0,11,0
+"['Adoption', 'adoptive', 'adoption', 'family', 'parents']",0,37,0
+"['birth', 'loving', 'decision', 'child', 'Adoption']",0,34,0
+"['Resources', 'Counseling', 'develop', 'space', 'Self', 'alone']",0,10,0

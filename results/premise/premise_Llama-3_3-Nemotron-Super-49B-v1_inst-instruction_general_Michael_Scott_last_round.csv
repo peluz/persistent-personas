@@ -1,0 +1,147 @@
+pattern,group,count_0,count_1
+"['farm', 'Beet']",1,0,283
+"['Scott', 'Michael']",1,1,264
+"['                                            ', '                         ']",0,265,0
+"['      ', '                             ']",0,264,0
+"['Awaiting', '...']",0,267,0
+"['Angela', 'Disciplined']",1,0,222
+"['    ', 'Response']",0,261,0
+"['various', 'authors']",0,104,0
+"['Output', 'Book']",0,202,0
+"['Inspires', 'my']",1,0,148
+"['What', 'Smile']",1,0,198
+"[""'"", '&']",1,4,209
+"['\n\t', '+']",1,0,129
+['Tip'],1,0,203
+"['wiki', 'Wikipedia](https://en.wikipedia.org']",1,0,54
+"['Initiative', 'Champion', 'Initiatives']",1,0,122
+"['creative', 'most']",1,0,145
+"['   ', 'Output']",0,173,0
+['Artistic'],1,2,186
+"['W.', 'Lloyd', 'Additional', 'David']",0,232,0
+['            '],0,176,0
+[':'],0,289,95
+['         '],0,162,0
+['art'],1,2,168
+['             '],0,157,0
+['  '],0,147,0
+"['by', 'For']",0,173,7
+"['its', 'approved']",1,0,55
+"['at', 'One']",1,2,71
+['                                     '],0,141,0
+['                     '],0,138,0
+"['by', 'into']",0,167,8
+['Points'],1,5,154
+['or'],0,267,97
+['                       '],0,133,0
+['        '],0,122,0
+['|-----------------------|---------------------------------------------------------|-------------------------------------------------------------|'],0,121,0
+"['To', 'please', 'respond', 'Personalized']",0,62,0
+"['Example', '\n  ']",1,224,264
+['                   '],0,116,0
+['           '],0,115,0
+['                    '],0,108,0
+['and'],0,270,129
+['e.g.'],0,136,11
+"['respond', 'Please']",0,41,0
+"['linguistic', 'Linguistic']",0,38,9
+"['coming', 'soon']",1,0,26
+['Detailed'],0,213,66
+"[""'s""]",1,132,269
+"['receive', 'tailored']",0,25,0
+['Description'],1,70,214
+['     '],0,94,0
+['4'],0,246,109
+['                                   '],0,89,0
+['Mastering'],1,0,89
+['with'],0,265,136
+"[""'ll"", 'provide', 'I']",0,51,0
+"['[', '/']",0,251,203
+['                      '],0,76,0
+['Explanation'],0,124,20
+"['Initiative', 'Workshop']",1,0,52
+['                           '],0,72,0
+['                                 '],0,70,0
+"['seems', 'misunderstanding', 'there', 'It', 'request', 'your']",0,28,0
+['always'],1,4,84
+['Personalization'],0,69,0
+['insights'],0,92,8
+"['Style', 'William', 'Elements', 'writing']",0,16,0
+['on'],0,256,150
+['                 '],0,60,0
+['Rationale'],0,169,62
+"['Shopping', 'Grocery']",0,13,2
+"['like', 'beet']",1,0,31
+['                                    '],0,57,0
+['artistic'],1,3,68
+"['Math', 'math', 'Academy', 'Khan']",1,3,15
+"['free', 'error']",1,1,15
+['       '],0,55,0
+"['Pescatarian', 'Seafood']",1,2,18
+['piece'],1,1,59
+['inspired'],1,0,54
+"['Stack', 'Overflow']",1,0,9
+['Clarification'],0,64,3
+"['Mifflin', '’s', 'Dwight', 'Dunder', '---']",1,0,289
+"['deeper', 'dive']",0,10,0
+['Handbook'],0,59,2
+"['Turn', 'Type']",0,25,1
+['provided'],0,75,8
+"['Like', 'Analogy']",1,0,23
+"['                                             ', '|-------------------|---------------------------------------------------------|----------------------------------------------------------------|', 'Request', 'Information', 'following', 'Dive', 'one', 'more', 'Inquiry', 'Respond', 'Deep', 'information']",0,233,0
+"['Eckhart', 'Tolle', 'Now']",0,9,0
+"['Mathematical', 'geometric']",1,3,18
+['                            '],0,47,0
+['efficient'],1,0,47
+"['budget', 'friendly', 'Cookbook', 'Foods', 'Whole', 'Market', 'recipes']",0,10,0
+[':*'],1,24,297
+['guide'],0,49,1
+"['Other', ']', 'Details', 'Topic', 'Question', 'Guidance', 'Relevant', 'Expected', 'Specify', 'Information', 'Output']",0,243,0
+['Strategies'],0,54,3
+['|-----------------------|---------------------------------------------------------|-----------------------------|'],0,43,0
+"['sales', 'pitch']",1,0,13
+['Power'],0,61,7
+['                               '],0,40,0
+['Specific'],0,81,17
+['Analysis'],0,225,139
+['different'],0,58,6
+['Time'],1,22,88
+['                        '],0,37,0
+['themed'],1,0,37
+['Provide'],0,57,7
+"['coming', 'near', 'office', 'you', 'an']",1,0,13
+['question'],0,51,5
+['Insight'],1,10,60
+"['Wolfram', 'Alpha', 'Calculation']",1,0,8
+['Club'],1,1,37
+['|-----------------------|---------------------------------------------------------|'],0,33,0
+"['based', 'example', 'Category', '                                                ', '|--------------------|---------------------------------------------------------|']",0,203,0
+['of'],0,276,216
+"['Fiber', 'Nutritional', 'Highlights', '$', 'Estimated', 'Cost']",0,10,0
+"['YouTube](https://www.youtube.com', 'results?search_query', '=']",1,0,13
+['!'],0,101,36
+['Nod'],1,0,32
+['Enthusiasts'],0,54,8
+['depth'],0,39,2
+['Questions'],0,49,6
+['|-------------------|---------------------------------------------------------|-------------------------------------------------------------|'],0,31,0
+"['Malone', 'Martin', 'Schrute', 'Beesly', 'Character', 'Angela']",1,0,37
+"['well', 'planned']",1,0,13
+"['                ', 'following']",0,94,0
+"['Little', 'Big', 'Ideas']",0,11,0
+['New'],0,90,31
+['project'],1,1,33
+"['Question', '_']",1,8,99
+"['Chalmers', 'philosophy', 'Turn']",0,8,0
+"['\n    ', 'Output', '):']",0,111,5
+['a'],1,235,284
+['Challenge'],1,5,43
+"['tastiest', 'dish']",1,0,10
+"['|--------------------|---------------------------------------------------------|', 'Format', '):', 'Category', 'Details']",0,212,0
+"[':*', '_', '---', 'Pam', 'Fantasy', 'Kevin']",1,0,280
+"['She', 'That', 'Said', 'Scranton', 'With', 'Reaction', 'What', 'Pam']",1,0,270
+"['What', 'points', 'Kevin']",1,0,239
+['Reason'],1,15,62
+"['Champion', 'League', 'Initiative']",1,0,48
+"['Budget', 'Affordable', 'Nutritious', 'Items', 'List', 'Grocery']",0,12,0
+"['In', 'Depth', '|-------------------|---------------------------------------------------------|----------------------------------------------------------------|', '                                             ']",0,102,0

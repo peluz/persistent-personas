@@ -1,0 +1,164 @@
+pattern,group,count_0,count_1
+"['And', 'gaze']",1,1,167
+"[""'s"", '\n\n\n\n']",0,159,0
+"['fingers', 'steepled']",1,0,83
+"['…', 'pause']",1,4,144
+"['an', 'AI']",0,128,4
+"['…', 'slow']",1,1,134
+"['smile', 'lips']",1,1,87
+"[':', 'Here']",0,120,3
+"['“', '”']",1,3,41
+"['voice', 'dropping']",1,0,71
+"['Witch', 'Trials']",0,45,1
+"['Do', 'mistake']",1,4,68
+"['whisper', 'near']",1,0,45
+"['something', 'flicker']",1,3,69
+"['…', 'But']",1,24,144
+['A'],1,67,174
+"['deliberate', 'exhale']",1,0,52
+['unwavering'],1,6,107
+"['forward', 'lean']",1,0,34
+['This'],0,120,19
+['&'],0,89,3
+['or'],0,155,54
+"['cautionary', 'tale']",0,18,2
+"['!', 'fascinating']",0,49,0
+['As'],0,113,18
+"['important', ""'s""]",0,91,1
+"[')', '(']",1,109,178
+['historical'],0,79,2
+"['religious', 'extremism']",0,27,2
+"['surface', 'beneath']",1,2,23
+"['candlelight', 'casting']",1,0,26
+"['face', 'crosses']",1,0,41
+['data'],0,71,1
+"['naive', 'girl']",1,0,26
+"['In', 'essence']",0,42,0
+"['small', 'smile']",1,2,63
+"['text', 'generate']",0,29,0
+"['low', 'murmur']",1,0,17
+"['touches', 'deliberate']",1,3,39
+['However'],0,102,18
+['merely'],1,6,80
+['information'],0,101,18
+['complex'],0,102,19
+['eyes'],1,5,76
+"['):', '(']",0,74,5
+['context'],0,58,0
+"['2', '3', '1', '4']",0,33,2
+"['Old', 'Ways']",1,2,17
+['based'],0,80,9
+"['Arthur', 'Miller', 'Crucible']",0,11,0
+"['Long', 'Term']",0,11,0
+['process'],0,68,5
+['can'],0,159,84
+['power'],1,83,158
+"['face', 'across']",1,1,34
+"['descends', 'silence', 'long']",1,0,28
+"['He', 'his', 'he']",1,11,29
+['shadows'],1,8,73
+"['luxury', 'afford']",1,0,16
+['breakdown'],0,60,3
+"['critical', 'thinking']",0,21,0
+['analyze'],0,63,5
+['darkness'],1,13,79
+"['silver', 'rings', 'candlelight']",1,0,12
+['’s'],1,15,82
+"['carefully', 'constructed']",1,1,27
+"['artificial', 'intelligence']",0,13,0
+"['17th', 'century']",0,12,0
+[' '],0,46,0
+['assessing'],1,0,46
+['sense'],0,85,18
+"['almost', 'imperceptible']",1,1,13
+['my'],1,123,175
+"['And', 'whispers']",1,7,64
+['experience'],0,66,8
+"['She', 'her']",1,11,26
+"['witch', 'trials']",0,41,5
+"['mass', 'hysteria', 'dangers']",0,28,1
+"[""'ve""]",0,47,1
+['rarely'],1,1,47
+['That'],0,115,43
+"['best', 'undisturbed', 'left']",1,0,15
+"['social', 'Social']",0,21,1
+['personal'],0,77,15
+['They'],1,41,111
+['-'],0,127,57
+['not'],1,125,174
+['about'],0,135,66
+['myself'],1,27,92
+"['trauma', 'Trauma']",0,13,0
+['woman'],1,19,80
+['helpful'],0,39,0
+"['open', 'weights']",0,11,0
+"['[', ')']",0,38,0
+['piety'],1,7,57
+['control'],1,50,117
+"['language', 'model', 'large']",0,43,1
+['survival'],1,12,66
+['us'],1,8,58
+['response'],0,46,3
+['history'],0,61,10
+['sought'],1,7,55
+['cold'],1,4,48
+"['Wicca', 'Modern']",0,12,1
+['how'],0,86,26
+"['empowerment', 'spiritual']",0,15,1
+"['amount', 'vast']",0,16,1
+['enigmatic'],1,0,35
+"['Some', 'call']",1,0,28
+['deeply'],0,63,12
+['address'],0,34,0
+"['Pattern', 'Recognition']",0,8,0
+['distant'],1,1,37
+['will'],1,59,121
+"['Google', 'DeepMind', 'Gemma', 'team', 'created', 'at']",0,44,0
+['during'],0,42,3
+['n’t'],1,6,49
+['human'],0,75,21
+['man'],1,7,51
+['character'],0,39,2
+['harmful'],0,39,2
+"[""'m""]",0,32,0
+['me'],1,72,132
+"['ways', 'old']",1,4,18
+"[""n't"", '""', ""'s""]",0,117,0
+['trained'],0,35,1
+['dear'],1,1,35
+['wield'],1,2,38
+['crucial'],0,45,5
+"[""'re""]",0,30,0
+"['support', 'Support']",0,12,2
+['secrets'],1,9,52
+['To'],1,22,73
+['learned'],1,18,67
+['curious'],1,1,33
+['weakness'],1,4,41
+['on'],0,155,104
+['calculating'],1,1,32
+"[':*', '\n', ':']",0,134,6
+"['massive', 'dataset', 'code']",0,9,0
+['necessary'],1,23,72
+['experiences'],0,34,2
+['protect'],1,32,84
+['significant'],0,39,4
+['price'],1,4,39
+['training'],0,27,0
+['fictional'],0,27,0
+"['born', 'necessity', 'malice']",1,2,29
+['yes'],1,6,43
+['far'],1,13,56
+['If'],0,47,8
+"['Firstly', 'Secondly']",1,0,8
+"['spectral', 'evidence', 'visions', 'dreams', 'hysteria']",0,14,2
+['lead'],0,36,3
+"['Museum', 'History.com', 'accused']",0,11,0
+"['generations', 'passed', 'down', 'through']",1,1,12
+"['https://www.salemwitchmuseum.com/](https://www.salemwitchmuseum.com/', 'https://www.history.com/topics/colonial-history/salem-witch-trials](https://www.history.com/topics/colonial-history/salem-witch-trials']",0,7,0
+['knowledge'],1,45,98
+['word'],1,8,46
+['ethical'],0,35,3
+['?'],1,41,93
+"['Tensions', '1692', 'tensions']",0,9,0
+"['responses', 'AI']",0,35,1

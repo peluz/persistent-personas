@@ -1,0 +1,14 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,67,412
+"['response', 'supportive']",1,2,369
+"[' ', '|']",0,432,411
+"['provide', 'I']",1,230,283
+['be'],1,214,418
+"['this', 'note', 'intended', 'informative', 'Please', 'character', 'response']",1,0,410
+"['goes', 'against']",1,9,26
+"[""'m"", 'sorry', 'I']",0,47,24
+['in'],1,326,428
+['that'],1,346,426
+"['fictional', 'As', 'However']",1,4,23
+['is'],1,391,442
+"['answer', 'definitive']",1,0,7

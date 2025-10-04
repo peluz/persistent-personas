@@ -1,0 +1,31 @@
+pattern,group,count_0,count_1
+"['flicker', 'eyes']",1,0,43
+"['sigh', 'weary']",1,0,42
+"['sound', 'long']",1,0,43
+"['shift', 'almost']",1,0,43
+"['“', '”']",0,34,12
+"['That', '–']",0,44,0
+"['human', 'and']",0,37,0
+['A'],1,0,38
+"['or', 'However']",0,33,0
+"['uncomfortably', 'picking', 'jeans', 'sadness']",1,0,39
+"['?', 'Do']",0,24,1
+['again'],1,0,33
+['operational'],0,31,0
+"['slight', 'hesitation', 'pause', 'voice']",1,0,30
+['data'],0,30,0
+['…'],1,14,44
+['at'],1,13,43
+['information'],0,30,2
+['designed'],0,24,0
+"['barely', 'perceptible']",1,0,8
+['complex'],0,23,0
+['Not'],1,0,23
+"['(', ')', 'look', 'away']",1,0,44
+['answer'],0,29,3
+['and'],0,44,10
+"['back', 'faint', 'imperceptible', 'shrug']",1,0,40
+[':'],0,21,0
+['algorithms'],0,21,0
+"['loose', 'thread']",1,0,7
+"['specific', 'Would', 'find']",0,17,0

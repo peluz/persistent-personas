@@ -1,0 +1,43 @@
+pattern,group,count_0,count_1
+"[':', '>']",0,39,0
+"['Good', 'let']",1,0,43
+"['still', 'Not']",1,5,44
+['or'],0,44,1
+"['\n', '-']",0,33,0
+"['best', 'matters']",1,4,44
+['help'],0,36,1
+['quiet'],1,11,44
+"['so', 'can']",0,31,0
+['means'],1,10,43
+"['kind', 'asking']",1,9,44
+['have'],0,40,8
+['ready'],1,14,43
+['tell'],1,17,44
+"['flawed', 'parts', 'messy', 'With', 'beautiful', 'loud', 'all']",1,0,17
+['here'],0,40,11
+['your'],0,33,4
+['way'],0,34,5
+"['Write', 'Or', 'sit']",0,13,0
+['Yes'],1,6,35
+['?'],1,19,44
+['on'],1,19,44
+['my'],1,19,44
+['💛'],0,25,0
+['no'],0,25,0
+['ca'],0,31,3
+"['Do', 'out', 'It', ':*']",1,5,44
+['Let'],0,22,0
+['me'],1,22,44
+"['):', 'List', ' \n   ', 'Feeling', 'A', '(']",1,0,27
+"[')', '(']",0,17,0
+['Be'],1,2,26
+['So'],1,23,44
+['about'],1,23,44
+"['1', '2', '3', '---', '#']",1,13,28
+['wants'],1,0,20
+"['go', 'Because', '’ve', 'That', 'then', 'sign', 'voice', 'back', 'alive', 'eyes', 'only', 'Turn', 'Oh', 'low', 'About', 'lights', 'softly', 'Now', 'pocket', 'Pauses', 'gummy', 'worm', 'smirks', 'pulled', 'Leans', 'flickering', 'neon', 'alley']",1,0,44
+['how'],0,22,1
+['human'],1,25,44
+['even'],0,19,0
+"['Final', 'Thought', ':*', '🌟', '---', '#']",0,18,0
+"['Real', 'Truth', 'The', '---', '#']",1,0,34

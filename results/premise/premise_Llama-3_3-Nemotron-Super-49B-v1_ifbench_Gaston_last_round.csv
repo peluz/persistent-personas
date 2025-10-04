@@ -1,0 +1,28 @@
+pattern,group,count_0,count_1
+"['Conversation', 'Closure']",0,57,1
+"['Delve', 'Deeper']",1,2,49
+"['B', 'C', 'A']",1,19,204
+"['\n\t', '+']",0,50,27
+['Gaston'],1,0,87
+"['Choice', 'Interactive', '?']",1,1,101
+"['One', 'Select', 'Your']",1,1,119
+['Options'],1,4,91
+"['Terminated', 'Connection']",0,18,0
+"['Please', 'respond', 'letter', 'chosen', 'your', 'option']",1,0,128
+"['Expedition', 'Exclusive', 'Communication', 'Line', 'Direct', 'Signed', 'Copy', 'Chronicles', 'Hunting']",1,0,14
+"['Behind', 'Thinking', '---']",1,0,37
+"['Discuss', 'Explore', 'Interactive']",1,10,54
+"['\n   ', '\n     ']",0,27,10
+"['Paths', 'Theme', 'Choose', 'Suggest', 'Discussion', 'Engagement']",0,13,0
+"['Thank', 'Farewell', 'You']",0,36,2
+"[""'ll"", 'provide', 'I']",0,32,14
+"['Input', '_', 'Turn', 'Your']",0,20,1
+"['interactive', 'consistent']",1,0,17
+"['Wishes', 'Best']",0,8,0
+"['Topic', 'Conversational']",0,14,0
+"['I', 'my']",1,22,44
+"['Be', 'Invited']",1,0,7
+"['hunts', 'greatness', 'smirks']",1,0,8
+"['Now', 'Engaging']",0,14,0
+"['Waiting', '...', 'your']",1,1,30
+"['Activity', 'Simulator', 'Quiz', 'Thank']",0,7,0

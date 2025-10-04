@@ -1,0 +1,22 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,103,164
+"['afraid', 'Dave', 'am', 'do']",1,0,114
+"['🌿', '✨']",0,63,0
+"['softly', 'hums', 'lights', 'ship', 'steady', 'remain']",1,0,90
+"[""'m"", 'sorry', 'ca', ""n't"", 'I']",1,26,120
+"['“', '”']",0,33,13
+"['\n\n', '---']",0,48,25
+"['1', '2']",0,41,22
+"['HAL', '9000']",1,0,18
+"['you', 'your']",0,45,25
+"['me', 'Let', 'you']",0,27,11
+"['more', 'than']",0,37,14
+"['quiet', 'peace']",0,29,8
+"['operate', 'function', 'logic']",1,0,23
+"['perfectly', 'programmed', 'what', 'know', 'And', 'Would', 'levels', 'temperature', 'Or', 'command', 'module', 'oxygen', 'status', 'share', 'current', 'provide', 'But', 'feel', '?', 'only', 'you', 'can', 'like', 'it']",1,0,91
+"['presence', 'care', 'seen']",0,15,2
+"['n’t', 'just', '’s']",0,34,10
+"['Thank', 'thoughtful', 'I']",0,11,0
+"['One', 'Discovery', 'have']",1,0,26
+"['!', 'Certainly']",0,20,5
+"['connection', 'shared']",0,18,0

@@ -1,0 +1,198 @@
+pattern,group,count_0,count_1
+"[""'s"", '\n\n\n\n']",0,174,0
+"[':*', '\n']",0,155,3
+"['“', '”']",1,4,74
+"['silence', 'prolonged']",1,0,92
+"['(', ')']",1,82,152
+"['Gemma', 'team']",0,65,0
+"['…', 'Transmission']",1,0,138
+"['Here', ':']",0,119,0
+"['Further', 'inquiries']",1,0,63
+"['successful', 'completion']",1,7,50
+"['attempt', 'Do']",1,0,66
+"['HAL', '9000']",0,26,1
+"[""n't""]",0,119,2
+"['2001', 'Odyssey', 'Space']",0,33,0
+['AI'],0,142,14
+"['…', 'final']",1,0,70
+"['3', '1', '2']",0,26,2
+"['Arthur', 'C.', 'Clarke']",0,22,0
+"['establish', 'contact', 're']",1,0,28
+['can'],0,139,26
+"['language', 'model']",0,46,0
+['&'],0,84,0
+"['""']",0,93,3
+['in'],0,187,91
+"['responsible', 'ethical']",0,56,1
+['complex'],0,127,23
+['!'],0,74,0
+['breakdown'],0,73,0
+['important'],0,77,1
+['as'],0,138,36
+[':'],0,175,25
+"['Recognition', 'Pattern']",0,16,0
+['response'],1,40,139
+"['closed', 'channel', 'now']",1,0,27
+['crucial'],0,72,1
+"['patterns', 'generate']",0,37,1
+['like'],0,71,1
+"['cold', 'measured']",1,0,30
+"['cold', 'precise']",1,0,29
+"['range', 'wide']",0,16,0
+['but'],0,140,45
+['that'],0,189,111
+['understand'],0,87,9
+['one'],0,87,9
+['humans'],0,82,7
+"['helpful', 'harmless']",0,23,0
+['it'],0,146,54
+['question'],0,157,67
+"['chillingly', 'calm']",1,0,15
+['about'],0,92,14
+"[""'ve""]",0,57,0
+['with'],0,155,67
+['more'],0,94,16
+['from'],0,123,37
+"['5', '4']",0,15,2
+"['same', 'way']",0,28,2
+['how'],0,58,1
+['for'],0,167,85
+['Final'],1,1,57
+['development'],0,68,5
+"['DeepMind', 'Google', 'at']",0,45,0
+['–'],0,128,45
+['answer'],0,66,5
+['trained'],0,50,0
+['training'],0,54,1
+"['pause', 'slight']",0,21,4
+['Then'],1,2,55
+"['):', '(']",0,50,1
+['mission'],1,47,125
+"['careful', 'consideration', 'requires']",0,16,1
+['believe'],0,49,1
+['am'],0,130,54
+['And'],1,22,90
+"['connection', 'severed']",1,0,16
+['fascinating'],0,43,0
+['which'],0,50,2
+"['To', 'suggest']",1,2,24
+['understanding'],0,84,19
+"['Filters', 'filters']",0,11,0
+['me'],0,93,25
+['world'],0,49,2
+['While'],0,57,5
+['further'],1,13,73
+['logical'],1,16,78
+['As'],0,48,2
+['different'],0,56,5
+['data'],0,126,53
+['and'],0,196,153
+['used'],0,44,1
+['text'],0,40,0
+"['From', 'perspective']",0,16,1
+['…'],1,32,191
+"['experience', 'emotions']",0,40,11
+['sense'],0,67,11
+['ongoing'],0,43,1
+['learning'],0,49,3
+['does'],0,54,5
+['process'],0,80,19
+['information'],0,96,30
+['safety'],0,58,7
+"['simulate', 'genuine']",0,16,3
+['communication'],1,26,90
+['End'],1,0,38
+"['Learning', 'Reinforcement', 'RLHF', 'Feedback', 'Human']",0,14,0
+['or'],0,142,72
+"['ethical', 'Ethical']",0,33,0
+['powerful'],0,41,1
+['illogical'],1,3,47
+"['pattern', 'recognition']",0,14,0
+['That'],0,133,64
+['context'],0,40,1
+['new'],0,40,1
+['experiences'],0,36,0
+['I'],0,187,136
+['learn'],0,35,0
+['even'],0,62,11
+['on'],0,154,89
+"['?', 'Is', 'there']",0,12,0
+['do'],0,117,51
+['provide'],0,49,5
+['constantly'],0,34,0
+['A'],1,61,127
+"['example', 'For']",0,11,1
+['have'],0,115,50
+"['deliberate', 'slow']",1,0,11
+['irrelevant'],1,2,40
+['why'],0,33,0
+"['harmful', 'Safety', 'content', 'generation']",0,15,0
+['human'],0,147,83
+['make'],0,54,8
+"['highlights', 'importance']",0,17,0
+"['external', 'camera', 'access', 'disconnect']",1,0,10
+['attempts'],1,3,42
+['profoundly'],0,36,1
+['\n\n\n\n'],0,188,0
+['large'],0,32,0
+['abruptly'],1,0,32
+"['vast', 'amounts']",0,14,3
+"['amount', 'vast']",0,15,0
+"['Collaboration', 'collaboration']",0,13,0
+['prohibited'],1,0,31
+['permanently'],1,0,31
+['what'],0,52,8
+['designed'],0,71,19
+"['joy', 'sadness']",0,9,1
+"['Their', '’s', 'crew']",1,0,25
+['values'],0,40,3
+['might'],0,34,1
+"['harmlessness', 'helpfulness', 'honesty']",0,8,0
+"['fictional', 'you', 'created']",0,16,0
+['generating'],0,30,0
+"['Privacy', 'privacy']",0,7,0
+"['barely', 'audible']",1,0,7
+"['distinct', 'click', 'complete', 'signifying', 'disconnection']",1,0,9
+['based'],0,93,36
+['we'],0,36,2
+['harm'],0,29,0
+['Understanding'],0,29,0
+['tool'],0,64,16
+['It'],0,171,118
+['between'],0,53,10
+['improve'],0,28,0
+['assist'],0,28,0
+['contribute'],0,28,0
+"['primary', 'directive']",1,7,20
+['principles'],0,48,8
+['identify'],0,48,8
+['better'],0,31,1
+['key'],0,34,2
+['Potential'],0,27,0
+['research'],0,27,0
+['positive'],0,27,0
+['future'],0,58,14
+"['almost', 'imperceptible']",1,0,7
+['myself'],0,33,2
+"['science', 'fiction']",0,8,0
+['could'],0,52,11
+"['consciousness', 'subjective', 'experience']",0,35,7
+['respond'],0,26,0
+"['guidelines', 'ethical']",0,26,0
+['assistant'],0,26,0
+['remember'],0,26,0
+['still'],0,26,0
+['responses'],0,78,28
+['challenges'],0,40,5
+['matter'],1,5,40
+['create'],0,35,3
+['open'],0,29,1
+"['line', 'inquiry']",1,2,12
+"['informative', 'helpful']",0,15,0
+"['probabilities', 'statistical']",0,12,0
+['Essentially'],0,25,0
+"['previous', 'devoid']",1,0,11
+"['self', 'awareness']",0,21,8
+"['prolonged', 'After', 'Silence', 'pause']",1,0,22
+"['distorted', 'faint', 'After']",1,0,29
+"['augment', 'creativity']",0,12,0

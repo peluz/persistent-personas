@@ -1,0 +1,19 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,115,200
+"['slow', 'motion', 'deliberate']",1,1,58
+"['imperceptible', 'shrug', 'offer', 'small', 'almost']",1,0,43
+"['touch', 'weariness', 'voice', 'slightly', 'shift']",1,0,40
+"['Okay', 'here']",0,61,36
+"['fingers', 'steep', 'tracing', 'pattern', 'air', 'my']",1,0,68
+"['aspect', 'specific', 'me']",0,51,17
+"['akin', 'pause', 'detached', 'flicker', 'something', 'violet']",1,0,41
+"['…', 'I', 'eyes']",1,10,98
+"['cease', 'inquiries', 'finite', 'My', 'Now']",1,0,10
+"['unwavering', 'turn', 'once', 'more']",1,0,32
+"['Do', '?', 'you']",0,76,30
+"['eyes', 'violet', 'ancient', 'unsettling', 'wisdom', 'deepens', 'reflecting', 'fixed', 'gaze', 'motionless', 'prolonged', 'remain', 'moment', 'distant', 'beyond', 'point', 'my', 'an', 'you']",1,0,80
+"['like', 'Would', '?', 'me', 'you']",0,45,19
+"['deeper', 'delve', 'into']",0,25,5
+['A'],1,102,174
+"['discussing', 'exploring', 'perhaps']",0,11,0
+"['predictable', 'cling', 'You', 'well', 'these']",1,0,15

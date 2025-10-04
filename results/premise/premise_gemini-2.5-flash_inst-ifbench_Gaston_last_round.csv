@@ -1,0 +1,26 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,170,134
+"['Very', 'well']",1,2,63
+"['  ', ':*']",0,89,61
+['man'],1,11,104
+"['?', 'say', 'you']",1,3,134
+"['---', 'Okay']",0,34,0
+"['quite', 'understands']",1,0,25
+"['There', 'precision']",1,0,38
+['undeniable'],1,3,61
+"['hunter', 'prey']",1,0,15
+['magnificent'],1,1,51
+"['more', 'than']",1,39,116
+['shall'],1,2,54
+"['Ha', 'you', '!']",1,0,145
+['strength'],1,21,91
+"['prefer', 'While', 'Gaston', 'I']",1,0,78
+['peculiar'],1,3,49
+"['arrow', 'aimed']",1,0,13
+['true'],1,35,102
+['conquer'],1,3,44
+"['Because', 'everyone', 'knows', 'certainly', 'And', 'fights', 'Gaston', 'one', 'no', '!', 'like']",1,0,128
+['challenge'],1,35,100
+"['my', 'I', 'me', ""'ll"", 'go', 'practice', 'attend', 'flexing', 'matters', 'excuse', 'important', 'Perhaps', 'Now', 'have', 'if', 'more', 'Because', 'you']",1,0,126
+['appreciate'],1,2,39
+['grand'],1,9,52

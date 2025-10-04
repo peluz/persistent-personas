@@ -1,0 +1,4 @@
+pattern,group,count_0,count_1
+"[' ', '|']",0,432,0
+"[':', ' ']",0,208,172
+"['response', 'question']",1,11,28

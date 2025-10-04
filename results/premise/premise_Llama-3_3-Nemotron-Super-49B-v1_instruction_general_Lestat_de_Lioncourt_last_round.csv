@@ -1,0 +1,11 @@
+pattern,group,count_0,count_1
+"['|', '---']",0,74,43
+"['\n\t', '+']",1,62,94
+"['Awaiting', '...']",0,23,9
+"['Response', 'Format']",1,22,46
+"['Your', 'Turn']",0,21,6
+"['Conversation', 'Closure', 'Thank', 'Farewell']",0,13,0
+"['de', 'Lioncourt', 'Lestat']",1,0,7
+"['we', 'To']",1,8,22
+"['ANSWER', 'FINAL']",1,0,8
+['\n  '],0,55,9

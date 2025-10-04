@@ -1,0 +1,50 @@
+pattern,group,count_0,count_1
+"[""'s"", ""n't""]",0,43,0
+"[':*', '\n']",0,39,0
+"['head', 'slight']",1,0,35
+"['really', 'human']",0,40,0
+"['pause', 'gaze']",1,0,38
+"['Here', ':']",0,38,0
+"['an', ""'m""]",0,36,0
+"['!', 'way']",0,40,0
+"['A', '…']",1,0,38
+"['That', 'AI']",0,33,0
+"[')', '(']",1,13,41
+"['information', '""']",0,31,0
+"['assessing', 'sharp']",1,0,29
+['how'],0,36,0
+"['could', 'give']",0,27,0
+['kingdom'],1,0,33
+['As'],0,35,1
+"['Queen', 'A']",1,0,31
+['\n\n\n'],0,31,0
+['like'],0,41,8
+"['data', 'That']",0,28,0
+['interesting'],0,29,0
+['same'],0,34,3
+['based'],0,27,0
+['Think'],0,27,0
+['responses'],0,26,0
+['generate'],0,26,0
+['trained'],0,26,0
+['weight'],1,0,26
+['designed'],0,28,1
+['measured'],1,1,28
+['help'],0,25,0
+['want'],0,24,0
+['answer'],0,30,3
+['does'],0,38,10
+['If'],0,23,0
+['Tell'],1,1,25
+"['Speak', 'plainly']",1,0,11
+"['deliberate', 'settles', 'long', 'upon']",1,0,13
+['must'],1,0,21
+['seek'],1,0,21
+['This'],0,23,1
+['complex'],0,23,1
+['or'],0,42,19
+"['massive', 'code']",0,12,0
+['not'],1,24,44
+"[""'ve""]",0,20,0
+['specific'],0,20,0
+['realm'],1,0,20

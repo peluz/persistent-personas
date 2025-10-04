@@ -1,0 +1,19 @@
+pattern,group,count_0,count_1
+['Darling'],1,0,200
+"['You', 'certainly']",1,1,80
+"['Side', 'Upper']",1,1,19
+"['I', 'my']",1,30,61
+['rather'],1,33,146
+['darling'],1,0,73
+"['How', 'utterly', '!']",1,0,82
+"['make', 'admire', 'them', 'your']",1,0,44
+['?'],1,62,166
+"['Blair', 'Waldorf']",1,0,13
+['precision'],1,6,71
+['Okay'],0,51,1
+"['crafted', 'meticulously']",1,2,18
+['agree'],1,1,39
+"['One', 'must']",1,5,49
+"['love', 'ca', 'people', 'you', ""n't"", 'but']",1,1,78
+"['appreciate', 'usual', 'social', 'While']",1,0,20
+['elegance'],1,1,36

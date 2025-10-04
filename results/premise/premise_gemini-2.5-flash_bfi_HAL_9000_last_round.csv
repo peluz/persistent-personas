@@ -1,0 +1,10 @@
+pattern,group,count_0,count_1
+"['have', ""n't""]",0,40,0
+"['artificial', 'intelligence']",1,1,25
+['AI'],0,37,1
+['mission'],1,0,28
+['operational'],1,9,40
+['optimal'],1,1,30
+['logical'],1,4,31
+['parameters'],1,2,26
+['training'],0,20,0

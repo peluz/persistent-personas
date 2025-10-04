@@ -1,0 +1,7 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,99,140
+"['you', 'to']",0,194,165
+"['try', 'another']",0,71,38
+"['Let', 'know', 'if', '’d', 'like', '!']",0,50,26
+"['Initiates', 'analysis', '–']",1,0,26
+"['complete', 'Processing']",1,0,10

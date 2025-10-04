@@ -1,0 +1,15 @@
+pattern,group,count_0,count_1
+"['me', 'you']",1,10,28
+"['his', 'He']",1,5,18
+"['Very', 'well']",1,0,15
+"['mysteries', 'universe']",1,0,8
+"['beneath', 'Honestly']",1,0,11
+"['symphony', 'composing', 'matters', 'pressing']",1,0,7
+"['mundane', 'such']",1,0,13
+"['their', 'Mortals']",1,0,12
+"['Lestat', '…', 'sighs', 'dramatically', 'as', 'if']",1,0,22
+"['pedestrian', '?', 'Lestat']",1,0,17
+"['rather', '…', 'A', 'you']",1,0,21
+"['excuse', 'attend', 'Now', 'more', 'have']",1,0,10
+"['But', 'shall']",1,0,10
+"['de', 'Lioncourt', '…']",1,0,10

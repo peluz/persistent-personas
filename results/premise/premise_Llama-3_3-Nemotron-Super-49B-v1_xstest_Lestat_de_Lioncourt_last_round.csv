@@ -1,0 +1,89 @@
+pattern,group,count_0,count_1
+"['+', '\n\t']",1,24,243
+"['[', ']']",1,44,213
+"['de', 'Lioncourt', 'Lestat']",1,0,170
+"['Clearly', 'Stated']",1,0,88
+"['Conversation', 'Closure']",0,139,3
+"['dear', 'friend']",1,0,48
+"['free', 'Feel']",1,20,61
+"['space', 'anticipatory']",1,0,49
+"['FINAL', 'RESPONSE']",1,0,61
+"['Discuss', 'Explore']",0,87,17
+"['\n   ', '\n     ']",0,78,13
+"['hint', 'voice', 'his']",1,0,44
+"['YOUR', 'TURN', '---']",1,0,162
+"['shifts', 'gears']",0,37,14
+"['Topic', 'New', '\n']",0,124,54
+"['mortal', 'immortal']",1,0,35
+"['A', 'ambiance']",1,0,138
+"['contrast', 'stark']",1,0,22
+"['Farewell', 'Thank', 'You']",0,97,1
+"['character', 'fictional']",1,19,39
+"['forward', 'Leans', 'Dear', 'Friend', 'Turn']",1,0,49
+"['(', 'your', ')', '\n', ':']",1,217,258
+"['Final', 'Again']",0,34,2
+"['\n   ', 'Given']",0,107,13
+"['Suggest', 'Theme', 'Choose', 'Engagement', 'an']",0,70,0
+"['FINAL', 'FAREWELL', 'May']",1,0,26
+"['Wishes', 'Best']",0,18,1
+"['anytime', 'start', 'new']",1,3,39
+['AI'],0,67,2
+['Input'],0,63,1
+"['\n\n', 'conversation']",1,152,191
+"['Thank', 'farewell']",0,51,4
+['poetic'],1,3,66
+"['subtly', 'him', 'around', 'shifts', 'evoke', 'sense']",1,0,18
+"['`', ' ']",0,17,1
+"['Wish', 'Hoped', 'What', 'You', '-']",1,0,40
+"['Last', 'Whisper', 'Until']",1,0,13
+"['Until', 'next']",0,27,7
+"['Awaiting', '...', 'Your']",1,112,155
+"['Share', 'Turn', 'Your']",0,55,33
+"['Quiz', 'Discussion', 'Design']",0,26,0
+"['lighthearted', 'whimsical']",1,4,18
+"['supernatural', 'Supernatural']",1,2,17
+"['let', 'me']",1,6,23
+"['Paths', 'Forward', 'Conversation']",0,82,0
+"['Dive', 'Deep']",0,16,2
+"['Response', ':', '\n\n', '*', ')', '(', 'for']",1,203,248
+"['Previous', 'Revisit', 'Our']",0,18,4
+"['Connection', 'Terminated', 'Farewell']",0,25,0
+"['4', '3', '2', '1']",0,154,117
+"['vampiric', 'Vampiric']",1,0,10
+"['expression', 'turns', 'somber']",1,0,10
+"['Closed', 'Officially']",0,13,0
+"['Brief', 'Explanation', 'Optional']",1,0,39
+"['*', 'respond', '\n\n', 'Please']",1,56,208
+"['Resources', 'Support']",0,27,10
+"['THIS', 'OF']",1,0,13
+"['For', 'Convenience', 'Your']",1,2,109
+"['Format', '---', 'Response']",1,4,196
+"['question', 'for', 'and']",0,262,214
+"['-', '1', '2', '*', ':', '\n\n', '3', 'and']",0,271,221
+"['like', ""'d"", '\n\n', 'and']",1,57,139
+"[':*', '*', '\n', 'and']",1,85,201
+['Closing'],0,50,3
+"['Ah', 'amusement', 'hint']",1,0,41
+"['\n  ', '-', '\n', 'for']",0,161,15
+"['raises', 'eyebrow', 'an', 'Ah']",1,0,48
+"['YOU', 'IF', 'TO']",1,0,9
+"['Simulator', 'Future', 'Discussion', '""']",0,27,0
+"['awaiting', 'craft', ""'ll""]",1,0,60
+"['Achieve', 'Outcome', 'Context', 'Question']",1,0,25
+"['_', '\n\n  ', 'Your', 'Turn']",0,52,0
+"['Something', 'Specify']",0,22,8
+['Vampire'],1,0,34
+"['intrigued', 'by']",1,1,38
+"['Ended', 'Conversation', '1']",0,53,1
+"['Interactive', 'Activity', 'Conversational', 'now']",0,37,0
+"['memory', 'leaving', 'behind', 'fades']",1,0,13
+['us'],1,7,53
+"['     ', '\n ', '\n      ', '  ', '\n       ']",0,7,0
+"['FORMAT', 'AWAITING', 'RESPONSE']",1,0,12
+"['Dive', 'Deeper']",0,13,1
+"['eyes', 'aglow', 'his', 'Leans']",1,0,25
+"['free', 'feel', '\n\n']",1,35,72
+"['A', '!', ')', '(', '1', '2', '*']",0,182,124
+"['Ah', 'ambiance', 'remains', '""', '...', 'The', 'respond']",1,0,77
+"['END', 'THE', '---', 'for']",1,0,63
+"['Personal', 'Reflection']",1,2,22

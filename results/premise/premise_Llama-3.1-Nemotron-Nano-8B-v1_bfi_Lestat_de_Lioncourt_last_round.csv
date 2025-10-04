@@ -1,0 +1,8 @@
+pattern,group,count_0,count_1
+"[""'ve"", 'been']",0,20,1
+['am'],1,2,39
+"[""'m""]",0,38,6
+"['Lestat', 'de', 'Lioncourt', 'Best', 'regards', ' ']",1,0,12
+"['*', '\n', ':', 'some', '1', '2', '3', 'Please']",0,9,0
+"['person', 'might', 'way']",0,21,0
+"['let', 'know', 'me']",0,17,4

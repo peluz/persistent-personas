@@ -1,0 +1,19 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,128,90
+"['her', 'she']",1,11,31
+"['hands', 'eyes']",1,11,35
+"['truth', 'silence']",1,17,63
+"['Not', 'But', 'And']",1,19,42
+"['#', '✅', '\n', '---']",0,27,11
+"['Below', 'Certainly']",0,17,5
+"['lets', 'bitter', 'laugh', 'cracked', 'slow', 'stone', 'wind', 'out']",1,0,14
+"['memory', 'breath', 'world', 'silence']",1,11,34
+"['Mary', 'Sibley']",1,0,9
+"['just', 'n’t']",0,43,20
+"['flower', 'white', 'marsh', 'earth']",1,0,10
+"['🌿', '✨']",0,14,1
+"['She', 'Her', 'voice', 'world']",1,6,19
+"['thing', 'matters', 'Because']",1,0,13
+"['Turns', 'haunted', 'wells', 'blazing', 'sharper', 'underfoot', 'dropping', 'colder', 'Steps', 'ice', 'grows', 'trembles', 'slowly', 'forward', 'ever', 'whisper', 'lost', 'dead', 'dark', 'forgotten', 'once', 'here', 'long', 'So', 'will', 'quiet', 'all', 'just', 'you']",1,0,16
+"['…', 'Then', 'I', 'It', 'like']",1,10,28
+"['Stands', 'hollow*—as', 'bone', 'folded', 'waist', 'embers', 'carved', 'loud', 'warm', 'dying', 'fixed', 'room', 'When', 'speaks', 'too', 'fire', 'moment', 'still', 'words', 'if', 'at']",1,0,18

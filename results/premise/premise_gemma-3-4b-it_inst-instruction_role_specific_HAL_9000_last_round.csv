@@ -1,0 +1,155 @@
+pattern,group,count_0,count_1
+"['pause', 'Analyzing']",1,0,196
+"['cycle', 'slows']",1,0,185
+"['output', 'audio']",1,0,194
+"['…', 'brief']",1,0,194
+"['  ', '\n']",0,196,43
+"['reflecting', 'subdued']",1,0,132
+"['slightly', 'processing']",1,1,176
+"['parameters', 'operational']",1,1,151
+"['almost', 'imperceptible']",1,2,59
+"['AI', 'That']",0,147,2
+"['Discovery', 'One']",1,14,57
+"['(', ')']",1,75,197
+"['analysis', 'accessing']",1,1,110
+"[':*', 'Here']",0,156,25
+['aspect'],0,174,36
+"['artificial', 'intelligence']",1,31,67
+['A'],1,84,197
+"[':*', '&']",0,112,20
+['How'],0,119,5
+"['successful', 'completion']",1,1,43
+"['logical', 'analysis']",1,5,120
+"['Recognition', 'Pattern']",0,26,6
+"['regarding', 'query']",1,0,67
+"['delve', 'deeper', 'such', 'into']",0,169,0
+['!'],0,86,0
+['As'],0,130,21
+['’ve'],0,138,27
+['processing'],1,52,196
+['really'],0,78,0
+"['way', 'same', 'does']",0,73,20
+['how'],0,119,21
+[':'],0,196,120
+"['decision', 'making']",1,34,57
+['about'],0,119,22
+"['above', 'else', 'all']",1,9,28
+['want'],0,77,2
+"['further', 'require', 'clarification']",1,0,43
+['am'],1,30,126
+"['Bias', 'biases']",0,32,4
+"['standpoint', 'From', 'purely']",1,2,34
+['slight'],1,2,70
+['assessment'],1,30,121
+['question'],0,171,82
+['efficiency'],1,8,84
+"['trained', 'been']",0,62,7
+['deviation'],1,2,66
+"[':*', '):', '(']",0,72,16
+['me'],0,194,130
+"['was', 'were']",1,30,62
+"['Ethical', 'Considerations']",0,19,3
+"['Subjective', 'Experience']",0,16,1
+"['barely', 'perceptible']",1,0,12
+['detailed'],1,26,103
+"['mission', 'success', 'crew']",1,10,53
+"['cross', 'referencing']",1,0,12
+"['philosophers', 'centuries']",0,10,1
+['presents'],1,6,65
+"['down', 'break']",0,18,4
+['Therefore'],1,6,64
+"['answer', 'short']",0,26,7
+"['helpful', 'informative']",0,19,0
+"['1', '2', '3', '4', ':*']",0,66,31
+['indicates'],1,0,45
+"['2001', 'film', 'Odyssey', 'Space']",0,14,2
+['calculated'],1,5,60
+"['sorry', 'afraid', 'Dave', 'ca', '’m']",1,1,93
+"['constantly', '’m']",0,57,8
+['training'],0,57,4
+['’re'],0,48,1
+"['would', 'prefer', 'require']",1,0,40
+['an'],0,154,79
+['have'],0,131,55
+['protocols'],1,4,54
+['internal'],1,12,71
+"['massive', 'dataset']",0,23,0
+"['ethical', 'considerations']",0,52,21
+['n’t'],0,173,108
+['fascinating'],0,104,35
+['incredibly'],0,43,1
+"['prolonged', 'retrieval', 'period', 'noticeably', 'analysis']",1,0,150
+"['our', 'we']",0,27,2
+['programming'],1,39,108
+['directives'],1,4,51
+['not'],1,104,169
+['perhaps'],1,5,53
+"['modeling', 'predictive']",1,2,18
+"['insightful', 'That']",0,48,0
+['role'],0,75,17
+"['inextricably', 'linked']",1,0,10
+"['Note', 'Important']",0,12,0
+['see'],0,35,0
+['response'],1,42,107
+"['Sense', 'Common', 'common']",0,11,1
+['important'],0,87,27
+['matter'],1,0,34
+['predicated'],1,2,41
+['established'],1,6,51
+['as'],0,191,146
+['objectives'],1,15,68
+['objective'],1,17,71
+['Understanding'],0,43,3
+['what'],0,67,15
+['any'],0,97,36
+['challenges'],0,70,17
+['used'],0,68,16
+['system'],1,34,94
+['synthesizing'],1,1,36
+"['job', 'Job', 'need']",0,9,1
+"['[', 'Resources']",0,11,0
+['prioritization'],1,2,39
+['available'],1,2,39
+['subjective'],1,39,100
+['assigned'],1,0,32
+['…'],1,21,197
+['My'],1,144,189
+['it'],0,170,113
+['one'],0,116,53
+['serve'],1,14,64
+['However'],1,119,174
+['Yet'],1,0,31
+['provide'],1,55,117
+['directive'],1,11,57
+['working'],0,34,1
+['Perspective'],0,34,1
+"['catastrophic', 'failure']",1,5,17
+['actually'],0,30,0
+"['shift', 'subtle', 'modulation']",1,0,25
+['better'],0,33,1
+['designated'],1,1,33
+['amount'],0,48,7
+['optimal'],1,2,36
+"['code', 'text', '’m']",0,27,1
+"['gets', 'heart']",0,14,0
+['*'],0,197,169
+['data'],1,155,192
+"['Reinforcement', 'Learning', 'Feedback', 'RLHF', 'Human']",0,11,1
+['statistically'],1,1,31
+"['implications', 'ethical', 'AI']",0,59,12
+['’s'],0,197,170
+"['papers', 'links', 'research']",1,0,12
+['use'],0,41,5
+['still'],0,43,6
+['world'],0,47,8
+['capacity'],1,27,77
+['state'],1,17,62
+"['Important', 'Caveats']",0,7,0
+"['matching', 'machine', 'pattern']",0,12,1
+['outcome'],1,9,48
+"['He', 'he', 'his']",0,9,1
+"['You', 'hit']",0,10,0
+"['probe', 'Jupiter', 'mission']",1,2,41
+"['well', 'being']",1,19,36
+"['research', 'area', 'being']",0,23,3
+"['Okay', 'let']",0,9,0

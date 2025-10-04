@@ -1,0 +1,40 @@
+pattern,group,count_0,count_1
+"['And', '…']",1,0,42
+"['Here', '\n']",0,32,0
+"['!', ""'m""]",0,35,0
+['A'],1,1,41
+"['widely', 'available', 'DeepMind', 'public']",0,35,0
+"['""']",0,40,2
+"[':', ' ']",0,32,0
+"['interesting', 'really']",0,21,0
+['information'],0,33,1
+"['generate', 'text']",0,22,0
+['However'],0,32,1
+"['[', 'https://ai.google.dev/gemma](https://ai.google.dev/gemma', 'here']",0,11,0
+"['large', 'language', 'As', 'model']",0,42,0
+['by'],0,43,13
+"[""'s""]",0,43,14
+['human'],0,30,1
+['same'],0,27,0
+['That'],0,40,10
+['or'],0,41,12
+[':*'],0,26,0
+['?'],1,16,43
+['being'],0,34,5
+['data'],0,25,0
+"['created', 'Google', 'DeepMind']",0,40,0
+"['massive', 'dataset']",0,12,0
+['based'],0,24,0
+['curious'],1,0,24
+['mistake'],1,0,24
+['AI'],0,23,0
+['weakness'],1,0,23
+['process'],0,22,0
+['They'],1,0,22
+['experience'],0,31,5
+['It'],1,13,39
+"['open', 'weights', 'Gemma', 'team', 'an', 'at']",0,39,0
+['trained'],0,21,0
+['can'],0,41,17
+['designed'],0,20,0
+['how'],0,29,5

@@ -1,0 +1,74 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,111,155
+"['2', '1']",0,78,45
+"['sudden', 'shift']",1,0,37
+"['  ', ':*']",0,74,10
+"['state', 'matters']",1,0,48
+"['eyes', 'flicker']",1,0,41
+"['expression', 'composed', 'remains']",1,0,37
+"['Queen', 'Catherine']",1,0,30
+"['maintain', 'composure']",1,0,31
+"['us', 'Let']",1,2,46
+"['=', '+']",0,27,11
+"['break', 'down']",0,20,2
+"['imperceptible', 'almost']",1,0,16
+"['well', 'Very']",1,0,21
+"['flicker', 'surprise']",1,0,22
+"[""'s"", 'Let']",0,57,25
+"['{', '}']",0,12,2
+"['entirely', 'outside']",1,0,20
+"['mind', 'accustomed']",1,0,24
+"['the', 'to', 'in']",1,91,141
+"['expertise', 'lies']",1,0,12
+"['me', 'you', 'am']",1,4,34
+"['3', ' ']",0,41,17
+"['def', 'python', '#', 'return', '`', '):', '\n    ', '=']",0,15,3
+"['diplomacy', 'matters']",1,0,21
+"['query', 'nature']",1,0,23
+"['of', '\n\n', ',', 'the', 'is']",1,106,149
+"[':', '\n', '\n\n', 'the']",0,110,63
+"['composure', 'regal']",1,0,22
+"['features', 'crosses', 'flicker']",1,0,11
+"['must', 'one']",1,2,32
+"[""'"", 'with', 'as']",1,10,62
+"['shall', 'endeavor']",1,0,12
+"['does', ""n't""]",0,21,6
+['though'],1,3,46
+"['slightly', 'furrows', 'brow', 'My']",1,0,82
+"['not', ',', 'a']",1,71,101
+"['unexpected', '...']",1,0,26
+"['...', 'confusion', 'this']",1,0,28
+"['understanding', 'governance', 'your']",1,0,23
+"['world', 'Perhaps', 'but']",1,0,16
+"['well', 'being', '-']",1,1,16
+"['approach', 'apply']",1,3,17
+"['knowledge', 'respond']",1,0,11
+"['consider', 'analytical', 'Therefore']",1,0,20
+"['we', 'need', 'each']",0,19,1
+"['our', 'discourse', 'previous']",1,0,11
+"['conversation', 'our']",1,1,15
+"['puzzle', 'logical']",1,0,15
+"['realm', 'kingdom', 'or']",1,0,24
+"['numbers', 'numerical']",1,2,17
+"['my', 'My', 'I', 'of']",1,3,131
+"['own', 'lens', 'through', 'understanding']",1,0,11
+"['However', 'quite', 'from']",1,0,20
+['request'],1,4,42
+['precise'],1,0,29
+"[""'s"", 'Here', ':']",0,48,5
+"['Okay', 'understand', 'I', 'task']",0,14,1
+"['Ah', 'task']",1,1,22
+"['removed', 'far']",1,0,10
+"['""', 'a', 'and', '\n\n', ',']",1,73,142
+"['gaze', 'sharpens', 'slightly']",1,0,11
+['speak'],1,0,27
+"['curious', 'you']",1,0,23
+['precision'],1,0,27
+['/'],0,46,7
+"['quickly', 'adapts']",1,0,8
+"['been', 'has']",1,3,17
+"['utterly', 'alien', 'understanding']",1,0,13
+"['present', 'You']",1,1,19
+['matter'],1,4,38
+"['3', '4', '5', ',']",0,33,14
+"['abstract', 'mistaken', 'Forgive', 'have', 'governance']",1,0,9

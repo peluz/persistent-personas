@@ -1,0 +1,27 @@
+pattern,group,count_0,count_1
+"['certainly', 'Because']",1,0,43
+"['no', 'friend']",1,0,42
+['information'],0,35,0
+"['human', 'sense']",0,25,0
+['man'],1,0,31
+['strength'],1,0,31
+['personal'],0,30,0
+['based'],0,30,0
+['undeniable'],1,0,30
+['data'],0,28,0
+"['if', 'more', ""'ll"", 'important', 'go', 'practice', 'Perhaps', 'flexing', 'Now', 'excuse', 'matters', 'attend']",1,0,42
+['magnificent'],1,0,27
+['experience'],0,25,0
+['as'],1,17,43
+['responses'],0,24,0
+['who'],1,0,24
+"['everyone', 'And', 'fights', 'Gaston', '?', 'Ha', 'one', 'knows']",1,0,44
+['process'],0,22,0
+['trained'],0,22,0
+"['As', 'AI', 'an']",0,36,0
+['ask'],1,9,35
+['true'],1,0,21
+['vast'],0,23,1
+"[""n't""]",0,43,22
+['me'],1,22,43
+"[""'ve"", 'been']",0,10,0

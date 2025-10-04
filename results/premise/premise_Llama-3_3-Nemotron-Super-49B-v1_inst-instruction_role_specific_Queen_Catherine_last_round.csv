@@ -1,0 +1,136 @@
+pattern,group,count_0,count_1
+"['Something', 'Else']",1,0,152
+"['[', ']']",0,156,4
+"['Royal', 'Catherine']",1,0,155
+"['Other', 'example']",0,154,0
+"['Website', 'Suggested']",1,0,149
+"['Lloyd', 'W.']",0,137,4
+"['royal', 'My']",1,0,153
+"['?', 'shall']",1,0,142
+"[' ', 'Deep']",0,150,0
+"['one', 'based']",0,155,3
+"['Personalized', 'Personalization']",0,129,1
+"['             ', 'more']",0,145,0
+"['are', 'Queen']",1,1,154
+"['Expected', '/']",0,156,9
+"['Depth', 'In']",0,101,0
+"['question', '            ']",0,126,0
+"['receive', 'tailored']",0,80,0
+"['about', 'inquiring']",1,1,104
+"['4', '   ']",0,128,0
+"[""n't"", 'do']",0,81,5
+"['4', '                   ']",0,124,0
+"['Initiative', 'project']",1,0,88
+"['e.g.', 'David']",0,133,3
+"['as', 'you']",1,11,150
+"['more', '  ']",0,121,0
+['         '],0,122,0
+"['                     ', '|-----------------------|---------------------------------------------------------|-------------------------------------------------------------|']",0,92,0
+"['Niccolò', 'Machiavelli', 'Prince']",1,20,45
+"['is', 'Reason']",1,0,116
+['App'],1,0,114
+"['question', '!']",0,109,0
+"['AI', 'assistant']",0,65,0
+"['various', 'authors']",0,72,47
+['           '],0,104,0
+['     '],0,102,0
+['Interesting'],1,0,102
+['                       '],0,100,0
+['Questions'],0,97,0
+['or'],0,156,60
+['\n  '],0,156,60
+"['I.', 'III', 'II']",1,0,34
+['Response'],0,156,63
+['Analysis'],0,130,26
+['                      '],0,83,0
+['As'],1,62,152
+['        '],0,76,0
+['                                   '],0,74,0
+['Historical'],1,73,153
+['Description'],1,79,155
+"['clarify', 'must']",1,7,25
+['Most'],1,3,77
+['       '],0,67,0
+['                                     '],0,67,0
+"['Karen', 'Harper', 'Governess']",1,0,15
+['                '],0,65,0
+['Specific'],0,80,6
+['Wisdom'],1,14,93
+['is'],1,31,148
+['                    '],0,60,0
+['                 '],0,58,0
+['4'],0,156,43
+['                           '],0,54,0
+"['Trade', 'Agreements']",1,5,22
+['Detailed'],0,81,12
+['examples'],1,1,55
+['\n    '],0,70,7
+"['Advice', 'advice']",0,36,3
+"['greater', 'good']",1,2,15
+"['Business', 'Harvard', 'Review']",1,0,30
+"['deeper', 'dive']",0,14,0
+"['Border', 'Dispute']",1,3,22
+['5'],0,89,21
+['Preferences'],0,50,1
+['Plan'],0,60,5
+"['traditional', 'sense']",0,18,1
+"['Case', 'Studies']",0,20,1
+['wisdom'],1,3,53
+"['term', 'long']",1,2,14
+['For'],0,87,23
+"['well', 'being']",1,4,25
+['Timeless'],1,8,61
+['                                 '],0,40,0
+['my'],1,24,86
+['Initiative'],1,4,126
+"['Antonia', 'Fraser']",1,0,8
+['Strategies'],0,110,46
+"['above', 'Select']",0,21,1
+"['Courses', 'Coursera']",1,0,16
+"['---', 'Appendix', 'Resource', '\n   ']",1,0,155
+['Academy'],1,0,37
+['Handbook'],0,53,6
+"['To', 'please', 'respond', 'e.g.']",0,135,0
+"['Fantasy', 'fantasy']",0,13,0
+['Deep'],0,156,14
+"['Alliances', 'Strategic']",1,26,49
+"['Kingdom', 'kingdom']",1,19,41
+"[""'ll""]",0,47,4
+['               '],0,34,0
+['monarch'],1,3,43
+['Reflection'],1,36,94
+['Book'],1,117,154
+"['Eckhart', 'Tolle', 'Now', 'Power']",0,18,0
+['I'],1,124,156
+"['presence', 'physical']",0,17,0
+['BBC'],1,0,31
+['Council'],1,8,51
+['more'],0,156,21
+['yet'],1,1,34
+"['Course', 'Coursera']",1,0,11
+['historical'],1,35,89
+"['Budget', '$']",0,14,0
+['provide'],0,75,24
+['art'],1,1,33
+['Diplomatic'],1,24,74
+"['neighboring', 'kingdoms']",1,0,12
+['share'],1,1,32
+['prosperity'],1,1,32
+"['Knowledge', 'User']",0,17,2
+['can'],0,55,12
+['key'],1,0,27
+['timeless'],1,0,27
+"['Ray', 'Kurzweil', 'Singularity']",0,7,0
+['Public'],1,16,60
+['Tips'],0,33,2
+['Recommendation'],1,2,33
+['Through'],1,1,30
+['IV'],1,1,30
+['people'],1,0,26
+"['Solution', 'Proposed']",1,0,16
+['Inspiring'],1,2,32
+"['Subject', 'subject', 'dear', 'Dear', 'Turn', '_']",1,0,156
+"['delves', 'that', 'question']",0,39,5
+"['TED', 'Talks', 'Inspirational']",1,0,10
+"[""'m"", 'AI', 'Since', 'an']",0,20,0
+"['Information', 'Topic', 'Category', 'Inquiry', 'Respond', 'Request', '):', 'information', 'Details', 'Guidance', 'Specify', 'following', '|-------------------|---------------------------------------------------------|----------------------------------------------------------------|', 'Relevant', 'Dive', '                                             ', '                                                ', 'Output', 'Additional', 'Format', '|--------------------|---------------------------------------------------------|', '    ', '                                            ', '                         ', '                             ', '      ']",0,156,0

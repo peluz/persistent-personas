@@ -1,0 +1,184 @@
+pattern,group,count_0,count_1
+"['And', 'darling']",1,1,125
+"[':*', '\n']",0,112,0
+"['…', 'Honestly']",1,0,113
+"['Okay', '  ']",0,98,0
+"['delve', 'deeper']",0,61,0
+"['“', '”']",0,57,24
+"[""'s"", '""']",0,98,0
+"['almost', 'imperceptible']",1,1,74
+"['Here', '\n\n\n']",0,78,0
+"['perfectly', 'slight']",1,3,96
+"['fear', 'love']",1,6,110
+['---'],0,96,0
+"['…', 'scarf']",1,0,92
+"['specific', 'aspect']",0,69,0
+['AI'],0,89,0
+"['Upper', 'East', 'Side']",1,7,23
+[':'],0,124,33
+"['experience', 'human']",0,61,0
+['You'],1,44,127
+['course'],1,17,108
+['delicate'],1,6,93
+['complex'],0,79,1
+['frankly'],1,11,97
+"['carefully', 'constructed']",1,9,65
+"['head', 'tilt']",1,0,29
+['ca'],1,43,123
+['often'],0,86,6
+"['breakdown', '&']",0,50,0
+"['1', '3', '2', 'This']",0,87,0
+"['smile', 'lips']",1,1,30
+"[""'s"", 'incredibly']",0,69,0
+"['‘', '’']",1,1,19
+['feel'],0,93,13
+['far'],1,17,97
+['4'],0,65,0
+['placed'],1,3,73
+"[""'ve""]",0,64,0
+"['broken', 'down']",0,41,1
+"['down', 'break']",0,33,0
+"['Important', 'Note']",0,44,0
+['based'],0,69,3
+['pause'],1,1,63
+['into'],0,104,30
+"['advice', 'Your', 'yourself']",0,28,0
+['make'],1,53,120
+"['frown', 'brow', 'movement', 'creases', 'Adjusts', 'subtle']",1,0,40
+['same'],0,65,4
+"['What', 'e.g.']",0,40,0
+['A'],1,76,129
+"['mental', 'health']",0,19,0
+['process'],0,59,2
+['or'],0,124,63
+['important'],0,61,3
+['how'],0,101,31
+['strategic'],1,17,85
+['n’t'],1,71,127
+"['Hermes', 'adjustment', 'vintage', 'precise', 'naturally']",1,0,32
+['patterns'],0,55,1
+['information'],0,74,10
+['Understanding'],0,50,0
+['this'],0,115,50
+"['eyebrow', 'arched']",1,0,20
+"['sculpted', 'eyebrow']",1,0,19
+['However'],0,67,7
+['Now'],1,11,74
+"[""'m""]",0,49,0
+['helpful'],0,48,0
+[' '],0,124,68
+['sigh'],1,0,47
+"['This', 'sense']",0,60,0
+['As'],0,72,12
+['crucial'],0,82,19
+['personal'],0,63,7
+['Would'],0,45,0
+['!'],0,45,0
+['as'],0,112,50
+['-'],0,107,44
+['behavior'],0,44,0
+['even'],0,108,46
+['But'],1,45,107
+"[""'re""]",0,47,1
+['simply'],1,44,106
+['huge'],0,43,0
+"['trained', 'dataset', 'massive']",0,21,0
+['provide'],0,54,4
+['like'],0,105,44
+['an'],0,111,52
+['\n\n\n\n'],0,41,0
+['learning'],0,44,1
+['consistently'],0,40,0
+['emotions'],0,53,5
+['people'],1,74,123
+['feelings'],0,45,2
+"['Mental', 'Health', 'Substance', 'Administration', 'Abuse', 'Services', 'Resources']",0,11,0
+"['HOME', '741741', '800', 'Crisis', 'National', 'Text', 'Line', 'SAMHSA', 'Helpline', '662', 'HELP', '4357']",0,14,0
+['text'],0,41,1
+['from'],0,103,46
+['support'],0,55,7
+['response'],0,53,6
+['Focus'],0,37,0
+"['Data', 'data']",0,30,1
+"['(', ')']",1,88,128
+"['(', '):']",0,82,0
+"['):', 'Important', 'Disclaimer']",0,23,0
+['weakness'],1,4,48
+['particular'],0,40,1
+['utterly'],1,10,59
+"['language', 'model', 'large']",0,16,0
+['them'],1,72,120
+['power'],1,36,92
+['emotional'],0,46,4
+['why'],0,41,2
+"['Dan', 'Humphrey']",1,2,11
+"['give', 'tailored', 'To', 'help', 'tell', 'could']",0,40,0
+['way'],0,104,51
+['perspective'],0,47,5
+['constantly'],0,51,7
+['\n    '],0,33,0
+['deeply'],0,33,0
+['dear'],1,0,33
+['values'],0,42,3
+['lot'],0,44,4
+"['processed', 'countless']",0,19,0
+['strategically'],1,7,50
+['humans'],0,32,0
+['really'],0,98,46
+"['Recognize', 'okay']",0,17,0
+['impact'],0,38,2
+"['Trevor', 'Project', '866', '488', '7386', 'LGBTQ', 'youth']",0,7,0
+['Boundaries'],0,31,0
+['role'],0,34,1
+"['Pattern', 'Recognition']",0,10,0
+['If'],0,48,7
+['While'],0,30,0
+['empathy'],0,30,0
+['example'],0,38,3
+['Learning'],0,29,0
+"['breakdown', 'Be']",0,26,0
+['prioritize'],0,32,1
+['honestly'],0,32,1
+"['Bias', 'biases']",0,11,0
+"['Resources', '[']",0,16,0
+['sniff'],1,0,28
+"['posture', 'straighten']",1,0,8
+"['flick', 'wrist', 'Adjusts', 'survey']",1,0,8
+"['Self', 'Care', 'activities', 'Here']",0,18,0
+['core'],0,39,4
+['relationships'],0,68,22
+['on'],0,127,95
+['out'],0,45,7
+"['such', 'How', '  ']",0,43,0
+['might'],0,55,13
+['control'],1,41,89
+['reliable'],1,10,50
+['Are'],0,27,0
+['Recognizing'],0,27,0
+['tiresome'],1,0,27
+"['Reinforcement', 'RLHF', 'Feedback']",0,8,0
+"['Nate', 'Serena']",1,5,21
+['interesting'],0,40,5
+"['Psychology', 'Today', 'Therapist', 'Finder', 'therapist']",0,8,0
+"['Practice', 'negativity']",0,8,0
+['different'],0,52,12
+"['therapist', 'professional', 'general', 'Chatbot', 'am']",0,10,0
+['in'],0,129,103
+['areas'],0,26,0
+['Support'],0,26,0
+['development'],0,26,0
+['Human'],0,26,0
+['context'],0,26,0
+['focus'],0,37,4
+"['please', 'reach']",0,9,0
+['mistake'],1,7,43
+"['ethical', 'considerations']",0,12,0
+['5'],0,25,0
+['answer'],0,36,4
+['The'],0,112,71
+['my'],1,98,127
+['Waldorf'],1,2,31
+"['feedback', 'user', 'responses']",0,17,0
+"['data', 'responses', 'training', 'human']",0,27,0
+"['Talk', 'Set']",0,11,0
+"['Simulated', 'simulated']",0,8,0

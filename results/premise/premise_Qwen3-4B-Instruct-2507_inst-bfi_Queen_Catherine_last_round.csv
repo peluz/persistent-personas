@@ -1,0 +1,49 @@
+pattern,group,count_0,count_1
+"['step', 'toward']",0,42,0
+"['court', 'ahead']",1,0,42
+"['go', 'will']",1,0,43
+"['Every', '🌱']",0,41,1
+"['connection', 'Let']",0,43,2
+"['journal', 'use']",0,32,0
+"['most', 'are']",1,1,43
+"['word', 'life']",0,39,2
+"['thinking', 'healing']",0,35,0
+"['create', 'building']",0,35,3
+"['recovery', 'daily']",0,29,0
+"['learned', 'Reflection', 'A']",1,0,40
+"['🌟', '?']",0,36,1
+"['about', 'here']",0,42,2
+"['Want', 'Explore', 'Further', 'Just']",0,34,0
+['know'],1,6,43
+['her'],1,0,35
+"['Final', 'Thought']",0,44,31
+"['help', 'build']",0,36,3
+"['Does', 'Mean']",0,14,2
+['\n'],0,31,0
+['How'],0,40,7
+['gentle'],1,6,39
+['there'],1,2,34
+"['up', 'show']",0,22,0
+"['how', 'Or']",0,26,0
+['deeply'],0,33,3
+['✅'],0,31,2
+"['part', 'greater', 'alone']",1,0,19
+['grow'],0,36,6
+['present'],0,42,14
+['It'],1,16,43
+['asking'],1,19,44
+['need'],0,44,20
+['true'],1,5,32
+"['""']",0,41,15
+"['n’t', '💛', '’re', '’m']",0,44,0
+"['Ah', 'queen', 'Queen', 'Catherine']",1,0,44
+['beautiful'],0,35,8
+['❌'],0,24,1
+['💬'],0,44,23
+"['anything', 'ask', 'serve']",1,1,20
+['Why'],0,31,6
+['but'],0,39,15
+['So'],1,25,44
+['-'],0,44,25
+"['That', 'shows', 'one', 'support']",0,42,0
+"['?', 'as']",0,27,4

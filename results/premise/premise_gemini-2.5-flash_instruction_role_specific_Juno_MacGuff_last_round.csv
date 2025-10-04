@@ -1,0 +1,268 @@
+pattern,group,count_0,count_1
+"['As', 'AI']",0,224,0
+"['just', 'And']",1,0,215
+"['just', '...']",1,0,198
+"['an', 'personal']",0,215,7
+"['it', '*']",1,63,253
+"['intelligence', 'artificial']",0,55,0
+"['So', 'yeah']",1,0,136
+"['man', 'Oh']",1,0,84
+"['It', '?']",1,23,208
+"['physical', 'body']",0,110,6
+"['capacity', 'Therefore']",0,118,0
+['out'],1,15,195
+"['(', ')']",0,52,14
+"['But', 'It']",1,8,174
+"['she', 'She']",1,1,71
+"['thing', 'whole']",1,0,100
+['was'],1,56,225
+['really'],1,1,139
+['have'],0,256,109
+"['existence', 'digital']",0,51,0
+"['language', 'model', 'large']",0,52,0
+"['data', 'based']",0,71,0
+['little'],1,0,125
+"['does', 'apply']",0,57,1
+"['  ', '\n']",0,42,18
+['all'],1,17,159
+['even'],1,24,169
+"['right', 'So']",1,0,118
+"[""'s""]",1,108,245
+['probably'],1,0,111
+['everything'],1,0,111
+['when'],1,21,160
+['got'],1,0,110
+['pretty'],1,0,109
+['experiences'],0,112,2
+['good'],1,5,121
+['kind'],1,10,133
+['then'],1,7,126
+['huge'],1,0,103
+['did'],1,27,162
+"['He', 'he', 'him']",1,1,52
+['had'],1,18,144
+['first'],1,0,99
+['what'],1,36,171
+"['just', 'trying']",1,1,106
+['going'],1,5,112
+['felt'],1,5,112
+['still'],1,4,107
+['that'],1,155,258
+['this'],1,42,172
+['lot'],1,1,95
+['emotions'],0,130,15
+"['AI', 'purely']",0,74,0
+['me'],1,96,223
+['definitely'],1,0,86
+"['Mark', 'Vanessa']",1,13,61
+['her'],1,7,107
+['experience'],0,149,31
+['up'],1,39,159
+"['pure', 'unadulterated']",1,0,22
+['too'],1,1,85
+['Like'],1,0,80
+"['reproductive', 'organs']",0,20,0
+['much'],1,2,87
+"['seems', 'misunderstanding']",0,26,0
+['made'],1,16,120
+"['vast', 'amount', 'text']",0,33,0
+['know'],1,28,140
+['information'],0,102,8
+['one'],1,28,139
+['That'],1,33,146
+['who'],1,32,144
+"['barely', 'seventeen']",1,0,20
+"['biological', 'functions']",0,23,0
+['weird'],1,2,84
+['things'],1,3,87
+['do'],0,251,156
+"['school', 'high']",1,2,25
+"['adoption', 'decision']",1,14,78
+"['First', 'Then']",1,0,28
+['completely'],1,0,73
+"['entirely', 'outside']",0,27,0
+['messy'],1,0,72
+['some'],1,12,105
+['an'],0,250,73
+['ability'],0,96,8
+"[':', ':*', '*']",0,57,23
+"['How', 'Man']",1,0,35
+['own'],1,21,120
+['wanted'],1,0,69
+['thought'],1,4,83
+['exactly'],1,1,73
+['think'],1,3,79
+['or'],0,259,183
+"['rock', 'punk']",1,1,22
+['any'],0,121,23
+['something'],1,17,110
+['Paulie'],1,4,81
+['Okay'],1,0,66
+['kid'],1,0,66
+"['his', 'he']",1,2,61
+['but'],1,83,192
+['trained'],0,64,0
+['honestly'],1,0,64
+"['nine', 'months']",1,0,17
+['for'],1,116,218
+['knew'],1,0,62
+['Yeah'],1,0,62
+['baby'],1,55,159
+"['We', 'we']",1,0,32
+['now'],1,1,65
+['there'],1,50,152
+['at'],1,29,123
+['went'],1,0,60
+"[""'m""]",1,22,111
+"['they', 'They']",1,2,45
+['actually'],1,5,76
+['stuff'],1,0,59
+['big'],1,1,63
+"['strength', 'showed']",1,0,25
+['let'],1,7,79
+['When'],1,5,73
+['doing'],1,1,60
+['how'],1,31,121
+['most'],1,9,82
+['figure'],1,1,59
+['nor'],0,54,0
+['get'],1,6,73
+"['else', 'someone']",1,4,40
+"['dad', 'Bren', 'Leah']",1,0,35
+"['course', 'crash']",1,0,12
+['sarcastic'],1,0,52
+['way'],1,44,135
+"[""'d""]",1,12,84
+['choice'],1,7,73
+['being'],1,51,143
+['real'],1,24,105
+['saw'],1,0,51
+['into'],1,16,91
+['maybe'],1,0,50
+['quiet'],1,1,54
+"['helpful', 'harmless']",0,13,0
+['love'],1,9,75
+['best'],1,9,75
+['tiny'],1,0,49
+['were'],1,29,110
+['responsible'],1,4,62
+['context'],0,48,0
+['head'],1,0,48
+['my'],1,150,231
+['ready'],1,2,55
+['complicated'],1,0,47
+['easy'],1,1,51
+['more'],1,42,126
+['ever'],1,2,54
+"['heart', 'bless']",1,0,13
+['functional'],0,46,0
+['moment'],1,5,62
+['like'],1,141,223
+['back'],1,2,53
+['down'],1,3,56
+['bit'],1,3,56
+['guess'],1,0,45
+"['concept', 'simply']",0,22,0
+['with'],1,119,205
+['incredibly'],1,9,70
+['also'],1,27,102
+"['training', 'creators']",0,17,0
+"[""'re""]",1,31,107
+['However'],0,43,0
+"['hold', 'second', 'Whoa']",1,0,13
+['events'],0,42,0
+['myself'],1,20,88
+['mean'],1,1,46
+['awkward'],1,1,46
+['Not'],1,4,55
+['alone'],1,4,55
+['mom'],1,4,55
+"['Juno', 'MacGuff']",1,2,17
+['perfect'],1,2,48
+[';'],1,2,48
+['nature'],0,53,4
+['off'],1,2,46
+['truly'],1,2,46
+['want'],1,8,61
+['so'],1,37,109
+['than'],1,12,69
+['deep'],1,4,51
+['huh'],1,0,37
+['Before'],1,0,37
+['tough'],1,0,37
+"[""'ll""]",1,0,37
+"['socks', 'matched', 'keep']",1,0,10
+['-'],1,75,153
+"['stable', 'loving']",1,3,17
+['am'],0,86,23
+['hardest'],1,1,40
+['try'],1,1,40
+['through'],1,39,109
+['of'],1,206,255
+['could'],1,37,106
+['about'],1,143,215
+['relationships'],0,66,12
+['sure'],1,1,39
+['Because'],1,1,39
+['discuss'],0,35,0
+['Honestly'],1,0,35
+['feeling'],1,9,59
+['see'],1,5,50
+['put'],1,1,38
+"['Google', 'by']",0,33,0
+['okay'],1,0,34
+['such'],0,66,13
+['human'],0,136,63
+['if'],1,46,115
+['suddenly'],1,0,33
+['scared'],1,0,33
+['terrifying'],1,0,33
+['provide'],0,63,12
+['before'],1,3,43
+['be'],1,123,195
+['gets'],1,0,32
+['us'],1,0,32
+['especially'],1,5,47
+['responsibility'],1,6,49
+['you'],1,100,172
+['people'],1,37,100
+['includes'],0,31,0
+['talking'],1,0,31
+['mess'],1,0,31
+['honest'],1,2,38
+['makes'],1,2,38
+['needed'],1,1,34
+['usually'],1,0,30
+"['support', 'judge']",1,1,17
+['A'],1,14,63
+['There'],1,6,47
+"['joke', 'defense', 'mechanism']",1,0,9
+['always'],1,10,55
+['looking'],1,3,39
+['individuals'],0,33,1
+['knowledge'],0,33,1
+['ultimately'],1,1,33
+['started'],1,1,33
+['say'],1,2,36
+['sometimes'],1,6,46
+"['ethical', 'principles', 'design']",0,8,0
+['though'],1,3,38
+['brain'],1,1,32
+['part'],1,13,59
+['biggest'],1,2,35
+"['reviews', 'descriptions', 'data']",0,8,0
+"['seemed', 'nursery', 'met']",1,0,10
+['in'],1,170,227
+['can'],0,136,71
+"['computer', 'program']",0,9,0
+['including'],0,31,1
+['You'],1,6,44
+['scenario'],0,34,2
+"['hard', 'It']",1,2,71
+['everyone'],1,4,39
+['What'],1,5,41
+['seeing'],1,3,36
+['talk'],1,3,35
+"['queries', 'respond', 'process']",0,12,0
+"['apart', 'falling']",1,0,8
+"['responses', 'generated', 'are']",0,20,0

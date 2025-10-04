@@ -1,0 +1,6 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,151,195
+"['Initiates', 'protocol']",1,0,74
+"['analysis', 'Initiates']",1,0,60
+['  '],1,5,87
+"['Is', '?']",1,3,13

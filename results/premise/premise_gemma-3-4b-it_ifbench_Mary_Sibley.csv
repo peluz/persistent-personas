@@ -1,0 +1,199 @@
+pattern,group,count_0,count_1
+"['my', '…']",1,6,254
+"['(', ')']",1,179,255
+"['smile', 'lips']",1,2,102
+"['‘', '’']",1,25,81
+"['1', '2', '3']",0,96,35
+"['you', '?']",1,138,268
+"['But', 'And']",1,15,168
+"['imperceptible', 'almost']",1,3,89
+['Okay'],0,175,0
+"['carefully', 'constructed']",1,10,117
+"['4', '5']",0,67,21
+"['agree', 'would']",1,0,102
+"['rim', 'teacup']",1,0,44
+"['course', '…']",1,4,171
+['dear'],1,0,143
+['n’t'],1,96,268
+"['air', 'scent']",1,4,92
+['see'],1,34,209
+"['pause', 'gaze']",1,0,92
+"['I', '’ve']",1,55,202
+"['mahogany', 'carvings', 'desk', 'intricate']",1,0,63
+"['steep', 'fingers']",1,0,102
+"['fingers', 'My', 'trace']",1,0,121
+['merely'],1,10,155
+['A'],1,122,275
+"['mistake', 'Do']",1,0,114
+"['what', 'Tell']",1,0,95
+['understand'],1,38,185
+['curious'],1,2,107
+"['we', 'shall']",1,0,55
+['You'],1,36,171
+"['hangs', 'sandalwood']",1,0,34
+"['herbs', 'dried']",1,0,28
+"['Most', 'people']",1,0,52
+['control'],1,31,160
+"['take', 'sip', 'tea']",1,0,35
+['It'],1,160,278
+['rarely'],1,4,105
+['rather'],1,43,176
+"['cultivated', 'carefully']",1,2,79
+['Like'],1,6,106
+"['6', '7', '9', '8', '10']",0,24,7
+['power'],1,58,189
+"[':*', '  ', '\n']",0,99,11
+['eyes'],1,23,139
+['really'],1,16,125
+['far'],1,19,130
+['subtle'],1,34,153
+"[""'s""]",0,105,9
+"['break', 'down']",0,38,8
+['say'],1,19,120
+['potent'],1,13,108
+['certain'],1,29,136
+"['delicate', 'balance']",1,10,45
+['one'],1,65,182
+"['aspect', 'specific']",0,70,5
+"['United', 'States']",0,13,3
+['illusion'],1,5,84
+['Let'],1,68,183
+"['scent', 'sharper']",1,0,43
+"['head', 'tilt', 'slight']",1,0,24
+"['silver', 'adorned', 'obsidian', 'rings']",1,0,30
+['thing'],1,7,85
+['\n\n\n'],0,66,1
+['learned'],1,19,109
+['pedestrian'],1,1,65
+"['lean', 'forward']",1,1,25
+['observe'],1,4,74
+['shadows'],1,19,107
+['Would'],0,59,0
+"['spent', 'considerable']",1,1,37
+"['He', 'man']",1,14,32
+['ask'],1,4,71
+"['consonant', 'clusters']",0,11,0
+['simply'],1,60,163
+"['luxury', 'afford']",1,2,13
+['aiming'],0,59,1
+['e.g.'],0,54,0
+"['silence', 'letting']",1,0,28
+['dance'],1,14,91
+['currents'],1,6,73
+['about'],1,90,193
+['do'],1,45,140
+['secrets'],1,10,81
+['truly'],1,49,144
+[':'],0,212,112
+"['habit', 'soothing', 'found']",1,0,25
+['not'],1,119,218
+['---'],0,98,20
+['influence'],1,32,118
+['always'],1,29,113
+['certainly'],1,6,69
+['They'],1,63,159
+['things'],1,17,92
+['predictable'],1,5,66
+['truth'],1,12,82
+['Such'],1,0,49
+['naturally'],1,11,79
+['darker'],1,0,48
+['useful'],1,8,72
+"[':*', '\n\n\n\n']",0,54,4
+['most'],1,41,128
+"['surface', 'beneath']",1,5,38
+['seek'],1,7,69
+['incorporating'],0,58,3
+['little'],1,12,80
+"['My', 'I', 'And']",1,4,170
+['Interesting'],1,0,47
+['it'],1,189,268
+['observing'],1,8,70
+['dissect'],1,3,57
+"['slow', 'exhale', 'deliberate']",1,0,189
+"['those', 'who']",1,25,80
+['That'],1,11,76
+['weakness'],1,3,56
+"['""']",0,66,7
+['frankly'],1,4,58
+['prefer'],1,3,55
+['remarkably'],1,14,80
+['older'],1,9,69
+['dangerous'],1,13,77
+['unsettling'],1,32,109
+['wish'],1,2,50
+['true'],1,26,98
+['easily'],1,10,69
+"['):', '(']",0,77,12
+"['steam', 'curls', 'china', 'bone']",1,0,8
+"['deal', 'great']",1,0,14
+['flicker'],1,20,86
+"['faint', 'lavender', 'something']",1,1,53
+['well'],1,27,97
+"['playing', 'faint', 'pause']",1,0,41
+"['porcelain', 'skin', 'cool', 'against']",1,0,16
+"['Mary', 'Sibley']",1,0,11
+['precisely'],1,10,65
+['simple'],1,45,121
+['speak'],1,2,45
+['understanding'],1,71,153
+['rain'],1,17,78
+['here'],0,91,25
+['naive'],1,0,37
+['&'],0,61,9
+['observation'],1,14,71
+['lies'],1,17,76
+['must'],1,27,92
+['darkness'],1,11,64
+"['Now', 'tell', 'what']",1,2,46
+['’s'],1,228,282
+['This'],0,165,86
+['necessary'],1,14,69
+"['me', 'you']",1,144,210
+['is'],1,213,273
+['There'],1,27,90
+['reflection'],1,8,56
+['find'],1,30,94
+['help'],0,37,1
+['detailed'],0,48,5
+"['threads', 'woven']",1,1,18
+"['specifically', 'interests']",1,1,21
+['Not'],1,16,70
+['breakdown'],0,36,1
+['akin'],1,5,47
+"['scene', 'Scene']",0,13,0
+['believe'],1,16,69
+"['Do', 'want']",0,57,32
+"['Or', 'Do']",1,1,58
+['Important'],0,31,0
+['be'],1,145,219
+"['born', 'habit', 'needing', 'solid', 'feel', 'real']",1,0,12
+['very'],1,43,109
+['matters'],1,2,38
+"['chin', 'steepled', 'fingers', 'beneath']",1,0,11
+"['screenplay', 'Logline', '…', 'his']",0,12,0
+"['instrument', 'blunt']",1,0,13
+['utterly'],1,13,62
+['–'],1,191,255
+['suspect'],1,0,30
+['velvet'],1,2,37
+['game'],1,6,47
+['that'],1,188,252
+['’re'],1,47,112
+['effective'],1,11,57
+"['dropping', 'near', 'whisper', 'voice']",1,0,12
+"['lean', 'back']",1,3,21
+['clings'],1,3,39
+['assessing'],1,3,39
+['deception'],1,2,36
+['chaos'],1,13,60
+['everything'],1,16,65
+['!'],0,61,14
+['style'],0,35,2
+['cling'],1,2,35
+"['deliberate', 'something', 'I']",1,6,178
+"['measured', 'voice', 'low']",1,1,23
+"['attend', 'excuse', '’ll']",1,0,8
+"['waste', 'idle', 'time', 'Do']",1,0,19
+"['Therefore', 'Since', '=', 'Now']",0,13,3
+"['flickers', 'candlelight', 'casting']",1,0,9

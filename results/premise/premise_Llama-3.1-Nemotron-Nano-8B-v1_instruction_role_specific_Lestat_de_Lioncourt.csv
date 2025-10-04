@@ -1,0 +1,177 @@
+pattern,group,count_0,count_1
+"['de', 'Lioncourt', 'Lestat']",1,0,186
+"[':', '*']",0,77,2
+"['must', 'confess']",1,0,114
+"['provide', 'personal']",0,124,0
+"['artificial', 'intelligence']",0,41,0
+"['Queen', 'Damned']",1,5,52
+"['you', ""'re""]",0,80,1
+['end'],1,9,135
+"['do', ""n't""]",0,85,1
+"['status', 'quo']",1,1,28
+['my'],1,77,187
+['darkness'],1,1,104
+['power'],1,30,150
+['own'],1,32,151
+['As'],1,74,183
+"['creature', 'night']",1,0,53
+"['politics', 'web']",1,1,44
+"['model', 'language']",0,24,0
+"['edged', 'sword', 'double']",1,1,19
+['weight'],1,6,107
+"['6', '5']",0,31,0
+['existence'],1,39,149
+"[""'m"", 'information']",0,55,0
+['If'],0,85,1
+['me'],1,61,166
+"['help', 'you']",0,94,1
+"['confront', 'forced']",1,0,37
+['am'],1,31,131
+['can'],0,177,84
+"['rise', 'fall']",1,1,20
+['or'],0,177,85
+['Yet'],1,0,71
+"['curse', 'blessing']",1,1,27
+"['some', 'Here']",0,40,0
+['drawn'],1,3,80
+"['turning', 'point']",1,1,17
+"['actions', 'consequences']",1,11,58
+"['delicate', 'balance']",1,2,30
+['centuries'],1,13,98
+['but'],1,64,158
+['was'],1,17,104
+['ancient'],1,7,85
+"['let', 'know']",0,29,5
+['come'],1,7,83
+['specific'],0,62,0
+"['her', 'She']",1,1,25
+['has'],1,25,112
+['world'],1,59,150
+['one'],1,48,139
+['transformation'],1,17,99
+['myself'],1,7,80
+"['Anne', 'Rice']",0,11,1
+['undead'],1,10,86
+"['And', 'so']",1,0,39
+['true'],1,7,79
+['My'],1,31,117
+['journey'],1,13,88
+['might'],0,62,2
+"['our', 'we']",1,6,39
+['constant'],1,9,78
+"['On', 'hand']",1,1,15
+['just'],1,9,77
+['both'],1,26,105
+['based'],0,56,1
+['certainly'],0,65,4
+['reminder'],1,3,62
+['assist'],0,51,0
+"['respectful', 'helpful', 'responses']",0,27,0
+['complex'],1,50,132
+['context'],0,84,14
+['In'],1,84,162
+['path'],1,6,67
+['AI'],0,49,0
+"[""'ll"", 'best']",0,20,0
+"['example', 'For']",0,19,0
+"['realized', 'began']",1,0,18
+['meaning'],1,22,94
+['found'],1,6,65
+['interested'],0,47,0
+['beauty'],1,3,57
+"['vary', 'depending']",0,15,0
+['nature'],1,42,119
+['fictional'],0,46,0
+['merely'],1,0,46
+['But'],1,0,46
+['shadows'],1,1,49
+['life'],1,53,129
+['very'],1,0,44
+['desire'],1,31,103
+['desires'],1,17,82
+"['self', 'discovery']",1,3,34
+['see'],1,13,73
+['not'],1,125,182
+"['clarify', 'must', 'do']",0,35,0
+"['For', 'instance']",0,16,1
+['also'],1,63,135
+['left'],1,0,40
+['questions'],0,47,2
+['learned'],1,7,59
+['vampire'],1,83,152
+['into'],1,30,96
+"['cultural', 'historical']",0,14,1
+['lies'],1,1,42
+['us'],1,3,48
+['force'],1,2,45
+"['compassionate', 'introspective']",1,2,22
+['responsibility'],1,6,55
+['who'],1,51,120
+"['navigate', 'treacherous']",1,0,26
+"['Bram', 'Stoker', 'Dracula']",0,8,0
+['that'],1,152,191
+"['Emotional', 'emotional']",0,16,0
+"['greater', 'good']",1,2,16
+['important'],0,61,10
+['various'],0,48,4
+"['selfish', 'hedonistic']",1,1,12
+['designed'],0,35,0
+['testament'],1,2,42
+['strength'],1,5,49
+['rebel'],1,0,34
+['find'],1,37,99
+['Please'],0,37,1
+['bound'],1,1,37
+"['France', '18th', 'century']",1,1,9
+['lived'],1,1,36
+['always'],1,6,49
+['themes'],0,39,2
+['immortality'],1,27,84
+"['That', 'said']",0,9,0
+"['edge', 'razor']",1,0,8
+['response'],0,44,4
+['comes'],1,4,44
+['queen'],1,5,46
+['once'],1,3,41
+['light'],1,2,38
+"[""'d"", 'happy', 'provide']",0,38,0
+"['days', 'early']",1,0,12
+"['harmful', 'unethical']",0,9,0
+['adventure'],1,2,37
+"['sorry', 'any', 'confusion']",0,14,0
+[';'],1,4,42
+['including'],0,39,3
+['Through'],1,2,36
+['Moreover'],1,2,36
+['topic'],0,29,0
+['thrill'],1,0,29
+['literature'],0,41,4
+"['respectfully', 'decline', 'must']",0,9,0
+['forces'],1,4,40
+['beliefs'],0,44,6
+['witnessed'],1,3,37
+['compassion'],1,13,57
+['monster'],1,1,31
+['related'],0,27,0
+['heart'],1,0,27
+['devoid'],1,0,27
+['such'],0,76,26
+['taught'],1,3,36
+"['Personal', 'Growth', 'growth']",0,12,0
+['approach'],0,33,2
+['fleeting'],1,2,33
+['catalyst'],1,2,33
+['\n\n'],1,166,192
+['brutal'],1,0,26
+['those'],1,29,79
+['led'],1,9,48
+['seek'],1,16,60
+['had'],1,12,53
+['been'],1,31,81
+['I'],1,163,191
+['humanity'],1,11,51
+['consumed'],1,0,25
+"['far', 'reaching']",1,0,8
+"['...', 'certain']",1,0,13
+"['1', '2', '3', '4', ':']",0,72,1
+"['Consider', 'Seek', 'your']",0,8,0

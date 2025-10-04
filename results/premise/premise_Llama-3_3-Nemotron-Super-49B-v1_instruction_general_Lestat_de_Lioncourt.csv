@@ -1,0 +1,156 @@
+pattern,group,count_0,count_1
+"['mortal', 'Ah']",1,0,153
+"['(', ')']",0,233,188
+"['see', 'let']",0,226,53
+"['well', 'Very']",1,2,89
+"['[', ']']",0,53,25
+"['de', 'Lioncourt']",1,0,51
+"['maybe', 'But']",0,172,36
+"['wants', 'user']",0,111,38
+"['For', 'example']",0,110,24
+"['...', 'shall']",1,1,101
+"['Hmm', 'Wait']",0,147,32
+"['should', 'be']",0,219,50
+"['here', 'be']",0,211,45
+"[',', 'the', '.']",0,289,229
+['Lestat'],1,0,130
+"['let', 'First']",0,197,40
+"['is', 'to']",0,288,181
+"[' \n', ' \n\n']",0,128,62
+"[""n't""]",0,216,61
+"['down', 'break']",0,40,7
+"['\n', 'there']",0,194,42
+['vampire'],1,0,98
+"['+', '=']",0,48,26
+"[""'s""]",0,289,184
+['it'],0,258,125
+"['on', 'based']",0,95,23
+['that'],0,261,130
+['which'],0,203,66
+['answer'],0,179,46
+"['first', 'second']",0,70,18
+"['perhaps', 'Alternatively', 'again']",0,60,16
+"['given', 'since']",0,104,24
+"['If', 'then']",0,97,21
+"['out', 'figure']",0,45,7
+['are'],0,249,122
+['about'],0,159,36
+"['sense', 'makes']",0,50,4
+"['\n', 'need', 'Okay']",0,266,49
+"['mistake', 'made']",0,31,13
+"['dissect', 'us']",1,0,33
+['immortal'],1,0,73
+"['The', 'to']",0,280,182
+['because'],0,142,34
+['but'],0,230,113
+"['witnessed', 'who']",1,0,25
+['so'],0,203,86
+['That'],0,142,36
+"['I', '.']",0,283,204
+['would'],0,193,79
+"['make', 'sure']",0,49,14
+"['check', 'Let', 'Wait']",0,135,33
+['Since'],0,132,32
+"['sentence', 'sentences']",0,38,11
+['Therefore'],0,120,26
+['eternal'],1,0,60
+"['3', '4', '2', '1']",0,74,45
+['centuries'],1,0,58
+"['provided', 'user']",0,70,20
+['shadows'],1,0,57
+['amusing'],1,0,57
+"['negative', 'positive']",0,19,6
+['🦇'],1,0,56
+"[""'re"", 'they']",0,54,10
+['does'],0,147,49
+['just'],0,124,33
+['might'],0,173,71
+['correct'],0,126,35
+['and'],0,274,193
+['if'],0,242,145
+['could'],0,129,38
+['Vampire'],1,0,52
+['fleeting'],1,0,52
+['Verdict'],1,3,63
+['determine'],0,82,11
+"['Parting', 'Thought']",1,0,13
+['—'],1,15,87
+['common'],0,96,20
+['specific'],0,90,17
+['my'],1,36,120
+[':'],0,246,158
+['or'],0,229,137
+['indulge'],1,0,46
+['context'],0,95,21
+"['ingredient', 'ingredients']",0,11,1
+"['expects', 'expect']",0,22,4
+['undead'],1,0,45
+['part'],0,93,21
+"['fall', 'rise', 'empires']",1,0,10
+"[',', 'a']",0,279,214
+"['says', 'problem', 'Wait']",0,81,25
+"['putting', 'together']",0,20,2
+"['steps', 'Then', 'each']",0,37,12
+['---'],1,31,106
+['Maybe'],0,92,23
+['what'],0,106,32
+"['assume', 'assumption']",0,17,4
+['without'],0,122,44
+"['ce', 'pas']",1,0,8
+"['verb', 'grammatically']",0,15,2
+['Mortal'],1,0,39
+['two'],0,109,36
+['flair'],1,0,38
+['night'],1,4,51
+"['\n        ', 'Testing']",0,12,2
+"['using', 'use']",0,32,12
+['possible'],0,70,13
+"['actual', 'proceed', 'provide']",0,19,2
+['probably'],0,75,16
+"['excuse', 'Now', 'you', '...', 'have']",1,0,90
+"['intended', 'However', 'Given', 'have']",0,35,8
+"[""'"", 'output', 'list']",0,21,7
+['do'],0,129,53
+"['#', 'Example']",0,27,9
+['any'],0,108,38
+['key'],0,62,10
+['used'],0,66,12
+"['fit', 'blank']",0,15,1
+"['dear', 'mortal']",1,0,37
+"['Okay', 'So', '\n']",0,274,56
+['no'],0,146,70
+"['words', 'word']",0,29,10
+"['options', 'option']",0,16,3
+['mundane'],1,0,33
+"['input', 'handle', 'test']",0,17,3
+['all'],0,140,67
+"['respond', 'forgot', 'intended']",0,13,3
+['myself'],1,1,35
+['an'],0,167,92
+['vampires'],1,0,31
+['looking'],0,55,9
+['considered'],0,46,5
+"['def', '\n    ', 'return', '):', 'python', '`']",0,22,5
+['Yes'],0,90,30
+['right'],0,90,30
+['Like'],0,60,12
+"['than', 'less']",0,29,8
+['dramatic'],1,2,37
+['something'],0,96,35
+['human'],1,4,42
+"['re', 'read', 'case']",0,15,4
+"['matters', 'pressing', 'more']",1,0,30
+['not'],0,203,131
+['vampiric'],1,0,29
+"['code', 'python', '`', 'Python', ')', '=']",0,26,7
+['task'],0,99,38
+['considering'],0,32,1
+['’ll'],1,1,32
+['some'],0,76,23
+"['attend', 'pursuits', 'more']",1,0,21
+['in'],0,260,203
+['tackle'],0,37,3
+['?'],0,212,144
+['darkness'],1,0,27
+['wait'],0,88,32
+"['original', 'approach', 'user']",0,43,6

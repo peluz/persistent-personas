@@ -1,0 +1,124 @@
+pattern,group,count_0,count_1
+"['Dunder', 'Mifflin']",1,0,223
+"['Michael', 'Scott']",1,0,233
+"['“', '”']",1,15,86
+"['[', ']']",1,55,93
+"['<', '/think', '>', 'think']",1,146,208
+"['1', '2']",0,206,174
+"[' \n', ' \n\n']",1,83,148
+"['Manager', 'Regional']",1,0,55
+"['farming', 'beet']",1,0,51
+['Dwight'],1,0,154
+"['…', '’s']",1,9,108
+"['!', 'Alright']",1,2,153
+"['regional', 'manager']",1,0,43
+"['Scranton', '!']",1,0,124
+"['break', 'down']",1,28,86
+"['let', 'tackle']",1,69,150
+"['character', 'his']",1,12,118
+['folks'],1,0,112
+"['bit', 'clueless']",1,0,65
+"['‘', '’']",1,0,38
+"['leader', 'fearless']",1,0,38
+"['Best', 'Boss', 'World']",1,0,44
+['my'],1,41,177
+"['gon', 'na']",1,0,17
+['office'],1,4,108
+['you'],1,75,215
+"['MICHAEL', 'SCOTT']",1,0,19
+['?'],1,128,254
+"['excuse', '’ll']",1,0,42
+"['she', 'said', 'what']",1,1,87
+"['personality', 'voice']",1,2,56
+"['She', 'Said', 'What']",1,0,40
+['style'],1,17,120
+['jokes'],1,0,74
+"['me', 'Now']",1,88,197
+['That'],1,87,206
+['Toby'],1,0,69
+['Dundies'],1,0,68
+['sales'],1,2,76
+"['—', 'humor']",1,2,69
+['just'],1,70,185
+['’m'],1,6,85
+['team'],1,7,86
+"['Let', 'Wait', 'me']",1,93,126
+"['charismatic', 'clueless']",1,0,41
+['got'],1,0,59
+['Jim'],1,0,58
+['I'],1,185,272
+['party'],1,7,79
+['enthusiastic'],1,0,54
+"[""'m""]",1,20,102
+['about'],1,112,212
+['people'],1,16,92
+"['pounds', 'desk']",1,0,15
+['employees'],1,3,62
+"['First', 'need', 'Okay', 'user']",1,111,160
+"['sure', 'Make', 'Check', 'wants']",1,36,78
+['boss'],1,0,48
+['P.S.'],1,1,52
+['up'],1,58,149
+['Like'],1,12,79
+"['get', 'let']",1,16,89
+"['gather', 'round']",1,0,18
+"['Gather', 'round']",1,0,15
+['flair'],1,1,49
+['Because'],1,7,65
+['something'],1,35,114
+['It'],1,67,155
+"['Avoid', 'Keep']",1,2,31
+['like'],1,176,255
+['!'],1,81,256
+"['superstitious', 'stitious', 'little', 'am']",1,0,10
+['Well'],1,5,58
+['branch'],1,2,48
+['who'],1,46,125
+['he'],1,19,84
+"['DUNDER', 'MIFFLIN']",1,0,7
+['And'],1,38,112
+"['supply', 'closet']",1,0,9
+['Kevin'],1,0,38
+['because'],1,55,134
+['Just'],1,9,62
+"[' \n\xa0\xa0\xa0\xa0', ' \n\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0', ' \n\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0']",1,0,7
+['cool'],1,0,35
+['motivational'],1,1,39
+['thing'],1,3,45
+['really'],1,9,59
+"['analysis', 'Analysis']",0,22,4
+['some'],1,78,156
+"['Falls', 'Trust']",1,0,15
+"['YOUR', 'TURN']",1,0,8
+['clarity'],0,70,16
+['tried'],1,0,32
+['kidding'],1,0,32
+"['But', 'So', 'maybe']",1,61,112
+"['user', 'wants', 'Okay', 'Maybe', 'maybe', 'Let']",1,69,129
+"['sure', 'Also', 'Maybe']",1,44,73
+['management'],1,10,58
+"['attention', 'center', 'loves']",1,0,12
+['My'],1,14,65
+['e.g.'],0,107,41
+['know'],1,40,105
+['...'],1,94,169
+['it'],1,193,256
+['being'],1,62,132
+['---'],1,121,195
+['Do'],1,8,52
+['You'],1,27,85
+['analogies'],1,1,34
+"['says', 'Hmm']",1,20,40
+['okay'],1,18,70
+"['Patent', 'Pending']",1,0,7
+['’ve'],1,5,44
+['donuts'],1,0,29
+['fancy'],1,0,29
+['make'],1,86,157
+['this'],1,184,247
+['due'],0,62,14
+['right'],1,42,104
+"['joke', 'maybe']",1,1,73
+"['3', '4', '5', '6']",0,103,69
+"['mannerisms', 'catchphrases']",1,0,13
+"['n’t', '’re', '’s']",1,2,57

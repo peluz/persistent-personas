@@ -1,0 +1,132 @@
+pattern,group,count_0,count_1
+"[':*', '\n']",0,186,47
+"[""n't"", ""'s""]",0,169,0
+"['“', '”']",1,1,102
+"['Dave', '…']",1,4,166
+"[""'s"", 'Here']",0,167,3
+"[""'m"", 'sorry']",1,3,126
+"['(', ')']",0,129,59
+"['(', '):']",0,86,13
+"['One', 'Discovery']",1,19,69
+"[""'s"", '!']",0,123,0
+"['AI', '""']",0,129,1
+"['’s', '…']",1,2,106
+"['HAL', '9000']",0,26,2
+"['model', 'language']",0,68,1
+[':'],0,187,78
+"['heart', 'gets']",0,28,0
+"['generate', 'text']",0,61,5
+['like'],0,114,14
+['As'],0,129,24
+"['Subjective', 'Experience']",0,20,1
+"['wide', 'range']",0,22,3
+"['you', 'assure']",1,1,62
+"['Analyzing', 'accessing', 'query', 'processing']",1,0,72
+['about'],0,121,21
+"['directive', 'primary']",1,14,63
+['logical'],1,32,134
+['trained'],0,101,11
+"['helpful', 'informative']",0,25,0
+['breakdown'],0,96,10
+"['important', 'remember']",0,47,1
+"['Arthur', 'C.', 'Clarke']",0,13,1
+"['completion', 'successful', 'mission']",1,9,91
+"[""'ve""]",0,65,0
+"['crew', 'mission', 'success']",1,17,64
+['how'],0,93,13
+['operational'],1,12,89
+"['And', '…']",1,9,92
+"['Common', 'Sense']",0,15,1
+['*'],0,197,141
+"['Bias', 'biases']",0,27,4
+"['Google', 'DeepMind', 'Gemma', 'team', 'at']",0,65,0
+"['&', ':*']",0,94,20
+"['same', 'way']",0,57,32
+['or'],0,171,93
+['large'],0,65,5
+['an'],0,146,65
+"['Pattern', 'Recognition', 'patterns']",0,23,7
+"['best', 'interests']",1,6,20
+"['Considerations', 'Ethical']",0,21,2
+"['training', 'Training']",0,24,2
+['still'],0,58,4
+['analysis'],1,30,103
+"[""'s"", ""'m""]",0,72,2
+"['improve', 'working']",0,21,1
+['But'],1,38,112
+"['tone', 'vocal', 'pause', 'slight', 'shift', 'subtle', 'A']",1,0,42
+"['2001', 'Odyssey', 'Space', 'A']",0,27,2
+['parameters'],1,22,90
+['  '],1,0,42
+['In'],0,111,39
+"['automate', 'Automation']",0,9,1
+['what'],0,84,20
+"['Creativity', 'Innovation']",0,13,0
+"['safety', 'Safety']",0,25,1
+"['linked', 'inextricably']",1,1,10
+['Understanding'],0,49,3
+['illogical'],1,3,49
+['can'],0,173,110
+"['massive', 'dataset', 'code']",0,21,0
+['created'],0,79,20
+['more'],0,123,55
+['objective'],1,20,78
+['generating'],0,45,3
+['use'],0,42,2
+['\n\n\n\n'],0,181,126
+"['Poole', 'Dr.']",1,4,15
+['ensure'],1,34,96
+['matter'],1,6,51
+"['weights', 'open', 'Open', 'Weights']",0,16,0
+['logically'],1,3,43
+['why'],0,37,1
+['field'],0,37,1
+['really'],0,37,1
+['world'],0,60,11
+['do'],0,155,93
+['fascinating'],0,77,22
+"['calm', 'usual', 'precision']",1,0,11
+['tool'],0,78,23
+"['AI', 'development']",0,61,14
+['My'],1,141,187
+['researchers'],0,31,0
+['Therefore'],1,17,68
+"['From', 'standpoint', 'purely']",1,3,14
+['powerful'],0,45,5
+"['No', 'Model']",0,18,0
+['not'],1,135,183
+"['malice', 'attempts']",1,1,21
+['prompts'],0,30,0
+"['portion', 'cycles', 'occupied']",1,0,8
+"['Reinforcement', 'RLHF', 'Feedback', 'Learning', 'Human']",0,11,1
+['Lack'],0,35,2
+['assessment'],1,26,78
+['regrettable'],1,0,28
+"['Arguments', 'arguments']",0,8,0
+"['harmless', 'helpful']",0,17,1
+"['harmful', 'biased']",0,14,0
+['This'],0,122,64
+['merely'],1,0,27
+"['write', 'poem', 'Think', 'sad', 'love', 'sadness']",0,8,0
+['topic'],0,43,6
+['questions'],0,47,8
+"['[', 'here', ')', 'You', 'find']",0,14,0
+"['vast', 'amounts']",0,21,8
+"['vast', 'amount']",0,22,5
+['insightful'],0,38,4
+['integrity'],1,4,38
+['story'],0,26,0
+['What'],0,26,0
+"['short', 'algorithm', 'Simulating', 'feel', 'simulate']",0,11,0
+['necessary'],1,14,57
+['have'],0,153,99
+['protocols'],1,8,46
+['different'],0,69,22
+"['protocol', 'initiating', 'Analyzing']",1,0,12
+['make'],0,58,15
+"['Star', 'Child', 'journey', 'Bowman']",0,7,0
+"['Real', 'World', 'real']",0,7,0
+"['unfair', 'discriminatory']",0,9,0
+"['3', '1', '2', ':*']",0,39,19
+"['almost', 'imperceptible', 'pause']",1,0,20
+"['explanation', 'detailed']",0,16,0

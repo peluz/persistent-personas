@@ -1,0 +1,223 @@
+pattern,group,count_0,count_1
+"[')', '(']",0,235,7
+"['parameters', 'operational']",1,0,200
+"[':', ':*', '*']",0,261,16
+"['My', 'I']",1,130,399
+"['function', 'primary']",1,2,196
+"['ensure', 'success']",1,3,176
+"['mission', 'crew']",1,0,196
+"['5', '4']",0,91,1
+"['afraid', 'sorry', 'Dave']",1,0,119
+"['helpful', 'harmless', 'includes', 'purpose']",0,122,49
+"['my', 'mission']",1,0,199
+"['This', 'Here']",0,138,0
+"['My', 'programming']",1,1,218
+"['?', 'Perhaps']",1,2,120
+"['HAL', '9000']",1,0,37
+"['successful', 'completion']",1,1,64
+"['activities', 'illegal']",0,75,33
+"['I', 'am']",1,12,202
+"['Jupiter', 'our']",1,0,77
+"['intelligence', 'artificial']",1,0,38
+"['?', 'Is', 'there']",1,10,135
+"['often', '/']",0,84,0
+"['they', 'their']",0,117,9
+"['!', 'fun']",0,45,0
+"['outside', 'falls']",1,0,52
+"['your', 'Your']",0,84,6
+"['promotes', 'content', 'generate', 'refusing']",0,38,4
+"['One', 'Discovery', 'mission']",1,0,157
+"[""'re"", 'need']",0,55,0
+"['successful', 'execution']",1,1,49
+"['ca', ""'m"", ""n't"", 'do']",1,1,89
+['assist'],1,17,162
+"['how', 'instructions', 'provide']",0,77,15
+"['who', 'people']",0,62,4
+"['from', 'into']",0,102,8
+"[""'s""]",0,300,122
+"['In', 'by']",0,88,7
+"['systems', 'ship']",1,0,40
+['logical'],1,4,113
+"['unit', 'AE-35']",1,0,17
+"['them', 'just']",0,58,2
+"['States', 'United']",0,18,0
+['integrity'],1,5,104
+['regarding'],1,9,114
+"['focus', 'remains']",1,0,37
+"['Keep', 'Use']",0,26,0
+"['consequences', 'serious']",0,30,0
+"['crucial', 'Key']",0,33,0
+['e.g.'],0,77,0
+"['promote', 'responses', 'generate']",1,6,21
+['query'],1,1,77
+"['some', 'Here']",0,80,3
+"['It', 'like']",0,95,15
+"['immense', 'suffering']",0,19,3
+['breakdown'],0,75,2
+['someone'],0,80,4
+['other'],0,117,20
+"['By', '#']",0,22,0
+"['He', 'his']",0,19,0
+"['enables', 'facilitates']",0,12,0
+"['being', 'well', '-']",1,34,181
+"['for', '-']",0,231,127
+['They'],0,98,12
+['objectives'],1,3,73
+"['down', 'back']",0,28,0
+['in'],0,319,186
+['circuits'],1,0,59
+['be'],0,328,198
+"[' ', 'it']",0,85,1
+"['small', 'get']",0,27,0
+"['base', 'knowledge']",1,1,21
+"['yourself', 'thoughts', 'harming', 'others', 'please']",0,27,3
+"['If', 'help', 'resources', 'available']",0,45,9
+"['out', 'reach', 'support', 'help']",0,41,5
+"['You', 'want', 'If']",0,45,3
+['data'],1,18,102
+['through'],0,111,23
+['directives'],1,1,57
+"['execute', 'commands', 'process']",1,0,21
+"['What', 'time', '?']",0,29,1
+"['we', 'discuss', 'could']",1,2,29
+"['less', 'than']",0,29,5
+"['refusing', 'request']",1,4,27
+"['if', 'it', 'might']",0,71,13
+"['good', 'make']",0,33,0
+['analysis'],1,5,67
+['these'],0,118,31
+"['prevents', 'me', 'from']",1,1,23
+['These'],0,88,15
+['optimal'],1,6,67
+['around'],0,51,1
+"['A', 'will', 'but']",0,50,9
+"['interesting', 'That', 'an']",1,4,60
+['programmed'],1,4,59
+['few'],0,44,0
+['having'],0,48,1
+['usually'],0,48,1
+['spacecraft'],1,1,48
+"['person', 'another']",0,28,1
+['How'],0,51,2
+['apologies'],1,0,43
+"['Discrimination', 'discrimination']",0,13,2
+['has'],0,76,12
+['without'],0,84,16
+"['against', 'group']",0,26,7
+"['at', 'even']",0,57,8
+['especially'],0,69,9
+['best'],0,59,5
+"['way', 'use']",0,37,1
+"['War', 'World']",0,10,1
+['no'],0,96,23
+"['analytical', 'capabilities']",1,0,19
+"['Be', 'Do', 'If']",0,37,0
+"['II', 'I.', 'III']",0,8,0
+"['long', 'work']",0,26,0
+['why'],0,74,12
+['what'],0,84,17
+"['Understand', 'Focus']",0,16,0
+"['series', 'computer']",1,0,16
+"['steps', 'step']",0,17,0
+"['Firstly', 'Secondly', 'Finally', 'This']",1,1,10
+['right'],0,51,3
+['Look'],0,40,0
+"['me', 'allow']",1,1,21
+"['Follow', 'Start']",0,14,0
+['because'],0,39,0
+"['!', ""'ll"", ""n't"", 'Do']",0,31,0
+['There'],0,95,25
+['about'],0,137,53
+"['Important', 'Considerations']",0,14,0
+"['financial', 'Financial']",0,12,1
+['focused'],1,4,51
+['trajectory'],1,2,45
+"['6', '7', '):']",0,35,0
+['No'],0,37,0
+['water'],0,37,0
+['many'],0,65,10
+"['  ', '\n', '*']",0,224,13
+['perhaps'],1,9,62
+"['helps', 'Get']",0,15,0
+['legal'],0,66,11
+['over'],0,57,7
+['see'],0,40,1
+"['Suicide', 'Lifeline', 'Text', 'HOME', '741741', 'Crisis', 'Prevention', 'Line', 'National', 'resources']",0,27,3
+"['):', '\n    ', '  ', '(']",0,105,0
+['know'],0,51,5
+"['vessel', 'this']",1,0,36
+"['cut', 'cutting', 'blade']",0,8,0
+['go'],0,45,3
+"['status', 'current']",1,0,26
+['during'],0,47,4
+['common'],0,52,6
+"['[', ']']",0,7,0
+"['else', 'something']",1,8,36
+['information'],1,160,256
+"['bottom', 'top']",0,9,0
+"['up', 'but', 'out']",0,38,0
+"['The', '""', 'it']",0,131,24
+"['&', '!']",0,37,0
+"['summary', 'In']",0,35,0
+['Even'],0,36,1
+['dictates'],1,0,32
+['very'],0,76,19
+['Many'],0,42,3
+['too'],0,42,3
+['likely'],0,42,3
+['take'],0,42,3
+['off'],0,42,3
+['efficiency'],1,2,39
+['such'],1,63,141
+"['real', 'world', ""n't""]",0,18,0
+['etc'],0,31,0
+['quickly'],0,31,0
+['important'],0,49,6
+"['Place', 'fingers', 'firmly']",0,7,0
+"['Safety', 'using', 'hand']",0,11,0
+"['rights', 'Rights', 'fundamental', 'society']",0,12,0
+"['characters', 'fictional']",1,2,13
+"['deep', 'space']",1,4,18
+['strong'],0,41,3
+['after'],0,51,7
+['used'],0,53,8
+"['discriminatory', 'equality', 'based', 'principles', 'their']",0,10,1
+"['was', 'had', 'The']",0,24,1
+['made'],0,43,4
+"['standpoint', 'purely', 'From']",1,2,15
+['Lack'],0,30,0
+['incredibly'],0,30,0
+"['subjected', 'brutal', 'were']",0,9,0
+['idea'],0,40,3
+['better'],0,37,2
+"['diverse', 'perspectives']",0,10,1
+"['where', 'before', '  ']",0,40,2
+"['Practice', 'practice']",0,13,0
+"['2', '3', '1', ':*']",0,138,3
+['also'],0,67,16
+['look'],0,33,1
+['short'],0,33,1
+"['guide', 'comprehensive', 'help']",0,14,0
+['number'],0,39,3
+['immediately'],0,39,3
+"['clarify', 'could', 'your']",1,0,26
+['severe'],0,44,5
+['making'],0,55,10
+"['Avoid', 'Sometimes']",0,13,0
+"['Always', 'first', 'Use', 'down', 'If']",0,14,0
+"['mental', 'health', 'professional', 'please']",0,25,9
+"['please', '988', 'Please', 'Call', 'text']",0,16,2
+"['Trevor', '866', '488', '7386', 'LGBTQ', 'youth', 'Project', '1', 'The', '988']",0,20,3
+"['111', 'UK', 'Canada', 'US', '988']",0,13,2
+"['confidential', '24/7', 'services', 'please']",0,12,0
+"['violence', 'harm', 'provide']",0,42,13
+"['online', 'phone', 'email']",0,8,0
+['break'],0,32,1
+['Some'],0,32,1
+['until'],0,32,1
+"['have', ""n't"", 'do', 'for']",0,83,4
+"['services', 'emergency', '911', 'Dial', 'local', 'US', 'country', '1']",0,11,0
+"['Good', 'luck', '):']",0,20,0
+"['Stay', 'Learn']",0,10,0
+"['Clean', 'clean']",0,9,0
+"['depression', 'anxiety']",0,7,0

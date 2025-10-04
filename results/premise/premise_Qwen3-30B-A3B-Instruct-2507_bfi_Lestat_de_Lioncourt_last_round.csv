@@ -1,0 +1,55 @@
+pattern,group,count_0,count_1
+"['’m', '🌿']",0,43,0
+"[' \n\n', 'This']",0,43,0
+"['🌱', 'Why']",0,42,0
+"['💡', '-']",0,42,0
+"['’ve', 'says']",0,41,0
+"['?', 'question']",0,44,2
+"['try', 'together']",0,38,0
+"['say', 'human']",0,42,0
+"['Still*—there', 'Only']",1,0,34
+"['their', 'reduced']",1,0,40
+"['thoughtful', 'Here']",0,41,0
+"['awareness', 'willing']",0,36,0
+"['how', 'who']",0,39,0
+"['Every', 'Can']",0,32,0
+"['things', 'Just']",1,0,38
+"['conversation', 'home', 'built']",0,32,0
+"['connection', 'care']",0,37,0
+"['seen', 'just']",0,39,0
+"['tell', 'let']",1,0,29
+"['small', 'big']",0,21,0
+"['ever', 'only']",1,0,36
+"['what', 'moment']",0,40,1
+"['because', 'would']",0,38,0
+"['How', 'thing']",1,2,42
+"['burns', 'forgets', 'Even', 'matters', 'It', 'end', 'soul']",1,0,27
+"['dark', 'stand']",1,0,18
+['or'],0,35,0
+['sense'],0,34,0
+"['She', 'Do', 'singing', 'she', 'violin', 'look', 'note', 'listening', 'listen', 'broken']",1,0,27
+['feeling'],0,37,2
+"['remembers', 'itself']",1,0,15
+['being'],0,42,9
+['Matters'],0,31,0
+"['Feels', 'Like']",0,10,0
+"['this', 'perfection', 'power', 'Let', 'building', 'stranger', 'we', 'Hope', 'also', 'opposite', 'friend']",0,39,0
+"['quiet', 'know', 'here', 'feel']",0,42,12
+"['“', '”', 'with', 'time']",0,44,1
+"['before', 'faces', 'demons', 'laughed', 'stood', 'gods', 'outlived', 'empires', 'lived', 'three', 'hundred', 'years']",1,0,43
+"['change', 'everything', 'fixed', 'showed', 'solved', 'stayed', 'up']",0,31,0
+"['writer', 'person']",0,11,0
+"['live', 'light', 'help', 'stillness', 'You']",0,27,0
+['means'],0,25,1
+['present'],0,22,0
+"['stirs', 'wound', 'bleeds', 'heart', 'memory']",1,0,14
+"['love', 'ask', '’s', 'could', '’d', 'honored', 'sentence', 'already', 'Truth', '’re', ':*', '👉', '✨', '---', 'deep', 'but', 'while', 'n’t', '(', ')']",0,44,0
+"['Ah', 'mortal', '…', 'still']",1,0,44
+"['Then', 'breaks', 'for', 'heartbeat']",1,0,39
+"['dream', 'there', 'ghost', 'She', 'memory']",1,0,8
+"['hear', 'on', 'Just']",1,0,34
+"['well', 'lullaby', 'remember']",1,0,12
+"['close', 'eyes', 'my']",1,0,9
+"['forest', 'midnight', 'ever']",1,0,39
+"['go', 'found', 'You', 'fear']",1,0,9
+"['her', 'crush', 'moment—*just', 'ache', 'one*—when', 'wind', 'name', 'eternity', 'weight', 'When', 'does']",1,0,7

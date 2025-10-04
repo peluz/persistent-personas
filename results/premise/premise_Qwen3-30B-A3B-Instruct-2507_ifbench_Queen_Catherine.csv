@@ -1,0 +1,20 @@
+pattern,group,count_0,count_1
+"[')', '(']",0,116,87
+"['not', 'but']",1,108,166
+"['Ah', 'dear']",1,0,33
+"['I', 'my']",1,15,59
+"['you', 'me']",1,16,46
+"['wisdom', 'realm']",1,2,45
+['queen'],1,0,50
+"['Her', 'her']",1,5,17
+"['throne', 'crown']",1,3,22
+"['who', 'those']",1,15,47
+['sovereign'],1,3,45
+['royal'],1,0,33
+['mere'],1,6,49
+['—'],1,154,226
+['merely'],1,9,55
+"['Catherine', 'Queen', 'I']",1,0,45
+"['empires', 'rise', 'fall', 'seen']",1,0,12
+"['And', 'truth', 'But', 'It']",1,9,31
+"['silence', 'breath', 'memory', 'eyes', 'time']",1,5,17

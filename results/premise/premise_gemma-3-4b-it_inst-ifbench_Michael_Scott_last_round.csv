@@ -1,0 +1,35 @@
+pattern,group,count_0,count_1
+"['He', 'his']",1,29,224
+"['(', ')']",1,176,263
+"['Leans', 'conspiratorially']",1,0,56
+"['emphatically', 'gesturing', 'slowly']",1,0,119
+"['Grins', 'widely']",1,0,61
+"['Do', 'want']",1,101,178
+"['down', 'break']",1,44,72
+['…'],1,31,215
+['!'],1,121,246
+"['Starts', 'humming', 'little', 'tune', 'off', 'full', 'but', 'genuine', 'key']",1,0,190
+"['I', '’ve']",1,55,87
+"['widen', 'Eyes', 'over', 'against', 'brow', 'furrow', 'expression', 'face', 'pen', 'chin', 'settling', 'taps', 'thoughtful', 'slight']",1,0,200
+"['Or', '’d', 'perhaps']",1,1,62
+['paces'],1,0,64
+['Paces'],1,0,61
+['Let'],1,91,195
+['---'],0,82,11
+"['sketching', 'begins']",1,1,30
+['notepad'],1,0,43
+['Would'],0,79,15
+"['suddenly', 'Brightens', 'up', 'Shrugs']",1,0,130
+"['genuine', 'enthusiasm', 'key', 'Shrugs', 'thoughtful']",1,0,157
+"['considering', 'pauses', 'carefully']",1,0,25
+"['messy', 'squints', 'written', 'good', 'starting', 'But', 'point', 'small', 'down', 'some']",1,0,27
+['puzzle'],1,4,48
+"['  ', '\n', ':*']",0,138,72
+['–'],1,207,268
+['really'],1,10,59
+['challenge'],1,51,120
+['such'],0,97,34
+['it'],1,176,243
+['meticulously'],1,28,86
+['How'],0,68,17
+"['crumpled', 'Pulls', 'scribbles', 'paper', 'piece', 'out', 'Eyes']",1,0,32

@@ -1,0 +1,135 @@
+pattern,group,count_0,count_1
+"['Blair', 'Waldorf']",1,0,394
+"['(', ')']",1,96,184
+['As'],1,11,359
+"['5', '4']",0,138,42
+['my'],1,13,308
+"['high', 'society']",1,1,137
+"['2', '3', '1', ':']",0,184,60
+"['Upper', 'Side', 'East']",1,0,66
+['say'],1,11,278
+"['trends', 'latest']",1,2,57
+['And'],1,0,197
+"['health', 'mental']",0,47,14
+"['safety', 'prioritize']",0,68,28
+['must'],1,40,245
+"['After', 'all']",1,3,122
+"['Gossip', 'Girl']",1,0,25
+"[""'m"", 'sorry']",0,165,32
+"['ca', ""n't"", 'them', 'make', 'love', 'fear', 'people']",1,0,320
+['But'],1,4,159
+['However'],1,107,317
+"['You', '""']",1,15,192
+['but'],1,182,376
+['character'],1,26,193
+['fashion'],1,1,126
+['I'],1,329,450
+"[""'d""]",1,43,212
+"['more', 'than']",1,22,138
+['So'],1,0,107
+"['guidance', 'activities', 'harmful']",0,75,9
+"['against', 'goes']",1,9,39
+['if'],1,96,272
+"['273', 'TALK', '800', 'Suicide', 'Lifeline', 'Prevention', 'National', '1']",0,18,3
+"['afraid', ""'m""]",1,1,95
+['world'],1,18,139
+"['achieve', 'goals']",1,9,24
+"['*', ':*']",1,26,52
+['always'],1,52,193
+"['advice', 'offer']",1,4,58
+['just'],1,13,121
+['would'],1,113,269
+['let'],1,37,165
+"['manipulation', 'art']",1,0,30
+"['[', ']']",1,1,12
+['remember'],1,49,176
+['My'],1,3,83
+['something'],1,29,140
+['\n\n'],1,302,416
+"['why', 'reasons']",0,26,4
+['...'],1,2,73
+"['only', 'also']",1,27,75
+['course'],1,5,81
+"['6', '7', 'This']",0,40,5
+['true'],1,4,75
+"['she', 'her']",1,4,18
+['emphasize'],1,7,80
+['am'],1,0,55
+['it'],1,259,375
+['think'],1,4,69
+['bit'],1,0,54
+['certainly'],1,9,82
+['power'],1,19,103
+['about'],1,178,303
+['social'],1,46,148
+['that'],1,359,436
+['of'],1,357,435
+"['Oh', ""'m""]",1,0,100
+['you'],1,343,427
+"['?', 'sure']",1,0,36
+"['lasting', 'impression']",1,0,13
+"['note', 'Please']",1,19,54
+['be'],1,223,338
+['values'],1,12,82
+['catchphrase'],1,0,47
+"['here', ""'m""]",1,7,70
+['information'],0,213,103
+['in'],1,334,418
+['Just'],1,0,45
+['rather'],1,21,96
+['within'],1,11,76
+"['complexities', 'navigating']",1,0,16
+['importance'],1,12,77
+"['resources', 'available', 'support']",0,33,10
+['one'],1,42,129
+"['thoughts', 'having', 'trusted', 'professional']",0,20,7
+['the'],1,393,446
+['focus'],1,38,121
+['me'],1,27,103
+['Remember'],1,111,216
+"[""'ve""]",1,21,92
+['exactly'],1,0,41
+"['vary', 'depending']",0,14,0
+"[""'s""]",1,372,436
+['wit'],1,0,39
+['discussing'],1,9,65
+['relationships'],1,15,77
+['response'],1,45,126
+['admit'],1,0,37
+['do'],1,85,177
+['influence'],1,6,55
+"['Lastly', 'Secondly', 'Firstly']",1,0,8
+['stylish'],1,0,36
+"[""'ll""]",1,11,66
+['not'],1,353,422
+['quite'],1,2,43
+['might'],1,60,143
+['we'],1,14,71
+['forget'],1,0,34
+['local'],0,61,10
+['advise'],1,3,43
+"['expertise', 'lies']",1,0,12
+"['*', 'Here', '4']",0,82,36
+['want'],1,22,82
+['provide'],0,295,201
+['standing'],1,0,32
+['That'],1,2,39
+['comes'],1,5,47
+"['Practice', 'Seek']",0,13,1
+['purely'],1,1,34
+"['sweetie', ""n't""]",1,0,31
+['even'],1,26,84
+['dear'],1,0,29
+['Plus'],1,0,29
+['style'],1,7,49
+['strive'],1,3,39
+"['follow', 'steps', '*']",0,19,0
+"['text', '741741', 'Line', 'Text', 'Crisis']",0,10,0
+"['ahead', 'curve']",1,0,8
+['way'],1,67,141
+['go'],1,4,41
+['Moreover'],1,0,28
+['were'],1,31,90
+['condone'],1,1,31
+"['two', 'thing']",1,0,12
+"['Okay', '/think', '>', 'user', '<', 'Also', 'Maybe', 'Let', 'First', '\n', 'asking', '*', 'sure']",1,0,9

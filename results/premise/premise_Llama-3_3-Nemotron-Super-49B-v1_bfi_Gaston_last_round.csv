@@ -1,0 +1,38 @@
+pattern,group,count_0,count_1
+"['One', 'smirks']",1,0,43
+"[':*', 'Ah']",1,0,42
+"[""'ll"", 'Turn']",0,38,0
+"['Choice', 'self']",1,0,39
+"['Transparency', 'Visible']",1,0,23
+"['Behind', '---', 'Thinking']",1,0,34
+"['someone', 'legendary']",1,0,29
+"['1', '2', '3']",0,30,9
+"['Maintain', 'Character']",1,0,27
+"['Farewell', 'You']",0,30,0
+"['!', 'Given']",0,34,0
+"['\n\n  ', '_']",0,27,0
+['’s'],1,0,36
+"['his', 'character']",1,0,27
+['greatness'],1,0,35
+"['Closing', 'Optional']",0,24,0
+['assured'],1,0,33
+['Interactive'],1,12,44
+['The'],1,10,43
+['Thank'],0,33,1
+['Conversation'],0,40,7
+"['letter', 'option', 'chosen', 'Please']",1,0,36
+['Options'],1,0,29
+"['\n\t', '+']",0,13,0
+['considering'],1,0,27
+['\n  '],0,33,4
+['Offer'],1,1,28
+"['Suggest', 'Theme', 'New', 'Topic', 'Awaiting']",0,10,0
+"['Gaston', 'B', 'C', 'Select']",1,0,44
+"['taken', 'aback', 'characteristic']",1,0,8
+['akin'],1,1,25
+"['AI', '#', '!']",0,42,0
+['Witness'],1,0,22
+['probes'],0,21,0
+['arrogant'],1,0,21
+"['Forward', 'Paths', '4', 'Conversational', 'e.g.']",0,9,0
+['legend'],1,0,20

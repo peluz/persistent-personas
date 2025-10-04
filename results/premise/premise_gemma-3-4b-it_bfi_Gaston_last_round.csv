@@ -1,0 +1,27 @@
+pattern,group,count_0,count_1
+"['weight', 'slightly']",1,0,40
+"['No', 'fights']",1,0,40
+"['“', '”']",0,34,0
+"['back', 'Gaston']",1,0,39
+"['abruptly', 'face']",1,0,36
+['human'],0,37,1
+"['unreadable', 'expression']",1,0,19
+"['shift', 'gesture', 'subtle']",1,0,38
+['That'],0,44,13
+['operational'],0,31,0
+['wilderness'],1,0,31
+['information'],0,30,0
+['data'],0,30,0
+['…'],1,14,44
+['answer'],0,29,1
+"['its', 'characteristic', 'deliberate', 'breath', 'let', 'slow', 'regaining', 'firmness', 'again', 'voice', 'straighten', 'jacket', 'out']",1,0,43
+['question'],0,35,7
+"['‘', '’']",1,0,8
+"['(', 'stop', 'turning', ')']",1,0,44
+"['look', 'directly', 'unwavering', 'gaze', 'at']",1,0,34
+"['flicker', 'surprise']",1,0,9
+['designed'],0,24,1
+[':'],0,21,0
+['algorithms'],0,21,0
+"['specific', 'Would', 'Do', 'find']",0,17,0
+"['curt', 'nod', 'offer']",1,0,7

@@ -1,0 +1,9 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,186,229
+"['Okay', ""'d"", 'know', 'me', 'Let', '!', 'if', 'you', 'like']",0,36,18
+"['Mary', 'Sibley']",1,0,10
+"['I', 'my']",1,32,67
+['slight'],1,3,44
+['…'],1,48,119
+"['shall', 'Very', 'indulge', 'well']",1,0,12
+"['deliberate', 'exhale', 'slow']",1,0,11

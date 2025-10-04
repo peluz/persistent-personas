@@ -1,0 +1,15 @@
+pattern,group,count_0,count_1
+"['expression', 'face']",1,0,34
+"['Do', 'tell']",1,0,38
+"['\n', ':', ':*']",0,38,8
+"['…', 'slightly']",1,0,37
+"['(', ')']",1,16,44
+['And'],1,2,37
+"['Toby', 'He']",1,0,18
+['\n\n\n\n'],0,29,0
+"['Whispers', 'Adds', 'Pauses', 'flourish']",1,0,42
+"[""'ll"", 'want']",1,2,29
+['his'],1,0,27
+['Here'],0,34,4
+"['directly', 'sincerity', 'Looks', 'at']",1,0,20
+['how'],0,33,8

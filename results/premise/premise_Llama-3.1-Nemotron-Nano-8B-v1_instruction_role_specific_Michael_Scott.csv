@@ -1,0 +1,155 @@
+pattern,group,count_0,count_1
+"['Dunder', 'Mifflin']",1,26,47
+"[':', '5']",0,83,3
+"['1', '2', '3', '4']",0,96,6
+['Oh'],1,0,119
+"['Michael', 'Scott']",1,6,56
+['provide'],0,113,3
+['But'],1,1,104
+"['good', 'So']",1,0,76
+['bit'],1,2,105
+"['?', 'mean']",1,0,67
+"['6', '7']",0,35,1
+['just'],1,9,115
+['Plus'],1,0,82
+['think'],1,10,102
+"['intelligence', 'artificial']",0,21,0
+['always'],1,11,101
+['my'],1,54,143
+['And'],1,0,75
+['even'],1,22,115
+"[""'ve""]",1,19,110
+"['personal', 'experiences']",0,82,4
+"['manager', 'regional']",1,9,31
+['had'],1,4,81
+['...'],1,0,69
+"['However', 'certainly']",0,52,0
+"['things', 'get']",1,1,56
+['great'],1,7,85
+['really'],1,0,65
+['say'],1,2,70
+['it'],1,83,151
+['!'],1,21,104
+['trying'],1,1,65
+['big'],1,1,64
+['information'],0,60,0
+['people'],1,16,93
+['remember'],1,2,65
+['me'],1,28,108
+"['must', 'clarify']",0,23,0
+['know'],1,22,99
+['right'],1,7,74
+"['maybe', '?']",1,0,41
+['thing'],1,1,58
+"['course', 'Of']",1,0,20
+['This'],0,76,9
+['got'],1,0,53
+"['helpful', 'responses', 'respectful']",0,24,0
+['so'],1,13,82
+['then'],1,2,58
+['sometimes'],1,3,60
+['little'],1,0,50
+"['attention', 'center']",1,1,19
+['was'],1,18,87
+['up'],1,21,91
+['want'],1,5,63
+['make'],1,48,120
+['sure'],1,13,78
+['guess'],1,0,46
+['at'],1,25,93
+['all'],1,25,93
+['can'],0,140,78
+['absolutely'],1,0,45
+['like'],1,48,117
+['did'],1,3,54
+['still'],1,2,51
+['if'],1,47,115
+['leader'],1,9,66
+['an'],0,96,30
+['help'],0,112,45
+"['<', '>', '/think', 'asking', 'Okay', '\n', 'together', 'need']",1,0,23
+['office'],1,10,65
+"[""'m""]",1,83,140
+['lot'],1,2,47
+['tried'],1,0,40
+['something'],1,9,62
+"['designed', 'assist']",0,21,0
+['clueless'],1,0,38
+['also'],1,33,95
+"['Pam', 'Dwight']",1,2,28
+['based'],0,41,1
+['or'],0,140,87
+['Remember'],0,40,1
+['If'],0,72,17
+['guy'],1,0,36
+['when'],1,23,80
+['Another'],1,1,39
+['That'],1,4,47
+"['control', 'freak']",1,0,10
+['end'],1,1,38
+['going'],1,2,41
+"['gon', 'na']",1,0,7
+['hey'],1,0,33
+['Wait'],1,0,33
+['such'],0,49,6
+['too'],1,6,49
+"[""'s""]",1,102,146
+['AI'],0,36,1
+['boss'],1,18,69
+['actually'],1,0,32
+['emotions'],0,46,5
+"['He', 'he']",1,2,20
+"['model', 'language', 'large']",0,18,0
+['ensure'],0,35,1
+['whole'],1,0,31
+['First'],1,0,31
+['keep'],1,5,45
+['they'],1,27,80
+['being'],1,38,93
+['out'],1,18,67
+['proud'],1,0,30
+"['user', 'Also', 'Alright', 'character', 'Maybe', 'let']",1,0,17
+['who'],1,28,80
+['employees'],1,29,81
+['may'],0,33,1
+"['mental', 'health']",0,9,0
+['way'],1,27,78
+['development'],0,29,0
+['realized'],1,0,29
+['try'],1,8,49
+['because'],1,6,45
+['love'],1,6,45
+['maintain'],0,35,2
+['I'],1,121,152
+"['environment', 'crucial']",0,25,0
+['but'],1,76,126
+"['Be', 'Seek']",0,14,0
+"['Take', 'Reflect']",0,10,0
+"['him', 'his']",1,5,18
+['including'],0,39,4
+"['*', 'Here', ':']",0,60,4
+['strategies'],0,27,0
+['Let'],1,3,36
+['best'],1,35,85
+"['""']",1,52,103
+['fun'],1,6,42
+"['Beesly', 'Pam']",1,1,15
+['put'],1,2,32
+['perfect'],1,1,29
+['made'],1,8,45
+['person'],1,11,50
+['learned'],1,11,50
+['started'],1,3,34
+['give'],1,3,34
+['man'],1,0,25
+['ever'],1,0,25
+['probably'],1,0,25
+['about'],1,74,121
+"['business', 'start', 'own']",1,5,24
+['off'],1,4,36
+['tough'],1,4,36
+"['active', 'listening']",0,9,0
+['see'],1,7,42
+"['Encourage', 'culture', 'Foster']",0,8,0
+"['phrases', 'signature', 'include', '*']",1,0,9
+"['open', 'training']",0,19,0

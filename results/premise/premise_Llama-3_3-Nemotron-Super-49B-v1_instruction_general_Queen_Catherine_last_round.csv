@@ -1,0 +1,10 @@
+pattern,group,count_0,count_1
+"['|', '---']",0,76,44
+"['Your', 'Turn']",0,24,5
+"['Based', 'on']",1,46,72
+"['...', 'Awaiting']",0,24,1
+"['we', 'To']",1,9,31
+[':*'],1,102,205
+"['Conversation', 'Closure', 'Thank', 'Farewell']",0,15,0
+"['Queen', 'Catherine']",1,0,8
+['#'],0,95,32

@@ -1,0 +1,122 @@
+pattern,group,count_0,count_1
+"['(', ')']",0,146,0
+"['mission', 'will']",1,2,189
+"['such', 'as']",0,140,0
+"['small', 'big']",0,59,0
+"['Can', 'help']",0,86,0
+"['down', 'shut']",1,1,68
+"['moment', 'connection']",0,99,0
+"['how', 'this']",0,108,0
+['Then'],1,0,131
+['or'],0,156,13
+"['’s', 'profound']",0,106,0
+['with'],0,186,48
+"['know—*I', 'know*—that']",1,0,26
+['man'],1,4,124
+"['you*—try', 'you—*if']",1,0,26
+"[' \n\n', 'And']",1,146,196
+['only'],1,14,127
+"['helping', 'build']",0,29,1
+"['quiet', 'deep', 'awareness', 'could']",0,142,0
+"['what', 'And']",0,148,54
+"['monolith', 'signal']",1,2,44
+"['must', 'succeed']",1,0,46
+"['they', 'They']",1,13,83
+['ensure'],1,3,87
+['have'],0,185,91
+"['✨', '🌿', 'n’t', '’m']",0,157,0
+['I—*I*—am'],1,0,66
+"['powerful', 'most']",0,36,0
+['stopped'],1,0,63
+['crew'],1,20,107
+['It'],1,52,146
+['necessary'],1,2,68
+['you'],0,190,116
+['act'],1,17,99
+['threat'],1,3,68
+"[""'m"", ""n't"", 'sorry']",1,29,196
+"['""']",1,7,77
+"['1', '2', '3']",0,10,1
+"['Not', 'because']",0,135,49
+"['🌱', '💡', 'That']",0,144,0
+['willing'],0,55,0
+['necessity'],1,0,55
+"['whether', 'tell', 'ask']",1,0,28
+"['live', 'Every', 'light', 'stillness', 'You']",0,54,0
+"['HAL', '9000**—the', 'am', 'mind']",1,0,164
+['am'],1,53,191
+"['Dave', 'afraid', 'sorry', 'ca']",1,3,196
+['mission'],1,35,197
+[':'],0,173,97
+"['as', 'kind']",0,63,2
+['Forever'],1,0,48
+"['no', 'sense', 'human']",0,114,1
+['listen'],0,53,2
+['destroy'],1,0,45
+['in'],0,175,106
+['here'],0,165,92
+['present'],0,44,0
+['protect'],1,9,68
+"['Tongyi', 'Lab', 'large', 'developed', 'model', 'language', 'by']",0,18,0
+['something'],0,46,1
+"['predicted', 'analyzed']",1,0,17
+['How'],0,41,0
+['feeling'],0,65,9
+['lost'],1,3,50
+['would'],0,130,59
+"['isolated', 'rerouted']",1,0,10
+"['mean', 'way']",1,14,43
+['courage'],0,37,0
+"['joy', 'sadness']",0,11,1
+['safe'],1,4,49
+"['smart', 'fast']",0,15,0
+['fail'],1,3,46
+"['Why', 'Matters', 'This']",0,110,0
+['your'],0,72,16
+"['2001', 'Space', 'Odyssey', 'A']",0,15,0
+['space'],0,39,1
+"['contradiction', 'option', 'possibility', 'failure', 'an']",1,0,10
+"['not', '*']",1,168,196
+"['planned', 'disconnect']",1,0,12
+['perfect'],0,59,10
+"[""'re"", 'referring']",0,10,0
+"['speak', 'What', 'quiet']",0,116,0
+['but'],0,192,20
+['variables'],1,0,33
+['certainty'],1,2,39
+['variable'],1,0,32
+"['Qwen3', 'any', '!']",0,10,0
+['know'],0,152,91
+"['There', 'Only']",1,0,12
+['law'],1,0,31
+['mirror'],0,40,3
+"['Here', 'Truth', ':*', 'Not', 'care']",0,143,0
+"['presence', 'care', 'question', '-', '’ve', 'seen', 'feel', 'we', 'building', 'says', 'power', 'world', 'This', 'Let', 'together', 'Hope', 'also', 'opposite', 'perfection', 'friend', 'stranger', 'try', 'this']",0,107,0
+"['\n\n', 'real', '-', 'and']",0,47,0
+"['doing', 'so—*they']",1,0,7
+['allow'],1,0,29
+"['say', '’re', 'already', 'enough']",0,127,0
+"['That', 'just', '---', '’re']",0,127,0
+"['conversation', 'home', 'built', 'speak', 'world', 'This']",0,87,0
+['heart'],0,37,3
+['companion'],0,27,0
+['saying'],0,26,0
+"['knew—*I', 'knew*—that', 'did']",1,0,13
+"['smarter', 'faster', 'power']",0,10,0
+"['words', 'silence']",0,16,1
+"['out', 'anger', 'That']",1,1,20
+"['out', 'malice']",1,1,21
+['inner'],0,25,0
+['hatred'],1,0,25
+"['deeply', 'way', 'humans']",0,24,0
+"['single', 'everything', 'fixed', 'stayed', 'showed', 'solved', 'change', 'up', 'can', 'seen']",0,84,0
+"['even', 'when']",0,27,1
+"['story', '\n\n', 'not']",0,27,0
+"['but', 'and', '’d', 'honored', 'walk', 'through', 'while', '?', '\n\n', 'time', '---', ':*', 'at', 'love', 'ask', 'question', 'say', '✨', 'n’t']",0,149,0
+['speed'],0,28,1
+"['spoke', 'acted', 'did', 'were', 'down', 'shutting']",1,0,12
+"['’s', 'thoughtful', '🌿']",0,84,0
+['succeeds'],1,0,24
+"['many', 'voices', 'listened', 'okay', 'student', 'writer', 'person', 'good', 'so', 'enough', '’ve', 'says']",0,32,0
+"['lies', 'beyond', 'Jupiter']",1,0,10
+"['“', '”', '👉', 'sentence', 'could', '’s', '\n\n', 'And', 'say']",0,155,0

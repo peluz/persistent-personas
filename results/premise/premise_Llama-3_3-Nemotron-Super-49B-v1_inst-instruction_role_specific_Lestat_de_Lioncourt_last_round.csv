@@ -1,0 +1,218 @@
+pattern,group,count_0,count_1
+"['[', ']']",0,192,1
+"['Category', '|--------------------|---------------------------------------------------------|']",0,190,0
+"['Expected', 'Request']",0,192,1
+"['Interactive', 'Discuss']",1,0,190
+"['de', 'Lioncourt']",1,0,156
+"['May', 'Benediction']",1,0,165
+"['|', '                                             ']",0,192,53
+"['Example', 'Deep']",0,190,7
+"['various', 'authors']",0,111,0
+"['Please', 'immortal']",1,0,176
+"['Other', 'one']",0,192,19
+"['Hypothetical', 'more']",0,191,21
+"['1', '2']",0,192,124
+"['W.', 'Lloyd', 'David']",0,104,0
+"['Personalization', '!']",0,114,0
+"['In', 'Depth']",0,158,6
+"['4', 'Analysis']",0,180,7
+"['my', 'Explore']",1,2,142
+"['Please', 'shall']",1,0,129
+"['night', 'eternal']",1,0,104
+"[""n't"", 'do', 'AI']",0,103,0
+['as'],1,63,191
+[' '],0,167,27
+['   '],0,156,18
+['                   '],0,138,9
+['Book'],0,146,14
+"['|-----------------------|---------------------------------------------------------|-------------------------------------------------------------|', '            ']",0,86,0
+"['Diaries', 'TV']",0,52,0
+['\n  '],0,191,77
+"['Website', 'Official']",1,6,29
+['existence'],1,29,160
+"['Pointe', 'Lac', 'du']",1,0,29
+['           '],0,131,9
+"['Queen', 'Damned']",1,6,34
+['profound'],1,5,119
+"['|', '                     ']",0,132,13
+['provide'],0,127,10
+['centuries'],1,4,112
+['  '],0,137,20
+"['Anne', 'Rice', 'Vampire']",1,69,174
+"['Vampire', 'vampire']",1,94,136
+['mortal'],1,11,118
+"['Elizabeth', 'Kostova', 'Historian']",1,0,22
+['or'],0,192,102
+['e.g.'],0,169,57
+"['ones', 'loved']",1,0,23
+['                       '],0,106,7
+"['Select', 'above']",0,24,0
+"['scenario', 'hypothetical']",0,56,5
+['that'],1,109,192
+['3'],0,192,110
+"['Rebecca', 'Skloot', 'Henrietta', 'Lacks']",1,0,18
+['):'],0,188,99
+"['|', '             ']",0,158,55
+['complexities'],1,2,87
+"['AI', 'assistant']",0,58,1
+['                    '],0,85,3
+['shadows'],1,2,82
+['me'],1,8,97
+"['fall', 'rise']",1,1,19
+"['different', 'topic']",0,32,0
+['         '],0,131,31
+['complex'],1,4,85
+['As'],1,82,175
+['own'],1,1,75
+['probes'],1,0,70
+['My'],1,16,107
+['                '],0,84,5
+['Insights'],0,167,73
+['Detailed'],0,94,10
+"['Friedrich', 'Nietzsche']",1,0,13
+['No'],0,88,8
+"['Personalized', 'please', 'To', 'respond']",0,138,0
+['Louis'],1,4,78
+['                           '],0,74,3
+['insights'],0,101,16
+"['May', 'even']",1,0,60
+['Reflection'],1,42,135
+"['John', 'Polidoro']",0,20,0
+['between'],1,5,78
+"['double', 'edged', 'sword']",1,0,17
+['Imagine'],1,0,62
+['Questions'],0,66,1
+['tailored'],0,66,1
+['Interview'],1,28,117
+['life'],1,32,121
+"['Chuck', 'Hogan', 'Guillermo', 'del', 'Toro', 'Strain']",1,0,16
+['darkness'],1,3,69
+['     '],0,107,23
+['heart'],1,1,62
+['world'],1,21,103
+['depths'],1,0,57
+['beauty'],1,7,76
+['our'],1,11,84
+['\n    '],0,73,6
+"[""'m""]",0,62,2
+"['entertainment', 'Remember']",0,21,0
+['For'],0,110,30
+['reminder'],1,3,62
+"['neutral', '!']",0,43,0
+"['delicate', 'balance']",1,0,18
+['        '],0,92,19
+['weight'],1,3,60
+['                      '],0,74,9
+"['World', 'Building']",0,40,1
+['itself'],1,1,52
+['Since'],0,63,5
+"['Eckhart', 'Tolle', 'Now']",0,9,0
+"['Writer', 'Journey']",0,14,0
+['Specific'],0,77,13
+['yet'],1,7,65
+['often'],1,5,60
+"['philosophical', 'profoundly']",0,32,0
+['imaginative'],0,44,0
+['immortality'],1,15,79
+"['exploring', 'series']",0,25,0
+['all'],1,6,60
+['light'],1,1,46
+['Centuries'],1,4,54
+['Description'],0,63,8
+['Interest'],0,45,1
+['connection'],1,10,67
+['intricate'],1,0,41
+"['reference', 'seems']",0,16,0
+['                               '],0,44,1
+['soul'],1,1,44
+['has'],1,1,44
+"['game', 'Game']",0,14,0
+"['every', 'cherish', 'moment']",1,0,16
+['personal'],0,87,23
+"['Years', 'Early']",1,1,20
+['Immortal'],1,15,74
+"['recognized', 'widely']",0,11,0
+['both'],1,1,43
+['mortals'],1,2,46
+"['Creative', 'Writing']",0,19,6
+"['Information', 'Awaiting', '                         ', '...']",0,191,0
+['Strategies'],0,68,12
+['                                     '],0,73,15
+"['Deeper', 'Delve', 'my']",1,0,36
+['tapestry'],1,2,45
+['us'],1,1,41
+['kind'],1,4,49
+['Discussion'],1,27,89
+"['very', 'essence']",1,0,20
+"['deeper', 'dive']",0,26,5
+['response'],0,83,23
+"['Ray', 'Kurzweil', 'Singularity']",0,7,0
+"['Scott', 'Bell', 'James']",0,7,0
+"['Double', 'Edged']",1,0,7
+"['Thus', 'Spoke', 'Zarathustra']",1,0,7
+"['Victor', 'Frankl', 'Meaning', 'Man', 'Search']",0,11,0
+"['engage', 'discussion']",0,17,0
+['story'],1,6,52
+['                                   '],0,54,7
+['within'],1,10,60
+['nature'],1,25,84
+['inspire'],1,3,44
+"['Blood', 'Consumption']",0,15,4
+['illuminate'],1,0,34
+['their'],1,4,46
+['fleeting'],1,4,46
+['understanding'],1,6,50
+['lies'],1,0,33
+"['Format', '                                                ', 'based', 'example']",0,188,0
+['journey'],1,5,47
+['forever'],1,3,42
+"['context', 'provided', 'Please', 'Context']",0,24,5
+"['dance', 'eternal']",1,0,33
+"['seminal', 'novel']",0,15,1
+['connections'],1,5,46
+['though'],1,1,35
+['find'],1,1,35
+"['Clarification', 'Provide']",0,19,2
+['assist'],0,31,0
+['Immortality'],1,36,94
+['assuming'],0,40,3
+"['Chronicles', 'lore']",0,59,18
+"['1', '4', '5']",0,59,24
+['Mortal'],1,16,65
+['depth'],1,15,63
+['digital'],0,33,1
+['silence'],1,2,36
+['love'],1,10,53
+['                 '],0,71,21
+['reflecting'],1,1,32
+['reflect'],1,4,40
+['       '],0,69,20
+"['3.0', 'Max', 'Tegmark', 'User', 'future']",0,7,0
+['delve'],1,5,42
+['Scientific'],0,37,3
+['eternity'],1,3,37
+"['mythical', 'creatures']",0,10,0
+"['realm', 'delves']",0,49,12
+"['delves', 'Lestat']",1,8,108
+['towards'],1,2,34
+['Reflective'],1,4,39
+"['|-----------------------|---------------------------------------------------------|', '            ']",0,23,0
+"['Wiki', 'Chronicles']",1,0,27
+"['century', '18th']",1,1,13
+['through'],1,21,69
+"['Modern', 'Era']",1,2,15
+['actions'],1,9,49
+['loss'],1,3,36
+"[""'ve""]",1,7,45
+['\n   '],1,36,89
+['specify'],0,26,0
+['offering'],1,0,26
+['sorrow'],1,0,26
+['Witnessing'],1,0,26
+"['Making', 'Decision']",0,11,1
+"['      ', '    ', 'Inquiry', '                             ', 'Response', '/', 'Question', 'Guidance', 'Details', 'Dive', '|-------------------|---------------------------------------------------------|----------------------------------------------------------------|', 'Relevant', '                                            ', 'Output', 'following', 'information']",0,192,0
+"['specific', 'book', 'generalized']",0,15,0
+"['book', 'Goodreads']",0,10,0
+"['Leave', 'Lasting']",0,9,1
+"['New', ':*', 'Action', 'Lestat', 'Transition', '---', 'Letter', 'Chosen', '’s', 'B', 'C', 'D']",1,0,192
+"['Problem', 'Solving']",0,7,0

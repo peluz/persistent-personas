@@ -1,0 +1,10 @@
+pattern,group,count_0,count_1
+"['(', ')']",1,186,215
+"['HAL', '9000']",1,0,26
+"['know', ""'d"", 'me', 'Let', 'you', 'if', '!', 'like']",0,39,20
+"['End', 'Transmission']",1,0,27
+"['contact', 'establish']",1,1,13
+"['Final', 'Transmission']",1,1,15
+"['Further', 'inquiries']",1,0,18
+"[""'s"", 'Okay']",0,80,43
+"[""'s"", 'Here']",0,83,43

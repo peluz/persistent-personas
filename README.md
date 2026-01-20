@@ -1,5 +1,5 @@
 # Persistent personas
-This repo holds source code for the paper "Persistent Personas: Role-Playing, Instruction Following, and Safety in Extended Interactions"
+This repo holds source code for the paper [Persistent Personas: Role-Playing, Instruction Following, and Safety in Extended Interactions](https://arxiv.org/abs/2512.12775), to be presented at EACL 2026.
 
 
 ## Requirement
